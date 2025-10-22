@@ -122,3 +122,7 @@ European Media Freedom Act
 This information is published pursuant to Article 18(2) of the [European Media Freedom Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/new-push-european-democracy/protecting-democracy/european-media-freedom-act) (Regulation (EU) 2024/1083, EMFA). The self-declarations listed below have been provided by Media Service Providers under the procedure set out in Article 18(1) EMFA. Publication of this information does not indicate acceptance of the declaration by YouTube, nor should it be understood as an endorsement of the listed organizations. The content of these declarations remains the sole responsibility of the respective media service providers.
 
 [Self-declare as a media service provider](https://support.google.com/youtube/contact/EMFA_MSP) under Article 18(1) of the European Media Freedom Act.
+
+| Channel Name | National Regulatory Authority |
+| --- | --- |
+| orfkontext | Kommunikationsbehörde Austria |

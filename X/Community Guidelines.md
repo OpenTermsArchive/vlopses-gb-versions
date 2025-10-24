@@ -3247,3 +3247,271 @@ Availability of coverage: Everyday people play a crucial role in providing first
 #### Share this article
 
 Post
+
+- - -
+
+X Media Literacy Action Plan
+============================
+
+X is a real-time global information service with the mission to serve the public conversation and help ensure the freedom of expression and access to information of its users. X employs a multi-faceted approach to support media literacy. Our approach includes refining rules and policies, offering tools and functionalities that support media literacy, and providing resources to help users develop media literacy skills. 
+
+This plan is published in accordance with Section 17.1 under Ireland’s Online Safety Code.
+
+X Measures To Promote Media Literacy
+------------------------------------
+
+A. The X Help Center
+--------------------
+
+The [X Help Center](https://help.x.com/) is a comprehensive online resource designed to empower users with the tools, information, educational resources, and guidance needed to help navigate the X platform effectively and responsibly.
+
+B. X's Rules and Policies
+-------------------------
+
+General
+-------
+
+X’s [Rules and Policies](https://help.x.com/rules-and-policies/x-rules) are designed to promote a safe and healthy environment for public conversation. The policies cover various areas, including but not limited to safety, privacy, authenticity, and platform integrity.
+
+Advertising Policies
+--------------------
+
+X developed the [X Ads policies](https://business.x.com/help/ads-policies), which promote transparency, restrict misleading content, and encourage critical evaluation of ads. Users are also provided with an in-app tool directly accessible from the relevant ad, providing information on why they are seeing the ad. More information can be found on the [How X Ads work](https://business.x.com/help/troubleshooting/how-x-ads-work) help page.
+
+Inauthentic Activities and Misleading Content
+---------------------------------------------
+
+X’s [Authenticity policy](https://help.x.com/rules-and-policies/authenticity) aims to foster genuine interactions, safeguard the integrity of public conversation, and maintain user trust. This policy provides clear guidance and tools to enhance media literacy. 
+
+X further addresses misleading content through [Community Notes](https://communitynotes.x.com/guide/about/introduction), a crowdsourced fact-checking feature that allows contributors to add contextual notes to posts, providing additional information or corrections. More information can be found on the [About Community Notes on X](https://help.x.com/using-x/community-notes#:~:text=Community%20Notes%20aim%20to%20create,publicly%20shown%20on%20a%20post.) help page.
+
+X's Enforcement Philosophy
+--------------------------
+
+Our enforcement principles are grounded in human rights, taking a holistic approach towards freedom of expression by developing a broad range of remediations, with a particular focus on education, rehabilitation, and deterrence. More information can be found on [Our approach to policy development and enforcement philosophy](https://help.x.com/rules-and-policies/enforcement-philosophy) and [Our range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) help pages. Our [Global Transparency Report](https://transparency.x.com/) covers a broad array of content moderation efforts in line with our enforcement philosophy. 
+
+C. User Empowerment Tools and Features
+--------------------------------------
+
+Algorithm Transparency and User Control
+---------------------------------------
+
+X is committed to providing greater transparency and increasing users’ awareness about the content users see on our Platform. More information can be found on the [Recommender Systems](https://help.x.com/resources/recommender-systems) help page. In addition, X provides users with a variety of tools to manage and control their online experience on our Platform. More information can be found on [Our approach to recommendations](https://help.x.com/rules-and-policies/recommendations) help page.
+
+Reporting and Flagging Mechanisms
+---------------------------------
+
+X makes available easy-to-use and easily accessible reporting channels to report both content and accounts that violate X’s Rules and Policies, as well as potentially illegal content. Several education resources available on the Help Center clearly explain how to report and flag content, including the [Report violations](https://help.x.com/rules-and-policies/x-report-violation) and [Reporting content in the EU](https://help.x.com/forms/dsa/report) help pages.
+
+Content Labels
+--------------
+
+Content labels are valuable tools to allow for informed decision-making by users on whether to engage with content. 
+
+*   **Sensitive content labels**: X applies warning labels for sensitive content, which require users who have chosen in their settings to not see sensitive content to click through an interstitial to view it. 
+    
+*   **Restricted reach labels:** Where appropriate, X will restrict the reach of posts by making the post less discoverable on X. Users will see a visible label on these posts. 
+    
+
+Checkmarks and Profile Labels
+-----------------------------
+
+At X, checkmarks and labels distinguish different types of accounts, like the grey checkmark denoting government or multilateral organizations or officials. These labels support our core value of transparency. Detailed information can be found on the [About profile labels and checkmarks](https://help.x.com/rules-and-policies/profile-labels) help page.
+
+#### Share this article
+
+Post
+
+- - -
+
+Information for Parents and Minor Users in the UK
+=================================================
+
+X, as a service, is not primarily for children, but anyone above the age of 13 can sign up for the service. We recognise that minors are a more vulnerable group by virtue of their age. The [X Rules](https://help.x.com/rules-and-policies/x-rules) enable minors to participate in the public conversation freely and safely, and minors should rely on the X Rules (and report to X) in order to protect themselves.
+
+For minors under the age of 18 who sign up for X in the UK, we have measures in place to make sure their experience using the platform is safe and secure. Here are some key safety and privacy features we have in place:  
+
+*   X’s policies set the minimum age to use the service at 13. X automatically offboards anyone who does not meet our age requirements. 
+*   Accounts belonging to known minors (between 13 and 18 years old) will be defaulted to “Protected posts”. This means that known minors will receive a request when new people want to follow them (which they can approve or deny), that their posts will only be visible to their followers, and that their posts will only be searchable by them and their followers (i.e. they will not appear in public searches). Furthermore, once these accounts enter a date of birth that makes them under the age of 18, they will be stopped from re-entering a new date of birth. Please note that if an account is set to "public posts," posts from that account may be used for training Grok. To learn more about Grok including how to control whether an account's data is used for Grok training please see [here](https://help.x.com/using-x/about-grok).
+*   Accounts belonging to known minors will be [restricted to receiving DMs](https://help.x.com/using-x/direct-messages#receive) from accounts they follow by default.
+*   Accounts belonging to known minors will have their [precise location](https://help.x.com/safety-and-security/x-location-services-for-mobile) disabled.  
+*   Accounts belonging to known minors will not be shown ads and will have [ads personalization](https://help.x.com/safety-and-security/privacy-controls-for-tailored-ads) disabled.
+*   X applies restrictions to its [recommender system](https://help.x.com/rules-and-policies/recommendations) by making certain categories of potentially harmful content ineligible for inclusion. Beginning on 1 November 2024, accounts belonging to known minors in the UK can opt to only receive recommendations of posts from accounts that they follow.  
+*   While X permits certain types of sensitive media - including consensually produced and shared adult pornography, we restrict known minors from [accessing such media](https://help.x.com/rules-and-policies/notices-on-x). 
+*   Users can block accounts instantly if they do not want to see those accounts' posts. Users can also mute an account if they don't want to see their posts but don't want to unfollow the account.
+*   Users can choose who will be able to reply to their posts when posted. The default position is that everyone can reply but options are available to turn off all replies or only allow the accounts mentioned in the post to reply. A user can also change who can reply to their posts, or turn off replies, after the post has been posted. 
+*   X allows users to report other users who they believe are under the age of 13. X has set up a dedicated [reporting form](https://help.x.com/forms/safety-and-sensitive-content/underage-user) to permit any user to report an account that they suspect is being used by a minor under the age of 13.
+*   X has a [policy](https://help.x.com/rules-and-policies/glorifying-self-harm) prohibiting users from promoting or encouraging suicide or self-harm. When someone searches for terms associated with suicide or self harm, the top search result is a notification encouraging them to reach out for help. 
+*   X also prohibits knowingly marketing or advertising certain products and services to minors as detailed in the following policy: [Prohibited advertising content for minors](https://business.x.com/en/help/ads-policies/ads-content-policies/prohibited-content-for-minors). This policy applies to monetization on X and X’s paid advertising products, and advertisements containing age-inappropriate content will be tagged as “not family safe” and will be restricted from being shown to users under the age of 21. If an account does not have a date of birth associated with it, X infers the user’s age based on their interactions with the site.
+
+Further Information
+-------------------
+
+In addition, you can find the following resources to keep your child’s account and experience on X safe, secure and welcoming:
+
+*   [Staying safe on X](https://help.x.com/forms/safety-and-sensitive-content/underage-user/x) 
+*   [How to protect your personal information](https://help.x.com/safety-and-security/x-privacy-settings)
+*   [General information on safety and security related to your X account](https://help.x.com/safety-and-security) 
+    
+*   [Information on what content is permitted, prohibited and/or restricted under our Rules](https://help.x.com/rules-and-policies)
+    
+*   [How to report violation of X’s Rules](https://help.x.com/rules-and-policies/x-report-violation)
+    
+*   [About parental consent on X](https://help.x.com/using-x/parental-consent)
+    
+
+*   [X account restoration](https://help.x.com/managing-your-account/account-restoration)
+*   [Age assurance on X](https://help.x.com/rules-and-policies/age-assurance)
+
+We suggest staying informed about [account safety and security](https://help.x.com/safety-and-security), safeguarding your privacy, avoiding spam and scams, and consider [controlling what you see](https://help.x.com/safety-and-security/control-your-x-experience). Our Help Center provides answers to the most [common questions](https://help.x.com/); but if you need account support, submitting a [support form](https://help.x.com/forms) ensures your request is routed to the appropriate team. You can always [appeal](https://help.x.com/forms/account-access/appeals) an enforcement decision.   
+
+**NOTE:** Informational resources available on our [Help Center](https://help.x.com/) are not intended for law enforcement use and such requests should be directed to X's Legal Request Submission site, available at [t.co/lr](https://legalrequests.x.com/forms/landing_disclaimer) or [legalrequests.x.com](https://legalrequests.x.com/forms/landing_disclaimer).  
+
+#### Share this article
+
+Post
+
+- - -
+
+United Kingdom Online Safety Information
+========================================
+
+Information from X
+------------------
+
+Our [Rules](https://help.x.com/rules-and-policies/x-rules) are to ensure all people can participate in the public conversation freely and safely. 
+
+We have a [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options), which we take to reduce the risk of harm to our users, in a proportionate manner. Users can also appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/forms/account-access/appeals.html).
+
+X is a place to share ideas and information, connect with your communities, and see the world around you. In order to protect the very best parts of that experience, we provide tools designed to help you control what you see and what others can see about you, so that you can express yourself on X with confidence and to make sure your experience using the X platform is safe and secure. Please refer to this [link](https://help.x.com/safety-and-security/control-your-x-experience) for further information.
+
+We suggest staying informed about [account safety and security](https://help.x.com/safety-and-security), safeguarding your privacy, avoiding spam and scams, and consider [controlling what you see](https://help.x.com/safety-and-security/control-your-x-experience). Our Help Center provides answers to the most [common questions](https://help.x.com/); but if you need account support, submitting a [support form](https://help.x.com/forms) ensures your request is routed to the appropriate team.
+
+Content moderation practices
+----------------------------
+
+Our content moderation systems are designed and tailored to protect users without unnecessarily restricting the use of our service and fundamental rights, especially freedom of expression. Content moderation activities are implemented and anchored on principled policies and leverage a diverse set of interventions to ensure that our actions are reasonable, proportionate and effective. Our content moderation systems blend automated and human review paired with a robust reporting and appeals system that enables our users to quickly raise potential moderation anomalies or mistakes.
+
+To enforce our Rules, we use a combination of machine learning and human review. Our systems are able to surface content to human moderators who use important context to make decisions about potential violations. This work is led by an international, cross-functional team with 24-hour coverage and the ability to cover multiple languages. We also have a complaints process for any potential errors that may occur.
+
+Automated content enforcement
+-----------------------------
+
+X employs a combination of heuristics and machine learning algorithms to automatically detect content that we believe violates the [X Rules](https://help.x.com/rules-and-policies/x-rules) and policies enforced on our platform. We use combinations of natural language processing models, image processing models and other sophisticated machine learning methods to detect potentially violative content. These machine learning models vary in complexity and in the outputs they produce. For example, the machine learning model used to detect abuse on the platform is trained on abuse violations detected in the past. Heuristics are simple rule-based models (patterns of behaviours, text, or keywords that may be typical of a certain category of violations), typically utilised to enable X to react quickly to new forms of violative behavior that emerge on the platform. Content flagged by machine learning models and heuristics are either reviewed by human content reviewers before an action is taken or, in some cases, automatically actioned, based on the measured historical accuracy of the specific method.
+
+User controls
+-------------
+
+To help you enjoy a safe experience on X, we provide tools designed to help you to control what you see, so that you can personalize your experience on X. We make it easy for you to take action on a post. Tap the … icon at the top of any post on your timeline to quickly access options like unfollow, mute, block, report, and more. 
+
+*   _Following and unfollowing:_ Users can choose to either see or stop seeing someone’s posts on their timeline.   
+    
+*   _Muting_: Users can mute an account if they do not want to see that account’s posts. 
+*   _Blocking_: Block is a feature that helps you control how you interact with other accounts on X. This feature helps people in restricting specific accounts from following, Direct Messaging, and engaging with them. 
+*   _Controlling replies:_ Users can choose who can reply to their posts. The default setting for public accounts is that anyone can reply, but options are available to turn off replies entirely (except for mentioned accounts), limit replies to verified accounts, or limit replies to accounts that the posting user follows. A user can adjust these settings when composing a post, with their adjustments affecting that individual post. To help minimise unwanted replies and improve meaningful conversations, users can also adjust who can reply to a post after the post has been shared. Learn more about conversations on X [here](https://help.x.com/using-x/x-conversations)_._ 
+*   _Reporting_: Users can report accounts or posts they think are in violation of the X Rules. More details can be found below.
+
+We also provide tools to help you decide what others can see about you. This includes but is not limited to our discoverability settings, sharing your location in posts, and media settings which allow you to mark your posts as containing sensitive content.
+
+Your rights
+-----------
+
+With hundreds of millions of posts posted every day around the world, our goal is to respect user expression, while also taking into consideration applicable local laws. 
+
+When we take enforcement actions, we may do so either on a specific piece of content (e.g., an individual Post or Direct Message), on an account, or employ a combination of these options. In some instances, this is because the behavior violates the X Rules. Other times, it may be in response to a valid legal request from an authorized entity, or a report from an affected UK person.
+
+You may also challenge an enforcement action we take by filing a lawsuit with a competent court.
+
+Information for parents and minors
+----------------------------------
+
+X, as a service, is not primarily for children, but anyone above the age of 13 can sign up for the service. We recognise that minors are a more vulnerable group by virtue of their age. 
+
+Learn more [here](https://help.x.com/rules-and-policies/uk-information-for-parents-and-minor-users) about information for parents and minor users in the UK. 
+
+Online Safety in the United Kingdom
+-----------------------------------
+
+The UK Online Safety Act 2023 (“the Act”) establishes standards and obligations designed to protect users from exposure to illegal content and harmful activities online. Under the Act, we are committed to handling complaints to ensure that illegal content is identified, reviewed and (if necessary) removed, thereby minimising the potential harmful impact on individuals. Our complaint-handling processes provide clear and accessible routes for reporting, enabling action through dedicated review mechanisms and takedown procedures.
+
+Information regarding Illegal Content
+-------------------------------------
+
+As part of illegal content duties under the Act, we will be restricting access to illegal content in the United Kingdom, namely: 
+
+*   Terrorist content
+    
+*   Child sexual exploitation and abuse
+    
+*   Encouraging or assisting self-harm
+    
+*   Encouraging or assisting suicide
+    
+*   Harassment, stalking, threats, and abuse, including hate offences
+    
+*   Drugs and psychoactive substances
+    
+*   Firearms and other weapons
+    
+*   Unlawful immigration
+    
+*   Human trafficking offences
+    
+*   Sexual exploitation of adults
+    
+*   Extreme pornography
+    
+*   Intimate image abuse
+    
+*   Cyberflashing
+    
+*   Fraud and other financial offences
+    
+*   Foreign interference offence
+    
+*   False communications
+    
+*   Animal welfare
+    
+*   Obscene content showing torture of humans and animals
+    
+*   Epilepsy trolling
+    
+
+All such material is prohibited on X in the United Kingdom
+----------------------------------------------------------
+
+​​You can report content in violation to X.
+
+Reporting Illegal Content in the United Kingdom
+-----------------------------------------------
+
+You can make a report or complaint about such material (“Illegal Content”) which is accessible on X in the United Kingdom, pursuant to the Online Safety Act (the “Act), by making a report to X through this [form](https://help.x.com/forms/osa/report).
+
+Reporting a Post, List or Direct Message
+----------------------------------------
+
+Learn more [here](https://help.x.com/rules-and-policies/x-report-violation#directly) about how you can submit a report or complaint about illegal content on a post, list or direct message.
+
+Reporting flow process
+----------------------
+
+Please complete all necessary information in the form, following the instructions, in order to submit the report. Upon submission, you will receive confirmation that your report was submitted. Your report will then be routed to the appropriate team and processed expeditiously. 
+
+In the case of a report about content that is illegal and/or that X is legally required to restrict under the law, if a violation is identified, X will notify the violating account about the enforcement action and their right to appeal. In most cases, you will be notified of the outcome of your report as soon as our team has all available information to make a final decision. X does not disclose information about the person who submitted the complaint.
+
+Appeal process
+--------------
+
+Users can appeal an Illegal Content Decision if they believe we made an error. They can do this through this [form](https://help.x.com/forms/osa/appeal).
+
+Withholding a post or account in a country
+------------------------------------------
+
+We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/rules-and-policies/tweet-withheld-by-country.html).
+
+**NOTE:** Informational resources available on our [Help Center](https://help.x.com/) are not intended for law enforcement use and such requests should be directed to X's Legal Request Submission site, available at [t.co/lr](https://legalrequests.x.com/forms/landing_disclaimer) or [legalrequests.x.com](https://legalrequests.x.com/forms/landing_disclaimer).
+
+#### Share this article
+
+Post

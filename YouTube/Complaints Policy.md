@@ -125,4 +125,14 @@ This information is published pursuant to Article 18(2) of the [European Media F
 
 | Channel Name | National Regulatory Authority |
 | --- | --- |
+| Le Grand Cactus-RTBF | Conseil Supérieur de l'Audiovisuel |
+| Les Niouzz | Conseil Supérieur de l'Audiovisuel |
+| RTBF Archives | Conseil Supérieur de l'Audiovisuel |
+| RTBF Info | Conseil Supérieur de l'Audiovisuel |
+| RTBF iXPé | Conseil Supérieur de l'Audiovisuel |
+| RTBFSport | Conseil Supérieur de l'Audiovisuel |
+| SPIT | Conseil Supérieur de l'Audiovisuel |
+| Tarmac | Conseil Supérieur de l'Audiovisuel |
+| Tipik-RTBF | Conseil Supérieur de l'Audiovisuel |
+| Vews-RTBF | Conseil Supérieur de l'Audiovisuel |
 | orfkontext | Kommunikationsbehörde Austria |

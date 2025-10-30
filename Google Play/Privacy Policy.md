@@ -141,7 +141,7 @@ Request permissions and APIs that access sensitive information to access data in
 
 * * *
 
-Restricted Permissions
+Restricted permissions
 ----------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**

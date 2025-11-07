@@ -700,16 +700,16 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What you should consider before submitting a report of intellectual property infringement to Facebook
 =====================================================================================================
 
-Before you submit a report, please consider whether the content you want to report may be a permissible use of your [copyright](https://www.facebook.com/help/337995452911154?helpref=faq_content) or [trademark](https://www.facebook.com/help/719682678205946?helpref=faq_content). If you're not sure whether the content you're reporting infringes your intellectual property rights (e.g. because it may be a fair use), you may want to seek legal guidance.
+Before you submit a report, please consider whether the content you want to report may be a permissible use of your [copyright](https://www.facebook.com/help/337995452911154?helpref=faq_content) or [trademark](https://www.facebook.com/help/719682678205946?helpref=faq_content). If you’re not sure whether the content you’re reporting infringes your intellectual property rights (example: because it may be a fair use), you may want to seek legal guidance.
 
 Please note that submitting a report of intellectual property infringement is a serious matter with potential legal consequences. Intentionally submitting misleading or otherwise fraudulent reports of copyright or trademark infringement may lead to Facebook taking action, including termination of your account.
 
-For copyright, it's important to note that intentionally submitting a misleading or fraudulent report may also lead to liability for damages under section 512(f) of the United States Digital Millennium Copyright Act (DMCA) or similar laws in other countries.
+For copyright, it’s important to note that intentionally submitting a misleading or fraudulent report may also lead to liability for damages under section 512(f) of the United States Digital Millennium Copyright Act (DMCA) or similar laws in other countries.
 
 Related Articles
 ----------------
@@ -1014,7 +1014,7 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What tools does Facebook provide to help me enforce my intellectual property rights in advertisements and sale posts?
 =====================================================================================================================
@@ -1028,13 +1028,11 @@ Related Articles
 
 [Does Facebook sell my information?](https://www.facebook.com/help/152637448140583/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
+[How can I make sure the content I post to Facebook doesn’t violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-[Using your Facebook information with other products](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
+[Data scraping and what can you do to protect your information on Facebook](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
-
-[Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
+[How can I make sure the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 Related Articles
 
@@ -1042,13 +1040,11 @@ Related Articles
 
 [Does Facebook sell my information?](https://www.facebook.com/help/152637448140583/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
+[How can I make sure the content I post to Facebook doesn’t violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-[Using your Facebook information with other products](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
+[Data scraping and what can you do to protect your information on Facebook](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
-
-[Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
+[How can I make sure the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 - - -
 
@@ -1293,39 +1289,39 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-How can I make sure that the content I post to Facebook doesn't violate copyright law?
-======================================================================================
+How can I make sure the content I post to Facebook doesn't violate copyright law?
+=================================================================================
 
-Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
+Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn’t violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn’t violate copyright law is to only post content that you’ve created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
 *   Bought or downloaded the content (for example, a song from iTunes)
-*   Recorded the content onto your own recording device (for example, a song playing in the background during a party, concert, sporting event or wedding)
+*   Recorded the content onto your own recording device (for example, a song playing in the background during a party, concert, sporting event, wedding, etc.)
 *   Gave credit to the copyright owner
-*   Included a disclaimer that you didn't intend to infringe copyright
-*   Didn't intend to profit from it
+*   Included a disclaimer that you didn’t intend to infringe copyright
+*   Didn’t intend to profit from it
 *   Modified the work or added your own original material to it
-*   Found the content available on the Internet
+*   Found the content available on the internet
 *   Saw that others posted the same content as well
 *   Think the use is a [fair use](https://www.facebook.com/help/337995452911154?helpref=search&query=fair+us&sr=1&ref=contextual)
 
 Questions to ask before posting content
 ---------------------------------------
 
-*   Have I created all of the content myself?
+*   Did I create all of the content myself?
 *   Do I have permission to use all of the content included in my post?
 *   Does my use of the content fall within an [exception to copyright infringement](https://www.facebook.com/help/337995452911154?helpref=faq_content)?
 *   Is the content protected by copyright (for example, is it a short phrase, idea or public domain work?)
 
-It's generally a good idea to get written permission from the author of the work before posting content on Facebook. You might be able to use someone else's content on Facebook if you've received permission from them, for example by obtaining a licence. You may also be able to use someone else's content if it's in the public domain, is covered by fair use or there is another exception to copyright.
+It’s generally a good idea to get written permission from the author of the work before posting content on Facebook. You might be able to use someone else’s content on Facebook if you’ve gotten permission from them, such as through obtaining a license. You also may be able to use someone else's content if it's in the public domain, is covered by fair use, or there is another exception to copyright.
 
 Learn more about [copyright and what copyright laws protect](https://www.facebook.com/help/1020633957973118?helpref=faq_content).
 
-Related articles
+Related Articles
 ----------------
 
-[How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
+[How can I make sure the content I post to Facebook doesn’t violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
 [How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
 
@@ -1335,9 +1331,9 @@ Related articles
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-Related articles
+Related Articles
 
-[How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
+[How can I make sure the content I post to Facebook doesn’t violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
 [How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
 
@@ -1350,42 +1346,42 @@ Related articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-What are fair use and other exceptions to copyright?
-====================================================
+What are fair use and other exceptions to copyright
+===================================================
 
-Laws across the globe recognise that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
+Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
-The United States and some other countries follow the "fair use" doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else's copyrighted work within the limits set by the law.
+The United States and some other countries follow the “fair use” doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else’s copyrighted work within the limits set by the law.
 
-**Fair use**
+**Fair Use**
 
-Though it can be difficult to know whether a particular use of copyrighted work is a fair use, the law offers some factors that you can consider:
+Though it can be difficult to know whether a particular use of copyrighted work is a fair use, the law offers some factors you can consider:
 
-1.  **The purpose and character of the use, including whether such use is of a commercial nature or is for charity educational purposes:**
+1.  **The purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes:**
     
-    Does the use transform or change the original work by adding new meaning, context or expression? For example, using a fashion photograph to discuss the amount of photo editing used in the photograph is more likely to be fair use than simply posting the photograph without comment. Parodies may be fair use if they imitate a work in a way that criticises or comments on the original work.
+    Does the use transform or change the original work by adding new meaning, context or expression? For example, using a fashion photograph to discuss the amount of photo editing used in the photograph is more likely to be fair use than simply posting the photograph without comment. Parodies may be fair use if they imitate a work in a way that criticizes or comments on the original work.
     
-    Is the use commercial or purely personal? Commercial or for-profit uses are less likely to be considered fair use.
+    Is the use commercial or purely personal? Commercial, or for-profit uses are less likely to be considered fair use.
 2.  **The nature of the copyrighted work:**
     
-    The use of factual works like maps or databases is more likely to be fair use than the use of highly creative works like poems or science-fiction films.
+    The use of factual works like maps or databases is more likely to be fair use than the use of highly creative works like poems or science-fiction movies.
     
 3.  **The amount and substance of the portion used in relation to the copyrighted work as a whole:**
     
-    The use of small portions of a copyrighted work is more likely to be fair use than copying an entire work. But even if only a small portion is used, it is less likely to be fair use if that portion used is the most important piece – the "heart" of the work.
+    The use of small portions of a copyrighted work is more likely to be fair use than copying an entire work. But even if only a small portion is used, it is less likely to be fair use if that portion used is the most important piece — the “heart” of the work.
     
 4.  **The effect of the use upon the potential market for or value of the copyrighted work:**
     
     Will the use replace the original work such that people stop buying or viewing the copyrighted work? If so, this is less likely to be fair use.
     
 
-To learn more about fair use in the US, you can visit the [US Copyright Office Fair Use Index](https://l.facebook.com/l.php?u=http%3A%2F%2Fcopyright.gov%2Ffair-use).
+To learn more about fair use in the U.S., you can visit the [U.S. Copyright Office Fair Use Index](https://l.facebook.com/l.php?u=http%3A%2F%2Fcopyright.gov%2Ffair-use).
 
-**Exceptions to copyright**
+**Exceptions to Copyright**
 
-The application of exceptions and limitations to copyright may vary from country to country. Generally, in countries that rely on exceptions and limitations, the use of copyrighted works should not unreasonably harm a rights holder's interests.
+The application of exceptions and limitations to copyright may vary from country to country. Generally, in countries that rely on exceptions and limitations, the use of copyrighted works should not unreasonably harm a rights holder’s interests.
 
 In the EU, each Member State must ensure that users are able to rely on the following exceptions when making content available: quotation, criticism, review, caricature, parody or pastiche. To learn more about copyright law in the EU, you can visit the [EUIPO website](https://l.facebook.com/l.php?u=https%3A%2F%2Feuipo.europa.eu%2Fohimportal%2Fen%2Fweb%2Fobservatory%2Ffaqs-on-copyright).
 
@@ -1400,7 +1396,7 @@ Related Articles
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 Related Articles
 
@@ -1412,7 +1408,7 @@ Related Articles
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 - - -
 

@@ -117,24 +117,24 @@ The difference between copyright and trademark
 Trademark and Posting Content on Instagram
 ------------------------------------------
 
-How to make sure that the content you post to Instagram or Threads don't violate trademark law
+How to make sure the content you post to Instagram or Threads don't violate trademark law
 
-Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?
+Content I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?
 
-What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights
+What happens if you repeatedly post content on Instagram or Threads that violates someone else’s intellectual property rights
 
 Reporting Trademark Infringement on Instagram
 ---------------------------------------------
 
 How to report trademark infringement on Instagram or Threads
 
-Can I report an infringement of someone else's intellectual property on Instagram or Threads?
+Can I report an infringement of someone else’s intellectual property on Instagram or Threads?
 
 How to report a username on Instagram or Threads for infringing my trademark
 
 What to consider before submitting an intellectual property infringement report to Instagram or Threads
 
-Information that you need to include in a trademark report on Instagram or Threads
+Information you need to include in a trademark report on Instagram or Threads
 
 What happens when you submit a trademark report to Instagram or Threads
 

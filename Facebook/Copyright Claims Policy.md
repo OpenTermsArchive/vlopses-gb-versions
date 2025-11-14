@@ -1,11 +1,11 @@
-Intellectual property
+Intellectual Property
 
 
 
 
 ---------------------------
 
-Intellectual property
+Intellectual Property
 
 
 
@@ -14,17 +14,17 @@ Intellectual property
 
 Copy link
 
-Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
+Facebook is committed to helping people and organizations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else’s intellectual property rights, including copyright and trademark.
 
 Copyright
 ---------
 
-Copyright is a legal right that seeks to protect original works of authorship (e.g. books, music, film, art). Generally, copyright protects original expression such as words or images. It does not protect facts and ideas, although it may protect the original words or images used to describe an idea. Copyright also doesn't protect things such as names, titles and slogans; however, another legal right called a [trademark](https://www.facebook.com/help/507663689427413?helpref=about_content) might protect those. Learn more about [reporting copyright violations](https://www.facebook.com/help/1020633957973118?helpref=about_content).
+Copyright is a legal right that seeks to protect original works of authorship (example: books, music, film, art). Generally, copyright protects original expression such as words or images. It does not protect facts and ideas, although it may protect the original words or images used to describe an idea. Copyright also doesn’t protect things like names, titles and slogans; however, another legal right called a [trademark](https://www.facebook.com/help/507663689427413?helpref=about_content) might protect those. Learn more about [reporting copyright violations](https://www.facebook.com/help/1020633957973118?helpref=about_content).
 
 Trademark
 ---------
 
-A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that distinguishes the products or services offered by one person, group or company from another. Generally, trademark law seeks to prevent confusion among consumers about who provides or is affiliated with a product or service. Learn more about [reporting trademark violations](https://www.facebook.com/help/507663689427413?helpref=about_content).
+A trademark is a word, slogan, symbol or design (example: brand name, logo) that distinguishes the products or services offered by one person, group or company from another. Generally, trademark law seeks to prevent confusion among consumers about who provides or is affiliated with a product or service. Learn more about [reporting trademark violations](https://www.facebook.com/help/507663689427413?helpref=about_content).
 
   
 
@@ -1578,45 +1578,45 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 How does Meta process United States Digital Millennium Copyright Act (DMCA) counter-notifications?
 ==================================================================================================
 
-Meta complies with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating US copyrights.
+Meta complies with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
-If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the message that we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
+If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the message we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
 
 When we receive a valid DMCA counter-notification, we forward it to the party that reported the content. The information they receive includes your contact information, which they can use to contact you.
 
-If we provide your counter-notification to the party that reported the content, and they don't notify us that they have filed a court action seeking an order to keep the content down, we will restore or cease disabling eligible content under the DMCA. This process can take up to 14 working days. Please note, in rare instances, we may not be able to restore content because of technical limitations. If this happens, we'll send you an update letting you know you may repost the content at your discretion.
+If we provide your counter-notification to the party that reported the content, and they don't notify us that they have filed a court action seeking an order to keep the content down, we will restore or cease disabling eligible content under the DMCA. This process can take up to 14 business days. Please note, in rare instances, we may not be able to restore content due to technical limitations. If this happens, we’ll send you an update letting you know you may repost the content at your discretion.
 
-Content that is restored based on a valid DMCA counter-notification will not be counted against you under our [Repeat Infringer policy](https://www.facebook.com/help/350712395302528?helpref=faq_content).
+Content that is restored based on a valid DMCA counter-notification will not be counted against you under our [repeat infringer policy](https://www.facebook.com/help/350712395302528?helpref=faq_content).
 
 Related Articles
 ----------------
 
 [How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent?](https://www.facebook.com/help/190268144407210/?helpref=related_articles)
 
+[About E-Invoicing for Taiwan](https://www.facebook.com/help/210051233703663/?helpref=related_articles)
+
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 [Japan Information Distribution Platform (Measurement) Act](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
 [How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
-
-[How Meta tracks media service providers under the European Media Freedom Act](https://www.facebook.com/help/3643031732657808/?helpref=related_articles)
 
 Related Articles
 
 [How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent?](https://www.facebook.com/help/190268144407210/?helpref=related_articles)
 
+[About E-Invoicing for Taiwan](https://www.facebook.com/help/210051233703663/?helpref=related_articles)
+
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 [Japan Information Distribution Platform (Measurement) Act](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
 [How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
-
-[How Meta tracks media service providers under the European Media Freedom Act](https://www.facebook.com/help/3643031732657808/?helpref=related_articles)
 
 - - -
 

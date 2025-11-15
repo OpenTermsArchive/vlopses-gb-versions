@@ -363,7 +363,7 @@ Content that is restored based on an effective DMCA counter-notification will no
 
 - - -
 
-*   [Privacy, Security and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
+*   [Privacy and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
 *   [Report something on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
 
 Report copyright infringement on Instagram or Threads
@@ -430,7 +430,7 @@ Please keep in mind that if you submit a report to our designated agent by any m
 
 - - -
 
-*   [Privacy, Security and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
+*   [Privacy and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
 *   [Report something on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
 
 Information you need to include in a copyright report to Instagram or Threads
@@ -453,7 +453,7 @@ The fastest and easiest way to submit a claim of copyright infringement to us is
 
 - - -
 
-*   [Privacy, Security and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
+*   [Privacy and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
 *   [Report something on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
 
 Instagram or Threads removed content as a result of your copyright report. What information is sent to the person who posted that content
@@ -484,7 +484,7 @@ Go back
 
 - - -
 
-*   [Privacy, Security and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
+*   [Privacy and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
 *   [Report something on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
 
 What happens when you submit a copyright report to Instagram or Threads
@@ -697,7 +697,7 @@ If you believe that a username infringes your trademark rights, you may want to 
 
 - - -
 
-*   [Privacy, Security and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
+*   [Privacy and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
 *   [Report something on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
 
 Information you need to include in a copyright report to Instagram or Threads
@@ -826,7 +826,7 @@ The fastest and easiest way to submit a [report of trademark infringement](https
 
 - - -
 
-*   [Privacy, Security and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
+*   [Privacy and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
 *   [Report something on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
 
 What happens when you submit a trademark report to Instagram or Threads
@@ -859,7 +859,7 @@ Once we receive notice that you’d like to withdraw your report, we’ll restor
 
 - - -
 
-*   [Privacy, Security and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
+*   [Privacy and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
 *   [Report something on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
 
 Instagram or Threads removed content as a result of your trademark report. What information is sent to the person who posted that content

@@ -308,14 +308,14 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What is a counterfeit?
 ======================
 
-A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
+A counterfeit good is a knock-off or replica version of another company's product. It usually copies the trademark (name or logo) and/or distinctive features of that other company's product to imitate a genuine product. The manufacture, promotion or sale of counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognised as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
-If you believe content on Facebook is selling or promoting counterfeit goods, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
+If you believe that content on Facebook is selling or promoting counterfeit goods, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
 
 Related Articles
 ----------------
@@ -328,7 +328,7 @@ Related Articles
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[How Instant Avatar AutoGen Open Beta Works (US)](https://www.facebook.com/help/1006804997317819/?helpref=related_articles)
+[Bii's Beauty](https://www.facebook.com/help/211926158839933/?helpref=related_articles)
 
 Related Articles
 
@@ -340,27 +340,27 @@ Related Articles
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[How Instant Avatar AutoGen Open Beta Works (US)](https://www.facebook.com/help/1006804997317819/?helpref=related_articles)
+[Bii's Beauty](https://www.facebook.com/help/211926158839933/?helpref=related_articles)
 
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Are there any limits to trademark rights?
 =========================================
 
-Not all uses of a trademark without permission from the rights owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, that use is generally not considered infringing.
+Not all uses of a trademark without permission from the rights owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it's likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, that use is generally not considered infringing.
 
-Simply referring to a trademark for the purpose of discussing the product or service offered probably won’t be an infringing use of the trademark, as long as that reference doesn’t use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
+Simply referring to a trademark for the purpose of discussing the product or service offered probably won't be an infringing use of the trademark, as long as that reference doesn't use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
 
-And while these matters are very fact-specific, trademark rights also often don’t prevent:
+And while these matters are very fact-specific, often trademark rights also don't prevent:
 
-*   The resale of legitimate goods or selling legitimate goods through channels that are not authorized by the trademark owner
+*   The resale of legitimate goods or selling legitimate goods through channels that are not authorised by the trademark owner
 *   The use of a trademarked word in its ordinary dictionary meaning
 *   The use of a trademark in a way that is not related to the sale or promotion of products or services
 
-Trademark rights are generally limited to the geographic territory where the trademark owner uses the trademark to identify their goods or services. For example, if a trademark owner uses a trademark to refer to their restaurant in Country A, they likely won’t be able to prevent another person from using the same term to refer to their own restaurant in Country B.
+Trademark rights are generally limited to the geographic territory where the trademark owner uses the trademark to identify their goods or services. For example, if a trademark owner uses a trademark to refer to their restaurant in Country A, they likely won't be able to prevent another person from using the same term to refer to their own restaurant in Country B.
 
 Related Articles
 ----------------
@@ -369,9 +369,9 @@ Related Articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
@@ -381,9 +381,9 @@ Related Articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
@@ -795,14 +795,14 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What happens when I submit a trademark report to Meta?
 ======================================================
 
-If you submitted a [trademark report](https://www.facebook.com/help/191999230901156?helpref=faq_content) to us through our online form or via email, you’ll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
+If you submitted a [trademark report](https://www.facebook.com/help/191999230901156?helpref=faq_content) to us through our online form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
-Sometimes, we might respond to your report and ask for more information. If you receive a message from our team you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
+Sometimes, we might respond to your report and ask for more information. If you receive a message from our team, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
 
 Please note that we regularly provide the person who posted the content with the following information about your report:
 
@@ -1168,20 +1168,20 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 How do you know if you own the copyright in a work
 ==================================================
 
-In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright in that painting. Similarly, if you take a photo, you likely own the copyright in that photo.
+In general, the person who creates an original work owns the copyright. For example, if you create a painting, you are likely to own the copyright in that painting. Similarly, if you take a photo, you are likely to own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
 
-*   If you appear in a photo or video, that doesn’t necessarily mean you have a copyright in that photo or video ([learn more](https://www.facebook.com/help/327689333983073/?helpref=faq_content) about what to do If you think a photo or video on Facebook might violate your privacy.)
-*   If you take a photograph of a sculpture, that doesn’t mean you have the right to prevent someone else from also taking a photograph of the same sculpture.
-*   If you create a work as part of your regular job responsibilities, you might not be the owner of the copyright in that work. Instead, there are circumstances where the law will consider your employer to be the “author” of that work for copyright purposes.
+*   If you appear in a photo or video, that doesn't necessarily mean you have a copyright in that photo or video ([learn more](https://www.facebook.com/help/327689333983073/?helpref=faq_content) about what to do if you think a photo or video on Facebook might violate your privacy).
+*   If you take a photograph of a sculpture, that doesn't mean you have the right to prevent someone else from also taking a photograph of the same sculpture.
+*   If you create a work as part of your regular job responsibilities, you might not be the owner of the copyright in that work. Instead, there are circumstances where the law will consider your employer to be the "author" of that work for copyright purposes.
 
-If you’re not sure about the extent of your copyright in an original work, you may want to contact an attorney to advise you on your rights.
+If you're not sure about the extent of your copyright in an original work, you may want to contact an attorney to advise you on your rights.
 
 Related Articles
 ----------------
@@ -1190,11 +1190,11 @@ Related Articles
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
 Related Articles
 
@@ -1202,11 +1202,11 @@ Related Articles
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
 - - -
 

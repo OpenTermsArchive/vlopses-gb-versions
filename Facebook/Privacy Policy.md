@@ -304,7 +304,7 @@ We collect device information such as:
 
 13
 
-Identifiers we collect include device IDs, mobile advertiser ID or IDs from games, apps or accounts you use. We also collect Family device IDs or other identifiers unique to [Meta Company Products](https://www.facebook.com/legal/meta-company-products?entry_point=POLICY_ANNOTATION%3A1.ex.26-IdentifiersThatTellYour) associated with the same device or account.
+Identifiers we collect include device IDs, mobile advertiser ID or IDs from games, apps or accounts you use. We also collect Family device IDs or other identifiers unique to [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=dp&entry_point=POLICY_ANNOTATION%3A1.ex.26-IdentifiersThatTellYour) associated with the same device or account.
 
 14
 
@@ -464,7 +464,7 @@ How we use information to improve our Products
 
 We're always trying to make our Products better and create new ones with the features you want. Information we collect from you helps us learn how.
 
-We use information that we collect to:
+We use information we collect to:
 
 *   See if a product is working correctly
 *   Troubleshoot and fix it when it's not
@@ -1163,7 +1163,7 @@ Highlights
 *   We do this to make new features or shared experiences between different products.
 *   We also share information, such as your name and email address, to help verify your accounts and monitor suspicious activities. This helps us keep your accounts safe.
 
-We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/legal/meta-company-products?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) include all of the [Meta Products\[59\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A5-HowDoTheMeta#annotation-59) covered by this Policy, plus other products, such as WhatsApp and more.
+We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/help/195227921252400?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) include all of the [Meta Products\[59\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A5-HowDoTheMeta#annotation-59) covered by this Policy, plus other products, such as WhatsApp and more.
 
 We share the information that we collect, infrastructure, systems and technology with the other Meta Companies. [Learn more](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A5-HowDoTheMeta#9-HowDoWeTransfer) about how we transfer information to other countries.
 

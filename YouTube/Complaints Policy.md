@@ -131,6 +131,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | RTBF Info | Conseil Supérieur de l'Audiovisuel |
 | RTBF iXPé | Conseil Supérieur de l'Audiovisuel |
 | RTBFSport | Conseil Supérieur de l'Audiovisuel |
+| Rai | Autorità per le Garanzie nelle Comunicazioni (AGCOM) |
 | SPIT | Conseil Supérieur de l'Audiovisuel |
 | Tarmac | Conseil Supérieur de l'Audiovisuel |
 | Tipik-RTBF | Conseil Supérieur de l'Audiovisuel |

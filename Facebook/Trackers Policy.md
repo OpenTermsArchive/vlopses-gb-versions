@@ -1,111 +1,259 @@
-[...](https://mbasic.facebook.com/language/?n=%2Fcookie%2Fconsent_prompt%2F%3Fnext_uri%3Dhttps%253A%252F%252Fmbasic.facebook.com%252Fprivacy%252Fpolicies%252Fcookies)
+Cookies Policy
+==============
 
-Allow the use of cookies from Facebook in this browser?
+Explore the policy
+------------------
 
-We use cookies and similar technologies to help provide and improve content on [Meta Products](https://www.facebook.com/help/1561485474074139). We also use them to provide a safer experience by using information that we receive from cookies on and off Facebook, and to provide and improve Meta Products for people who have an account.
+[What are cookies, and what does this policy cover?
+--------------------------------------------------](#1)[Why do we use cookies?
+----------------------](#2)[Where do we use cookies?
+------------------------](#3)[Do other Companies use cookies in connection with the Meta Products?
+--------------------------------------------------------------------](#4)[How can you control your Information?
+-------------------------------------](#5)
 
-*   Essential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.
-*   Cookies from other companies: We use these cookies to show you ads off Meta Products and to provide features such as maps and videos on Meta Products. These cookies are optional.
+Other policies[Terms of Service
+----------------](https://mbasic.facebook.com/terms/)[Cookies Policy
+--------------](https://mbasic.facebook.com/policies/cookies/)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-You have control over the optional cookies that we use. Learn more about cookies and how we use them, and review or change your choices at any time in our [Cookies Policy](https://mbasic.facebook.com/privacy/policies/cookies/printable/).
+What are cookies, and what does this policy cover?
+==================================================
 
-About cookies
+Effective December 12, 2023 | [View printable version](https://mbasic.facebook.com/privacy/policies/cookies/printable/) | [See previous versions](https://mbasic.facebook.com/privacy/policies/cookies/?show_versions=1)
 
-What are cookies?
+Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
-Cookies are small pieces of text that are used to store and receive identifiers on a web browser. We use cookies and similar technologies to offer Meta Products and understand information that we receive about users, such as their activity on other websites and apps.
+We use cookies if you have a Facebook or Instagram account, use the [Meta Products](https://www.facebook.com/help/1561485474074139), including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 
-If you don't have an account, we don't use cookies to personalise ads for you, and activity that we receive will only be used for the security and integrity of our Products.
+This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the [Privacy Policy](https://www.facebook.com/privacy/policy) will apply to our processing of the data that we collect via cookies.
 
-Learn more about cookies and the similar technologies that we use in our [Cookies Policy](https://mbasic.facebook.com/privacy/policies/cookies/printable/).
+[Return to top](#)
 
 Why do we use cookies?
+======================
 
-Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience.
+Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. The cookies we [use and how we use them\[1\]](https://mbasic.facebook.com/privacy/policies/cookies?entry_point=POLICY_SECTION%3A1_why#annotation-1) may change over time as we improve and update Meta Products, we typically use them for the following purposes:
 
-While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
+Authentication
+--------------
 
-*   Authentication to keep users logged in
-*   To ensure security, site and product integrity
-*   To provide advertising, recommendations, insights and measurement, if we show you ads
-*   To provide site features and services
-*   To understand our Products' performance
-*   To enable analytics and research
-*   On third-party websites and apps to help companies that incorporate Meta technologies to share information with us about activity on their apps and websites.
+We use cookies to verify your account and determine when you’re logged in so that we can make it easier for you to access the Meta Products and show you the appropriate experience and features.
 
-Learn more about cookies and how we use them in our [Cookies Policy](https://mbasic.facebook.com/privacy/policies/cookies/printable/).
+*   For example: We use cookies to keep you logged in as you navigate between Facebook Pages. Cookies also help us remember your browser so you don't have to keep logging in to Facebook and so you can more easily log in to Facebook via third-party apps and websites. For example, we use the "c\_user" and "xs" cookies, including for this purpose, which have a lifespan of 365 days.
 
-What are Meta Products?
+Security, site and product integrity
+------------------------------------
 
-Meta Products include the Facebook, Instagram and Messenger apps, and any other features, apps, technologies, software or services offered by Meta under our Privacy Policy.
+We use cookies to help us keep your account, data and the Meta Products safe and secure.
 
-You can learn more about [Meta Products in our Privacy Policy](https://www.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis&entry_point=cookie_consent_modal_what_are_meta_products).
+*   For example: Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely, as well as “datr." "Datr" is a unique identifier for your browser that, amongst other things, helps us protect you from fraud. For example, it helps us identify trusted browsers where you have logged in before. “Datr” has a lifespan of 400 days.
 
-Your cookie choices
+We also use cookies to combat activity that violates our policies or otherwise degrades our ability to provide the Meta Products.
 
-You have control over optional cookies that we use:
+*   For example: Cookies help us fight spam and phishing attacks by enabling us to identify computers that are used to create large numbers of fake Facebook accounts. We also use cookies to detect computers infected with malware and to take steps to prevent them from causing further harm. Our "csrf" cookie, for example, helps us prevent cross-site request forgery attacks. The “datr” cookie also helps us to identify the browsers used by malicious actors and to prevent cyber-security attacks, such as a denial of service attack that could prevent you from accessing the Meta Products. Cookies also help us prevent underage people from registering for Facebook accounts.
 
-*   Our cookies on other apps and websites owned by companies that use Meta technologies, such as the Like button and Meta pixel, can be used to personalise your ads, if we show you ads.
-*   We use cookies from other companies to show you ads off Meta Products, and to provide features such as maps and video on Meta Products.
+Advertising, recommendations, insights and measurement
+------------------------------------------------------
 
-You can review or change your choices at any time in your cookies settings.
+We use cookies to help us show ads and to make recommendations for businesses and other organisations to people who may be interested in the products, services or causes they promote.
 
-Cookies from other companies
+*   For example: Cookies allow us to help deliver ads to people who have previously visited a business’s website, purchased its products or used its apps and to recommend products and services based on that activity. Cookies also allow us to limit the number of times that you see an ad so you don’t see the same ad over and over again. For example, the "fr" cookie is used to deliver, measure and improve the relevancy of ads, with a lifespan of 90 days.
 
-We use cookies from [other companies](https://www.facebook.com/privacy/policies/cookies/?annotations[0]=explanation%2F3_companies_list) in order to show you ads off our Products, and provide features such as maps, payment services and video.
+We also use cookies to help measure the performance of ad campaigns for businesses that use the Meta Products.
 
-How we use these cookies
+*   For example: We use cookies to count the number of times that an ad is shown and to calculate the cost of those ads. We also use cookies to measure how often people do things, such as make a purchase following an ad impression. For example, the "\_fbp" cookie identifies browsers for the purposes of providing advertising and site analytics services and has a lifespan of 90 days.
 
-We use cookies from other companies on our Products:
+Cookies help us serve and measure ads across different browsers and devices used by the same person.
 
-*   To show you ads about our Products and features on other companies' apps and websites.
-*   To provide features on our Products such as maps, payment services and video.
-*   For analytics.
+*   For example: We can use cookies to prevent you from seeing the same ad over and over again across the different devices that you use.
 
-If you allow these cookies
+Cookies also allow us to provide insights about the people who use the Meta Products, as well as the people who interact with the ads, websites and apps of our advertisers and the businesses that use the Meta Products.
 
-*   Features that you use on Meta Products will not be affected.
-*   We'll be able to better personalise ads for you off Meta Products, and measure their performance.
-*   Other companies will receive information about you by using their cookies.
+*   For example: We use cookies to help businesses understand the kinds of people who like their Facebook Page or use their apps so that they can provide more relevant content and develop features that are likely to be interesting to their customers.
 
-If you don't allow these cookies
+We also use cookies, such as our "oo" cookie, which has a lifespan of 400 days, to help you opt out of seeing ads from Meta based on your activity on third-party websites. [Learn more](https://www.facebook.com/help/769828729705201?ref=cookies&entry_point=POLICY_SUBPAGE%3Asubpage-1.3) about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
 
-*   Some features on our products may not work.
-*   We won't use cookies from other companies to personalise ads for you off Meta products, or measure their performance.
+Site features and services
+--------------------------
 
-Other ways that you can control your information
+We use cookies to enable the functionality that helps us provide the Meta Products.
 
-Manage your ad experience in Accounts Centre
+*   For example: Cookies help us store preferences, know when you’ve seen or interacted with Meta Products’ content and provide you with customised content and experiences. For instance, cookies allow us to make suggestions to you and others, and to customise content on third-party sites that integrate our social plugins. If you are a Facebook Page administrator, cookies allow you to switch between posting from your personal Facebook account and the Facebook Page. We use cookies such as the session-based "presence" cookie to support your use of Messenger chat windows.
 
-You can manage your ad experience by visiting the following settings.
+We also use cookies to help provide you with content relevant to your locale.
 
-Ad preferences
+*   For example: We store information in a cookie that is placed on your browser or device so that you will see the site in your preferred language.
 
-In your ad preferences, you can choose whether we show you ads and make choices about the information used to show you ads.
+Performance
+-----------
 
-Ad settings
+We use cookies to provide you with the best experience possible.
 
-If we show you ads, we use data that advertisers and other partners provide us with about your activity off Meta Company Products, including websites and apps, to show you better ads. You can control whether we use this data to show you ads in your [ad settings](https://www.facebook.com/settings/ads/).
+*   For example: Cookies help us route traffic between servers and understand how quickly Meta Products load for different people. Cookies also help us record the ratio and dimensions of your screen and windows and know whether you’ve enabled high-contrast mode, so that we can render our sites and apps correctly. For example, we set the "dpr" and "wd" cookies, each with a lifespan of 7 days, for purposes including to deliver an optimal experience for your device’s screen.
+
+Analytics and research
+----------------------
+
+We use cookies to better understand how people use the Meta Products so that we can improve them.
+
+*   For example: Cookies can help us understand how people use the Facebook service, analyse which parts of our Products people find most useful and engaging, and identify features that could be improved.
+
+Third-party websites and apps
+-----------------------------
+
+Our business partners may also choose to share information with Meta from cookies set in their own websites' domains, whether or not you have a Facebook or Instagram account or are logged in. Specifically, cookies named \_fbc or \_fbp may be set on the domain of the business partner whose site you're visiting. Unlike cookies that are set on Meta's own domains, these cookies aren’t accessible by Meta when you're on a site other than the one on which they were set, including when you are on one of our domains. They serve the same purposes as cookies set in Meta's own domain, which are to personalise content (including ads), measure ads, produce analytics and provide a safer experience, as set out in this Cookies Policy.
+
+1
+
+We've listed below cookies we commonly use and the common purposes for which we use these:
+
+| ### Cookie | ### Description | ### Lifespan |
+| --- | --- | --- |
+| c\_user; xs | We use these cookies to [authenticate](https://mbasic.facebook.com/privacy/policies/cookies?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses#subpage-1.1) you and keep you logged in as you navigate between Facebook Pages. | 365 days |
+| sb; dbln | These cookies help us to [identify your browser securely.](https://mbasic.facebook.com/privacy/policies/cookies?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses#subpage-1.2) | 400 days |
+| datr | This is a unique identifier for your browser that, among other things, [helps us protect you from fraud.](https://mbasic.facebook.com/privacy/policies/cookies?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses#subpage-1.2) This cookie also helps us to identify browsers used by malicious actors and to prevent cyber-security attacks. | 400 days |
+| csrf | This cookie helps us to [keep your account secure.](https://mbasic.facebook.com/privacy/policies/cookies?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses#subpage-1.2) | Session |
+| fr  | Depending on your choices, this cookie is used to [deliver, measure and improve the relevancy of ads.](https://mbasic.facebook.com/privacy/policies/cookies?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses#subpage-1.3) | 90 days |
+| \_fbp; \_fbc | These cookies identify browsers [for businesses using our Meta Products](https://mbasic.facebook.com/privacy/policies/cookies?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses#subpage-1.7) for the purposes of providing advertising and site analytics services. | 90 days |
+| oo  | This cookie helps store your [advertising preferences.](https://mbasic.facebook.com/privacy/policies/cookies?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses#subpage-1.3) | 400 days |
+| presence | This cookie [supports your use](https://mbasic.facebook.com/privacy/policies/cookies?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses#subpage-1.4) of Messenger chat windows. | 30 days |
+| dpr; wd | These cookies help [deliver an optimal experience](https://mbasic.facebook.com/privacy/policies/cookies?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses#subpage-1.5) for your device’s screen. | 7 days |
+
+[Return to top](#)
+
+Where do we use cookies?
+========================
+
+We may place cookies on your computer or device and receive information stored in cookies when you use or visit:
+
+*   The [Meta Products](https://www.facebook.com/help/1561485474074139?ref=cookies&entry_point=POLICY_SECTION%3A2_where);
+*   Products provided by other members of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=cookies&entry_point=POLICY_SECTION%3A2_where); and
+*   Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policy?subpage=1.subpage.3-AppBrowserAndDevice&entry_point=POLICY_SECTION%3A2_where) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
+
+[Return to top](#)
+
+Do other Companies use cookies in connection with the Meta Products?
+====================================================================
+
+Yes, other companies use cookies on the Meta Products to provide advertising, measurement, marketing and analytics services to us, and to provide certain features and improve our services for you.
+
+For example, other companies’ cookies help tailor ads off of Meta Products, measure their performance and effectiveness and support marketing and analytics. Certain features on the Meta Products use cookies from other companies to function, for example, certain maps, payment and security features. [Learn more\[2\]](https://mbasic.facebook.com/privacy/policies/cookies?entry_point=POLICY_SECTION%3A3_do#annotation-2) about the companies that use cookies on the Meta Products.
+
+Third party companies also use cookies on their own sites and apps in connection with the Meta Products. To understand how other companies use cookies, please review their policies.
+
+2
+
+List of Companies
+-----------------
+
+Listed below are the names and websites of some of the companies that use cookies on the Facebook Services to provide services to us and the businesses that advertise on Facebook.
+
+Last update: May 3, 2023
+
+| ### Company | ### Domain |
+| --- | --- |
+| Ada | ada.support |
+| Adobe | mktoresp.com |
+| Akamai | akamaihd.net |
+| Amazon Web Services | amazonaws.com |
+| Amazon Web Services | cloudfront.net |
+| Chili Piper | chilipiper.com |
+| Clarabridge | engagor.com |
+| Giphy | giphy.com |
+| Google | doubleclick.net |
+| Google | google-analytics.com |
+| Google | google.com |
+| Google | googleadservices.com |
+| Google | googleapis.com |
+| Google | googletagmanager.com |
+| Google | gstatic.com |
+| Google | youtube-nocookie.com |
+| Google | youtube.com |
+| Google | ytimg.com |
+| Hive Streaming | hivestreaming.com |
+| Jio | jio.com |
+| Linkedin | adsymptotic.com |
+| Linkedin | licdn.com |
+| Linkedin | linkedin.com |
+| Mapbox | mapbox.com |
+| Maxar | digitalglobe.com |
+| Measurement Lab | measurement-lab.org |
+| Measurement Lab | measurementlab.net |
+| Microsoft | bing.com |
+| Microsoft | office.net |
+| Microsoft | virtualearth.net |
+| OSM | openstreetmap.org |
+| Paypal | paypal.com |
+| Pinterest | pinterest.com |
+| Plaid | plaid.com |
+| Plotly | plot.ly |
+| Recruitics | recruitics.com |
+| Reddit | reddit.com |
+| Reddit | redditstatic.com |
+| Salesforce | herokuapp.com |
+| Stackla | stackla.com |
+| Tealium | tiqcdn.com |
+| Tenor | tenor.co |
+| Tenor | tenor.com |
+| The Trade Desk | adsrvr.org |
+| Topps Digital Services | gmgpulse.com |
+| Trusty Pay With My Bank | paywithmybank.com |
+| Twitter | ads-twitter.com |
+| Twitter | t.co |
+| Twitter | twimg.com |
+| Twitter | twitter.com |
+| V Rich App | vrich619.com |
+| Vidyard | vidyard.com |
+| Visa | cardinalcommerce.com |
+| Zendesk | smooch.io |
+| Zendesk | zendesk.com |
+
+[Return to top](#)
+
+How can you control your Information?
+=====================================
+
+We use cookies to help personalise and improve content and services, provide a safer experience and to show you useful and relevant ads on and off Meta Products. You can control how we use data to show you ads and more by using the tools described below.
+
+If you have a Facebook account
+------------------------------
+
+*   You can use your [ad preferences](https://accountscenter.facebook.com/ad_preferences?entry_point=POLICY_SUBPAGE%3Asubpage-4.1) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
+*   To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://accountscenter.facebook.com/ad_preferences/ad_settings?entry_point=POLICY_SUBPAGE%3Asubpage-4.1).
+*   The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the [Meta Company Products](https://www.facebook.com/help/195227921252400?entry_point=POLICY_SUBPAGE%3Asubpage-4.1). One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your [ad settings](https://accountscenter.facebook.com/ad_preferences/ad_settings?entry_point=POLICY_SUBPAGE%3Asubpage-4.1).
+*   You can review Your activity off Meta technologies, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our [Business Tools](https://www.facebook.com/help/2230503797265156?helpref=faq_content&entry_point=POLICY_SUBPAGE%3Asubpage-4.1), such as Facebook Login or Meta Pixel, to share this information with us. This helps us do things such as give you a more personalised experience on Meta Products. Learn more [about your activity off of Meta technologies](https://www.facebook.com/help/2207256696182627?helpref=faq_content&entry_point=POLICY_SUBPAGE%3Asubpage-4.1), how we use it and how you can manage it.
+
+If you have an Instagram account
+--------------------------------
+
+*   You can use your [ad preferences](https://lm.facebook.com/l.php?u=https%3A%2F%2Faccountscenter.instagram.com%2Fad_preferences%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.2) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
+*   To show you better ads we use data that advertisers and other partners provide us about your activity off [Meta Company Products](https://www.facebook.com/help/195227921252400?entry_point=POLICY_SUBPAGE%3Asubpage-4.2), including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://lm.facebook.com/l.php?u=https%3A%2F%2Faccountscenter.instagram.com%2Fad_preferences%2Fad_settings%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.2).
+*   You can review Your activity off Meta technologies which is a summary of activity that businesses and organizations share with us about your interactions with them, such as visiting their apps or websites. They use our [Business Tools](https://www.facebook.com/help/2230503797265156?entry_point=POLICY_SUBPAGE%3Asubpage-4.2), such as Facebook Login or Meta Pixel, to share this information with us. This helps us do things such as give you a more personalized experience on Meta Products. Learn more [about your activity off of Meta technologies](https://www.facebook.com/help/2207256696182627?helpref=faq_content&entry_point=POLICY_SUBPAGE%3Asubpage-4.2), how we use it and how you can manage it.
+
+Everyone
+--------
+
+You can opt out of seeing online interest-based ads from Meta and other participating companies through the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.aboutads.info%2Fchoices%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.3) in the US, the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=http%3A%2F%2Fyouradchoices.ca%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.3) in Canada or the [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.3) in Europe. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
 
 More information about online advertising
-
-You can opt out of seeing online interest-based ads from Meta and other participating companies through the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Foptout.aboutads.info%2F) in the US, the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=https%3A%2F%2Fyouradchoices.ca%2F) in Canada or the [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.youronlinechoices.com%2F) in Europe, or through your mobile device settings, if you are using Android, iOS 13 or an earlier version of iOS. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
+-----------------------------------------
 
 The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:
 
-*   [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Foptout.aboutads.info%2F)
-*   [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=https%3A%2F%2Fyouradchoices.ca%2F)
-*   [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.youronlinechoices.com%2F)
+*   [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.aboutads.info%2Fchoices%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.4)
+*   [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=http%3A%2F%2Fyouradchoices.ca%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.4)
+*   [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.4)
 
-Controlling cookies with browser settings
+Browser cookie controls
+-----------------------
 
-Your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 5 October 2020, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of Meta Products may not work properly if you have disabled browser cookies. Please be aware that these controls are distinct from the controls that Facebook offers.
+In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 23 June 2021, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Meta Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that we offer you.
 
-*   [Google Chrome](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.google.com%2Fchrome%2Fanswer%2F95647)
-*   [Internet Explorer](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.microsoft.com%2Fen-ie%2Fhelp%2F17442%2Fwindows-internet-explorer-delete-manage-cookies)
-*   [Firefox](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.mozilla.org%2Fen-US%2Fkb%2Fenable-and-disable-cookies-website-preferences)
-*   [Safari](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-ie%2Fguide%2Fsafari%2Fsfri11471%2Fmac)
-*   [Safari mobile](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-us%2FHT201265)
-*   [Opera](https://lm.facebook.com/l.php?u=https%3A%2F%2Fblogs.opera.com%2Fnews%2F2015%2F08%2Fhow-to-manage-cookies-in-opera%2F)
+*   [Google Chrome](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.google.com%2Fchrome%2Fanswer%2F95647%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
+*   [Internet Explorer](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.microsoft.com%2Fen-ie%2Fhelp%2F17442%2Fwindows-internet-explorer-delete-manage-cookies%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
+*   [Firefox](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.mozilla.org%2Fen-US%2Fkb%2Fenhanced-tracking-protection-firefox-desktop%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
+*   [Safari](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-ie%2Fguide%2Fsafari%2Fsfri11471%2Fmac%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
+*   [Safari Mobile](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-us%2FHT201265%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
+*   [Opera](https://lm.facebook.com/l.php?u=https%3A%2F%2Fblogs.opera.com%2Fnews%2F2015%2F08%2Fhow-to-manage-cookies-in-opera%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
 
-Decline optional cookiesAllow all cookies
+[Return to top](#)

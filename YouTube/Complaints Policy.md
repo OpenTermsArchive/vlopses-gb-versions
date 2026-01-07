@@ -125,15 +125,81 @@ This information is published pursuant to Article 18(2) of the [European Media F
 
 | Channel Name | National Regulatory Authority |
 | --- | --- |
+| Aleksi Rantamaa - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| DJ Orion | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Dallas Vlod / HasBeen | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| DragonSlayer666 | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| EGOvlogi\_ Sonja Ollila | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Emma Karasjoki - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Eränkävijät | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Essi Lamppu – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| FTW | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Gogi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Hanna Hantula – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Ina Mikkola – Valtapeli x Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Jaakko Keso – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Klassinen Musiikki | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Kovan viikon ilta | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Le Grand Cactus-RTBF | Conseil Supérieur de l'Audiovisuel |
 | Les Niouzz | Conseil Supérieur de l'Audiovisuel |
+| Menny pahaks - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Mikä keissi? – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Pavlovin Rotat | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Poikelus – YleX | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | RTBF Archives | Conseil Supérieur de l'Audiovisuel |
 | RTBF Info | Conseil Supérieur de l'Audiovisuel |
 | RTBF iXPé | Conseil Supérieur de l'Audiovisuel |
 | RTBFSport | Conseil Supérieur de l'Audiovisuel |
 | Rai | Autorità per le Garanzie nelle Comunicazioni (AGCOM) |
+| Robomestarit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | SPIT | Conseil Supérieur de l'Audiovisuel |
+| [Svenska.yle.fi](http://svenska.yle.fi/) | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| TEEN | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Tarmac | Conseil Supérieur de l'Audiovisuel |
+| Tiede-Henkka – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Timo Korpi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Tipik-RTBF | Conseil Supérieur de l'Audiovisuel |
+| Toinen kanava | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Uuden Musiikin Kilpailu | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Vews-RTBF | Conseil Supérieur de l'Audiovisuel |
+| Viki ja Köpi Show | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Abitreenit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Akatemia | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Arabic | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Areena | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Dev | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle E-urheilu | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Galaxi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Kioski FOOD | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Kioski GAMING | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Kioski JOURNAL | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Kioski Popup | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Luuttiklubi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Mix – uutisia lapsille | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle News | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Novyny | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Perjantai-dokkarit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Pikku Kakkonen | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Sandbox | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle SeesarGames | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Somali | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Spel | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Summeri | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Tämäkin on totta | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Urheilu | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Uusi Päivä | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Uutiset | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle Watt | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle X3M | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Yle koulun jälkeen | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| YleX | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| YleX Feat | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| YleX Nosteessa | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| YleX\_ Katri Norrlin | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| YleX\_ Kohupodi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| marjuttuulikki - Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | orfkontext | Kommunikationsbehörde Austria |
+| summeriVLOG | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| testtube | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Новости Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |

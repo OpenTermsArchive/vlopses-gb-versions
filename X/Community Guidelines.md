@@ -3171,7 +3171,7 @@ Fair use determinations are made on a case by case basis, and there is no clear 
 
 For more information on fair use:
 
-*   [http://en.wikipedia.org/wiki/Fair\_use](https://en.wikipedia.org/wiki/Fair_use)
+*   [http://en.wikipedia.org/wiki/Fair\_use](http://en.wikipedia.org/wiki/Fair_use)
 *   [https://ilt.eff.org/index.php/Copyright:\_Fair\_Use](https://ilt.eff.org/index.php/Copyright:_Fair_Use)
 *   [https://www.lumendatabase.org/](https://ilt.eff.org/index.php/Copyright:_Fair_Use)
 *   [http://fairuse.stanford.edu/overview/fair-use/four-factors/](http://fairuse.stanford.edu/overview/fair-use/four-factors/)
@@ -3361,7 +3361,7 @@ In addition, you can find the following resources to keep your child’s account
 *   [X account restoration](https://help.x.com/managing-your-account/account-restoration)
 *   [Age assurance on X](https://help.x.com/rules-and-policies/age-assurance)
 
-We suggest staying informed about [account safety and security](https://help.x.com/safety-and-security), safeguarding your privacy, avoiding spam and scams, and consider [controlling what you see](https://help.x.com/safety-and-security/control-your-x-experience). Our Help Center provides answers to the most [common questions](https://help.x.com/); but if you need account support, submitting a [support form](https://help.x.com/forms) ensures your request is routed to the appropriate team. You can always [appeal](https://help.x.com/forms/account-access/appeals) an enforcement decision.   
+We suggest staying informed about [account safety and security](https://help.x.com/safety-and-security), safeguarding your privacy, avoiding spam and scams, and consider [controlling what you see](https://help.x.com/safety-and-security/control-your-x-experience). Our Help Center provides answers to the most [common questions](https://help.x.com/); but if you need account support, submitting a [support form](http://help.x.com/forms) ensures your request is routed to the appropriate team. You can always [appeal](https://help.x.com/forms/account-access/appeals) an enforcement decision.   
 
 **NOTE:** Informational resources available on our [Help Center](https://help.x.com/) are not intended for law enforcement use and such requests should be directed to X's Legal Request Submission site, available at [t.co/lr](https://legalrequests.x.com/forms/landing_disclaimer) or [legalrequests.x.com](https://legalrequests.x.com/forms/landing_disclaimer).  
 

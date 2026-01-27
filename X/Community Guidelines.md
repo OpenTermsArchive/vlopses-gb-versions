@@ -3377,7 +3377,7 @@ United Kingdom Online Safety Information
 Information from X
 ------------------
 
-Our [Rules](https://help.x.com/rules-and-policies/x-rules) are to ensure all people can participate in the public conversation freely and safely. 
+The [X Rules](https://help.x.com/rules-and-policies/x-rules) are to ensure all people can participate in the public conversation freely and safely. 
 
 We have a [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options), which we take to reduce the risk of harm to our users, in a proportionate manner. Users can also appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/forms/account-access/appeals.html).
 
@@ -3395,7 +3395,15 @@ To enforce our Rules, we use a combination of machine learning and human review.
 Automated content enforcement
 -----------------------------
 
-X employs a combination of heuristics and machine learning algorithms to automatically detect content that we believe violates the [X Rules](https://help.x.com/rules-and-policies/x-rules) and policies enforced on our platform. We use combinations of natural language processing models, image processing models and other sophisticated machine learning methods to detect potentially violative content. These machine learning models vary in complexity and in the outputs they produce. For example, the machine learning model used to detect abuse on the platform is trained on abuse violations detected in the past. Heuristics are simple rule-based models (patterns of behaviours, text, or keywords that may be typical of a certain category of violations), typically utilised to enable X to react quickly to new forms of violative behavior that emerge on the platform. Content flagged by machine learning models and heuristics are either reviewed by human content reviewers before an action is taken or, in some cases, automatically actioned, based on the measured historical accuracy of the specific method.
+X employs a combination of artificial intelligence models, heuristics, and machine learning algorithms to automatically detect content that we believe violates the [X Rules](https://help.x.com/rules-and-policies/x-rules) and policies enforced on our platform. We use combinations of natural language processing models, image processing models and other sophisticated machine learning methods to detect potentially violative content. These machine learning models vary in complexity and in the outputs they produce. Heuristics are simple rule-based models (patterns of behaviours, text, or keywords that may be typical of a certain category of violations), typically utilised to enable X to react quickly to new forms of violative behavior that emerge on the platform. Content flagged by machine learning models and heuristics are either reviewed by human content reviewers before an action is taken or, in some cases, automatically actioned, based on the measured historical accuracy of the specific method.
+
+**Examples of automated content enforcement:**
+
+A vast majority of all accounts that are suspended for the promotion of terrorism and Child Sexual Exploitation and Abuse (CSEA) are proactively flagged by a combination of technology and other purpose-built internal proprietary tools. When we remove CSEA content with these automated systems, we immediately report it to the National Center for Missing and Exploited Children (NCMEC). NCMEC makes reports available to the appropriate law enforcement agencies around the world to facilitate investigations and prosecutions.
+
+Our current methods deploy a range of internal tools and third party solutions that utilises industry standard hash libraries (e.g., [PhotoDNA](https://blog.x.com/en_us/topics/company/2021/transparency-19)) to ensure known CSEA is caught prior to any user reports being filed. We leverage the hashes provided by NCMEC and industry partners. We scan media uploaded to X for matches to hashes of known CSEA. We also have the ability to block keywords and phrases from Trending and block search results for certain terms that are known to be associated with CSEA.
+
+X continues to iterate and improve upon its automated moderation techniques for improved detection of violative content before it is reported, including AI-based technology solutions. Our continued investment in proprietary technology is steadily reducing the burden on people to report this content to us.
 
 User controls
 -------------
@@ -3418,7 +3426,7 @@ With hundreds of millions of posts posted every day around the world, our goal i
 
 When we take enforcement actions, we may do so either on a specific piece of content (e.g., an individual Post or Direct Message), on an account, or employ a combination of these options. In some instances, this is because the behavior violates the X Rules. Other times, it may be in response to a valid legal request from an authorized entity, or a report from an affected UK person.
 
-You may also challenge an enforcement action we take by filing a lawsuit with a competent court.
+You may also challenge an enforcement action we take by filing a lawsuit with a competent court. If you believe X to be in breach of contract with regard to its use of proactive technology, you have a right to bring proceedings in a competent court.
 
 Information for parents and minors
 ----------------------------------
@@ -3427,13 +3435,13 @@ X, as a service, is not primarily for children, but anyone above the age of 13 c
 
 Learn more [here](https://help.x.com/rules-and-policies/uk-information-for-parents-and-minor-users) about information for parents and minor users in the UK. 
 
-Online Safety in the United Kingdom
+Online safety in the United Kingdom
 -----------------------------------
 
-The UK Online Safety Act 2023 (“the Act”) establishes standards and obligations designed to protect users from exposure to illegal content and harmful activities online. Under the Act, we are committed to handling complaints to ensure that illegal content is identified, reviewed and (if necessary) removed, thereby minimising the potential harmful impact on individuals. Our complaint-handling processes provide clear and accessible routes for reporting, enabling action through dedicated review mechanisms and takedown procedures.
+The UK Online Safety Act 2023 (“the Act”) establishes standards and obligations designed to protect users from exposure to illegal content and harmful activities online, including content harmful to children. Under the Act, we are committed to handling complaints to ensure that illegal content and content harmful to children is identified, reviewed and (if necessary) removed, thereby minimising the potential harmful impact on individuals. Our complaint-handling processes provide clear and accessible routes for reporting, enabling action through dedicated review mechanisms and takedown procedures.
 
-Information regarding Illegal Content
--------------------------------------
+Information regarding illegal content and content harmful to children
+---------------------------------------------------------------------
 
 As part of illegal content duties under the Act, we will be restricting access to illegal content in the United Kingdom, namely: 
 
@@ -3476,15 +3484,37 @@ As part of illegal content duties under the Act, we will be restricting access t
 *   Epilepsy trolling
     
 
-All such material is prohibited on X in the United Kingdom
-----------------------------------------------------------
+Illegal content is prohibited on X in the United Kingdom
+--------------------------------------------------------
 
 ​​You can report content in violation to X.
 
-Reporting Illegal Content in the United Kingdom
------------------------------------------------
+Furthermore, under the Act, we will be restricting content harmful to children from minors in the United Kingdom, namely:
 
-You can make a report or complaint about such material (“Illegal Content”) which is accessible on X in the United Kingdom, pursuant to the Online Safety Act (the “Act), by making a report to X through this [form](https://help.x.com/forms/osa/report).
+*   Encouraging or assisting eating disorders
+    
+*   Body stigma content
+    
+*   Depression content
+    
+*   Bullying content
+    
+*   Harmful substances
+    
+*   Dangerous stunts and challenges 
+    
+*   Adult nudity harmful to children
+    
+
+Content harmful to children is restricted from minors on X in the United Kingdom
+--------------------------------------------------------------------------------
+
+​​You can report content in violation to X.
+
+Reporting illegal content or content harmful to children in the United Kingdom
+------------------------------------------------------------------------------
+
+You can make a report or complaint about such material which is accessible on X in the United Kingdom, pursuant to the Act, by making a report to X through this [form](https://help.x.com/forms/osa/report).
 
 Reporting a Post, List or Direct Message
 ----------------------------------------
@@ -3501,12 +3531,22 @@ In the case of a report about content that is illegal and/or that X is legally r
 Appeal process
 --------------
 
-Users can appeal an Illegal Content Decision if they believe we made an error. They can do this through this [form](https://help.x.com/forms/osa/appeal).
+Users can appeal an illegal content or content harmful to children decision if they believe we made an error. They can do this through this [form](https://help.x.com/forms/osa/appeal).
 
 Withholding a post or account in a country
 ------------------------------------------
 
 We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/rules-and-policies/tweet-withheld-by-country.html).
+
+Reporting non-compliance with relevant duties under the Act
+-----------------------------------------------------------
+
+You can make a complaint about X’s compliance with relevant duties under the Act by making a report to X through this [form](https://help.x.com/forms/local-laws/uk). Once the review is complete, we will send you a message if a potential issue has been identified and X will take appropriate action.
+
+Reporting use of proactive technology inconsistent with X Rules
+---------------------------------------------------------------
+
+You can make a complaint about automated enforcement actions inconsistent with the [X Rules](https://help.x.com/rules-and-policies/x-rules) and [Terms of Service](https://x.com/tos) by making a report to X through this [form](https://help.x.com/forms/local-laws/uk). Once the review is complete, we will send you a message if a potential issue has been identified and X will take appropriate action. 
 
 **NOTE:** Informational resources available on our [Help Center](https://help.x.com/) are not intended for law enforcement use and such requests should be directed to X's Legal Request Submission site, available at [t.co/lr](https://legalrequests.x.com/forms/landing_disclaimer) or [legalrequests.x.com](https://legalrequests.x.com/forms/landing_disclaimer).
 

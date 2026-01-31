@@ -186,25 +186,25 @@ Related Articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+
+[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
 Related Articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+
+[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
 - - -
 
@@ -1276,43 +1276,43 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 How do you know if you own the copyright in a work
 ==================================================
 
 Copy link
 
-In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright in that painting. Similarly, if you take a photo, you likely own the copyright in that photo.
+In general, the person who creates an original work owns the copyright. For example, if you create a painting, you are likely to own the copyright in that painting. Similarly, if you take a photo, you are likely to own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
 
-*   If you appear in a photo or video, that doesn’t necessarily mean you have a copyright in that photo or video ([learn more](https://www.facebook.com/help/327689333983073/?helpref=faq_content) about what to do If you think a photo or video on Facebook might violate your privacy.)
-*   If you take a photograph of a sculpture, that doesn’t mean you have the right to prevent someone else from also taking a photograph of the same sculpture.
-*   If you create a work as part of your regular job responsibilities, you might not be the owner of the copyright in that work. Instead, there are circumstances where the law will consider your employer to be the “author” of that work for copyright purposes.
+*   If you appear in a photo or video, that doesn't necessarily mean you have a copyright in that photo or video ([learn more](https://www.facebook.com/help/327689333983073/?helpref=faq_content) about what to do if you think a photo or video on Facebook might violate your privacy).
+*   If you take a photograph of a sculpture, that doesn't mean you have the right to prevent someone else from also taking a photograph of the same sculpture.
+*   If you create a work as part of your regular job responsibilities, you might not be the owner of the copyright in that work. Instead, there are circumstances where the law will consider your employer to be the "author" of that work for copyright purposes.
 
-If you’re not sure about the extent of your copyright in an original work, you may want to contact an attorney to advise you on your rights.
+If you're not sure about the extent of your copyright in an original work, you may want to contact an attorney to advise you on your rights.
 
-Related Articles
+Related articles
 ----------------
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-Related Articles
+Related articles
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
@@ -1531,50 +1531,50 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Unintentional actions can still violate copyright on Facebook
 =============================================================
 
 Copy link
 
-It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn’t use someone else’s copyrighted work if you don’t have permission. Posting content that facilitates copyright infringement through unauthorized devices or services is also not allowed on Facebook.
+It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn't use someone else's copyrighted work if you don't have permission. Posting content that facilitates copyright infringement through unauthorised devices or services is also not allowed on Facebook.
 
-Keep in mind that your use of someone else’s content may infringe their copyright or facilitate copyright infringement, even if you:
+Bear in mind that your use of someone else’s content may infringe their copyright or facilitate copyright infringement, even if you:
 
 *   Gave credit to the copyright owner
-*   Included a disclaimer that you don’t intend to infringe copyright
+*   Included a disclaimer that you don't intend to infringe copyright
 *   Think that the use [is a fair use](https://www.facebook.com/help/337995452911154?helpref=faq_content)
-*   Didn’t intend to profit from it
-*   Bought or downloaded the content (ex: a copy of a DVD or a song from iTunes)
+*   Didn't intend to profit from it
+*   Bought or downloaded the content (e.g. a copy of a DVD or a song from iTunes)
 *   Modified the work or added your own original material to it
-*   Found the content available on the internet
-*   Recorded the content onto your own recording device (ex: from a movie, concert or sporting event)
+*   Found the content available on the Internet
+*   Recorded the content onto your own recording device (e.g. from a film, concert or sporting event)
 *   Saw that others have posted the same content as well
-*   Are using an unauthorized streaming device or service (ex: a “jailbroken” or “loaded” app or service)
+*   Are using an unauthorised streaming device or service (e.g. a "jailbroken" or "loaded" app or service)
 
 Learn more about [copyright and what copyright laws protect](https://www.facebook.com/help/308895412492789?helpref=faq_content).
 
-Related Articles
+Related articles
 ----------------
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[How can I make sure the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 [Reporting Copyright Infringements](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
 
 [How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
 
-Related Articles
+Related articles
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[How can I make sure the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 [Reporting Copyright Infringements](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
 

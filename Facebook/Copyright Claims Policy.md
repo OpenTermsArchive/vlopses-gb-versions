@@ -1155,16 +1155,16 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Copyright
 =========
 
-These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
+These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
-Laws in different countries may vary. For more information on copyright law, you can visit the website of the [US. Copyright Office](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.copyright.gov%2F) or the [World Intellectual Property Organisation (WIPO)](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html). Facebook can't provide you with legal advice, so you may want to speak with a lawyer if you have more questions about copyright.
+Laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.copyright.gov%2F) or the [World Intellectual Property Organization (WIPO)](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html). Facebook can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
 
-Learn more about copyright
+Learn More About Copyright
 --------------------------
 
 What is copyright and what does it protect?
@@ -1175,33 +1175,33 @@ What rights do I have as a copyright owner?
 
 How long does copyright protection last?
 
-What's the difference between copyright and trademark?
+What’s the difference between copyright and trademark?
 
-Copyright and posting content on Facebook
+Copyright and Posting Content on Facebook
 -----------------------------------------
 
-How can I make sure that the content I post to Facebook doesn't violate copyright law?
+How can I make sure the content I post to Facebook doesn't violate copyright law?
 
-What are fair use and other exceptions to copyright?
+What are fair use and other exceptions to copyright
 
 Unintentional actions can still violate copyright on Facebook
 
-A video that I posted on Facebook was removed immediately. What happened, and what are my options?
+A video I posted on Facebook was removed immediately. What happened, and what are my options?
 
-Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
+Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
 
 Repeated intellectual property infringement on Facebook
 
 How does Meta process United States Digital Millennium Copyright Act (DMCA) counter-notifications?
 
-Reporting copyright infringement on Facebook
+Reporting Copyright Infringement on Facebook
 --------------------------------------------
 
 How do I report copyright infringement on Facebook?
 
 What you should consider before submitting a report of intellectual property infringement to Facebook
 
-Can I report an infringement of someone else's intellectual property on Facebook?
+Can I report an infringement of someone else’s intellectual property on Facebook?
 
 How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent?
 
@@ -1217,7 +1217,7 @@ Report a third-party app on Facebook that you think infringes your intellectual 
 
 Retract an intellectual property report that you've submitted to Facebook
 
-Rights Manager and other intellectual property tools
+Rights Manager and Other Intellectual Property Tools
 ----------------------------------------------------
 
 What tools does Facebook provide to help me protect my intellectual property in my videos?
@@ -1321,20 +1321,20 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
 
-As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
+As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
 
-If you own a copyright, you have the right to grant permission to use your copyrighted work as well as the right to prevent other people from using your copyrighted work without permission.
+If you own a copyright, you have the right to grant permission to use your copyrighted work, as well as the right to prevent other people from using your copyrighted work without permission.
 
-Related Articles
+Related articles
 ----------------
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
@@ -1345,9 +1345,9 @@ Related Articles
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-Related Articles
+Related articles
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
@@ -1357,7 +1357,7 @@ Related Articles
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 - - -
 

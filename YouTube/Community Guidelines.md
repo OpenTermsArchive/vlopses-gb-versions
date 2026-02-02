@@ -18,9 +18,9 @@ Our [Community Guidelines](https://support.google.com/youtube/answer/9288567?en-
 
 [Community Guidelines](https://support.google.com/youtube/answer/9288567?en-GB&sjid=6696618074483827073-NA)
 
-Content that violates our Community Guidelines is flagged by a mix of **automated detection and human reporting** — most of which is detected automatically — and we go to great lengths to make sure that violative content isn't widely viewed, or even viewed at all, before it's taken down.
+Content that violates our Community Guidelines is flagged by a mix of **automated detection and human reporting** — most of which is detected automatically — and we go to great lengths to make sure that violative content isn’t widely viewed, or even viewed at all, before it’s taken down.
 
-Exceptions can be made when content has a clear educational, documentary, scientific or artistic [(EDSA)](https://support.google.com/youtube/answer/6345162?en-GB&ref_topic=9282435&sjid=6696618074483827073-NA) context.
+Exceptions can be made when content has a clear educational, documentary, scientific or artistic [(EDSA)](https://support.google.com/youtube/answer/6345162?ref_topic=9282435&sjid=277005303270439027-NA) context, including content that is in the public interest.
 
 * * *
 

@@ -1208,9 +1208,9 @@ While we do not allow people to intentionally or unintentionally celebrate or pr
 
 We remove any content that encourages suicide, self-injury or eating disorders, including fictional content such as memes or illustrations and any self-injury content which is graphic, regardless of context. We remove content that contains instructions for extreme weight loss behaviour. We also remove content that mocks victims or survivors of suicide, self-injury or eating disorders, as well as real-time depictions of suicide or self-injury. Content about recovery from suicide, self-injury or eating disorders that is allowed, but may contain imagery that could be upsetting (such as a healed scar) is placed behind a sensitivity screen and we will also limit the ability to view the content to adults aged 18 and older.
 
-When people post or search for suicide-, self-injury- or eating disorders-related content, we will direct them to local organisations that can provide support and if our Community Operations team is concerned about immediate harm, we will contact local emergency services to get them help. For more information, visit the [Meta Safety Centre.](https://www.facebook.com/safety/wellbeing/suicideprevention)
+When people post or search for suicide-, self-injury- or eating disorder-related content, we will direct them to local organisations that can provide support, and if our Community Operations team is concerned about immediate harm, we will contact local emergency services to get them help. For more information, visit the [Meta Safety Centre.](https://www.facebook.com/safety/wellbeing/suicideprevention)
 
-With respect to live content, experts have told us that if someone is saying that intend to attempt suicide on a live stream, we should leave the content up for as long as possible because the longer that someone is talking to a camera, the more opportunity there is for a friend or family member to call emergency services. However, to minimise the risk of others being negatively affected by viewing this content, we will stop the live stream at the point at which the threat turns into an attempt. As mentioned above, in any case, we will contact the emergency services if we identify that someone is at immediate risk of harming themselves.
+With respect to live content, experts have told us that if someone is saying that they intend to attempt suicide on a live-stream, we should leave the content up for as long as possible because the longer that someone is talking to a camera, the more opportunity there is for a friend or family member to call emergency services. However, to minimise the risk of others being negatively affected by viewing this content, we will stop the live-stream at the point at which the threat turns into an attempt. As mentioned above, in any case, we will contact the emergency services if we identify that someone is at immediate risk of harming themselves.
 
 We do not allow:
 
@@ -1267,6 +1267,8 @@ For the following Community Standards, we require additional information and/or 
     *   Family or legal representative requests,
         
     *   Reports from media, law enforcement or other third-party sources (e.g. government agencies, NGOs) or the [Suicidal content contact form](https://www.facebook.com/help/contact/305410456169423/) or [Instagram contact form](https://help.instagram.com/contact/383679321740945/).
+        
+    *   We may take into account off-platform signals of admission to or promotion of suicide, self-injury, eating disorders or extreme weight-loss behaviours from a user to assess whether specific content posted by them on Meta platforms could present a risk to others.
 
 - - -
 

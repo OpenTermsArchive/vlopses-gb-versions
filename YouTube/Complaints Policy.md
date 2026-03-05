@@ -125,6 +125,9 @@ This information is published pursuant to Article 18(2) of the [European Media F
 
 | Channel Name | National Regulatory Authority |
 | --- | --- |
+| @GazetvanAntwerpen | Vlaamse Regulator voor de Media |
+| @NieuwsbladOnline | Vlaamse Regulator voor de Media |
+| @hbvl\_hetbelangvanlimburg | Vlaamse Regulator voor de Media |
 | Aleksi Rantamaa - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | DJ Orion | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Dallas Vlod / HasBeen | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -136,6 +139,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | FTW | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Gogi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Hanna Hantula – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Hrvatska radiotelevizija | The Agency for Electronic Media (AEM) |
 | Ina Mikkola – Valtapeli x Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Jaakko Keso – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Klassinen Musiikki | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |

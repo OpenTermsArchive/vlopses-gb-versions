@@ -1490,7 +1490,7 @@ Content, activity or interactions that attempt to exploit people by:
         
     
 
-*   Promoting, threatening to share or offering to make non-real non-consensual intimate imagery (NCII) either by applications, services or instructions, even if there is no (near) nude commercial or non-commercial imagery shared in the content (sometimes referred to as "nudify" apps).
+*   Promoting, threatening to share, or offering to make or kissing imagery through applications or services (including AI), or instructions, even if there is no commercial or non-commercial imagery shared in the content (sometimes referred to as "nudify" apps or "AI kissing" apps).
     
 *   Sharing secretly taken non-commercial imagery focusing on a person's commonly sexualised body parts (such as breasts, groin, buttocks or thighs), a person in a sexually suggestive pose or of a person engaged in sexual activity and is shared with an intent to mock, sexualise or reveal the identity of the person depicted in the imagery. This imagery is commonly known as "creepshots" or "upskirts".
     
@@ -1536,14 +1536,14 @@ We may restrict visibility to people over the age of 18 and include a warning la
 *   The content does not involve nudity
     
 
-*   Content depicting fictional non-consensual sexual touching (film trailers, etc.) when shared by trusted partners to raise awareness and without sensational context
+*   Content depicting fictional non-consensual sexual touching (movie trailers, etc.) when shared by trusted partners to raise awareness and without sensational context
     
 
 We may restrict visibility to people over the age of 18 and include a warning label on certain content depicting non-consensual sexual touching, when it is shared to raise awareness and without entertainment or sensational context, where the victim or survivor is not identifiable and where the content does not involve nudity.
 
 In addition to our at-scale policy of removing content that threatens or advocates rape or other non-consensual sexual touching, we may also disable the posting account.
 
-We may also enforce on content shared by a third party that identifies survivors of sexual assault when reported by an authorised representative or trusted partner.
+We may also enforce on content shared by a third party that identifies survivors of sexual assault when reported by an authorized representative or Trusted Partner.
 
 - - -
 

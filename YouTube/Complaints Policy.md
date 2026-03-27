@@ -202,6 +202,8 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | YleX Nosteessa | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | YleX\_ Katri Norrlin | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | YleX\_ Kohupodi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| ZDF | ZDF Fernsehrat |
+| ZDFheute Nachrichten | ZDF Fernsehrat |
 | marjuttuulikki - Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | orfkontext | Kommunikationsbehörde Austria |
 | summeriVLOG | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |

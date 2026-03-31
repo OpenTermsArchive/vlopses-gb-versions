@@ -126,14 +126,14 @@ We Remove:
 
 - - -
 
-Coordinating Harm and Promoting Crime
+Coordinating harm and promoting crime
 =====================================
 
 ### Policy details
 
 CHANGE LOG
 
-Policy Rationale
+Policy rationale
 
 In an effort to prevent and disrupt offline harm and copycat behaviour, we prohibit people from facilitating, organising, promoting or admitting to certain criminal or harmful activities targeted at people, businesses, property or animals. We allow people to debate and advocate for the legality of criminal and harmful activities, as well as draw attention to harmful or criminal activity that they may witness or experience as long as they do not advocate for or coordinate harm.
 
@@ -225,6 +225,11 @@ We remove:
 For the following content, we include a label so that people are aware that the content may be sensitive:
 
 *   Imagery depicting a high-risk viral challenge if shared condemning or raising awareness of the associated risks.
+    
+
+For the following content, we limit the ability to view the content to adults aged 18 and older:
+
+*   Imagery depicting dangerous forms of driving a motor vehicle that could lead to life-threatening injuries or death to the driver or others, except if shared in fictional or professional settings.
     
 
 For the following Community Standards, we require additional information and/or context to enforce:
@@ -278,14 +283,14 @@ We remove:
 
 - - -
 
-Coordinating Harm and Promoting Crime
+Coordinating harm and promoting crime
 =====================================
 
 ### Policy details
 
 CHANGE LOG
 
-Policy Rationale
+Policy rationale
 
 In an effort to prevent and disrupt offline harm and copycat behaviour, we prohibit people from facilitating, organising, promoting or admitting to certain criminal or harmful activities targeted at people, businesses, property or animals. We allow people to debate and advocate for the legality of criminal and harmful activities, as well as draw attention to harmful or criminal activity that they may witness or experience as long as they do not advocate for or coordinate harm.
 
@@ -377,6 +382,11 @@ We remove:
 For the following content, we include a label so that people are aware that the content may be sensitive:
 
 *   Imagery depicting a high-risk viral challenge if shared condemning or raising awareness of the associated risks.
+    
+
+For the following content, we limit the ability to view the content to adults aged 18 and older:
+
+*   Imagery depicting dangerous forms of driving a motor vehicle that could lead to life-threatening injuries or death to the driver or others, except if shared in fictional or professional settings.
     
 
 For the following Community Standards, we require additional information and/or context to enforce:

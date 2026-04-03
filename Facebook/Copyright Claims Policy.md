@@ -206,6 +206,14 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
+Registrar mi marca comercial
+
+Derechos de marca comercial
+
+Marca comercial sin registro
+
+Tengo otra pregunta
+
 In the US, a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, amongst other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Many other countries outside the US have adopted similar systems, including the ability for trademark owners to register their trademarks. For example, in the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -611,6 +619,14 @@ How do I report trademark infringement on Facebook?
 ===================================================
 
 Copy link
+
+O que é violação de marca registada?
+
+Como posso contactar o infrator?
+
+O que acontece após o relatório?
+
+Tenho uma questão diferente
 
 Meta can't adjudicate disputes between third parties, and so we wouldn't be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside Facebook. In these situations, rather than contacting Meta, you may want to contact the party that you believe is infringing your rights directly, or seek any resolution in court or by other judicial means.
 

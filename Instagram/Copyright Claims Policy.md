@@ -57,15 +57,15 @@ The difference between copyright and trademark
 Copyright and Posting Content on Instagram
 ------------------------------------------
 
-How to make sure that content you post to Instagram or Threads doesn't violate copyright law
+How to make sure content you post to Instagram or Threads doesn't violate copyright law
 
 What are fair use and other exceptions to copyright?
 
 Can I still violate another person's copyright on Instagram or Threads if I didn't intend to infringe?
 
-What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement
+What to do if content you posted on Instagram or Threads gets removed because it was reported for intellectual property infringement
 
-What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights
+What happens if you repeatedly post content on Instagram or Threads that violates someone else’s intellectual property rights
 
 How Instagram and Threads process United States Digital Millennium Copyright Act (DMCA) counter-notifications
 
@@ -76,11 +76,11 @@ Report copyright infringement on Instagram or Threads
 
 What to consider before submitting an intellectual property infringement report to Instagram or Threads
 
-Can I report an infringement of someone else's intellectual property on Instagram or Threads?
+Can I report an infringement of someone else’s intellectual property on Instagram or Threads?
 
 How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) designated agent
 
-Information that you need to include in a copyright report to Instagram or Threads
+Information you need to include in a copyright report to Instagram or Threads
 
 Instagram or Threads removed content as a result of your copyright report. What information is sent to the person who posted that content
 
@@ -119,24 +119,24 @@ The difference between copyright and trademark
 Trademark and Posting Content on Instagram
 ------------------------------------------
 
-How to make sure that the content you post to Instagram or Threads don't violate trademark law
+How to make sure the content you post to Instagram or Threads don't violate trademark law
 
-Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?
+Content I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?
 
-What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights
+What happens if you repeatedly post content on Instagram or Threads that violates someone else’s intellectual property rights
 
 Reporting Trademark Infringement on Instagram
 ---------------------------------------------
 
 How to report trademark infringement on Instagram or Threads
 
-Can I report an infringement of someone else's intellectual property on Instagram or Threads?
+Can I report an infringement of someone else’s intellectual property on Instagram or Threads?
 
 How to report a username on Instagram or Threads for infringing my trademark
 
 What to consider before submitting an intellectual property infringement report to Instagram or Threads
 
-Information that you need to include in a trademark report on Instagram or Threads
+Information you need to include in a trademark report on Instagram or Threads
 
 What happens when you submit a trademark report to Instagram or Threads
 
@@ -204,6 +204,14 @@ How long does copyright protection last?
 
 Copy link
 
+When does copyright expire?
+
+What is public domain?
+
+How long is copyright?
+
+I have a different question
+
 Copyright protection doesn’t last forever. Eventually, a work loses copyright protection and becomes part of the “public domain.” Once a work is in the public domain, it’s freely available for anyone to use.
 
 A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright expires.
@@ -229,6 +237,16 @@ The difference between copyright and trademark
 ==============================================
 
 Copy link
+
+What does copyright protect?
+
+What does trademark protect?
+
+Report copyright infringement
+
+Report trademark infringement
+
+I have a different question
 
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -395,6 +413,14 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
+Report copyright for someone else
+
+What is Brand Rights Protection?
+
+What is a DMCA agent?
+
+I have a different question
+
 If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
 
 *   You can report copyright infringement by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
@@ -549,6 +575,14 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Copy link
 
+Withdraw my IP report
+
+Cancel copyright report
+
+Withdraw trademark report
+
+I have a different question
+
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do that is to complete the Retraction Form provided to you in the email with reference to your report. Alternatively, you can submit [this form](https://help.instagram.com/contact/3373960976225657).
@@ -561,6 +595,14 @@ More about trademarks and what they protect
 ===========================================
 
 Copy link
+
+What is a trademark?
+
+What do trademarks protect?
+
+Report a trademark infringement
+
+I have a different question
 
 A trademark is a word, slogan, symbol or design (for example, a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether in stores shopping, watching commercials on TV and so on.
 
@@ -594,6 +636,14 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
+Register my trademark
+
+USPTO registration benefits
+
+Common law trademark rights
+
+I have a different question
+
 It depends. In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Outside the U.S., many other countries have adopted similar systems, including the ability for trademark owners to register their trademarks. Both in the U.S. and in other countries, depending on the relevant laws, a trademark owner may still have certain rights without a registration. Typically, a trademark owner’s rights without a registration (often known as common law rights) may be weaker than rights that are subject to a registration. Also, it’s important to keep in mind that registering a company with a government office or getting a permit to do business in a specific country or state (for example, a business registration) usually doesn’t itself create a trademark right.
@@ -604,6 +654,16 @@ What is the difference between a trademark registration and a business registrat
 ====================================================================================
 
 Copy link
+
+What is a USPTO registration?
+
+Do I need both registrations?
+
+Register my business
+
+What are trademark rights?
+
+I have a different question
 
 In some countries or states in the U.S., a business might be able to register with a government office, or obtain a permit or license to do business in that country or state. These registrations, such as ones issued by a state’s Secretary of State, generally aren’t the same as a trademark registration, and may not themselves create trademark rights for the business. In the U.S., the registration that’s frequently used to establish trademark ownership is one that is issued by the United States Patent and Trademark Office (USPTO).
 
@@ -665,6 +725,16 @@ The difference between copyright and trademark
 ==============================================
 
 Copy link
+
+What does copyright protect?
+
+What does trademark protect?
+
+Report copyright infringement
+
+Report trademark infringement
+
+I have a different question
 
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -932,6 +1002,14 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 =====================================================================================
 
 Copy link
+
+Withdraw my IP report
+
+Cancel copyright report
+
+Withdraw trademark report
+
+I have a different question
 
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 

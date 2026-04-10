@@ -154,7 +154,9 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | RTBF Info | Conseil Supérieur de l'Audiovisuel |
 | RTBF iXPé | Conseil Supérieur de l'Audiovisuel |
 | RTBFSport | Conseil Supérieur de l'Audiovisuel |
+| Radio Antena | Agencija za komunikacijska omrežja in storitve Republike Slovenije |
 | Rai | Autorità per le Garanzie nelle Comunicazioni (AGCOM) |
+| RecordPortugal | Entidade Reguladora para a Comunicação Social (ERC) |
 | Robomestarit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | SPIT | Conseil Supérieur de l'Audiovisuel |
 | [Svenska.yle.fi](http://svenska.yle.fi/) | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -204,8 +206,14 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | YleX\_ Kohupodi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | ZDF | ZDF Fernsehrat |
 | ZDFheute Nachrichten | ZDF Fernsehrat |
+| cmtv | Entidade Reguladora para a Comunicação Social (ERC) |
+| jornaldenegocios7907 | Entidade Reguladora para a Comunicação Social (ERC) |
 | marjuttuulikki - Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| now\_canal\_oficial | Entidade Reguladora para a Comunicação Social (ERC) |
 | orfkontext | Kommunikationsbehörde Austria |
+| petsandcompanyofficial | Entidade Reguladora para a Comunicação Social (ERC) |
+| radio1slovenia | Agencija za komunikacijska omrežja in storitve Republike Slovenije |
+| revistasabado | Entidade Reguladora para a Comunicação Social (ERC) |
 | summeriVLOG | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | testtube | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Новости Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |

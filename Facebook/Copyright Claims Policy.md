@@ -129,14 +129,6 @@ What are trademarks and what they protect
 
 Copy link
 
-What is a trademark?
-
-What do trademarks protect?
-
-Report a trademark infringement
-
-I have a different question
-
 A trademark is a word, slogan, symbol or design (example: a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether shopping in stores or online, watching commercials on TV and so on.
 
 Generally, trademark law seeks to prevent consumers from being confused about who provides, endorses or is affiliated with a particular product or service. To prevent this situation, a trademark owner may be able to stop others from using their trademark (or a similar trademark) without permission if that use may cause confusion.
@@ -244,16 +236,6 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register a trademark
-
-Trademark rights without registration
-
-Trademark registration outside US
-
-Common law trademark rights
-
-I have a different question
-
 In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Many other countries outside the U.S. have adopted similar systems, including the ability for trademark owners to register their trademarks. For example, in the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -294,16 +276,6 @@ What is the difference between a trademark registration and a business registrat
 ====================================================================================
 
 Copy link
-
-Register my business
-
-Trademark vs business registration
-
-What is a trademark?
-
-How to register a trademark?
-
-I have a different question
 
 In some states in the U.S. and in some countries outside the U.S., a company might be able to register with a government office, or obtain a permit or license to do business in that country or state. These registrations, such as ones issued by a state’s Secretary of State, generally aren’t the same as a trademark registration, and may not create trademark rights for the company.
 
@@ -393,6 +365,14 @@ What is a counterfeit?
 
 Copy link
 
+Report counterfeit goods
+
+Selling counterfeit goods
+
+Trademark infringement
+
+I have a different question
+
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe content on Facebook is selling or promoting counterfeit goods, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
@@ -431,16 +411,6 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
-
-What is trademark infringement?
-
-What is nominative fair use?
-
-Limits to trademark rights?
-
-Geographic limits on trademarks?
-
-I have a different question
 
 Not all uses of a trademark without permission from the rights owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, that use is generally not considered infringing.
 
@@ -530,6 +500,14 @@ How can I make sure the content I post to Facebook doesn’t violate trademark l
 
 Copy link
 
+What is trademark infringement?
+
+How to avoid trademark issues?
+
+My content was removed
+
+I have a different question
+
 Under Facebook’s [Terms of Service](https://www.facebook.com/terms) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook if it doesn’t violate someone else’s intellectual property rights, including trademarks. Please note that as a Facebook user, you are responsible for the content you post. If your content violates Facebook’s policies or is reported to Meta as infringing the intellectual property rights of another party, Facebook may remove that content.
 
 Before you post content, you might want to ask:
@@ -573,16 +551,6 @@ Content I posted on Facebook was removed because it was reported for intellectua
 ================================================================================================================================
 
 Copy link
-
-Appeal content removal
-
-Appeal trademark report
-
-Contact rights owner
-
-My content was removed
-
-I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -782,16 +750,6 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
-Report trademark infringement
-
-What is trademark infringement?
-
-Contact username owner
-
-My trademark is being used
-
-I have a different question
-
 [Usernames](https://www.facebook.com/help/105399436216001?helpref=faq_content) are generally claimed on a first-come, first-served basis. This means that you may see a Facebook Page or profile with a username that includes your trademark.
 
 While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. A word or phrase that is used in a different context may not violate your trademark. Learn more about [trademark infringement](https://www.facebook.com/help/349534658401968?helpref=faq_content) in our Help Center.
@@ -942,6 +900,14 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
+What is a trademark report?
+
+How do I respond to Meta?
+
+Who sees my report details?
+
+I have a different question
+
 If you submitted a [trademark report](https://www.facebook.com/help/191999230901156?helpref=faq_content) to us through our online form or via email, you’ll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -1083,6 +1049,16 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
+Withdraw my report
+
+Cancel IP report
+
+Report already removed
+
+Why can't content be restored?
+
+I have a different question
+
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do that is to complete the Retraction Form provided to you in the email you received when you filed your report. Alternatively, you can submit [this form.](https://www.facebook.com/help/contact/237593160842825)
@@ -1123,14 +1099,6 @@ Facebook removed content as a result of my trademark report. What information is
 ============================================================================================================================
 
 Copy link
-
-What info is shared?
-
-Who sees my email?
-
-Can I appeal removed content?
-
-I have a different question
 
 When we receive [trademark reports](https://www.facebook.com/help/191999230901156?helpref=faq_content) and remove the reported content, we typically provide the person who posted the content with the following information:
 
@@ -1449,6 +1417,14 @@ How long does copyright protection last?
 
 Copy link
 
+What is public domain?
+
+When does copyright expire?
+
+How long is copyright?
+
+I have a different question
+
 Copyright protection doesn’t last forever. Eventually, a work loses copyright protection and becomes part of the “public domain.” Once a work is in the public domain, it’s freely available for anyone to use.
 
 A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright expires.
@@ -1489,6 +1465,14 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 =================================================================================
 
 Copy link
+
+My content was removed
+
+What is fair use?
+
+Report copyright infringement
+
+I have a different question
 
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn’t violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn’t violate copyright law is to only post content that you’ve created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
@@ -1678,6 +1662,14 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
+Why was my video removed?
+
+My video was removed
+
+Copyright removal options
+
+I have a different question
+
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else’s copyrighted content. This could include video, audio or both.
 
 If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
@@ -1746,16 +1738,6 @@ iPad App Help
 Facebook Lite App Help
 
 More
-
-Appeal content removal
-
-Contact rights owner
-
-DMCA counter-notification
-
-My content was removed
-
-I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -1862,6 +1844,14 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
+Report copyright infringement
+
+My content was removed
+
+Contact designated agent
+
+I have a different question
+
 If you believe content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
 *   You can report copyright infringement to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -1907,14 +1897,6 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 =================================================================================
 
 Copy link
-
-Contact DMCA agent
-
-Report copyright infringement
-
-DMCA claim requirements
-
-I have a different question
 
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 
@@ -2070,14 +2052,6 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What is a copyright report?
-
-My report number
-
-Respond to Meta team
-
-I have a different question
-
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -2126,6 +2100,16 @@ What tools does Facebook provide to help me protect my intellectual property in 
 ==========================================================================================
 
 Copy link
+
+Apply for Rights Manager
+
+What is Content Protection?
+
+Report copyright infringement
+
+My video was removed
+
+I have a different question
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner’s demonstrated needs.
 

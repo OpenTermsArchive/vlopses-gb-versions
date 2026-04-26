@@ -1391,7 +1391,6 @@ Predictions Markets—United States
     *   New Hampshire
     *   New Jersey
     *   New Mexico
-    *   Ohio
     *   Oklahoma
     *   Texas
     *   Virginia
@@ -1539,7 +1538,7 @@ Microsoft – Terms of Use
 
 ============================
 
-Last Updated: February 7, 2022
+  Last Updated: February 7, 2022
 
 Acceptance of Terms
 -------------------

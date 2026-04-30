@@ -1068,7 +1068,7 @@ For example, this can happen by sending a high volume of HTTP requests to produc
 Hostile downloaders
 -------------------
 
-![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 Google Play prohibits 'hostile downloaders' – apps that download other mobile unwanted software (MUwS). An app is flagged as a hostile downloader if it's believed to be designed to spread MUwS or if at least 5% of its downloads are determined to be MUwS. This policy does not apply to major browsers or file-sharing apps, as long as they only download software with the user's explicit consent and initiation. Please review the full policy to ensure compliance.
 
@@ -1280,7 +1280,7 @@ This classification is usually used in combination with other PHA categories. A 
 A note on uncommon apps
 -----------------------
 
-![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 If Google Play Protect lacks sufficient information to verify your new app's safety, it may be classified as 'uncommon'. This status doesn't mean that your app is harmful, but that it needs further review. Please review the full policy to ensure compliance.
 
@@ -1301,7 +1301,7 @@ New and rare apps can be classified as uncommon if Google Play Protect doesn't h
 A note on the backdoor category
 -------------------------------
 
-![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 A backdoor is code that enables malicious behaviour. If dynamic code loading is used to perform harmful actions, your app will be in violation. You must ensure that your app's code does not enable any hidden, malicious functionality. If a vulnerability is found without malicious intent, you will be asked to patch it. Please review the full policy to ensure compliance.
 

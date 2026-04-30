@@ -1862,14 +1862,14 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
-================================================================================================================================
+Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
+=====================================================================================================================================
 
 Copy link
 
-Computer Help
+Computer help
 
 iPhone App Help
 
@@ -1883,7 +1883,7 @@ Facebook Lite App Help
 
 More
 
-Computer Help
+Computer help
 
 iPhone App Help
 
@@ -1897,35 +1897,33 @@ Facebook Lite App Help
 
 More
 
-Appeal removed content
-
-My content was removed
+Appeal content removal
 
 Contact rights owner
 
-What is DMCA?
+DMCA counter-notification
 
 I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
-If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification from Meta that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn’t have been removed, you can follow up with the rights owner directly to try to resolve the issue.
+If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification from Meta that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
-If you're an admin on a Page, and content another admin posted on the Page was removed due to an intellectual property report, you'll receive a notification with information about the content that was removed, as well as the name of the other admin who posted it.
+If you're an admin on a Page, and content that another admin posted on the Page was removed due to an intellectual property report, you'll receive a notification with information about the content that was removed, as well as the name of the other admin who posted it.
 
 If content you posted in a group was removed due to an intellectual property report, the group admins will also be notified of the removal and the identity of the group member who posted the content that was removed.
 
 Appealing the removal of content
 --------------------------------
 
-If your content was removed because of a copyright report, you can submit an appeal. You'll receive instructions about how to appeal in the message we send you. Similarly, if the content was removed under the notice and counter-notice procedures of the [United States Digital Millennium Copyright Act (DMCA)](https://www.facebook.com/help/265723950293778?helpref=faq_content), you may be able to file a DMCA counter-notification. Again, instructions will be available for you in the message we send you. [Learn more](https://www.facebook.com/help/194353905193770?locale=en_US&helpref=faq_content) about our appeals process.
+If your content was removed because of a copyright report, you can submit an appeal. You'll receive instructions about how to appeal in the message that we send you. Similarly, if the content was removed under the notice and counter-notice procedures of the [United States Digital Millennium Copyright Act (DMCA)](https://www.facebook.com/help/265723950293778?helpref=faq_content), you may be able to file a DMCA counter-notification. Again, instructions will be available for you in the message that we send you. [Learn more](https://www.facebook.com/help/194353905193770?locale=en_US&helpref=faq_content) about our appeals process.
 
 Group admins will be notified about content removed from their group due to intellectual property violations, but only the person who posted it will be able to submit an appeal.
 
-Related Articles
+Related articles
 ----------------
 
-[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
@@ -1933,11 +1931,11 @@ Related Articles
 
 [How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
-[What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
+[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-Related Articles
+Related articles
 
-[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
@@ -1945,7 +1943,7 @@ Related Articles
 
 [How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
-[What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
+[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
 - - -
 

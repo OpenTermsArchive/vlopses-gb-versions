@@ -123,7 +123,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report trademark infringement
+Report a trademark infringement
 
 How do trademarks work?
 
@@ -178,7 +178,7 @@ What is trademark dilution?
 
 What is likelihood of confusion?
 
-Limits to trademark rights?
+What are limits to trademark?
 
 I have a different question
 
@@ -334,11 +334,13 @@ How long does trademark protection last?
 
 Copy link
 
-How long trademark rights last?
+How to renew trademark?
 
-Renew trademark registration
+My trademark rights expired
 
-Lose my trademark rights
+What if I stop using trademark?
+
+How long does EUIPO registration last?
 
 I have a different question
 
@@ -428,9 +430,9 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What is nominative fair use?
 
-When can I use a trademark?
+When is trademark use infringing?
 
 Limits to trademark rights?
 
@@ -457,9 +459,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Related Articles
 
@@ -469,9 +471,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 - - -
 

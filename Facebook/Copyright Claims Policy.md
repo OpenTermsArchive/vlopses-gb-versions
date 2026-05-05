@@ -50,16 +50,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-What do trademarks protect?
-
-Report trademark infringement
-
-Apply for Brand Rights Protection
-
-Trademark laws in other countries
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -133,7 +123,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report a trademark infringement
+Report trademark infringement
 
 How do trademarks work?
 
@@ -188,7 +178,7 @@ What is trademark dilution?
 
 What is likelihood of confusion?
 
-What are limits to trademark?
+Limits to trademark rights?
 
 I have a different question
 
@@ -344,13 +334,11 @@ How long does trademark protection last?
 
 Copy link
 
-How to renew trademark?
+How long trademark rights last?
 
-My trademark rights expired
+Renew trademark registration
 
-What if I stop using trademark?
-
-How long does EUIPO registration last?
+Lose my trademark rights
 
 I have a different question
 
@@ -440,9 +428,9 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is nominative fair use?
+What is trademark infringement?
 
-When is trademark use infringing?
+When can I use a trademark?
 
 Limits to trademark rights?
 
@@ -1896,6 +1884,16 @@ iPad App Help
 Facebook Lite App Help
 
 More
+
+Appeal removed content
+
+My content was removed
+
+Contact rights owner
+
+What is DMCA?
+
+I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 

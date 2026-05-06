@@ -206,7 +206,7 @@ In most cases, your order will be delivered within the time of delivery. However
 Minimum Order Value
 -------------------
 
-Minimum order value: £10 for first order and £15 for subsequent orders (excluding products shipped from local warehouses, which have no minimum order value).
+Minimum order value: £10 for first order and £15 for subsequent orders(excluding products shipped from sellers, which have no minimum order value).
 
 Issues regarding delivery
 -------------------------

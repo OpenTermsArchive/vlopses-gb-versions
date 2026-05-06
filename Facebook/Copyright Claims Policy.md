@@ -650,6 +650,8 @@ My Page was removed
 
 My Group was removed
 
+What are feature limits?
+
 I have a different question
 
 By using Facebook, you agree to our [Terms of Service](https://www.facebook.com/terms). Our Terms prohibit people from taking any action on Facebook that infringes or violates someone else's intellectual property rights or otherwise violates the law.
@@ -1310,9 +1312,9 @@ Report copyright infringement
 
 Protect my copyrighted work
 
-What is copyright?
+Copyright and posting content
 
-How to use Rights Manager?
+What is copyright law?
 
 I have a different question
 
@@ -1555,11 +1557,11 @@ How long does copyright protection last?
 
 Copy link
 
-When does copyright expire?
-
 What is public domain?
 
-Copyright after author's death?
+When does copyright expire?
+
+How long does copyright last?
 
 I have a different question
 
@@ -1892,8 +1894,6 @@ Appeal removed content
 My content was removed
 
 Contact rights owner
-
-What is DMCA?
 
 I have a different question
 
@@ -2285,11 +2285,11 @@ Copy link
 
 Apply for Rights Manager
 
-Protect my video content
+What is Content Protection?
+
+Monetize my video
 
 Report copyright infringement
-
-What is Content Protection?
 
 I have a different question
 

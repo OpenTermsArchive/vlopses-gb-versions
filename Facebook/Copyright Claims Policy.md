@@ -176,9 +176,9 @@ Copy link
 
 What is trademark dilution?
 
-What is likelihood of confusion?
+Is my trademark protected?
 
-What are limits to trademark?
+What if I used it first?
 
 I have a different question
 
@@ -592,9 +592,11 @@ Copy link
 
 Appeal content removal
 
-Appeal trademark report
+My content was removed
 
 Contact rights owner
+
+Appeal trademark report
 
 I have a different question
 
@@ -1390,13 +1392,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is fair use?
 
 Copyright for my content
 
-Copyright for photos
+Copyright for photos/videos
 
-Copyright for videos
+What is intellectual property?
 
 I have a different question
 
@@ -1673,11 +1675,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
-
-How to dispute copyright?
 
 I have a different question
 
@@ -1752,11 +1752,9 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
-
-How to get permission?
-
-How to report copyright violation?
 
 I have a different question
 
@@ -1889,11 +1887,13 @@ Facebook Lite App Help
 
 More
 
-Appeal removed content
-
-My content was removed
+Appeal content removal
 
 Contact rights owner
+
+DMCA counter-notification
+
+My content was removed
 
 I have a different question
 
@@ -2285,11 +2285,11 @@ Copy link
 
 Apply for Rights Manager
 
-What is Content Protection?
-
-Monetize my video
+Content protection for creators
 
 Report copyright infringement
+
+What are my enforcement options?
 
 I have a different question
 

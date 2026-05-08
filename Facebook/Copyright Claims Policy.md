@@ -1208,11 +1208,11 @@ Copy link
 
 What info is shared?
 
-My email was shared
+Who sees my email?
 
-Can I appeal a report?
+Can I appeal removed content?
 
-What is a report number?
+My content was removed
 
 I have a different question
 
@@ -1313,8 +1313,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-How to use Rights Manager?
 
 I have a different question
 
@@ -1608,9 +1606,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+What is public domain?
 
-Is my content copyrighted?
+What is intellectual property?
 
 I have a different question
 
@@ -1675,9 +1673,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1752,11 +1752,9 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
-
-How to get permission?
-
-How to report copyright violation?
 
 I have a different question
 

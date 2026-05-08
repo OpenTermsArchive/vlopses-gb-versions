@@ -1312,9 +1312,9 @@ Report copyright infringement
 
 Protect my copyrighted work
 
-Copyright and posting content
+What is copyright?
 
-What is copyright law?
+How to use Rights Manager?
 
 I have a different question
 
@@ -1392,13 +1392,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is fair use?
+What is copyright?
 
 Copyright for my content
 
-Copyright for photos/videos
+Copyright for photos
 
-What is intellectual property?
+Copyright for videos
 
 I have a different question
 
@@ -1608,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Is content public domain?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1752,9 +1752,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
+
+How to get permission?
+
+How to report copyright violation?
 
 I have a different question
 

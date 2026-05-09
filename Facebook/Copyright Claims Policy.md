@@ -50,13 +50,13 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+What is a trademark?
+
 Report trademark infringement
 
-Apply for Brand Rights Protection
+What is Brand Rights Protection?
 
-What is trademark law?
-
-What does trademark protect?
+Trademark law in my country
 
 I have a different question
 
@@ -1400,13 +1400,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is fair use?
 
 Copyright for my content
 
-Copyright for photos
+Copyright for photos/videos
 
-Copyright for videos
+What is intellectual property?
 
 I have a different question
 
@@ -1459,13 +1459,11 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns copyright?
+Who owns my original work?
+
+What is copyright ownership?
 
 My employer owns my work
-
-I appear in a photo
-
-Contact a copyright attorney
 
 I have a different question
 
@@ -1514,13 +1512,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
+My copyright was infringed
+
 What is copyright infringement?
 
-Can I use copyrighted work?
+My content was copied
 
-My work was copied
-
-How do I protect my work?
+What are my rights?
 
 I have a different question
 
@@ -1616,9 +1614,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+How to get permission?
 
-What is intellectual property?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1683,11 +1681,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
-
-How to dispute copyright?
 
 I have a different question
 
@@ -2068,9 +2064,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
+Contact DMCA agent
 
-DMCA contact information
+Report copyright infringement
 
 DMCA claim requirements
 

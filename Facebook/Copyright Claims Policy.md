@@ -295,13 +295,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Register my business
+Trademark vs business registration
 
-Trademark my business name
+Register a trademark
 
-Difference in other countries
-
-What is USPTO?
+Register a business
 
 I have a different question
 
@@ -1616,9 +1614,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+How to get permission?
 
-What is intellectual property?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1683,11 +1681,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
-
-How to dispute copyright?
 
 I have a different question
 
@@ -1899,13 +1895,13 @@ Facebook Lite App Help
 
 More
 
-My content was removed
+Appeal content removal
 
-Appeal removed content
+Contact rights owner
 
 DMCA counter-notification
 
-My Page content removed
+My content was removed
 
 I have a different question
 
@@ -2068,9 +2064,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
+Send a DMCA report
 
-Report copyright infringement
+DMCA contact information
 
 DMCA claim requirements
 

@@ -50,6 +50,16 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+Report trademark infringement
+
+Apply for Brand Rights Protection
+
+What is trademark law?
+
+What does trademark protect?
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -1390,13 +1400,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is fair use?
+What is copyright?
 
 Copyright for my content
 
-Copyright for photos/videos
+Copyright for photos
 
-What is intellectual property?
+Copyright for videos
 
 I have a different question
 
@@ -1555,11 +1565,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
-
 When does copyright expire?
 
-How long does copyright last?
+What is public domain?
+
+Copyright after author's death?
 
 I have a different question
 
@@ -1606,9 +1616,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+What is public domain?
 
-Is my content copyrighted?
+What is intellectual property?
 
 I have a different question
 
@@ -1673,9 +1683,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1887,13 +1899,13 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
+My content was removed
 
-Contact rights owner
+Appeal removed content
 
 DMCA counter-notification
 
-My content was removed
+My Page content removed
 
 I have a different question
 
@@ -2056,9 +2068,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
+Contact DMCA agent
 
-DMCA contact information
+Report copyright infringement
 
 DMCA claim requirements
 

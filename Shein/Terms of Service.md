@@ -1180,7 +1180,7 @@ If you sign up for SHEIN CLUB's membership Auto-Renewal Plan, you should abide b
 
 (a) Members benefit from an exclusive 5% discount ( **“Extra 5% OFF”** ) on specified items on the Site that are currently in stock. Therefore, a Product that may once have been covered by the Extra 5% OFF will no longer be subject to the Extra 5% OFF if it goes on flash sale.
 
-All Products to which the Exclusive 5% Discount is applicable will bear an exclusive discounted price logo ![](https://img.ltwebstatic.com/images3_acp/2023/01/06/167298935534824350ddf676c88612d81554afe7d4.png) ![](https://img.ltwebstatic.com/images3_acp/2023/03/06/167808210813c2fa2e9fe9aa70831130d34887392e.png). This Extra 5% OFF may be used in conjunction with other vouchers available to you.
+All Products to which the Exclusive 5% Discount is applicable will bear an exclusive discounted price logo  . This Extra 5% OFF may be used in conjunction with other vouchers available to you.
 
 (b) Please note that the Extra 5% OFF:
 
@@ -1257,33 +1257,7 @@ SHEIN may at its sole discretion offer additional benefits for SHEIN CLUB Member
 
 3\. MEMBERSHIP FEE
 
-**3.1 SHEIN CLUB 14-day Free Trial**
-
-Starting on May 11, 2023, we are providing a FREE trial membership to SHEIN CLUB for select members. To sign up for the FREE trial, you must have a registered SHEIN User Account in good standing and be a SHEIN VIP S3 level or above. You have not been a SHEIN Club member on this device in the past 365 days.
-
-For more information about SHEIN VIP, please click [here](https://m.shein.co.uk/VIP-a-1009.html) .
-
-**To sign up for the SHEIN CLUB 14-day Free Trial:**
-
-\-Log into your SHEIN User account.
-
-\-Go to SHEIN CLUB [Members-only page](https://m.shein.co.uk/user/prime) .
-
-\-Select SHEIN CLUB FREE trial membership and join today!
-
-\-Follow the on-screen instructions when prompted.
-
-**Note about the SHEIN CLUB 14-day Free Trial:**
-
-\-No additional fees. No auto-renew.
-
-\-The range of users who can sign up for a FREE trial may be narrowed or expanded, and the details are subject to the descriptions on the official website.
-
-\-If you upgrade before the FREE trial expires, you will immediately get effective paid membership and benefits, and previously issued shipping vouchers will be retained.
-
-\-To unsubscribe from the SHEIN CLUB Free Trial membership, please contact [Customer Service](https://m.shein.co.uk/robot) . The corresponding benefits will expire immediately after you're successfully unsubscribed.
-
-**3.2 Price**
+**3.1 Price**
 
 The Membership Fee is the price displayed on the Site during your Membership registration process.
 
@@ -1291,7 +1265,7 @@ We may at our sole discretion revise the Membership pricing plans and/or fees an
 
 If you are already a Member, your Membership Fee will not be affected by such revision; you will not be liable for any increase nor entitled to any refund of the Membership Fee paid if our pricing is changed after you become a Member. However, if your Membership period expires, and you would like to renew, you will then renew your Membership under the then-effective Membership pricing plan and fees.
 
-**3.3 How to Purchase and Renew Membership**
+**3.2 How to Purchase and Renew Membership**
 
 You can become purchase your Membership in two ways:
 
@@ -1307,7 +1281,7 @@ Before your Membership period expires, we will notify you of your Membership exp
 
 Note: The SHEIN CLUB Membership subscription purchased through a SHEIN website in any country/region is only applicable to that corresponding website and to orders with delivery addresses in the corresponding country/region.
 
-**3.4 How to Pay for Membership Fee**
+**3.3 How to Pay for Membership Fee**
 
 You can pay for your Membership Fee through the then available payment, except that you may not pay for the Membership Fee by SHEIN wallet, gift card, vouchers or SHEIN Points.
 

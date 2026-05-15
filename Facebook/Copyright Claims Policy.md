@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+Report copyright violation
 
-Report trademark infringement
+Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -873,7 +873,7 @@ What is trademark?
 
 What is fair use?
 
-What are legal consequences?
+What is DMCA?
 
 I have a different question
 
@@ -1310,13 +1310,15 @@ Related articles
 Copyright
 =========
 
-Report copyright infringement
+Rapportera upphovsrättsintrång
 
-Protect my copyrighted work
+Skydda mitt upphovsrättsskyddade verk
 
-What is copyright?
+Vad är Rights Manager?
 
-I have a different question
+Vad händer om jag bryter mot upphovsrätten?
+
+Jag har en annan fråga
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1392,11 +1394,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
+What isn't protected by copyright?
 
 I have a different question
 

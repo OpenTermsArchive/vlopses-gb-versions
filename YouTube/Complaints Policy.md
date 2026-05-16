@@ -125,20 +125,20 @@ This information is published pursuant to Article 18(2) of the [European Media F
 
 | Channel Name | National Regulatory Authority |
 | --- | --- |
+| @GazetvanAntwerpen | Vlaamse Regulator voor de Media |
+| @NieuwsbladOnline | Vlaamse Regulator voor de Media |
+| @Riojacom-oy6nt | Olivia García Pérez |
 | @autovisie | Commissariaat voor de Media, Raad voor de Journalistiek |
 | @bedrock\_nl | Commissariaat voor de Media, Raad voor de Journalistiek |
 | @detelegraaf | Commissariaat voor de Media, Raad voor de Journalistiek |
 | @dvhn | Commissariaat voor de Media, Raad voor de Journalistiek |
 | @eldiariocves | CNMC |
-| @GazetvanAntwerpen | Vlaamse Regulator voor de Media |
 | @hbvl\_hetbelangvanlimburg | Vlaamse Regulator voor de Media |
 | @leeuwardercourant | Commissariaat voor de Media, Raad voor de Journalistiek |
 | @limburgertv | Commissariaat voor de Media, Raad voor de Journalistiek |
 | @metronieuws | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @NieuwsbladOnline | Vlaamse Regulator voor de Media |
 | @nrc\_nl | Commissariaat voor de Media, Raad voor de Journalistiek |
 | @nsmbl | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @Riojacom-oy6nt | Olivia García Pérez |
 | @sikkomgroningen2621 | Commissariaat voor de Media, Raad voor de Journalistiek |
 | @spilnews | Commissariaat voor de Media, Raad voor de Journalistiek |
 | @telesport300 | Commissariaat voor de Media, Raad voor de Journalistiek |
@@ -146,9 +146,10 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Aleksi Rantamaa - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | C'saint-jo TV | ARCOM |
 | Ca Va Chez vous | ARCOM |
+| Crimeworld | Press Council of Ireland |
 | Côté Sports Vosges Télévision | ARCOM |
-| Dallas Vlod / HasBeen | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | DJ Orion | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Dallas Vlod / HasBeen | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | DragonSlayer666 | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Du Champ à l'Assiette | ARCOM |
 | EGOvlogi\_ Sonja Ollila | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -161,6 +162,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Hanna Hantula – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Hrvatska radiotelevizija | The Agency for Electronic Media (AEM) |
 | Ina Mikkola – Valtapeli x Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Irish Independent | Press Council of Ireland |
 | Jaakko Keso – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Klassinen Musiikki | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Kovan viikon ilta | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -171,25 +173,26 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Pavlovin Rotat | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Poikelus – YleX | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Puissance Télévision | ARCOM |
-| Radio Antena | Agencija za komunikacijska omrežja in storitve Republike Slovenije |
-| Rai | Autorità per le Garanzie nelle Comunicazioni (AGCOM) |
-| Record Portugal | Entidade Reguladora para a Comunicação Social (ERC) |
-| Robomestarit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | RTBF Archives | Conseil Supérieur de l'Audiovisuel |
 | RTBF Info | Conseil Supérieur de l'Audiovisuel |
 | RTBF iXPé | Conseil Supérieur de l'Audiovisuel |
 | RTBFSport | Conseil Supérieur de l'Audiovisuel |
-| Siol.net | AKOS |
+| Radio Antena | Agencija za komunikacijska omrežja in storitve Republike Slovenije |
+| Radio Študent | Agencija za omrežje in komunikacije Republike Slovenije |
+| Rai | Autorità per le Garanzie nelle Comunicazioni (AGCOM) |
+| RecordPortugal | Entidade Reguladora para a Comunicação Social (ERC) |
+| Robomestarit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | SPIT | Conseil Supérieur de l'Audiovisuel |
+| Siol.net | AKOS |
 | Svenska.yle.fi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Tarmac | Conseil Supérieur de l'Audiovisuel |
 | TEEN | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Tarmac | Conseil Supérieur de l'Audiovisuel |
 | Tiede-Henkka – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Timo Korpi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Tipik-RTBF | Conseil Supérieur de l'Audiovisuel |
 | Toinen kanava | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Uuden Musiikin Kilpailu | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| VAL DE LOIRE TV | ARCOM |
+| VAL DE LOIRE TV | ARCOM (Autorité de régulation de la communication audiovisuelle et numérique) |
 | Vews-RTBF | Conseil Supérieur de l'Audiovisuel |
 | Viki ja Köpi Show | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Vosges TV | ARCOM |

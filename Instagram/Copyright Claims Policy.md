@@ -53,8 +53,6 @@ Protect my copyrighted work
 
 What is copyright?
 
-My content was removed
-
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
@@ -112,6 +110,16 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Trademark
 =========
+
+Report trademark infringement
+
+What does trademark protect?
+
+Avoid trademark infringement
+
+My trademark was infringed
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
@@ -206,9 +214,11 @@ Copy link
 
 Who owns copyright?
 
-What is an original work?
+My work is copyrighted?
 
-Employer owns my work?
+Copyright for my photo?
+
+Employer owns my copyright?
 
 I have a different question
 
@@ -438,13 +448,13 @@ What to do if content you posted on Instagram or Threads gets removed because it
 
 Copy link
 
-Appeal content removal
-
 My content was removed
+
+Appeal content removal
 
 Contact rights owner
 
-Copyright appeal process
+My content was removed for copyright
 
 I have a different question
 
@@ -519,13 +529,11 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-My copyright was infringed
+Report copyright infringement
 
-Report copyright for someone
+Fill out copyright form
 
-What is Brand Rights Protection?
-
-What is a DMCA agent?
+Brand Rights Protection
 
 I have a different question
 
@@ -628,11 +636,11 @@ Information you need to include in a copyright report to Instagram or Threads
 
 Copy link
 
-My copyright report
-
 What info to include?
 
-Where to find URL?
+Where to find URLs?
+
+What is a declaration?
 
 I have a different question
 
@@ -800,13 +808,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register a trademark
+What are common law rights?
 
-Trademark rights without registration
+Register a trademark outside US
 
-Common law trademark rights
+Registering a company vs trademark
 
-USPTO registration benefits
+How long does registration take?
 
 I have a different question
 
@@ -1085,11 +1093,11 @@ Information you need to include in a copyright report to Instagram or Threads
 
 Copy link
 
-My copyright report
-
 What info to include?
 
-Where to find URL?
+Where to find URLs?
+
+What is a declaration?
 
 I have a different question
 
@@ -1321,11 +1329,9 @@ Copy link
 
 What information is shared?
 
-Who sees my information?
+Appeal a content removal
 
-Appeal content removal
-
-What is a trademark report?
+Removed content for trademark
 
 I have a different question
 

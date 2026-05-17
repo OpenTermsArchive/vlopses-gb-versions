@@ -53,6 +53,8 @@ Protect my copyrighted work
 
 What is copyright?
 
+My content was removed
+
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
@@ -214,11 +216,9 @@ Copy link
 
 Who owns copyright?
 
-My work is copyrighted?
+What is an original work?
 
-Copyright for my photo?
-
-Employer owns my copyright?
+Employer owns my work?
 
 I have a different question
 
@@ -366,9 +366,9 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Fair use vs. copyright exceptions
 
-How do I use copyrighted work?
+My content was removed
 
 I have a different question
 
@@ -448,13 +448,13 @@ What to do if content you posted on Instagram or Threads gets removed because it
 
 Copy link
 
-My content was removed
-
 Appeal content removal
+
+My content was removed
 
 Contact rights owner
 
-My content was removed for copyright
+Copyright appeal process
 
 I have a different question
 
@@ -529,11 +529,13 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-Report copyright infringement
+My copyright was infringed
 
-Fill out copyright form
+Report copyright for someone
 
-Brand Rights Protection
+What is Brand Rights Protection?
+
+What is a DMCA agent?
 
 I have a different question
 
@@ -605,11 +607,11 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-Where is the online form?
+Report copyright infringement
 
-What is a complete copyright claim?
+DMCA designated agent
 
-How to contact by mail?
+Contact Instagram's DMCA agent
 
 I have a different question
 
@@ -636,11 +638,11 @@ Information you need to include in a copyright report to Instagram or Threads
 
 Copy link
 
+My copyright report
+
 What info to include?
 
-Where to find URLs?
-
-What is a declaration?
+Where to find URL?
 
 I have a different question
 
@@ -878,11 +880,11 @@ What is a counterfeit?
 
 Copy link
 
-Report counterfeit goods
+What is a counterfeit good?
 
-What is trademark infringement?
+Report counterfeit products
 
-Brand Rights Protection tool
+Counterfeit on Threads
 
 I have a different question
 
@@ -899,9 +901,11 @@ Copy link
 
 What is nominative fair use?
 
-When is trademark use not infringing?
+Limits to trademark rights?
 
-Can I resell trademarked goods?
+Trademark infringement examples?
+
+Geographic limits on trademarks?
 
 I have a different question
 
@@ -1093,11 +1097,11 @@ Information you need to include in a copyright report to Instagram or Threads
 
 Copy link
 
+My copyright report
+
 What info to include?
 
-Where to find URLs?
-
-What is a declaration?
+Where to find URL?
 
 I have a different question
 
@@ -1158,9 +1162,11 @@ Copy link
 
 What is nominative fair use?
 
-When is trademark use not infringing?
+Limits to trademark rights?
 
-Can I resell trademarked goods?
+Trademark infringement examples?
+
+Geographic limits on trademarks?
 
 I have a different question
 
@@ -1185,9 +1191,9 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Fair use vs. copyright exceptions
 
-How do I use copyrighted work?
+My content was removed
 
 I have a different question
 
@@ -1329,9 +1335,11 @@ Copy link
 
 What information is shared?
 
-Appeal a content removal
+Who sees my information?
 
-Removed content for trademark
+Appeal content removal
+
+What is a trademark report?
 
 I have a different question
 

@@ -9,7 +9,7 @@ Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -46,16 +46,6 @@ If your issue isn't related to Intellectual Property, please see one of the rela
 
 Copyright
 =========
-
-Report copyright infringement
-
-Protect my copyrighted work
-
-What is copyright?
-
-My content was removed
-
-I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
@@ -112,16 +102,6 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Trademark
 =========
-
-Report trademark infringement
-
-What does trademark protect?
-
-Avoid trademark infringement
-
-My trademark was infringed
-
-I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
@@ -366,9 +346,9 @@ Copy link
 
 What is fair use?
 
-Fair use vs. copyright exceptions
+What are copyright exceptions?
 
-My content was removed
+How do I use copyrighted work?
 
 I have a different question
 
@@ -607,11 +587,11 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-Report copyright infringement
+Where is the online form?
 
-DMCA designated agent
+What is a complete copyright claim?
 
-Contact Instagram's DMCA agent
+How to contact by mail?
 
 I have a different question
 
@@ -638,11 +618,11 @@ Information you need to include in a copyright report to Instagram or Threads
 
 Copy link
 
-My copyright report
-
 What info to include?
 
-Where to find URL?
+Where to find URLs?
+
+What is a declaration?
 
 I have a different question
 
@@ -831,13 +811,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark?
+Trademark vs business registration
 
-What is a business registration?
+What is USPTO?
 
-Register my business name
-
-How to get a trademark?
+State registration vs trademark
 
 I have a different question
 
@@ -863,11 +841,11 @@ How long does trademark protection last?
 
 Copy link
 
-My trademark rights expired
+How long trademark protection lasts?
 
-Renew my trademark
+Renew my trademark registration
 
-What if I stop using it?
+What if I stop using trademark?
 
 I have a different question
 
@@ -880,11 +858,11 @@ What is a counterfeit?
 
 Copy link
 
-What is a counterfeit good?
+Report counterfeit goods
 
-Report counterfeit products
+What is trademark infringement?
 
-Counterfeit on Threads
+Brand Rights Protection tool
 
 I have a different question
 
@@ -901,11 +879,9 @@ Copy link
 
 What is nominative fair use?
 
-Limits to trademark rights?
+When is trademark use not infringing?
 
-Trademark infringement examples?
-
-Geographic limits on trademarks?
+Can I resell trademarked goods?
 
 I have a different question
 
@@ -951,7 +927,7 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 
 Copy link
 
-My content violates trademark
+My content violates trademark law
 
 How to avoid trademark violation
 
@@ -1097,11 +1073,11 @@ Information you need to include in a copyright report to Instagram or Threads
 
 Copy link
 
-My copyright report
-
 What info to include?
 
-Where to find URL?
+Where to find URLs?
+
+What is a declaration?
 
 I have a different question
 
@@ -1162,11 +1138,9 @@ Copy link
 
 What is nominative fair use?
 
-Limits to trademark rights?
+When is trademark use not infringing?
 
-Trademark infringement examples?
-
-Geographic limits on trademarks?
+Can I resell trademarked goods?
 
 I have a different question
 
@@ -1191,9 +1165,9 @@ Copy link
 
 What is fair use?
 
-Fair use vs. copyright exceptions
+What are copyright exceptions?
 
-My content was removed
+How do I use copyrighted work?
 
 I have a different question
 

@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Report copyright infringement
 
-Report trademark violation
+Report trademark infringement
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -49,6 +49,16 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 
 Trademark
 =========
+
+What is a trademark?
+
+Report trademark infringement
+
+Apply for Brand Rights Protection
+
+What does trademark protect?
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
@@ -359,13 +369,15 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-Apelować usunięcie treści
+Apelar remoção de conteúdo
 
-Apelować raport o znak towarowy
+Conteúdo removido por engano
 
-Apelować raport o własność intelektualną
+Contactar proprietário dos direitos
 
-I have a different question
+O que é uma marca registada?
+
+Tenho uma questão diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -392,9 +404,9 @@ My account was disabled
 
 My Page was removed
 
-What is repeat infringer policy?
+My Group was removed
 
-What are intellectual property rights?
+What are feature limits?
 
 I have a different question
 
@@ -523,7 +535,7 @@ What is trademark?
 
 What is fair use?
 
-What are legal consequences?
+What is DMCA?
 
 I have a different question
 
@@ -756,15 +768,13 @@ If you own a registered trademark, you may be eligible to use Brand Rights Prote
 Copyright
 =========
 
-Rapportera upphovsrättsintrång
+Protect my copyrighted work
 
-Skydda mitt upphovsrättsskyddade verk
+Report copyright infringement
 
-Vad är Rights Manager?
+What is Rights Manager?
 
-Vad händer om jag bryter mot upphovsrätten?
-
-Jag har en annan fråga
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -952,13 +962,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
-
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-What is public domain?
+Content in public domain
+
+What is copyright?
 
 I have a different question
 
@@ -1000,7 +1010,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
@@ -1233,11 +1245,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Contact DMCA agent
+
+Report copyright infringement
+
 DMCA claim form
-
-DMCA contact details
-
-DMCA claim requirements
 
 I have a different question
 

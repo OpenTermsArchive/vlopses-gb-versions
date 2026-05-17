@@ -189,13 +189,11 @@ Instagram Partner Monetization Policies
 
 Copy link
 
-Monetization eligibility requirements
+My account is ineligible
 
-Why was I ineligible?
+Why was I demonetized?
 
-My monetization was removed
-
-Content monetization policies
+Eligible countries for monetization
 
 I have a different question
 

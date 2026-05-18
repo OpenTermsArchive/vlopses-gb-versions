@@ -404,9 +404,9 @@ My account was disabled
 
 My Page was removed
 
-My Group was removed
+What is repeat infringer policy?
 
-What are feature limits?
+What are intellectual property rights?
 
 I have a different question
 
@@ -455,13 +455,11 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
-Report trademark infringement
-
-My trademark was infringed
+Contact the person directly
 
 What is trademark infringement?
 
-How to report trademark infringement?
+What happens after I report?
 
 I have a different question
 
@@ -535,7 +533,7 @@ What is trademark?
 
 What is fair use?
 
-What is DMCA?
+What are legal consequences?
 
 I have a different question
 
@@ -962,13 +960,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 

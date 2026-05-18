@@ -9,7 +9,7 @@ Report trademark violation
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -46,6 +46,16 @@ If your issue isn't related to Intellectual Property, please see one of the rela
 
 Copyright
 =========
+
+Report copyright infringement
+
+Protect my copyrighted work
+
+What is copyright?
+
+My content was removed
+
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
@@ -509,13 +519,11 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-My copyright was infringed
+Report copyright infringement
 
-Report copyright for someone
+Fill out copyright form
 
-What is Brand Rights Protection?
-
-What is a DMCA agent?
+Brand Rights Protection
 
 I have a different question
 
@@ -618,11 +626,11 @@ Information you need to include in a copyright report to Instagram or Threads
 
 Copy link
 
+My copyright report
+
 What info to include?
 
-Where to find URLs?
-
-What is a declaration?
+Where to find URL?
 
 I have a different question
 
@@ -811,11 +819,13 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Trademark vs business registration
+What is a trademark?
 
-What is USPTO?
+What is a business registration?
 
-State registration vs trademark
+Register my business name
+
+How to get a trademark?
 
 I have a different question
 
@@ -841,11 +851,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long trademark protection lasts?
+My trademark rights expired
 
-Renew my trademark registration
+Renew my trademark
 
-What if I stop using trademark?
+What if I stop using it?
 
 I have a different question
 
@@ -927,7 +937,7 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 
 Copy link
 
-My content violates trademark law
+My content violates trademark
 
 How to avoid trademark violation
 
@@ -1073,11 +1083,11 @@ Information you need to include in a copyright report to Instagram or Threads
 
 Copy link
 
+My copyright report
+
 What info to include?
 
-Where to find URLs?
-
-What is a declaration?
+Where to find URL?
 
 I have a different question
 

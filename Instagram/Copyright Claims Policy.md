@@ -47,16 +47,6 @@ If your issue isn't related to Intellectual Property, please see one of the rela
 Copyright
 =========
 
-Report copyright infringement
-
-Protect my copyrighted work
-
-What is copyright?
-
-My content was removed
-
-I have a different question
-
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://www.copyright.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram and Threads can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
@@ -438,13 +428,13 @@ What to do if content you posted on Instagram or Threads gets removed because it
 
 Copy link
 
-Appeal content removal
-
 My content was removed
+
+Appeal content removal
 
 Contact rights owner
 
-Copyright appeal process
+My content was removed for copyright
 
 I have a different question
 
@@ -519,11 +509,13 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-Report copyright infringement
+My copyright was infringed
 
-Fill out copyright form
+Report copyright for someone
 
-Brand Rights Protection
+What is Brand Rights Protection?
+
+What is a DMCA agent?
 
 I have a different question
 
@@ -595,11 +587,11 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-Where is the online form?
+Report copyright infringement
 
-What is a complete copyright claim?
+DMCA designated agent
 
-How to contact by mail?
+Contact Instagram's DMCA agent
 
 I have a different question
 
@@ -868,11 +860,11 @@ What is a counterfeit?
 
 Copy link
 
-Report counterfeit goods
+What is a counterfeit good?
 
-What is trademark infringement?
+Report counterfeit products
 
-Brand Rights Protection tool
+Counterfeit on Threads
 
 I have a different question
 
@@ -889,9 +881,11 @@ Copy link
 
 What is nominative fair use?
 
-When is trademark use not infringing?
+Limits to trademark rights?
 
-Can I resell trademarked goods?
+Trademark infringement examples?
+
+Geographic limits on trademarks?
 
 I have a different question
 
@@ -1148,9 +1142,11 @@ Copy link
 
 What is nominative fair use?
 
-When is trademark use not infringing?
+Limits to trademark rights?
 
-Can I resell trademarked goods?
+Trademark infringement examples?
+
+Geographic limits on trademarks?
 
 I have a different question
 

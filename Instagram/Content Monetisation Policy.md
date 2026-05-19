@@ -7,9 +7,9 @@ Why was my content demonetized?
 
 My content was restricted
 
-Appeal a monetization decision
+What are prohibited formats?
 
-What content is unoriginal?
+What is unoriginal content?
 
 I have a different question
 
@@ -189,13 +189,11 @@ Instagram Partner Monetization Policies
 
 Copy link
 
-Monetization eligibility requirements
+My account is ineligible
 
-Why was I ineligible?
+Why was I demonetized?
 
-My monetization was removed
-
-Content monetization policies
+Eligible countries for monetization
 
 I have a different question
 

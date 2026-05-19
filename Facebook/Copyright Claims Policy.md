@@ -50,16 +50,6 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 Trademark
 =========
 
-What is a trademark?
-
-Report trademark infringement
-
-Apply for Brand Rights Protection
-
-What does trademark protect?
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
 If you believe that someone is infringing your trademark, you can report it to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -1402,11 +1392,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What isn't protected by copyright?
+What is not protected?
+
+My content was copied
 
 I have a different question
 
@@ -1614,13 +1604,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
@@ -1903,13 +1893,15 @@ Facebook Lite App Help
 
 More
 
-My content was removed
+Contenuto rimosso per copyright
 
-Appeal content removal
+Contestare rimozione contenuto
 
-DMCA counter-notification
+Contattare titolare dei diritti
 
-I have a different question
+Cosa sono le procedure DMCA?
+
+Ho un'altra domanda
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -2240,11 +2232,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What is a report number?
+My copyright report
+
+Report number
 
 Respond to a report
-
-Who sees my report?
 
 I have a different question
 
@@ -2297,15 +2289,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Còraichean Manaidsear
+Apply for Rights Manager
 
-Dìon susbaint
+Report copyright infringement
 
-Cuir a-steach airson ruigsinneachd
+Content protection for creators
 
-Dèan aithris air briseadh dlighe-sgrìobhaidh
+What are my enforcement options?
 
-Tha ceist eadar-dhealaichte agam
+I have a different question
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 

@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+Report copyright violation
 
-Report trademark infringement
+Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -1157,11 +1157,13 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Retract my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel copyright report
 
-Restore removed content
+Retract trademark report
+
+Why can't content be restored?
 
 I have a different question
 
@@ -1390,11 +1392,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What isn't protected by copyright?
+What is not protected?
+
+My content was copied
 
 I have a different question
 
@@ -1750,11 +1752,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
 
-Can I use content with credit?
-
-What if I bought the content?
+How to report copyright infringement?
 
 I have a different question
 

@@ -966,15 +966,15 @@ For any content that was removed based on U.S. trademark rights, we will include
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
 
-Apelar retirada de conteúdo
+Apelar retirada de contenido
 
-Contranotificação DMCA
+Presentar una contranotificación DMCA
 
-Conteúdo removido por engano
+Mi cuenta fue inhabilitada
 
-Recurso para utilizadores italianos
+¿Qué es una contranotificación DMCA?
 
-Tenho uma questão diferente
+Tengo otra pregunta
 
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
 

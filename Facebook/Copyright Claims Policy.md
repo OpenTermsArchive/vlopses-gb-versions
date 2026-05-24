@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+Report copyright violation
 
-Report trademark infringement
+Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -285,7 +285,7 @@ Copy link
 
 What is a trademark?
 
-What is a business registration?
+What is business registration?
 
 Register a trademark in the EU
 
@@ -918,13 +918,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What is a trademark?
+Submit a trademark report
 
-How to report infringement?
+What to include in report
 
-What if I'm not the owner?
-
-How long does a report take?
+How to find a URL
 
 I have a different question
 
@@ -986,13 +984,13 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after I report?
+What is a report number?
 
-My report number
-
-Respond to a message
+I need to provide more information
 
 Who sees my report details?
+
+How do I appeal a decision?
 
 I have a different question
 
@@ -1394,11 +1392,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
+What isn't protected by copyright?
 
 I have a different question
 
@@ -1606,13 +1604,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
@@ -1816,13 +1814,11 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
+My video was removed
+
 Why was my video removed?
 
-My video was removed for copyright
-
-I have rights to use content
-
-Check my notification settings
+Copyright email not received
 
 I have a different question
 
@@ -2010,13 +2006,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Meld en krænkelse af ophavsret
+Report copyright infringement
 
-Kontakt den udpegede agent
+My copyright was infringed
 
-Send en besked til den, der har opslået indholdet
+Contact designated agent
 
-Jeg har et andet spørgsmål
+I have a different question
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
@@ -2120,11 +2116,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
+What info to include?
+
+Where to find URLs?
+
 My copyright was infringed
 
-Report copyright infringement
-
-What is a copyright report?
+How to report copyright?
 
 I have a different question
 

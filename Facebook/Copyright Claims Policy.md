@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Report copyright infringement
 
-Report trademark violation
+Report trademark infringement
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -172,11 +172,11 @@ What is trademark infringement?
 
 Copy link
 
+What is trademark infringement?
+
 What is trademark dilution?
 
-What is likelihood of confusion?
-
-What are trademark rights limits?
+What are trademark rights?
 
 I have a different question
 
@@ -285,7 +285,7 @@ Copy link
 
 What is a trademark?
 
-What is business registration?
+What is a business registration?
 
 Register a trademark in the EU
 
@@ -820,9 +820,9 @@ Copy link
 
 Report a username
 
-My trademark was infringed
+My trademark is infringed
 
-Contact the user directly
+Contact the username owner
 
 I have a different question
 
@@ -873,7 +873,7 @@ What is trademark?
 
 What is fair use?
 
-What are legal consequences?
+What is DMCA?
 
 I have a different question
 
@@ -918,11 +918,13 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-Submit a trademark report
+What is a trademark?
 
-What to include in report
+How to report infringement?
 
-How to find a URL
+What if I'm not the owner?
+
+How long does a report take?
 
 I have a different question
 
@@ -984,13 +986,13 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What is a report number?
+What happens after I report?
 
-I need to provide more information
+My report number
+
+Respond to a message
 
 Who sees my report details?
-
-How do I appeal a decision?
 
 I have a different question
 
@@ -1108,11 +1110,11 @@ Copy link
 
 Report a third-party app
 
+Third-party app terms
+
 My intellectual property infringed
 
 Contact app developer
-
-How to report copyright
 
 I have a different question
 
@@ -1308,15 +1310,13 @@ Related articles
 Copyright
 =========
 
-Rapportera upphovsrättsintrång
+Protect my copyrighted work
 
-Skydda mitt upphovsrättsskyddade verk
+Report copyright infringement
 
-Vad är Rights Manager?
+What is Rights Manager?
 
-Vad händer om jag bryter mot upphovsrätten?
-
-Jag har en annan fråga
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1392,11 +1392,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What isn't protected by copyright?
+What is not protected?
+
+My content was copied
 
 I have a different question
 
@@ -1555,11 +1555,11 @@ How long does copyright protection last?
 
 Copy link
 
-When does copyright expire?
-
 What is public domain?
 
-Copyright for my work
+When does copyright expire?
+
+Can I use public domain content?
 
 I have a different question
 
@@ -1677,9 +1677,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -1814,11 +1812,13 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
-My video was removed
-
 Why was my video removed?
 
-Copyright email not received
+My video was removed for copyright
+
+I have rights to use content
+
+Check my notification settings
 
 I have a different question
 
@@ -2116,13 +2116,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
-
-Where to find URLs?
-
 My copyright was infringed
 
-How to report copyright?
+Report copyright infringement
+
+What is a copyright report?
 
 I have a different question
 

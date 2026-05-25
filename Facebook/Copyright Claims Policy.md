@@ -1110,11 +1110,11 @@ Copy link
 
 Report a third-party app
 
-Third-party app terms
-
 My intellectual property infringed
 
 Contact app developer
+
+How to report copyright
 
 I have a different question
 
@@ -1208,9 +1208,9 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What information is shared?
+What info is sent?
 
-Who sees my email address?
+Who sees my email?
 
 Can I appeal a removal?
 
@@ -1394,11 +1394,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What isn't protected by copyright?
+What is not protected?
+
+My content was copied
 
 I have a different question
 
@@ -1606,13 +1606,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
@@ -1679,9 +1679,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -1756,11 +1754,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
 
-Can I use content with credit?
-
-What if I bought the content?
+How to report copyright infringement?
 
 I have a different question
 

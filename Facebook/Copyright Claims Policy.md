@@ -172,11 +172,11 @@ What is trademark infringement?
 
 Copy link
 
-What is trademark infringement?
-
 What is trademark dilution?
 
-What are trademark rights?
+What is likelihood of confusion?
+
+What are trademark rights limits?
 
 I have a different question
 
@@ -820,9 +820,9 @@ Copy link
 
 Report a username
 
-My trademark is infringed
+My trademark was infringed
 
-Contact the username owner
+Contact the user directly
 
 I have a different question
 
@@ -873,7 +873,7 @@ What is trademark?
 
 What is fair use?
 
-What is DMCA?
+What are legal consequences?
 
 I have a different question
 
@@ -986,13 +986,13 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after I report?
+What is a report number?
 
-My report number
-
-Respond to a message
+I need to provide more information
 
 Who sees my report details?
+
+How do I appeal a decision?
 
 I have a different question
 
@@ -1208,9 +1208,9 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What info is sent?
+What information is shared?
 
-Who sees my email?
+Who sees my email address?
 
 Can I appeal a removal?
 
@@ -1310,13 +1310,15 @@ Related articles
 Copyright
 =========
 
-Protect my copyrighted work
+Rapportera upphovsrättsintrång
 
-Report copyright infringement
+Skydda mitt upphovsrättsskyddade verk
 
-What is Rights Manager?
+Vad är Rights Manager?
 
-I have a different question
+Vad händer om jag bryter mot upphovsrätten?
+
+Jag har en annan fråga
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1392,11 +1394,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
+What isn't protected by copyright?
 
 I have a different question
 
@@ -1555,11 +1557,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
-
 When does copyright expire?
 
-Can I use public domain content?
+What is public domain?
+
+Copyright for my work
 
 I have a different question
 
@@ -1604,13 +1606,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
-
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-What is public domain?
+Content in public domain
+
+What is copyright?
 
 I have a different question
 
@@ -1677,7 +1679,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
@@ -1752,11 +1756,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
 
-How to report copyright infringement?
+Can I use content with credit?
+
+What if I bought the content?
 
 I have a different question
 

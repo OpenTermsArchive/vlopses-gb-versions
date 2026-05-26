@@ -627,6 +627,14 @@ How long does trademark protection last?
 
 Copy link
 
+My trademark rights expired
+
+Renew my trademark
+
+What if I stop using it?
+
+I have a different question
+
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights. Please also note that for trademarks that are registered with the United States Patent and Trademark Office (USPTO), issued registrations must be renewed periodically. The laws in other jurisdictions may vary.
 
 - - -
@@ -948,16 +956,6 @@ Instagram or Threads removed content as a result of your trademark report. What 
 =========================================================================================================================================
 
 Copy link
-
-What information is shared?
-
-Who sees my information?
-
-Appeal content removal
-
-What is a trademark report?
-
-I have a different question
 
 When we receive [trademark infringement reports](https://help.instagram.com/1921828231475726?helpref=faq_content) and remove the reported content, we provide the reported user with the following information:
 

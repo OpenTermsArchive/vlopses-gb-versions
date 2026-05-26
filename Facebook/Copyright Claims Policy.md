@@ -381,9 +381,11 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What is a counterfeit?
 
 Counterfeit sales on Facebook
+
+How to report counterfeits?
 
 I have a different question
 
@@ -426,11 +428,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is nominative fair use?
-
-When is trademark use infringing?
+What is trademark infringement?
 
 Limits to trademark rights?
+
+Use trademark without permission?
 
 I have a different question
 
@@ -777,7 +779,9 @@ Report copyright infringement
 
 Report trademark infringement
 
-Who can report infringement?
+Report someone else's IP
+
+How to report infringement
 
 I have a different question
 
@@ -1110,11 +1114,11 @@ Copy link
 
 Report a third-party app
 
+Third-party app terms
+
 My intellectual property infringed
 
 Contact app developer
-
-How to report copyright
 
 I have a different question
 
@@ -1157,13 +1161,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Retract my report
 
-Cancel copyright report
+Cancel my IP report
 
-Retract trademark report
-
-Why can't content be restored?
+Restore removed content
 
 I have a different question
 
@@ -1394,11 +1396,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
+What isn't protected by copyright?
 
 I have a different question
 
@@ -1606,13 +1608,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
-
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-What is public domain?
+Content in public domain
+
+What is copyright?
 
 I have a different question
 
@@ -1679,7 +1681,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
@@ -1754,11 +1758,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
 
-How to report copyright infringement?
+Can I use content with credit?
+
+What if I bought the content?
 
 I have a different question
 
@@ -1814,13 +1818,11 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
+My video was removed
+
 Why was my video removed?
 
-My video was removed for copyright
-
-I have rights to use content
-
-Check my notification settings
+Copyright email not received
 
 I have a different question
 

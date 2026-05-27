@@ -302,7 +302,7 @@ To learn more about when we remove content that violates our Professional Commun
 - - -
 
 Scams and fraud content
------------------------
+=======================
 
 Last updated: 4 years ago
 
@@ -382,7 +382,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Nudity and adult content
-------------------------
+========================
 
 Last updated: 2 weeks ago
 

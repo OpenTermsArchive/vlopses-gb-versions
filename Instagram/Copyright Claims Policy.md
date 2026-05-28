@@ -144,13 +144,6 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Instagram or Threads removed content as a result of your trademark report. What information is sent to the person who posted that content
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 What is copyright and what does it protect?
@@ -190,13 +183,6 @@ There may be situations where you might think you have a copyright in a creative
 *   If you create a work as part of your regular job responsibilities, you might not be the owner of the copyright in that work. Instead, there are circumstances where the law will consider your employer to be the “author” of that work for copyright purposes.
 
 If you’re not sure about the extent of your copyright in an original work, you may want to contact an attorney to advise you on your rights.
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -249,13 +235,6 @@ The law in most countries recognizes copyrights as well as trademarks. Copyright
 [Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
 
 [Trademark law is](https://help.instagram.com/693466877515116?helpref=faq_content) meant to prevent consumer harm because it prohibits someone other than the rights owner from using a trademark (for example, a brand’s logo) in a way that may confuse consumers. Trademark law protects brand names, slogans, logos or other symbols that help consumers identify the source of goods or services.
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -335,13 +314,6 @@ The application of exceptions and limitations to copyright may vary from country
 
 In the EU, each Member State must ensure that users are able to rely on the following exceptions when making content available: quotation, criticism, review, caricature, parody or pastiche. To learn more about copyright law in the EU, you can visit the [EUIPO website.](https://euipo.europa.eu/ohimportal/en/web/observatory/faqs-on-copyright-sk)
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 Can I still violate another person's copyright on Instagram or Threads if I didn't intend to infringe?
@@ -364,13 +336,6 @@ Keep in mind that your use of someone else’s content may infringe their copyri
 *   Saw that others have posted the same content as well
 
 Learn more about [copyright and what copyright laws protect.](https://help.instagram.com/126382350847838?helpref=faq_content)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -440,13 +405,6 @@ If you believe content on Instagram or Threads is infringing your copyright, you
 
 *   Only the copyright owner or their authorized representative may file a report of copyright infringement. If you believe something on Instagram or Threads infringes someone else’s copyright, you may want to let the rights owner know.
 *   We regularly provide the rights owner’s name, your email and the details of your report to the person who posted the content you are reporting. In the case that you are an authorized representative submitting a report, we provide the name of the organization or client that owns the right in question. For this reason, you may wish to provide a valid generic business or professional email.
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -570,14 +528,6 @@ What happens when you submit a copyright report to Instagram or Threads
 
 Copy link
 
-What happens to my report?
-
-Why was my report rejected?
-
-How to appeal a decision?
-
-I have a different question
-
 If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team asking for more information about your report, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -591,6 +541,13 @@ Please note that we regularly provide the person who posted the content with the
 *   Instructions on how to submit an appeal
 
 The person whose content was removed may contact you with the information you provide. For this reason, you may want to provide a valid generic business or professional email address.
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -611,6 +568,14 @@ More about trademarks and what they protect
 ===========================================
 
 Copy link
+
+What is trademark infringement?
+
+Report a trademark violation
+
+What is not protected?
+
+I have a different question
 
 A trademark is a word, slogan, symbol or design (for example, a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether in stores shopping, watching commercials on TV and so on.
 
@@ -657,6 +622,13 @@ Copy link
 
 In some countries or states in the U.S., a business might be able to register with a government office, or obtain a permit or license to do business in that country or state. These registrations, such as ones issued by a state’s Secretary of State, generally aren’t the same as a trademark registration, and may not themselves create trademark rights for the business. In the U.S., the registration that’s frequently used to establish trademark ownership is one that is issued by the United States Patent and Trademark Office (USPTO).
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 This Page Isn't Available
@@ -678,13 +650,6 @@ How long does trademark protection last?
 Copy link
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights. Please also note that for trademarks that are registered with the United States Patent and Trademark Office (USPTO), issued registrations must be renewed periodically. The laws in other jurisdictions may vary.
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -728,13 +693,6 @@ The law in most countries recognizes copyrights as well as trademarks. Copyright
 [Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
 
 [Trademark law is](https://help.instagram.com/693466877515116?helpref=faq_content) meant to prevent consumer harm because it prohibits someone other than the rights owner from using a trademark (for example, a brand’s logo) in a way that may confuse consumers. Trademark law protects brand names, slogans, logos or other symbols that help consumers identify the source of goods or services.
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -826,13 +784,6 @@ Copy link
 [Usernames are](https://help.instagram.com/182492381886913/?helpref=faq_content) generally claimed on a first-come, first-served basis. This means that you may see an Instagram or Threads account that includes your trademark in its username. While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. The same word used in a different context may not violate your trademark. See [“What is trademark infringement?”](https://help.instagram.com/1904208239817294?helpref=faq_content) to learn more.
 
 If you believe that a username infringes your trademark rights, you may want to contact the responsible person and try to resolve your issue with them directly. If you’re sure you want to report a username on Instagram or Threads that you believe infringes your trademark, you can do so by [reporting it](https://help.instagram.com/1921828231475726?helpref=faq_content).
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -946,13 +897,6 @@ The application of exceptions and limitations to copyright may vary from country
 
 In the EU, each Member State must ensure that users are able to rely on the following exceptions when making content available: quotation, criticism, review, caricature, parody or pastiche. To learn more about copyright law in the EU, you can visit the [EUIPO website.](https://euipo.europa.eu/ohimportal/en/web/observatory/faqs-on-copyright-sk)
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 Information you need to include in a trademark report on Instagram or Threads
@@ -979,13 +923,6 @@ The fastest and easiest way to submit a [report of trademark infringement](https
 *   Your electronic signature or physical signature.
 
 \*Please note that we regularly provide the rights owner’s name, your email address and the details of your report to the person who posted the content you are reporting. This person may contact you with the information you provide. You may wish to provide a valid generic business or professional email address for this reason.
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 

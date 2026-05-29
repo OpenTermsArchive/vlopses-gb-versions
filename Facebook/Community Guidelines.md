@@ -3122,9 +3122,9 @@ About recommendations on Facebook
 
 Copy link
 
-What content isn't recommended?
+What content is recommended?
 
-Why wasn't my content recommended?
+Why was my content not recommended?
 
 How do recommendations work?
 
@@ -3225,6 +3225,13 @@ Related articles
 [Recommend a business on Facebook](https://www.facebook.com/help/271128916342286/?helpref=related_articles)
 
 [Turn similar Page suggestions on or off for your Page](https://www.facebook.com/help/514622715244231/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

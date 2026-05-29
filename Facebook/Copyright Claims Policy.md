@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Report copyright infringement
 
-Report trademark violation
+Report trademark infringement
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -108,13 +108,6 @@ Retract an intellectual property report that you've submitted to Facebook
 Facebook removed content as a result of my trademark report. What information is sent to the person who posted that content?
 
 What tools does Facebook provide to help me enforce my intellectual property rights in advertisements and sale posts?
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -422,6 +415,13 @@ Related articles
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 [Bii's Beauty](https://www.facebook.com/help/211926158839933/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -915,13 +915,6 @@ Related articles
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -932,13 +925,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What is a trademark?
+Submit a trademark report
 
-How to report infringement?
+What to include in report
 
-What if I'm not the owner?
-
-How long does a report take?
+How to find a URL
 
 I have a different question
 
@@ -1000,13 +991,13 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What is a report number?
+What happens after I report?
 
-I need to provide more information
+My report number
+
+Respond to a message
 
 Who sees my report details?
-
-How do I appeal a decision?
 
 I have a different question
 
@@ -1212,13 +1203,6 @@ Related articles
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1229,9 +1213,9 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What info is sent?
+What information is shared?
 
-Who sees my email?
+Who sees my email address?
 
 Can I appeal a removal?
 
@@ -1627,13 +1611,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
@@ -2141,11 +2125,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
+What info to include?
+
+Where to find URLs?
+
 My copyright was infringed
 
-Report copyright infringement
-
-What is a copyright report?
+How to report copyright?
 
 I have a different question
 

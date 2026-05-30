@@ -197,13 +197,6 @@ For example, when someone uploads your photo or video, they make a copy of that 
 
 If you own a copyright, you have the right to grant permission to use your copyrighted work, as well as the right to prevent other people from using your copyrighted work without permission.
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 How long does copyright protection last?
@@ -216,13 +209,6 @@ Copyright protection doesn’t last forever. Eventually, a work loses copyright 
 A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright expires.
 
 There are many factors that determine when a work becomes part of the public domain. Some of these factors include when and where the work was first published, the type of work and the publisher. For example, the Berne Convention, an international treaty about copyright, states that the copyright for most types of works must last at least 50 years after the author’s death. Countries, however, are free to set longer copyright terms within their own laws.
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -406,13 +392,6 @@ When we receive a valid DMCA counter-notification, we forward it to the party th
 
 Content that is restored based on an effective DMCA counter-notification will not be counted against you under our repeat infringer policy.
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 *   [Privacy and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
@@ -533,13 +512,6 @@ When we receive copyright claims through our online form and remove the reported
 
 The person whose content was removed may contact you with the information you provide. For this reason, you may want to provide a valid generic business or professional email address. In rare cases (such as when we are contacted by fax, mail or email), we are only able to provide the report number and a description of the removed content. We may provide additional information if it’s requested by the person who posted the reported content.
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 This Page Isn't Available
@@ -640,6 +612,13 @@ I have a different question
 It depends. In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Outside the U.S., many other countries have adopted similar systems, including the ability for trademark owners to register their trademarks. Both in the U.S. and in other countries, depending on the relevant laws, a trademark owner may still have certain rights without a registration. Typically, a trademark owner’s rights without a registration (often known as common law rights) may be weaker than rights that are subject to a registration. Also, it’s important to keep in mind that registering a company with a government office or getting a permit to do business in a specific country or state (for example, a business registration) usually doesn’t itself create a trademark right.
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

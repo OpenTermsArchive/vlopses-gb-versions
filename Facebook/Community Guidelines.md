@@ -3226,6 +3226,13 @@ Related articles
 
 [Turn similar Page suggestions on or off for your Page](https://www.facebook.com/help/514622715244231/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Terms and policies

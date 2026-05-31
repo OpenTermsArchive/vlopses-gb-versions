@@ -416,6 +416,13 @@ Related articles
 
 [Bii's Beauty](https://www.facebook.com/help/211926158839933/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1312,15 +1319,15 @@ Related articles
 Copyright
 =========
 
-Rapportera upphovsrättsintrång
+Protect my copyrighted work
 
-Skydda mitt upphovsrättsskyddade verk
+Report copyright infringement
 
-Vad är Rights Manager?
+What is Rights Manager?
 
-Vad händer om jag bryter mot upphovsrätten?
+What is intellectual property?
 
-Jag har en annan fråga
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1396,11 +1403,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is copyright infringement?
 
-What does copyright protect?
+How do I protect my content?
 
-What isn't protected by copyright?
+Can I use copyrighted material?
+
+What is fair use?
 
 I have a different question
 
@@ -1613,11 +1622,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My post was removed
+I used someone else's content
+
+Do I need permission?
 
 What is fair use?
-
-How to get permission?
 
 What is public domain?
 
@@ -1684,9 +1693,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
-What is copyright infringement?
+Can I use copyrighted material?
 
 I have a different question
 
@@ -1761,9 +1770,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
+
+Can I use content with credit?
+
+What if I bought the content?
 
 I have a different question
 
@@ -1858,13 +1869,6 @@ Related articles
 
 [What tools does Facebook provide to help me protect my intellectual property in my videos?](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1903,11 +1907,9 @@ Facebook Lite App Help
 
 More
 
-Content removed
-
 Appeal content removal
 
-Intellectual property report
+Contact rights owner
 
 DMCA counter-notification
 

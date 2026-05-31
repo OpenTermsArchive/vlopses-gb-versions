@@ -3122,11 +3122,11 @@ About recommendations on Facebook
 
 Copy link
 
-What content is not recommended?
+What content isn't recommended?
 
-Why was my content not recommended?
+Why wasn't my content recommended?
 
-What are recommendation guidelines?
+How do recommendations work?
 
 I have a different question
 

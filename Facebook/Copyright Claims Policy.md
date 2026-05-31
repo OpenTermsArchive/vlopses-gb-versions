@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-My copyright was violated
+Report copyright infringement
 
-My trademark was violated
-
-Report intellectual property
+Report trademark infringement
 
 What is copyright?
+
+What is a trademark?
 
 I have a different question
 
@@ -1312,15 +1312,15 @@ Related articles
 Copyright
 =========
 
-Report copyright infringement
+Rapportera upphovsrättsintrång
 
-Protect my copyrighted work
+Skydda mitt upphovsrättsskyddade verk
 
-What is copyright?
+Vad är Rights Manager?
 
-How to use Rights Manager?
+Vad händer om jag bryter mot upphovsrätten?
 
-I have a different question
+Jag har en annan fråga
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1396,13 +1396,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-Copyright for my content
-
-Copyright for photos
-
-Copyright for videos
+What isn't protected by copyright?
 
 I have a different question
 
@@ -1547,6 +1545,13 @@ Related articles
 
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1608,13 +1613,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My post was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
@@ -1679,9 +1684,9 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
-Can I use copyrighted material?
+What is copyright infringement?
 
 I have a different question
 
@@ -1898,9 +1903,11 @@ Facebook Lite App Help
 
 More
 
+Content removed
+
 Appeal content removal
 
-Contact rights owner
+Intellectual property report
 
 DMCA counter-notification
 

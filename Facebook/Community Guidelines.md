@@ -3122,7 +3122,7 @@ About recommendations on Facebook
 
 Copy link
 
-What content is recommended?
+What content is not recommended?
 
 Why was my content not recommended?
 
@@ -3235,26 +3235,26 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-Terms and policies
+Terms and Policies
 
-Events and Live
+EVENTS AND LIVE
 ---------------
 
-Pages, groups and events
-========================
+Pages, Groups, and Events
+=========================
 
 ### Introduction
 
-The following terms, as well as our , , and , apply to the creators and admins of Pages, groups and events. Note that other terms and policies, including our , may also apply depending on how you use our services.
+The following terms, as well as our , , and , apply to the creators and admins of Pages, groups, and Events. Note that other terms and policies, including our , may also apply depending on how you use our services.
 
   
 
-Pages, groups and events help build communities with common interests. Admins are the leaders, representatives and caretakers of these communities. Admins are expected to represent themselves authentically and to promote the safety and well-being of their communities.
+Pages, groups, and Events help build communities with common interests. Admins act as the leaders, representatives, and caretakers of these communities. Admins are expected to represent themselves authentically and to promote the safety and well-being of their communities.
 
   
 
-When admins create content that violates our policies (or when group admins or moderators approve violating content created by others) we may take against the Page, group or event in which the content appeared.
+When admins create content that violates our policies (or when group admins or moderators approve violating content created by others) we may take against the Page, group, or Event in which the content appeared.
 
-### Policies for Pages, groups and events
+### Policies for Pages, Groups, and Events
 
 * * *

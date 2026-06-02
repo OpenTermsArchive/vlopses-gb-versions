@@ -125,26 +125,12 @@ This information is published pursuant to Article 18(2) of the [European Media F
 
 | Channel Name | National Regulatory Authority |
 | --- | --- |
-| @GazetvanAntwerpen | Vlaamse Regulator voor de Media |
-| @NieuwsbladOnline | Vlaamse Regulator voor de Media |
-| @Riojacom-oy6nt | Olivia García Pérez |
-| @autovisie | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @bedrock\_nl | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @detelegraaf | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @dvhn | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @eldiariocves | CNMC |
-| @hbvl\_hetbelangvanlimburg | Vlaamse Regulator voor de Media |
-| @leeuwardercourant | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @limburgertv | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @metronieuws | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @nrc\_nl | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @nsmbl | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @sikkomgroningen2621 | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @spilnews | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @telesport300 | Commissariaat voor de Media, Raad voor de Journalistiek |
-| @vrouwnlmagazine | Commissariaat voor de Media, Raad voor de Journalistiek |
+| ARD Food | SWR Runfunkrat |
+| Adoptivbrüder - mit Hannes und Jeremy | SWR Rundfunkrat |
 | Aleksi Rantamaa - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| BKTelevizija | Agencija za komunikacijska omrežja in storitve Republike Slovenije ( akos ) |
 | C'saint-jo TV | ARCOM |
+| CORDOPOLIS | CNMV |
 | Ca Va Chez vous | ARCOM |
 | Crimeworld | Press Council of Ireland |
 | Côté Sports Vosges Télévision | ARCOM |
@@ -157,8 +143,11 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Emma Karasjoki - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Eränkävijät | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Essi Lamppu – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Eurovision Song Contest \| Deutschland | SWR Rundfunkrat |
 | FTW | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| GazetvanAntwerpen | Vlaamse Regulator voor de Media |
 | Gogi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| HAND DRAUF | SWR Rundfunkrat |
 | Hanna Hantula – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Hrvatska radiotelevizija | The Agency for Electronic Media (AEM) |
 | Ina Mikkola – Valtapeli x Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -170,6 +159,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Les Niouzz | Conseil Supérieur de l'Audiovisuel |
 | Menny pahaks - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Mikä keissi? – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| NieuwsbladOnline | Vlaamse Regulator voor de Media |
 | Pavlovin Rotat | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Poikelus – YleX | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Puissance Télévision | ARCOM |
@@ -181,8 +171,13 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Radio Študent | Agencija za omrežje in komunikacije Republike Slovenije |
 | Rai | Autorità per le Garanzie nelle Comunicazioni (AGCOM) |
 | RecordPortugal | Entidade Reguladora para a Comunicação Social (ERC) |
+| Riojacom-oy6nt | Olivia García Pérez |
 | Robomestarit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| SONG TINDERN | SWR Rundfunkrat |
 | SPIT | Conseil Supérieur de l'Audiovisuel |
+| SWR Aktuell | SWR Rundfunkrat |
+| SWR DRM | SWR Rundfunkrat |
+| SWR Wissen | SWR Rundfunkrat |
 | Siol.net | AKOS |
 | Svenska.yle.fi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | TEEN | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -196,6 +191,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Vews-RTBF | Conseil Supérieur de l'Audiovisuel |
 | Viki ja Köpi Show | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Vosges TV | ARCOM |
+| Y-Kollektiv | SWR Rundfunkrat |
 | Yle Abitreenit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Yle Akatemia | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Yle Arabic | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -233,20 +229,34 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | YleX\_ Kohupodi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | ZDF | ZDF Fernsehrat |
 | ZDFheute Nachrichten | ZDF Fernsehrat |
+| autovisie | Commissariaat voor de Media, Raad voor de Journalistiek |
+| bedrock\_nl | Commissariaat voor de Media, Raad voor de Journalistiek |
 | cmtv | Entidade Reguladora para a Comunicação Social (ERC) |
+| detelegraaf | Commissariaat voor de Media, Raad voor de Journalistiek |
+| dvhn | Commissariaat voor de Media, Raad voor de Journalistiek |
+| elDiarioesCastillaLaMancha | Comisión Nacional de los Mercados y la Competencia |
+| eldiariocves | CNMC |
 | eldiarioes | CNMC |
-| @BKTelevizija | Agencija za komunikacijska omrežja in storitve Republike Slovenije ( akos ) |
-| @CORDOPOLIS | CNMV |
-| @elDiarioesCastillaLaMancha | Comisión Nacional de los Mercados y la Competencia |
+| hbvl\_hetbelangvanlimburg | Vlaamse Regulator voor de Media |
 | jornaldenegocios7907 | Entidade Reguladora para a Comunicação Social (ERC) |
+| leeuwardercourant | Commissariaat voor de Media, Raad voor de Journalistiek |
+| limburgertv | Commissariaat voor de Media, Raad voor de Journalistiek |
 | marjuttuulikki - Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| metinalista1 | Ministry of culture |
+| metronieuws | Commissariaat voor de Media, Raad voor de Journalistiek |
 | now\_canal\_oficial | Entidade Reguladora para a Comunicação Social (ERC) |
+| nrc\_nl | Commissariaat voor de Media, Raad voor de Journalistiek |
+| nsmbl | Commissariaat voor de Media, Raad voor de Journalistiek |
 | orfkontext | Kommunikationsbehörde Austria |
 | petsandcompanyofficial | Entidade Reguladora para a Comunicação Social (ERC) |
 | radio1slovenia | Agencija za komunikacijska omrežja in storitve Republike Slovenije |
 | revistasabado | Entidade Reguladora para a Comunicação Social (ERC) |
+| sikkomgroningen2621 | Commissariaat voor de Media, Raad voor de Journalistiek |
+| spilnews | Commissariaat voor de Media, Raad voor de Journalistiek |
 | summeriVLOG | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| telesport300 | Commissariaat voor de Media, Raad voor de Journalistiek |
 | testtube | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | vertelevideo | CNMC |
+| vrouwnlmagazine | Commissariaat voor de Media, Raad voor de Journalistiek |
 | À feu doux | ARCOM |
 | Новости Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |

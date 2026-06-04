@@ -1610,9 +1610,9 @@ Copy link
 
 What is fair use?
 
-Do I need permission?
+Get permission to post
 
-What is public domain?
+My content was removed
 
 I have a different question
 
@@ -1754,11 +1754,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use content with credit?
+
 What is fair use?
 
-Can I use copyrighted content?
-
-What if I give credit?
+What if I modified content?
 
 I have a different question
 
@@ -2008,9 +2008,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
+My content was stolen
 
-Contact designated agent
+Someone used my photo
 
 I have a different question
 

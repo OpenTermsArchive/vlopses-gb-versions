@@ -234,13 +234,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register my trademark
+Register a trademark
 
 Trademark rights without registration
 
-Trademark protection outside US
+Register trademark outside US
 
-What is common law right?
+What is common law rights?
 
 I have a different question
 
@@ -289,7 +289,7 @@ What is a trademark?
 
 What is a business registration?
 
-Register a trademark
+Register my trademark
 
 I have a different question
 
@@ -489,9 +489,9 @@ What is copyright?
 
 What is trademark?
 
-Copyright infringement
+Copyright vs trademark
 
-Trademark infringement
+Protect my brand name
 
 I have a different question
 
@@ -726,9 +726,9 @@ Copy link
 
 Report trademark infringement
 
-Fill out trademark form
+My trademark was infringed
 
-Trademark dispute resolution
+What is trademark infringement?
 
 I have a different question
 
@@ -822,11 +822,9 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
-Report trademark infringement
+Report a username
 
-My trademark is used
-
-Contact username owner
+My trademark is infringed
 
 What is trademark infringement?
 
@@ -1159,9 +1157,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel copyright report
+Cancel my IP report
 
 Restore removed content
 
@@ -1557,11 +1555,11 @@ Copy link
 
 What is public domain?
 
-Copyright for my photo?
+When does copyright expire?
 
-Copyright for my video?
+Can I use public domain content?
 
-How long is copyright?
+How long does copyright last?
 
 I have a different question
 
@@ -1675,7 +1673,7 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
 
@@ -2058,13 +2056,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Send a DMCA report
+
 Contact DMCA agent
 
-DMCA online form
+My copyright was infringed
 
-DMCA contact information
-
-Complete copyright claim
+How to contact Meta DMCA
 
 I have a different question
 
@@ -2170,34 +2168,34 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?
 ============================================================================================================================
 
 Copy link
 
-What info is shared?
+What information is shared?
 
-Who sees my email?
+Can I hide my email?
 
-Can I appeal removed content?
+How to appeal a removal?
 
 I have a different question
 
 When we receive a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) through our online form and remove the reported content, we regularly provide the person who posted the content with the following information:
 
 *   Report number
-*   Rights owner’s name
+*   Rights owner's name
 *   Email address provided by the reporting party
 *   Details of the report
 *   Instructions on how to submit an appeal
 
 The person whose content was removed may contact you with the information you provide. For this reason, you may want to provide a valid generic business or professional email address.
 
-In rare cases (such as when we are contacted by fax, mail or email), we are only able to provide the report number and a description of the removed content. We may provide additional information if it’s requested by the person who posted the reported content.
+In rare cases (such as when we are contacted by fax, post or email), we are only able to provide the report number and a description of the removed content. We may provide additional information if it's requested by the person who posted the reported content.
 
-Related Articles
+Related articles
 ----------------
 
 [Facebook removed content as a result of my trademark report. What information is sent to the person who posted that content?](https://www.facebook.com/help/509605252475371/?helpref=related_articles)
@@ -2206,11 +2204,11 @@ Related Articles
 
 [What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
-
-Related Articles
+Related articles
 
 [Facebook removed content as a result of my trademark report. What information is sent to the person who posted that content?](https://www.facebook.com/help/509605252475371/?helpref=related_articles)
 
@@ -2218,9 +2216,16 @@ Related Articles
 
 [What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

@@ -125,8 +125,6 @@ What do trademarks protect?
 
 Report trademark infringement
 
-How do trademarks work?
-
 I have a different question
 
 A trademark is a word, slogan, symbol or design (example: a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether shopping in stores or online, watching commercials on TV and so on.
@@ -428,11 +426,13 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What is nominative fair use?
 
 Limits to trademark rights?
 
-Use trademark without permission?
+Trademark use without permission?
+
+Geographic limits on trademarks?
 
 I have a different question
 
@@ -487,9 +487,9 @@ What is copyright?
 
 What is trademark?
 
-Copyright vs trademark
+Copyright infringement
 
-Protect my brand name
+Trademark infringement
 
 I have a different question
 
@@ -724,9 +724,9 @@ Copy link
 
 Report trademark infringement
 
-Fill out trademark form
+My trademark was infringed
 
-Trademark dispute resolution
+What is trademark infringement?
 
 I have a different question
 
@@ -922,11 +922,13 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-Submit a trademark claim
+My trademark was infringed
 
-What to include in report
+Report trademark infringement
 
-Find infringing content URL
+What is a trademark?
+
+How to find a URL?
 
 I have a different question
 
@@ -1051,7 +1053,9 @@ Report ad copyright
 
 Report ad trademark
 
-Report counterfeit ad
+Report ad counterfeit
+
+How to use Brand Rights Protection
 
 I have a different question
 
@@ -1155,6 +1159,14 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
+Withdraw my report
+
+Cancel my IP report
+
+Restore removed content
+
+I have a different question
+
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do that is to complete the Retraction Form provided to you in the email you received when you filed your report. Alternatively, you can submit [this form.](https://www.facebook.com/help/contact/237593160842825)
@@ -1189,18 +1201,18 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Facebook removed content as a result of my trademark report. What information is sent to the person who posted that content?
 ============================================================================================================================
 
 Copy link
 
-What info is sent?
+What is a report number?
 
-Who sees my info?
+Who sees my email address?
 
-Appeal removed content
+How to appeal a removal?
 
 My content was removed
 
@@ -1209,39 +1221,46 @@ I have a different question
 When we receive [trademark reports](https://www.facebook.com/help/191999230901156?helpref=faq_content) and remove the reported content, we typically provide the person who posted the content with the following information:
 
 *   Report number
-*   Rights owner’s name
+*   Rights owner's name
 *   Email address provided by the reporting party
 *   Details of the report
 *   Instructions on how to submit an appeal
 
 The person whose content was removed may contact you with the information you provide. You may want to provide a valid generic business or professional email address for this reason.
 
-In rare cases (such as when we are contacted by fax, mail or email), we provide the report number and a description of the removed content. Meta may provide additional information if it’s requested by the person who posted the reported content.
+In rare cases (such as when we are contacted by fax, post or email), we provide the report number and a description of the removed content. Meta may provide additional information if it's requested by the person who posted the reported content.
 
-Related Articles
+Related articles
 ----------------
 
 [Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
 
+[What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
+
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
-[How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
+[How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-[How can I make sure the content I post to Facebook doesn’t violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
-
-[Retract an intellectual property report that you've submitted to Facebook](https://www.facebook.com/help/1206218382801108/?helpref=related_articles)
-
-Related Articles
+Related articles
 
 [Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
 
+[What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
+
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
-[How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
+[How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-[How can I make sure the content I post to Facebook doesn’t violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
+Other ways to get help
+----------------------
 
-[Retract an intellectual property report that you've submitted to Facebook](https://www.facebook.com/help/1206218382801108/?helpref=related_articles)
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1303,6 +1322,8 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
+
+Rights Manager tool
 
 I have a different question
 
@@ -1740,11 +1761,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use content with credit?
+
 What is fair use?
 
-Can I use copyrighted content?
-
-What if I give credit?
+What if I modified content?
 
 I have a different question
 
@@ -1941,9 +1962,9 @@ My content was removed
 
 File a counter-notification
 
-My content was restored
+Content restored after DMCA
 
-What is repeat infringer policy?
+What is DMCA?
 
 I have a different question
 
@@ -1994,9 +2015,9 @@ Copy link
 
 Report copyright infringement
 
-My content was stolen
+My copyright was infringed
 
-Someone used my photo
+Contact designated agent
 
 I have a different question
 
@@ -2220,11 +2241,13 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What is a report number?
+What happens after I report?
 
-What info is shared?
+I need to update my report
 
-How to appeal a decision?
+I received a message
+
+What information is shared?
 
 I have a different question
 

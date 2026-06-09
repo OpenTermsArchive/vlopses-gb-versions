@@ -32,6 +32,13 @@ If your issue isn't related to Intellectual Property, please see one of the rela
 *   [Report a Hate Account](https://help.instagram.com/443165679053819/?helpref=faq_content)
 *   [Report a Hacked Account](https://help.instagram.com/368191326593075/?helpref=faq_content)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Copyright
@@ -191,16 +198,6 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-My work was copied
-
-Stop copyright infringement
-
-Grant permission to use my work
-
-What is fair use?
-
-I have a different question
-
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -252,16 +249,6 @@ How to make sure content you post to Instagram or Threads doesn't violate copyri
 =======================================================================================
 
 Copy link
-
-My content was removed
-
-Copyright strike on my account
-
-What is fair use?
-
-How to get content license?
-
-I have a different question
 
 Under Instagram’s [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads that doesn’t violate someone else's intellectual property rights. The best way to help make sure that what you post to Instagram or Threads doesn’t violate copyright law is to only post content that you’ve created yourself.
 
@@ -461,19 +448,20 @@ For copyright, it’s important to note that intentionally submitting a misleadi
 
 Learn how to [submit a copyright or infringement report](https://help.instagram.com/277982542336146?helpref=faq_content).
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 Can I report an infringement of someone else’s intellectual property on Instagram or Threads?
 =============================================================================================
 
 Copy link
+
+Report copyright infringement
+
+Report trademark infringement
+
+I am an authorized representative
+
+I have a different question
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
@@ -496,6 +484,13 @@ Menlo Park, California 94025
 ip@instagram.com
 
 Please keep in mind that if you submit a report to our designated agent by any means other than through our [online form](https://help.instagram.com/contact/372592039493026), you must include a [complete copyright claim](https://help.instagram.com/454257084652404?helpref=faq_content).
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -592,13 +587,6 @@ The best way to do that is to complete the Retraction Form provided to you in th
 
 Once we receive notice that you’d like to withdraw your report, we’ll restore the content if it has already been removed and send you an email confirmation. Please note, we may be unable to restore the content in certain instances, including technical limitations or if the content was removed for other reasons unrelated to your intellectual property report.
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 More about trademarks and what they protect
@@ -621,14 +609,6 @@ What is trademark infringement?
 
 Copy link
 
-What is likelihood of confusion?
-
-Limits to trademark rights
-
-When does infringement occur?
-
-I have a different question
-
 Generally, trademark infringement occurs when:
 
 1.  A person uses a trademark owner’s trademark (or similar trademark) without permission.
@@ -645,6 +625,14 @@ Does a trademark need to be registered to be protected?
 =======================================================
 
 Copy link
+
+What are common law rights?
+
+Register a business name
+
+What is a USPTO registration?
+
+I have a different question
 
 It depends. In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
@@ -680,6 +668,13 @@ How long does trademark protection last?
 Copy link
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights. Please also note that for trademarks that are registered with the United States Patent and Trademark Office (USPTO), issued registrations must be renewed periodically. The laws in other jurisdictions may vary.
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -730,6 +725,16 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 =========================================================================================
 
 Copy link
+
+My content violates trademark
+
+Avoid trademark infringement
+
+What is trademark law?
+
+My post was removed
+
+I have a different question
 
 Under Instagram's [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads if it doesn't violate the intellectual property rights of another party, including trademarks. Please note that as an Instagram or Threads user, you are responsible for the content you post. If your content violates Threads or Instagram's policies or is reported to Instagram or Threads as infringing the intellectual property rights of another party, Instagram or Threads may remove that content.
 
@@ -795,19 +800,20 @@ Remember, only the trademark owner or their authorized representative may file a
 
 Please note that we regularly provide the rights owner’s name, your email address and the details of your report to the person who posted the content you are reporting. This person may contact you with the information you provide. You may wish to provide a valid generic business or professional email address for this reason.
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 Can I report an infringement of someone else’s intellectual property on Instagram or Threads?
 =============================================================================================
 
 Copy link
+
+Report copyright infringement
+
+Report trademark infringement
+
+I am an authorized representative
+
+I have a different question
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
@@ -881,13 +887,6 @@ Intentionally submitting misleading or otherwise fraudulent reports of copyright
 For copyright, it’s important to note that intentionally submitting a misleading or fraudulent report may also lead to liability for damages under section 512(f) of the United States Digital Millennium Copyright Act (DMCA) or similar laws in other countries.
 
 Learn how to [submit a copyright or infringement report](https://help.instagram.com/277982542336146?helpref=faq_content).
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -978,6 +977,13 @@ The fastest and easiest way to submit a [report of trademark infringement](https
 
 \*Please note that we regularly provide the rights owner’s name, your email address and the details of your report to the person who posted the content you are reporting. This person may contact you with the information you provide. You may wish to provide a valid generic business or professional email address for this reason.
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 *   [Privacy and Reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
@@ -1014,13 +1020,6 @@ If you submitted an intellectual property report, but then reached an agreement 
 The best way to do that is to complete the Retraction Form provided to you in the email with reference to your report. Alternatively, you can submit [this form](https://help.instagram.com/contact/3373960976225657).
 
 Once we receive notice that you’d like to withdraw your report, we’ll restore the content if it has already been removed and send you an email confirmation. Please note, we may be unable to restore the content in certain instances, including technical limitations or if the content was removed for other reasons unrelated to your intellectual property report.
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 

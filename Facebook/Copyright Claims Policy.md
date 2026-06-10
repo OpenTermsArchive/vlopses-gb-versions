@@ -489,9 +489,9 @@ What is copyright?
 
 What is trademark?
 
-Copyright infringement
+Copyright vs trademark
 
-Trademark infringement
+Protect my brand name
 
 I have a different question
 
@@ -924,11 +924,13 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-Submit a trademark claim
+My trademark was infringed
 
-What to include in report
+Report trademark infringement
 
-Find infringing content URL
+What is a trademark?
+
+How to find a URL?
 
 I have a different question
 
@@ -1504,13 +1506,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What are my copyright rights?
+What is copyright infringement?
 
-My content was copied
+My work was copied
 
-Report copyright infringement
+Stop others using my work
 
-What is fair use?
+Grant permission to use
 
 I have a different question
 
@@ -1608,9 +1610,9 @@ Copy link
 
 What is fair use?
 
-Do I need permission?
+Get permission to post
 
-What is public domain?
+My content was removed
 
 I have a different question
 
@@ -1675,7 +1677,7 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
 
@@ -1752,11 +1754,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content with credit?
-
 What is fair use?
 
-What if I modified content?
+Can I use copyrighted content?
+
+What if I give credit?
 
 I have a different question
 
@@ -1891,9 +1893,11 @@ More
 
 Appeal content removal
 
-My content was removed
+Contact rights owner
 
 DMCA counter-notification
+
+My content was removed
 
 I have a different question
 
@@ -2056,13 +2060,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Send a DMCA report
+
 Contact DMCA agent
 
-DMCA online form
+My copyright was infringed
 
-DMCA contact information
-
-Complete copyright claim
+How to contact Meta DMCA
 
 I have a different question
 

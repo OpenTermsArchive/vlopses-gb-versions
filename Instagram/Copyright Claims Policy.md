@@ -348,6 +348,13 @@ If we remove content you posted because of an intellectual property report submi
 
 If your content was removed because of a copyright report, you can submit an appeal. Learn more about [our appeals process](https://www.facebook.com/help/instagram/1417735471763678?locale=en_US&helpref=faq_content) or [how to use music in your videos on Instagram or Threads.](https://www.facebook.com/help/instagram/629037417957828?helpref=faq_content)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 What happens if you repeatedly post content on Instagram or Threads that violates someone else’s intellectual property rights
@@ -369,6 +376,13 @@ If something you posted is restored due to an appeal or because a rights owner w
 Learn more about [what you can do if you believe your account was disabled by mistake](https://help.instagram.com/366993040048856?helpref=faq_content).
 
 Get more information on how to avoid copyright infringement when posting to Instagram or Threads in the [frequently asked questions article.](https://help.instagram.com/126382350847838?helpref=faq_content)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -549,13 +563,6 @@ Please note that we regularly provide the person who posted the content with the
 
 The person whose content was removed may contact you with the information you provide. For this reason, you may want to provide a valid generic business or professional email address.
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 Retract an intellectual property report that you've submitted to Instagram or Threads
@@ -654,13 +661,6 @@ A counterfeit good is a knockoff or replica version of another company’s produ
 
 If you believe content on Instagram or Threads is selling or promoting counterfeit goods, you can report it to us [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 Are there any limits to trademark rights?
@@ -754,6 +754,13 @@ Learn more about [what you can do if you believe your account was disabled by mi
 
 Get more information on how to avoid copyright infringement when posting to Instagram or Threads in the [frequently asked questions article.](https://help.instagram.com/126382350847838?helpref=faq_content)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 How to report trademark infringement on Instagram or Threads
@@ -770,13 +777,6 @@ Please note that submitting a claim of trademark infringement is a serious matte
 Remember, only the trademark owner or their authorized representative may file a report of trademark infringement. If you believe something on Instagram or Threads infringes someone else’s trademark, you may want to let the rights owner know.
 
 Please note that we regularly provide the rights owner’s name, your email address and the details of your report to the person who posted the content you are reporting. This person may contact you with the information you provide. You may wish to provide a valid generic business or professional email address for this reason.
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -924,14 +924,6 @@ Information you need to include in a trademark report on Instagram or Threads
 
 Copy link
 
-What information is needed?
-
-Where do I find URLs?
-
-What is a trademark?
-
-I have a different question
-
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address, and phone number)\*.
@@ -961,6 +953,16 @@ What happens when you submit a trademark report to Instagram or Threads
 =======================================================================
 
 Copy link
+
+What is my report number?
+
+Respond to a report
+
+Appeal a removed content
+
+What happens to my report?
+
+I have a different question
 
 If you [submitted a trademark report](https://help.instagram.com/1921828231475726?helpref=faq_content) to us through our online form or via email, you’ll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
@@ -1040,29 +1042,22 @@ Related articles
 
 [How to appeal the removal of content on Instagram or Threads for trademark reasons](https://www.facebook.com/help/instagram/693680257839261/?helpref=related_articles)
 
-[Appeal Instagram's content decision to the Oversight Board](https://www.facebook.com/help/instagram/675885993348720/?helpref=related_articles)
+[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://www.facebook.com/help/instagram/1445818549016877/?helpref=related_articles)
 
 [How to make sure that content you post to Instagram or Threads doesn't violate copyright law](https://www.facebook.com/help/instagram/354736791367645/?helpref=related_articles)
 
-[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://www.facebook.com/help/instagram/1445818549016877/?helpref=related_articles)
+[Appeal Instagram's content decision to the Oversight Board](https://www.facebook.com/help/instagram/675885993348720/?helpref=related_articles)
 
-[What happens when you submit a copyright report to Instagram or Threads](https://www.facebook.com/help/instagram/746718085394495/?helpref=related_articles)
+[Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/instagram/244286600038698/?helpref=related_articles)
 
 Related articles
 
 [How to appeal the removal of content on Instagram or Threads for trademark reasons](https://www.facebook.com/help/instagram/693680257839261/?helpref=related_articles)
 
-[Appeal Instagram's content decision to the Oversight Board](https://www.facebook.com/help/instagram/675885993348720/?helpref=related_articles)
+[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://www.facebook.com/help/instagram/1445818549016877/?helpref=related_articles)
 
 [How to make sure that content you post to Instagram or Threads doesn't violate copyright law](https://www.facebook.com/help/instagram/354736791367645/?helpref=related_articles)
 
-[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://www.facebook.com/help/instagram/1445818549016877/?helpref=related_articles)
+[Appeal Instagram's content decision to the Oversight Board](https://www.facebook.com/help/instagram/675885993348720/?helpref=related_articles)
 
-[What happens when you submit a copyright report to Instagram or Threads](https://www.facebook.com/help/instagram/746718085394495/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/instagram/244286600038698/?helpref=related_articles)

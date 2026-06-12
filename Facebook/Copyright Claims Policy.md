@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
+My content was removed
+
 Report copyright violation
 
 Report trademark violation
-
-My content was removed
 
 What is intellectual property?
 
@@ -176,9 +176,9 @@ Copy link
 
 What is trademark dilution?
 
-What is likelihood of confusion?
+My trademark was infringed
 
-Limits to trademark rights?
+Report trademark infringement
 
 I have a different question
 
@@ -822,9 +822,11 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
-Report a username
+Report trademark infringement
 
-My trademark is infringed
+My trademark is used
+
+Contact username owner
 
 What is trademark infringement?
 
@@ -1455,6 +1457,8 @@ What is copyright ownership?
 
 My employer owns my work?
 
+Contact a copyright attorney
+
 I have a different question
 
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright in that painting. Similarly, if you take a photo, you likely own the copyright in that photo.
@@ -1741,7 +1745,7 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Unintentional actions can still violate copyright on Facebook
 =============================================================
@@ -1750,55 +1754,60 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content with credit?
+Can I use copyrighted content?
 
 What is fair use?
 
-What if I modified content?
-
 I have a different question
 
-It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn’t use someone else’s copyrighted work if you don’t have permission. Posting content that facilitates copyright infringement through unauthorized devices or services is also not allowed on Facebook.
+It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn't use someone else's copyrighted work if you don't have permission. Posting content that facilitates copyright infringement through unauthorised devices or services is also not allowed on Facebook.
 
-Keep in mind that your use of someone else’s content may infringe their copyright or facilitate copyright infringement, even if you:
+Bear in mind that your use of someone else’s content may infringe their copyright or facilitate copyright infringement, even if you:
 
 *   Gave credit to the copyright owner
-*   Included a disclaimer that you don’t intend to infringe copyright
+*   Included a disclaimer that you don't intend to infringe copyright
 *   Think that the use [is a fair use](https://www.facebook.com/help/337995452911154?helpref=faq_content)
-*   Didn’t intend to profit from it
-*   Bought or downloaded the content (ex: a copy of a DVD or a song from iTunes)
+*   Didn't intend to profit from it
+*   Bought or downloaded the content (e.g. a copy of a DVD or a song from iTunes)
 *   Modified the work or added your own original material to it
-*   Found the content available on the internet
-*   Recorded the content onto your own recording device (ex: from a movie, concert or sporting event)
+*   Found the content available on the Internet
+*   Recorded the content onto your own recording device (e.g. from a film, concert or sporting event)
 *   Saw that others have posted the same content as well
-*   Are using an unauthorized streaming device or service (ex: a “jailbroken” or “loaded” app or service)
+*   Are using an unauthorised streaming device or service (e.g. a "jailbroken" or "loaded" app or service)
 
 Learn more about [copyright and what copyright laws protect](https://www.facebook.com/help/308895412492789?helpref=faq_content).
 
-Related Articles
+Related articles
 ----------------
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[How can I make sure the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
-
 [How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
 
-Related Articles
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
+
+Related articles
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[How can I make sure the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
-
 [How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
+
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1951,9 +1960,9 @@ My content was removed
 
 File a counter-notification
 
-My content was restored
+Content restored after DMCA
 
-What is repeat infringer policy?
+What is DMCA?
 
 I have a different question
 

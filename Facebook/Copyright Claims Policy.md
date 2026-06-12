@@ -176,9 +176,9 @@ Copy link
 
 What is trademark dilution?
 
-My trademark was infringed
+What is likelihood of confusion?
 
-Report trademark infringement
+Limits to trademark rights?
 
 I have a different question
 
@@ -822,11 +822,9 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
-Report trademark infringement
+Report a username
 
-My trademark is used
-
-Contact username owner
+My trademark is infringed
 
 What is trademark infringement?
 
@@ -1208,13 +1206,13 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-My content was removed
+What info is sent?
 
-Why was my content removed?
+Who sees my info?
 
 Appeal removed content
 
-What info is shared?
+My content was removed
 
 I have a different question
 
@@ -1315,8 +1313,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-Rights Manager tool
 
 I have a different question
 
@@ -2234,13 +2230,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens after I report?
+What is a report number?
 
-I need to update my report
+What info is shared?
 
-I received a message
-
-What information is shared?
+How to appeal a decision?
 
 I have a different question
 

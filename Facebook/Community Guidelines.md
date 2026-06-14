@@ -3124,7 +3124,7 @@ About recommendations on Facebook
 
 Copy link
 
-What content is not recommended?
+What content is recommended?
 
 Why was my content not recommended?
 

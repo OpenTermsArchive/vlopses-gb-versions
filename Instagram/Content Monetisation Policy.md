@@ -172,29 +172,12 @@ Content may not be monetized if it displays or discusses gore or bodily conditio
 *   Decay
 *   Infestation
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 Instagram Partner Monetization Policies
 =======================================
 
 Copy link
-
-Check my eligibility
-
-Why was I ineligible?
-
-My monetization was removed
-
-What are content policies?
-
-I have a different question
 
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetization Policies. This is still the best place to learn about the rules for using Instagram's monetization tools.
 

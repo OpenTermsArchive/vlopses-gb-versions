@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
-My content was removed
-
 Report copyright violation
 
 Report trademark violation
+
+My content was removed
 
 What is intellectual property?
 
@@ -285,13 +285,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Trademark vs business registration
+What is a trademark?
+
+What is a business registration?
 
 Register a trademark
-
-Register a business
-
-USPTO trademark registration
 
 I have a different question
 
@@ -334,13 +332,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long trademark rights last?
+Renew trademark registration
 
-Renew my trademark
+Lose trademark rights
 
-Lose my trademark rights
-
-My trademark is not registered
+Trademark rights in EUIPO
 
 I have a different question
 
@@ -652,9 +648,9 @@ My account was disabled
 
 My Page was removed
 
-Why was my account disabled?
+What is intellectual property?
 
-What is repeat infringer policy?
+My account disabled by mistake
 
 I have a different question
 
@@ -730,9 +726,9 @@ Copy link
 
 Report trademark infringement
 
-My trademark was infringed
+Fill out trademark form
 
-What is trademark infringement?
+Trademark dispute resolution
 
 I have a different question
 
@@ -826,9 +822,11 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
-Report a username
+Report trademark infringement
 
-My trademark is infringed
+My trademark is used
+
+Contact username owner
 
 What is trademark infringement?
 
@@ -1057,9 +1055,7 @@ Report ad copyright
 
 Report ad trademark
 
-Report ad counterfeit
-
-How to use Brand Rights Protection
+Report counterfeit ad
 
 I have a different question
 
@@ -1118,11 +1114,9 @@ Copy link
 
 Report a third-party app
 
-App infringes my IP
+My intellectual property infringed
 
 Contact app developer
-
-My idea was stolen
 
 I have a different question
 
@@ -1321,8 +1315,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-Rights Manager tool
 
 I have a different question
 
@@ -1616,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-Get permission to post
+Do I need permission?
 
-My content was removed
+What is public domain?
 
 I have a different question
 
@@ -2066,13 +2058,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
-
 Contact DMCA agent
 
-My copyright was infringed
+DMCA online form
 
-How to contact Meta DMCA
+DMCA contact information
+
+Complete copyright claim
 
 I have a different question
 
@@ -2299,11 +2291,11 @@ Copy link
 
 Apply for Rights Manager
 
-Protect my video content
+Content protection for creators
 
-Report copyrighted content
+Actions for detected content
 
-What is Content Protection?
+Report copyright infringement
 
 I have a different question
 

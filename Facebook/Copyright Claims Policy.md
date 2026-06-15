@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
+My content was removed
+
 Report copyright violation
 
 Report trademark violation
-
-My content was removed
 
 What is intellectual property?
 
@@ -428,13 +428,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is nominative fair use?
+What is trademark infringement?
 
 Limits to trademark rights?
 
-Trademark use without permission?
-
-Geographic limits on trademarks?
+Use trademark without permission?
 
 I have a different question
 
@@ -726,9 +724,9 @@ Copy link
 
 Report trademark infringement
 
-My trademark was infringed
+Fill out trademark form
 
-What is trademark infringement?
+Trademark dispute resolution
 
 I have a different question
 
@@ -1316,6 +1314,8 @@ Protect my copyrighted work
 
 What is copyright?
 
+Rights Manager tool
+
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -1497,30 +1497,28 @@ Related Articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
 
-What is copyright infringement?
+What are my rights?
 
 My work was copied
 
-Stop others using my work
-
-Grant permission to use
+Stop copyright infringement
 
 I have a different question
 
-As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
+As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
 
-If you own a copyright, you have the right to grant permission to use your copyrighted work as well as the right to prevent other people from using your copyrighted work without permission.
+If you own a copyright, you have the right to grant permission to use your copyrighted work, as well as the right to prevent other people from using your copyrighted work without permission.
 
-Related Articles
+Related articles
 ----------------
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
@@ -1529,11 +1527,11 @@ Related Articles
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
-Related Articles
+Related articles
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
@@ -1541,9 +1539,16 @@ Related Articles
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1557,11 +1562,11 @@ Copy link
 
 What is public domain?
 
-Copyright for my photo?
+When does copyright expire?
 
-Copyright for my video?
+Can I use public domain content?
 
-How long is copyright?
+How long does copyright last?
 
 I have a different question
 
@@ -1608,9 +1613,9 @@ Copy link
 
 What is fair use?
 
-Do I need permission?
+Get permission to post
 
-What is public domain?
+My content was removed
 
 I have a different question
 
@@ -1675,7 +1680,7 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
 
@@ -2006,9 +2011,9 @@ Copy link
 
 Report copyright infringement
 
-My content was stolen
+My copyright was infringed
 
-Someone used my photo
+Contact designated agent
 
 I have a different question
 

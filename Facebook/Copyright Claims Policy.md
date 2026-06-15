@@ -176,9 +176,9 @@ Copy link
 
 What is trademark dilution?
 
-My trademark was infringed
+What is likelihood of confusion?
 
-Report trademark infringement
+Limits to trademark rights?
 
 I have a different question
 
@@ -648,9 +648,9 @@ My account was disabled
 
 My Page was removed
 
-What is intellectual property?
+Why was my account disabled?
 
-My account disabled by mistake
+What is repeat infringer policy?
 
 I have a different question
 
@@ -726,9 +726,9 @@ Copy link
 
 Report trademark infringement
 
-Fill out trademark form
+My trademark was infringed
 
-Trademark dispute resolution
+What is trademark infringement?
 
 I have a different question
 
@@ -1675,7 +1675,7 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
 
@@ -2058,13 +2058,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Send a DMCA report
+
 Contact DMCA agent
 
-DMCA online form
+My copyright was infringed
 
-DMCA contact information
-
-Complete copyright claim
+How to contact Meta DMCA
 
 I have a different question
 
@@ -2116,13 +2116,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What is a copyright report?
+What info to include?
 
-What info do I need?
+Where to find URLs?
 
-Where do I report copyright?
-
-My report was rejected
+My copyright was infringed
 
 I have a different question
 

@@ -246,16 +246,6 @@ How long does copyright protection last?
 
 Copy link
 
-How long does copyright last?
-
-What is public domain?
-
-When does copyright expire?
-
-Can I use public domain content?
-
-I have a different question
-
 Copyright protection doesn’t last forever. Eventually, a work loses copyright protection and becomes part of the “public domain.” Once a work is in the public domain, it’s freely available for anyone to use.
 
 A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright expires.
@@ -1172,6 +1162,14 @@ Information you need to include in a trademark report on Instagram or Threads
 
 Copy link
 
+What info do I need?
+
+Where do I submit a report?
+
+What is a trademark?
+
+I have a different question
+
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address, and phone number)\*.
@@ -1288,9 +1286,7 @@ Appeal content removal
 
 Submit a DMCA counter-notification
 
-My appeal was rejected
-
-What is AGCOM?
+What is a DMCA counter-notification?
 
 I have a different question
 

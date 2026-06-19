@@ -125,10 +125,10 @@ This information is published pursuant to Article 18(2) of the [European Media F
 
 | Channel Name | National Regulatory Authority |
 | --- | --- |
-| ARD Food | SWR Runfunkrat |
+| ARD Food | SWR Rundfunkrat |
 | Adoptivbrüder - mit Hannes und Jeremy | SWR Rundfunkrat |
 | Aleksi Rantamaa - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| BKTelevizija | Agencija za komunikacijska omrežja in storitve Republike Slovenije ( akos ) |
+| BKTelevizija | Agencija za komunikacijska omrežja in storitve Republike Slovenije (akos) |
 | C'saint-jo TV | ARCOM |
 | CORDOPOLIS | CNMV |
 | Ca Va Chez vous | ARCOM |
@@ -145,6 +145,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Essi Lamppu – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Eurovision Song Contest \| Deutschland | SWR Rundfunkrat |
 | FTW | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| FollowtheMoneyEU | De Raad voor de Journalistiek |
 | GazetvanAntwerpen | Vlaamse Regulator voor de Media |
 | Gogi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | HAND DRAUF | SWR Rundfunkrat |
@@ -159,7 +160,9 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Les Niouzz | Conseil Supérieur de l'Audiovisuel |
 | Menny pahaks - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Mikä keissi? – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Mosaïk Cristal | ARCOM |
 | NieuwsbladOnline | Vlaamse Regulator voor de Media |
+| Observador | ERC - Entidade Reguladora para a Comunicação Social |
 | Pavlovin Rotat | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Poikelus – YleX | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Puissance Télévision | ARCOM |
@@ -179,7 +182,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | SWR DRM | SWR Rundfunkrat |
 | SWR Wissen | SWR Rundfunkrat |
 | Siol.net | AKOS |
-| Svenska.yle.fi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| [Svenska.yle.fi](http://svenska.yle.fi/) | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | TEEN | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Tarmac | Conseil Supérieur de l'Audiovisuel |
 | Tiede-Henkka – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |

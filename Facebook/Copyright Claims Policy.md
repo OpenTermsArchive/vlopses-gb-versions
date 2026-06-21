@@ -541,13 +541,11 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
-Copyright vs trademark
-
 What is copyright?
 
 What is trademark?
 
-My content was removed
+Protect my content
 
 I have a different question
 
@@ -866,9 +864,11 @@ Copy link
 
 Report an infringement
 
-Report someone else's copyright
+Report copyright infringement
 
-Report someone else's trademark
+Report trademark infringement
+
+Report someone else's IP
 
 I have a different question
 
@@ -1025,29 +1025,31 @@ Resolve issues, make changes and get support in real time
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What information do I need to include in a trademark report to Meta?
 ====================================================================
 
 Copy link
 
-What to include in a report?
+What to include in report?
 
-Where do I submit a report?
+Where do I find a URL?
 
 What is a trademark?
+
+I am not the rights owner
 
 I have a different question
 
 The fastest and easiest way to submit a report of trademark infringement to us is to [contact Facebook](https://www.facebook.com/help/191999230901156?helpref=faq_content). Whether you submit your report through our online form or another method, Meta needs the following information to be able to process your report:
 
-*   Your complete contact information (full name, mailing address and phone number)
-*   The specific word, symbol, etc. in which you claim trademark rights
+*   Your complete contact information (full name, postal address and phone number)
+*   The specific word, symbol etc. in which you claim trademark rights
 *   The basis for your claim of trademark rights (such as a national or community registration), including registration number, if applicable
 *   The country or jurisdiction in which you claim trademark rights
 *   The category of goods and/or services for which you assert rights
-*   Information reasonably sufficient to permit us to locate the material on Facebook that you believe violates your trademark rights. The easiest way to do this is by providing web addresses (URLs) leading directly to the allegedly infringing content. Learn [how to find a URL](https://www.facebook.com/help/2053403608222571?helpref=faq_content).
+*   Information that is reasonably sufficient to permit us to locate the material on Facebook that you believe violates your trademark rights. The easiest way to do this is by providing web addresses (URLs) that lead directly to the allegedly infringing content. Learn [how to find a URL](https://www.facebook.com/help/2053403608222571?helpref=faq_content).
 
 A description of how you believe this content infringes your trademark:
 
@@ -1055,38 +1057,38 @@ A description of how you believe this content infringes your trademark:
 
 A declaration that:
 
-*   You have a good faith belief that use of the trademark described above, in the manner you have complained of, is not authorized by the trademark owner, its agent, or the law
-*   The information in your notice is accurate
-*   Under penalty of perjury, you are the owner or authorized to act on behalf of the owner of a trademark that is allegedly infringed
+*   You have a good faith belief that use of the trademark described above, in the manner you have complained of, is not authorised by the trademark owner, its agent or the law
+*   the information in your notice is accurate;
+*   Under penalty of perjury, you are the owner or are authorised to act on behalf of the owner of a trademark that is allegedly infringed
 
 Your electronic signature or physical signature:
 
-*   Please note that we regularly provide the rights owner’s name, your email address and the details of your report to the person who posted the content you are reporting. This person may contact you with the information you provide. For this reason, you may want to provide a valid generic business or professional email address.
+*   Please note that we regularly provide the rights owner's name, your email address and the details of your report to the person who posted the content you are reporting. This person may contact you with the information you provide. For this reason, you may want to provide a valid generic business or professional email address.
 
-Related Articles
+Related articles
 ----------------
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
-
 [What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+[Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
-Related Articles
+[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
+
+Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
-
 [What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+[Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
+
+[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1169,11 +1171,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad
+Report an ad for infringement
 
 Report ad copyright
 
-Report intellectual property
+Report ad trademark
 
 I have a different question
 
@@ -1353,9 +1355,9 @@ Copy link
 
 What info is sent?
 
-Who gets my email?
+Who receives my info?
 
-How to appeal removed content?
+Can I appeal a removal?
 
 I have a different question
 
@@ -1470,6 +1472,8 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
+
+What is Rights Manager?
 
 I have a different question
 
@@ -1868,7 +1872,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
+Can I use copyrighted material?
 
 I have a different question
 
@@ -2008,10 +2012,10 @@ Resolve issues, make changes and get support in real time
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-A video I posted on Facebook was removed immediately. What happened, and what are my options?
-=============================================================================================
+A video that I posted on Facebook was removed immediately. What happened, and what are my options?
+==================================================================================================
 
 Copy link
 
@@ -2019,42 +2023,42 @@ My video was removed
 
 Why was my video removed?
 
-I have copyright to content
-
 I didn't get an email
+
+What is copyrighted content?
 
 I have a different question
 
-If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else’s copyrighted content. This could include video, audio or both.
+If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
 
-If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
+If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information that you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
 
-If you don't see an email from us regarding the removal, please make sure that you are checking the email address that is associated with your Facebook account. You can find your primary address under your [account settings.](https://www.facebook.com/settings) If you still have not received an email from us, you also may want to review your Facebook [notification settings](https://www.facebook.com/help/154884887910599?helpref=faq_content) as well as your email's spam folder.
+If you don't see an email from us regarding the removal, please make sure that you are checking the email address that is associated with your Facebook account. You can find your primary address under your [account settings.](https://www.facebook.com/settings) If you still haven't received an email from us, you may also want to review your Facebook [notification settings](https://www.facebook.com/help/154884887910599?helpref=faq_content) as well as your email's spam folder.
 
-Related Articles
+Related articles
 ----------------
 
 [Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
-[Why a video you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
-
 [What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
-[How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
+[Why a video that you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
 
 [What tools does Facebook provide to help me protect my intellectual property in my videos?](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
-Related Articles
+[How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
+
+Related articles
 
 [Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
-[Why a video you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
-
 [What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
-[How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
+[Why a video that you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
 
 [What tools does Facebook provide to help me protect my intellectual property in my videos?](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
+
+[How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2168,13 +2172,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-File a DMCA counter-notification
+What is DMCA?
+
+File a counter-notification
 
 My content was removed
 
-What happens to my content?
-
-How long does this take?
+What is repeat infringer policy?
 
 I have a different question
 
@@ -2356,9 +2360,11 @@ Copy link
 
 What info to include?
 
-Submit a copyright report
+Where to submit a report?
 
-My copyright was infringed
+What is a copyright report?
+
+My report was rejected
 
 I have a different question
 
@@ -2420,11 +2426,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What info is provided?
+What information is shared?
 
-Who receives my info?
+Who receives my information?
 
-What is a copyright report?
+Can I change my email?
 
 I have a different question
 

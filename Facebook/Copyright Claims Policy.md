@@ -130,7 +130,9 @@ What is a trademark?
 
 What do trademarks protect?
 
-How do trademarks work?
+Report a trademark infringement
+
+What is trademark confusion?
 
 I have a different question
 
@@ -365,13 +367,13 @@ How long does trademark protection last?
 
 Copy link
 
-How long do trademark rights last?
+How long do my rights last?
 
-Renew my trademark
+Renew my trademark registration
 
-Lose my trademark rights
+I lost my trademark rights
 
-What is USPTO?
+What is the USPTO?
 
 I have a different question
 
@@ -539,11 +541,13 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
+Copyright vs trademark
+
 What is copyright?
 
 What is trademark?
 
-Protect my content
+My content was removed
 
 I have a different question
 
@@ -862,11 +866,9 @@ Copy link
 
 Report an infringement
 
-Report copyright infringement
+Report someone else's copyright
 
-Report trademark infringement
-
-Report someone else's IP
+Report someone else's trademark
 
 I have a different question
 
@@ -1167,11 +1169,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad for infringement
+Report an ad
 
 Report ad copyright
 
-Report ad trademark
+Report intellectual property
 
 I have a different question
 
@@ -1295,9 +1297,9 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-I reported content by mistake
+Restore removed content
 
-How to use the Retraction Form
+I reported content by mistake
 
 I have a different question
 
@@ -1351,9 +1353,9 @@ Copy link
 
 What info is sent?
 
-Who receives my info?
+Who gets my email?
 
-Can I appeal a removal?
+How to appeal removed content?
 
 I have a different question
 
@@ -1468,8 +1470,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-What is Rights Manager?
 
 I have a different question
 
@@ -1620,9 +1620,9 @@ Copy link
 
 Who owns my original work?
 
-What is copyright?
+What is an original work?
 
-Can I copyright a photo?
+My employer owns my work
 
 I have a different question
 
@@ -1868,7 +1868,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
+How is fair use determined?
 
 I have a different question
 
@@ -1948,11 +1948,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is copyright infringement?
-
-Can I use copyrighted content?
+Can I violate copyright unintentionally?
 
 What is fair use?
+
+What if I gave credit?
 
 I have a different question
 
@@ -2019,7 +2019,7 @@ My video was removed
 
 Why was my video removed?
 
-I have rights to content
+I have copyright to content
 
 I didn't get an email
 
@@ -2356,11 +2356,9 @@ Copy link
 
 What info to include?
 
-Where to submit a report?
+Submit a copyright report
 
-What is a copyright report?
-
-My report was rejected
+My copyright was infringed
 
 I have a different question
 
@@ -2422,11 +2420,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What information is shared?
+What info is provided?
 
-Who receives my information?
+Who receives my info?
 
-Can I change my email?
+What is a copyright report?
 
 I have a different question
 

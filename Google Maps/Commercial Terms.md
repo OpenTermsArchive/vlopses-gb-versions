@@ -50,7 +50,7 @@ If you are accessing the Services as a customer of an unaffiliated Google Maps r
 
 (b) any third parties that access or use the Services through Customer’s Account or Customer Application complies with the Agreement, including Section 3.3 (License Restrictions); and
 
-(c) if Customer uses Google Maps Platform Services or Google Maps Content with third-party mapping products or services in its Customer Application, Customer does so at its own discretion. Customer is responsible for any misalignment that may arise from such use.  
+(c) if Customer uses Google Maps Platform Services or Google Maps Content with third-party mapping products or services in its Customer Application, Customer does so at its own discretion. Customer is responsible for any misalignment that may arise from such use.
 
 3.2.2 _Terms of Service and Privacy Policy._ The Customer Application’s (or, if applicable, the Downstream Products’) terms of service will (A) notify users that the Customer Application includes Google Maps features and content; and (B) state that use of Google Maps features and content is subject to the then-current versions of the: (1) Google Maps End User Additional Terms of Service at [https://maps.google.com/help/terms\_maps/](https://maps.google.com/help/terms_maps/); and (2) Google Privacy Policy at [https://policies.google.com/privacy](https://policies.google.com/privacy). 
 
@@ -258,7 +258,7 @@ _"Allegation"_ means an unaffiliated third party’s allegation.
 
 _"Anti-Bribery Laws"_ means all applicable commercial and public anti-bribery laws, (for example, the U.S. Foreign Corrupt Practices Act of 1977 and the UK Bribery Act 2010), which prohibit corrupt offers of anything of value, either directly or indirectly, to anyone, including government officials, to obtain or keep business or to secure any other improper commercial advantage. "Government officials" include any government employee; candidate for public office; and employee of government-owned or government-controlled companies, public international organizations, and political parties.
 
-_"AUP"_ or _"Acceptable Use Policy"_ means the then-current Acceptable Use Policy for the Services described at [https://cloud.google.com/maps-platform/terms/aup/](https://cloud.google.com/maps-platform/terms/aup/).
+_"AUP"_ or _"Acceptable Use Policy"_ means the then-current Acceptable Use Policy for the Services described at [https://cloud.google.com/terms/aup](https://cloud.google.com/terms/aup).
 
 "Brand Features" means each party’s trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as secured by such party from time to time.
 
@@ -288,7 +288,7 @@ _"Google Indemnified Materials"_ means Google's technology used to provide the S
 
 _"Google Maps Content"_ means any content provided through the Services (whether created by Google or its third-party licensors), including map and terrain data, imagery, traffic data, and places data (including business listings).
 
-_"High Risk Activities"_ means activities where the use or failure of the Services could lead to death, personal injury, or environmental damage, including (a) emergency response services; (b) autonomous and semi-autonomous vehicle or drone control; (c) vessel navigation; (d) aviation; (e) air traffic control; (f) nuclear facilities operation.
+_"High Risk Activities"_ means activities where the use or failure of the Services would reasonably be expected to result in death, serious personal injury, or severe environmental damage or property damage (such as the creation or operation of weaponry).
 
 _"HIPAA"_ means the Health Insurance Portability and Accountability Act of 1996 as it may be amended, and any regulations issued under it.
 

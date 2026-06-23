@@ -279,6 +279,14 @@ The difference between copyright and trademark
 
 Copy link
 
+What is copyright?
+
+What is trademark?
+
+Copyright vs trademark infringement
+
+I have a different question
+
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
@@ -390,16 +398,6 @@ Can I still violate another person's copyright on Instagram or Threads if I didn
 ======================================================================================================
 
 Copy link
-
-What is copyright infringement?
-
-What is fair use?
-
-Can I use content with credit?
-
-What if I didn't profit?
-
-I have a different question
 
 It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn’t use someone else’s copyrighted work if you don’t have permission.
 
@@ -879,6 +877,14 @@ The difference between copyright and trademark
 
 Copy link
 
+What is copyright?
+
+What is trademark?
+
+Copyright vs trademark infringement
+
+I have a different question
+
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
@@ -1208,6 +1214,14 @@ What happens when you submit a trademark report to Instagram or Threads
 =======================================================================
 
 Copy link
+
+What happens after I report?
+
+I need my report number
+
+Why was my content removed?
+
+I have a different question
 
 If you [submitted a trademark report](https://help.instagram.com/1921828231475726?helpref=faq_content) to us through our online form or via email, you’ll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 

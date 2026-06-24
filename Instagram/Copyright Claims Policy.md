@@ -3,6 +3,14 @@ Intellectual Property
 
 Copy link
 
+Report a copyright violation
+
+Report a trademark violation
+
+What is intellectual property?
+
+I have a different question
+
 About Intellectual Property
 ---------------------------
 
@@ -343,6 +351,14 @@ How to make sure content you post to Instagram or Threads doesn't violate copyri
 
 Copy link
 
+How to avoid copyright violation?
+
+Can I use content I bought?
+
+What is fair use?
+
+I have a different question
+
 Under Instagram’s [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads that doesn’t violate someone else's intellectual property rights. The best way to help make sure that what you post to Instagram or Threads doesn’t violate copyright law is to only post content that you’ve created yourself.
 
 Posting content that facilitates copyright infringement through unauthorized devices or services is also not allowed on Instagram or Threads.
@@ -548,13 +564,13 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 
 Copy link
 
-How do I file a counter-notification?
+Process DMCA counter-notification
 
-What happens after I file?
+My content was removed
 
-How long does the process take?
+Restore my content
 
-My content wasn't restored
+What is a counter-notification?
 
 I have a different question
 
@@ -582,6 +598,14 @@ Report copyright infringement on Instagram or Threads
 =====================================================
 
 Copy link
+
+Report copyright infringement
+
+Fill out copyright form
+
+Use Brand Rights Protection
+
+I have a different question
 
 If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
 
@@ -648,11 +672,11 @@ Can I report an infringement of someone else’s intellectual property on Instag
 
 Copy link
 
-Report intellectual property infringement
+Report an infringement
 
-Who can report infringement?
+My content was infringed
 
-What if I'm not the owner?
+What is intellectual property?
 
 I have a different question
 
@@ -675,6 +699,8 @@ Copy link
 Contact DMCA agent
 
 DMCA online form
+
+DMCA agent mailing address
 
 What is a complete copyright claim?
 
@@ -714,7 +740,9 @@ What info do I need?
 
 Where do I find URLs?
 
-What is a good faith belief?
+My report was rejected
+
+What is a copyright?
 
 I have a different question
 
@@ -956,11 +984,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
+Trademark vs business registration
+
 What is a trademark registration?
 
 What is a business registration?
-
-USPTO registration
 
 I have a different question
 
@@ -1017,6 +1045,14 @@ What is a counterfeit?
 
 Copy link
 
+Report counterfeit goods
+
+What is a counterfeit good?
+
+Report counterfeit on Threads
+
+I have a different question
+
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe content on Instagram or Threads is selling or promoting counterfeit goods, you can report it to us [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -1035,11 +1071,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What are limits to trademark rights?
+
+When is trademark use infringing?
 
 What is nominative fair use?
-
-Can I resell trademarked goods?
 
 I have a different question
 
@@ -1204,9 +1240,11 @@ Copy link
 
 Report trademark infringement
 
-Report copyright infringement
-
 What is trademark infringement?
+
+I can't report infringement
+
+What happens after I report?
 
 I have a different question
 
@@ -1234,11 +1272,11 @@ Can I report an infringement of someone else’s intellectual property on Instag
 
 Copy link
 
-Report intellectual property infringement
+Report an infringement
 
-Who can report infringement?
+My content was infringed
 
-What if I'm not the owner?
+What is intellectual property?
 
 I have a different question
 
@@ -1291,7 +1329,9 @@ What info do I need?
 
 Where do I find URLs?
 
-What is a good faith belief?
+My report was rejected
+
+What is a copyright?
 
 I have a different question
 
@@ -1364,11 +1404,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What are limits to trademark rights?
+
+When is trademark use infringing?
 
 What is nominative fair use?
-
-Can I resell trademarked goods?
 
 I have a different question
 
@@ -1503,9 +1543,9 @@ Copy link
 
 What happens after I report?
 
-What info is shared?
+I need my report number
 
-I didn't get a report number
+Why was my content removed?
 
 I have a different question
 

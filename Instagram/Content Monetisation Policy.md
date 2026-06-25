@@ -1,28 +1,30 @@
-Instagram Content Monetization Policies
+Instagram Content Monetisation Policies
 =======================================
 
 Copy link
 
-Why can't I monetize content?
+My content was demonetised
+
+Why was my content demonetised?
+
+Appeal a monetisation decision
 
 What content is restricted?
-
-What are prohibited formats?
 
 I have a different question
 
 We offer features and products that help creators and publishers earn money from their content. This content has to follow certain rules.
 
-All content on Instagram must comply with our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content) and [Community Standards](https://transparency.meta.com/policies/community-standards/). These are our high-level rules against sexual, violent, profane or hateful content. However, content appropriate for Instagram in general is not necessarily appropriate for monetization.
+All content on Instagram must comply with our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content) and [Community Standards](https://transparency.meta.com/policies/community-standards/). These are our high-level rules against sexual, violent, profane or hateful content. However, content appropriate for Instagram in general is not necessarily appropriate for monetisation.
 
-Creators and publishers need to adhere to our [Partner Monetization Policies](https://help.instagram.com/512371932629820?helpref=faq_content) and Content Monetization Policies in order to make money from their content. Your content itself must follow these guidelines in order to be eligible for monetization.
+Creators and publishers need to adhere to our [Partner Monetisation Policies](https://help.instagram.com/512371932629820?helpref=faq_content) and Content Monetisation Policies in order to make money from their content. Your content itself must follow these guidelines in order to be eligible for monetisation.
 
-If your video complies with our Content Monetization Policies, advertisers can prevent their ads from appearing in sensitive content. For examples of subjects that are sensitive to advertisers, please review our guidelines for Advertiser-Friendly Content.
+If your video complies with our Content Monetisation Policies, advertisers can prevent their ads from appearing in sensitive content. For examples of subjects that are sensitive to advertisers, please review our guidelines for Advertiser-friendly Content.
 
 Prohibited formats
 ------------------
 
-Content presented in the following formats cannot be monetized:
+Content presented in the following formats cannot be monetised:
 
 **Static videos**
 
@@ -48,49 +50,49 @@ Content that primarily displays still or moving images with overlaid text.
 
 Content that already includes embedded ads where Instagram offers ad placements.
 
-Prohibited behaviors
---------------------
+Prohibited behaviours
+---------------------
 
-Content including the following behaviors cannot monetize:
+Content including the following behaviours cannot monetise:
 
 **Engagement bait**
 
-Content that incentivizes people to click a link or respond to a post through likes or comments.
+Content that incentivises people to click a link or respond to a post through likes or comments.
 
 **Soliciting engagement**
 
-Content that requests compensation in exchange for extreme behavior, such as:
+Content that requests compensation in exchange for extreme behaviour, such as:
 
 *   Consumption of inedible substances.
 *   Showing graphic content.
 *   Consumption of drugs, tobacco or alcohol.
-*   Disrobing or other sexual behavior.
+*   Disrobing or other sexual behaviour.
 
 Prohibited categories
 ---------------------
 
-The following types of content are ineligible to monetize:
+The following types of content are ineligible to monetise:
 
 **Misinformation**
 
-Content that has been rated false by a third-party fact checker.
+Content that has been rated false by a third-party fact-checker.
 
 **Misleading medical information**
 
-Content that contains medical claims that have been disproven by an expert organization. Including, but not limited to, anti-vaccination claims.
+Content that contains medical claims that have been disproven by an expert organisation. Including, but not limited to, anti-vaccination claims.
 
 **Unoriginal content**
 
-Content creators and publishers can only monetize content that they created or were involved in the creation of, or that directly features the creator or publisher. Content that is unoriginal or reproduced without making meaningful enhancements (commentary, parody, creative editing, etc.) cannot be monetized.
+Content creators and publishers can only monetise content that they created or were involved in the creation of, or that directly features the creator or publisher. Content that is unoriginal or reproduced without making meaningful enhancements (commentary, parody, creative editing etc.) cannot be monetised.
 
 Restricted categories
 ---------------------
 
-Content that depicts or discusses subjects in the following categories may face reduced or restricted monetization:
+Content that depicts or discusses subjects in the following categories may face reduced or restricted monetisation:
 
 **Debated social issues**
 
-Content may be subject to reduced or disabled monetization if it depicts or discusses the following subjects in a polarizing or inflammatory manner:
+Content may be subject to reduced or disabled monetisation if it depicts or discusses the following subjects in a polarising or inflammatory manner:
 
 *   Race
 *   Gender
@@ -106,9 +108,9 @@ Content may be subject to reduced or disabled monetization if it depicts or disc
 
 **Tragedy or conflict**
 
-Content may face reduced or disabled monetization if it displays or discusses events that result in suffering, destruction or distress. Depictions or discussions of these subjects, either real or fictional, may affect monetization for your content:
+Content may face reduced or disabled monetisation if it displays or discusses events that result in suffering, destruction or distress. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content:
 
-Content that depicts or discusses these subjects in an explicitly uplifting manner may still be eligible for monetization.
+Content that depicts or discusses these subjects in an explicitly uplifting manner may still be eligible for monetisation.
 
 *   Death
 *   Physical injury
@@ -121,7 +123,7 @@ Content that depicts or discusses these subjects in an explicitly uplifting mann
 
 **Objectionable activity**
 
-Content may face reduced or disabled monetization if it displays or discusses substance abuse or criminal behavior. Depictions or discussions of these subjects, either real or fictional, may affect monetization for your content:
+Content may face reduced or disabled monetisation if it displays or discusses substance abuse or criminal behaviour. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content:
 
 *   Substance abuse
 *   Threats
@@ -141,7 +143,7 @@ Content may face reduced or disabled monetization if it displays or discusses su
 
 **Sexual or suggestive activity**
 
-Content may face reduced or disabled monetization if it contains sexual subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetization for your content.
+Content may face reduced or disabled monetisation if it contains sexual subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetisation for your content.
 
 *   Nudity
 *   Sexual activity
@@ -154,7 +156,7 @@ Content may face reduced or disabled monetization if it contains sexual subject 
 
 **Strong language**
 
-Content may face reduced or disabled monetization if it contains profane or derogatory language. This language, either spoken, written or otherwise represented may affect monetization for your content.
+Content may face reduced or disabled monetisation if it contains profane or derogatory language. This language, either spoken, written or otherwise represented, may affect monetisation for your content.
 
 *   Profanity
 *   Derogatory words
@@ -166,7 +168,7 @@ Content may face reduced or disabled monetization if it contains profane or dero
 
 **Explicit content**
 
-Content may not be monetized if it displays or discusses gore or bodily conditions. Depictions of these subjects, either real or fictional, may affect monetization for your content.
+Content may not be monetised if it displays or discusses gore or bodily conditions. Depictions of these subjects, either real or fictional, may affect monetisation for your content.
 
 *   Wounds
 *   Infections
@@ -189,45 +191,55 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-Instagram Partner Monetization Policies
+Instagram Partner Monetisation Policies
 =======================================
 
 Copy link
 
-Eligibility Standards for Promotional Tools are now called Instagram Partner Monetization Policies. This is still the best place to learn about the rules for using Instagram's monetization tools.
+What are monetisation policies?
 
-In order for creators and publishers to use Monetization or Promotional tools on Instagram from Meta (including Shopping from Creators), they must comply with a set of rules called Instagram Partner Monetization Policies. These rules apply to accounts, behaviors and payments. There is a separate set of policies, called [Instagram Content Monetization Policies](https://help.instagram.com/2635536099905516?helpref=faq_content), that apply specifically to monetized content.
+My account is ineligible
+
+Why was I rejected?
+
+What are content policies?
+
+I have a different question
+
+Eligibility Standards for Promotional Tools are now called Instagram Partner Monetisation Policies. This is still the best place to learn about the rules for using Instagram's monetisation tools.
+
+In order for creators and publishers to use monetisation or promotional tools on Instagram from Meta (including Shopping from Creators), they must comply with a set of rules called Instagram Partner Monetisation Policies. These rules apply to accounts, behaviours and payments. There is a separate set of policies, called [Instagram Content Monetisation Policies](https://help.instagram.com/2635536099905516?helpref=faq_content), that apply specifically to monetised content.
 
 Partner Policies
 ----------------
 
-In order to use Monetization or Promotional tools on Instagram from Meta, your account and content must:
+In order to use monetisation or promotional tools on Instagram from Meta, your account and content must:
 
-**Reside in an Eligible Country**
+**Reside in an eligible country**
 
-To monetize, you must reside in an eligible country where the product or feature is available. You may lose your ability to monetize if you move to an ineligible location or if Instagram from Meta changes product eligibility.
+To monetise, you must reside in an eligible country where the product or feature is available. You may lose your ability to monetise if you move to an ineligible location or if Instagram from Meta changes product eligibility.
 
 **Follow our Community Standards**
 
-These rules apply to all posts and interactions on Instagram from Meta, including rules against hateful conduct, calls for violence, and sexualized content. Any content posted by publishers or creators that violates [our Community Standards](https://transparency.meta.com/policies/community-standards), including our policies regarding intellectual property, authenticity, and user safety, may cause publishers or creators to become ineligible or lose their eligibility to monetize using our features. If you believe you may have violated our policies regarding intellectual property, you can find more information, [learn more](https://help.instagram.com/1445818549016877?helpref=faq_content) about copyright or trademark infringement.
+These rules apply to all posts and interactions on Instagram from Meta, including rules against hateful conduct, calls for violence and sexualised content. Any content posted by publishers or creators that violates [our Community Standards](https://transparency.meta.com/policies/community-standards), including our policies regarding intellectual property, authenticity and user safety, may cause publishers or creators to become ineligible or lose their eligibility to monetise using our features. If you believe that you may have violated our policies regarding intellectual property, you can find more information or [learn more](https://help.instagram.com/1445818549016877?helpref=faq_content) about copyright or trademark infringement.
 
-**Follow our Content Monetization Policies**
+**Follow our Content Monetisation Policies**
 
-Monetized content must pass an additional level of standards above and beyond our Community Standards. These rules are called [Instagram Content Monetization Policies](https://help.instagram.com/2635536099905516?helpref=faq_content). These include deeper restrictions on the content itself and the formats in which it is presented. Creators and publishers must ensure that their profiles, including their profile pictures and profile descriptions as well as their content, follow our Content Monetization Policies.
+Monetised content must pass an additional level of standards above and beyond our Community Standards. These rules are called [Instagram Content Monetisation Policies](https://help.instagram.com/2635536099905516?helpref=faq_content). These include deeper restrictions on the content itself and the formats in which it is presented. Creators and publishers must ensure that their profiles, including their profile pictures and profile descriptions, as well as their content, follow our Content Monetisation Policies.
 
 **Share accurate information**
 
-Creators and publishers posting content flagged as misinformation and false news may be ineligible or may lose their eligibility to monetize. You can read more about this [here](https://about.fb.com/news/2017/04/working-to-stop-misinformation-and-false-news/).
+Creators and publishers posting content flagged as misinformation and false news may be ineligible or may lose their eligibility to monetise. You can read more about this [here](https://about.fb.com/news/2017/04/working-to-stop-misinformation-and-false-news/).
 
-**Monetize authentic engagement**
+**Monetise authentic engagement**
 
-Creators and publishers can only monetize content consumed by their natural, authentic audience. This means creators and publishers may not engage in any behavior that artificially boosts or amplifies followers, views or engagement for the purpose of generating more revenue. This includes manufactured sharing, which is coordinated distribution of content, often for compensation.
+Creators and publishers can only monetise content that is consumed by their natural, authentic audience. This means creators and publishers may not engage in any behaviour that artificially boosts or amplifies followers, views or engagement for the purpose of generating more revenue. This includes manufactured sharing, which is coordinated distribution of content, often for compensation.
 
-Creators and publishers may lose the ability to monetize if their audience significantly consists of fake engagement, including, but not limited to, likes, follows, and views.
+Creators and publishers may lose the ability to monetise if their audience significantly consists of fake engagement, including, but not limited to, likes, follows and views.
 
 **Follow our Payment Terms**
 
-Monetizing Creators and publishers must comply with [Instagram from Meta's rules for making and receiving payments](https://help.instagram.com/2136147216424213?helpref=faq_content).
+Monetising creators and publishers must comply with [Instagram from Meta's rules for making and receiving payments](https://help.instagram.com/2136147216424213?helpref=faq_content).
 
 **Develop an established presence**
 
@@ -235,7 +247,7 @@ Creators and publishers must have an authentic, established presence on Instagra
 
 **Follow our rules for politicians and governments**
 
-The following political and government entities are ineligible for monetization:
+The following political and government entities are ineligible for monetisation:
 
 *   Current elected and appointed government officials
 *   Current political candidates
@@ -243,13 +255,13 @@ The following political and government entities are ineligible for monetization:
 *   Registered political committees
 *   Government agencies and departments
 
-Communications that are regulated as political advertising under applicable law are also ineligible for monetization features.
+Communications that are regulated as political advertising under applicable law are also ineligible for monetisation features.
 
 **Avoid systemic violations**
 
-Monetized creators and publishers, and those that have not been onboarded to a monetization product, may lose the ability to monetize if an entity connected to it has repeatedly violated these policies.
+Monetised creators and publishers, and those that have not been onboarded to a monetisation product, may lose the ability to monetise if an entity connected to it has repeatedly violated these policies.
 
-**Instagram from Meta reserves the right to modify, suspend or terminate access to, or discontinue the availability of, its content monetization features at any time.**
+**Instagram from Meta reserves the right to modify, suspend or terminate access to, or discontinue the availability of, its content monetisation features at any time.**
 
 Other ways to get help
 ----------------------

@@ -5,7 +5,7 @@ Copy link
 
 What is the Instagram Service?
 
-How is Instagram funded?
+How is the service funded?
 
 What is the Privacy Policy?
 
@@ -170,6 +170,35 @@ We always appreciate feedback or other suggestions, but may use them without any
 We may change our Service and Policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service, you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account [here](https://help.instagram.com/370452623149242?ref=igtos) and no longer accessing or using any part of the Instagram Service.  
 
 Effective date: 1 January 2025
+
+Related articles
+----------------
+
+[Intellectual property](https://help.instagram.com/535503073130320/?helpref=related_articles)
+
+[Why we added more information to our Terms](https://help.instagram.com/2281921558660165/?helpref=related_articles)
+
+[Why your account has been restricted for data scraping and what can you do](https://help.instagram.com/740480200552298/?helpref=related_articles)
+
+[Exposed private information](https://help.instagram.com/122717417885747/?helpref=related_articles)
+
+[Information for law enforcement](https://help.instagram.com/494561080557017/?helpref=related_articles)
+
+[How long does copyright protection last?](https://help.instagram.com/1896184403962569/?helpref=related_articles)
+
+Related articles
+
+[Intellectual property](https://help.instagram.com/535503073130320/?helpref=related_articles)
+
+[Why we added more information to our Terms](https://help.instagram.com/2281921558660165/?helpref=related_articles)
+
+[Why your account has been restricted for data scraping and what can you do](https://help.instagram.com/740480200552298/?helpref=related_articles)
+
+[Exposed private information](https://help.instagram.com/122717417885747/?helpref=related_articles)
+
+[Information for law enforcement](https://help.instagram.com/494561080557017/?helpref=related_articles)
+
+[How long does copyright protection last?](https://help.instagram.com/1896184403962569/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

@@ -3,13 +3,13 @@ Instagram Content Monetisation Policies
 
 Copy link
 
-My content was demonetised
+Why can't I monetise content?
 
-Why was my content demonetised?
+What are prohibited formats?
 
-Appeal a monetisation decision
+What are restricted categories?
 
-What content is restricted?
+What is unoriginal content?
 
 I have a different question
 
@@ -182,6 +182,35 @@ Content may not be monetised if it displays or discusses gore or bodily conditio
 *   Decay
 *   Infestation
 
+Related articles
+----------------
+
+[Instagram Affiliate Boosting Programme Creator Terms](https://help.instagram.com/240062899028619/?helpref=related_articles)
+
+[How to use the paid partnership label to tag organic branded content on Instagram](https://help.instagram.com/1109894795810258/?helpref=related_articles)
+
+[Instagram partnership ad specifications for creators](https://help.instagram.com/1022082264667994/?helpref=related_articles)
+
+[Set audience restrictions for branded content on Instagram](https://help.instagram.com/521368460486230/?helpref=related_articles)
+
+[Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
+
+[Create a branded content campaign for a brand on Instagram's creator marketplace](https://help.instagram.com/744025857252464/?helpref=related_articles)
+
+Related articles
+
+[Instagram Affiliate Boosting Programme Creator Terms](https://help.instagram.com/240062899028619/?helpref=related_articles)
+
+[How to use the paid partnership label to tag organic branded content on Instagram](https://help.instagram.com/1109894795810258/?helpref=related_articles)
+
+[Instagram partnership ad specifications for creators](https://help.instagram.com/1022082264667994/?helpref=related_articles)
+
+[Set audience restrictions for branded content on Instagram](https://help.instagram.com/521368460486230/?helpref=related_articles)
+
+[Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
+
+[Create a branded content campaign for a brand on Instagram's creator marketplace](https://help.instagram.com/744025857252464/?helpref=related_articles)
+
 Other ways to get help
 ----------------------
 
@@ -196,15 +225,13 @@ Instagram Partner Monetisation Policies
 
 Copy link
 
-What are monetisation policies?
+Où s'appliquent les politiques?
 
-My account is ineligible
+Pourquoi ma monétisation a-t-elle été refusée?
 
-Why was I rejected?
+Monétiser le contenu de marque
 
-What are content policies?
-
-I have a different question
+J'ai une question différente
 
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetisation Policies. This is still the best place to learn about the rules for using Instagram's monetisation tools.
 
@@ -262,6 +289,35 @@ Communications that are regulated as political advertising under applicable law 
 Monetised creators and publishers, and those that have not been onboarded to a monetisation product, may lose the ability to monetise if an entity connected to it has repeatedly violated these policies.
 
 **Instagram from Meta reserves the right to modify, suspend or terminate access to, or discontinue the availability of, its content monetisation features at any time.**
+
+Related articles
+----------------
+
+[Instagram Affiliate Boosting Programme Creator Terms](https://help.instagram.com/240062899028619/?helpref=related_articles)
+
+[How to use the paid partnership label to tag organic branded content on Instagram](https://help.instagram.com/1109894795810258/?helpref=related_articles)
+
+[Find branded content projects as a creator on Instagram's creator marketplace](https://help.instagram.com/1237032497140392/?helpref=related_articles)
+
+[Instagram partnership ad specifications for creators](https://help.instagram.com/1022082264667994/?helpref=related_articles)
+
+[Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
+
+[About Instagram's creator marketplace](https://help.instagram.com/337707278243327/?helpref=related_articles)
+
+Related articles
+
+[Instagram Affiliate Boosting Programme Creator Terms](https://help.instagram.com/240062899028619/?helpref=related_articles)
+
+[How to use the paid partnership label to tag organic branded content on Instagram](https://help.instagram.com/1109894795810258/?helpref=related_articles)
+
+[Find branded content projects as a creator on Instagram's creator marketplace](https://help.instagram.com/1237032497140392/?helpref=related_articles)
+
+[Instagram partnership ad specifications for creators](https://help.instagram.com/1022082264667994/?helpref=related_articles)
+
+[Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
+
+[About Instagram's creator marketplace](https://help.instagram.com/337707278243327/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

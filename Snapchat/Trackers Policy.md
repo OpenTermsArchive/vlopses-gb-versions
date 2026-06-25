@@ -3,15 +3,15 @@ Cookie Policy
 
 -----------------
 
-A browser cookie is a small piece of data that is stored on your device to help websites and mobile apps remember things about you. Other technologies, including web beacons, web storage, and identifiers associated with your device, may be used for similar purposes. In this policy, we say “cookies” to refer to all of these technologies.
+A browser cookie is a small piece of data that is stored on your device to help websites and mobile apps remember things about you. Other technologies, including web beacons, web storage and identifiers associated with your device, may be used for similar purposes. In this policy, we say “cookies” to refer to all of these technologies.
 
-Our [Privacy Policy](https://www.snap.com/privacy/privacy-policy) explains how we collect and use information from and about you when you use Snapchat and certain other Snap Inc. services. This policy explains more about how we use cookies and your related choices.
+Our [Privacy Policy](https://www.snap.com/privacy/privacy-policy) explains how we collect and use information from and about you when you use Snapchat and certain other Snap Inc. services. This policy explains more about how we use cookies and your related choices.
 
-How We Use Cookies
+How we use cookies
 
-Like most providers of online services, Snap Inc. uses cookies, including third-party cookies, for a number of reasons, like protecting your Snapchat data and account, helping us see which features are most popular, counting visitors to a page, understanding how you engage with web content and emails we send, improving our users’ experience, keeping our services secure, providing relevant advertising, and just generally providing you with a better, more intuitive, and satisfying experience. The cookies we use generally fall into one of the following categories.
+Like most providers of online services, Snap Inc. uses cookies, including third-party cookies, for a number of reasons, like protecting your Snapchat data and account, helping us see which features are most popular, counting visitors to a page, understanding how you engage with web content and emails we send, improving our users’ experience, keeping our services secure, providing relevant advertising and just generally providing you with a better, more intuitive and satisfying experience. The cookies we use generally fall into one of the following categories:
 
-You can see which cookies we use on our sites, for what purpose(s), and for how long on our [Cookie Information Page](https://www.snap.com/privacy/cookie-information#Necessary).
+You can see which cookies we use on our sites, for what purpose(s) and for how long on our [Cookie Information Page](https://www.snap.com/privacy/cookie-information#Necessary). On some of our sites, the cookies we set and for how long depend on your location at the time you interact with our sites.
 
 Category of cookies
 
@@ -23,35 +23,35 @@ Also known as “necessary” cookies. We use these cookies to run our site and 
   
 For example, we may use these cookies to store your session information to prevent others from changing your password without your username and password or remember your cookie preferences.  
   
-On some of our sites, and in certain jurisdictions, we may also use certain session cookies to understand how you use our site during a single browsing session. These particular session cookies expire quickly — at most after 24 hours — and any data associated with them becomes anonymous at that time. Because they are essential, they may be active from the moment you access the website. However, if you wish, you can disable them — see the “Your Choices” section below.
+On some of our sites, and in certain jurisdictions, we may also use certain session cookies to understand how you use our site during a single browsing session. These particular session cookies expire quickly – at most after 24 hours – and any data associated with them becomes anonymous at that time. Because they are essential, they may be active from the moment you access the website. However, if you wish, you can disable them – see the “Your Choices” section below.
 
 Preferences
 
-We use these cookies to remember your settings and preferences, and to improve your experience on our site.  
+We use these cookies to remember your settings and preferences and to improve your experience on our site.  
   
 For example, we may use these cookies to remember your language preferences.
 
 Performance & Analytics
 
-We use these cookies to collect information about how you use our site, monitor site performance, and improve our site performance, our services, and your experience.  
+We use these cookies to collect information about how you use our site, monitor site performance and improve our site performance, our services and your experience.  
   
 For example, we can use these cookies to learn more about which features are the most popular with our users and which ones might need some tweaks.
 
 Marketing
 
-We use these cookies to deliver advertisements, to make them more relevant and meaningful to consumers, and to track the efficiency of our advertising campaigns, both on our services and on other websites or mobile apps. Our
+We use these cookies to deliver advertisements, to make them more relevant and meaningful to consumers, and to track the efficiency of our advertising campaigns, both on our services and on other websites or mobile apps. Our [third-party advertising partners](https://www.snap.com/cookie-policy#third-party-advertising-partners) may use these cookies to build a profile of your interests and deliver relevant advertising on other sites.
 
 Analytics and Advertising Services
 
 Provided by Others
 
-We may let other companies use cookies on our services. These companies may collect information about how you use our services over time and combine it with similar information from other services and companies. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, and better understand your online activity.
+We may let other companies use cookies on our services. These companies may collect information about how you use our services over time and combine it with similar information from other services and companies. This information may be used to, among other things, analyse and track data, determine the popularity of certain content and better understand your online activity.
 
-Additionally, some companies, including our [affiliates](https://support.snapchat.com/a/snap-affiliates?lang=en-US), may use information collected on our services to prevent fraud or other unauthorized or illegal activity and to measure and optimize the performance of ads and deliver more relevant ads on behalf of us or other companies, including on third-party websites and apps. For more information about interest-based ads and the choices available to you, go [here](https://support.snapchat.com/a/advertising-preferences?lang=en-US).
+Additionally, some companies, including our [affiliates](https://support.snapchat.com/a/snap-affiliates?lang=en-GB), may use information collected on our services to prevent fraud or other unauthorised or illegal activity and to measure and optimise the performance of adverts and deliver more relevant adverts on behalf of us or other companies, including on third-party websites and apps. For more information about interest-based adverts and the choices available to you, go [here](https://support.snapchat.com/a/advertising-preferences?lang=en-GB).
 
 Provided by Us
 
-We may collect information about your activity on third-party services that use cookies provided by us. We use this information to improve our advertising services, including measuring the performance of ads and showing you more relevant ads. Visit our [Advertising Preferences](https://support.snapchat.com/a/advertising-preferences?lang=en-US) page to learn more about Snapchat advertising and how you can control the information used to select the ads you see.
+We may collect information about your activity on third-party services that use cookies provided by us. We use this information to improve our advertising services, including measuring the performance of adverts and showing you more relevant adverts. Visit our [Advertising Preferences](https://support.snapchat.com/a/advertising-preferences?lang=en-GB) page to learn more about Snapchat advertising and how you can control the information used to select the adverts you see.
 
 Your Choices
 
@@ -65,25 +65,25 @@ _Device Identifier Settings_
 
 Your device operating system may let you opt-out from having certain device identifiers used for interest-based advertising. You should refer to the instructions provided by your mobile device’s manufacturer; this information is typically available under the “settings” function of your mobile device.
 
-And of course, if your mobile device offers an uninstall process, you can always stop us from collecting information through the app by uninstalling the Snapchat app.
+And, of course, if your mobile device offers an uninstall process, you can always stop us from collecting information through the app by uninstalling the Snapchat app.
 
 _Website Settings_
 
-You can also customize which cookies may be set by adjusting your settings on our sites. See the cookie menu on our sites that will allow you to do so:
+You can also customise which cookies may be set by adjusting your settings on our sites. See the cookie menu on our sites that will allow you to do so:
 
-[Snap.com Cookie Settings](https://www.snap.com/cookie-settings)
+[Snap.com cookie settings](https://www.snap.com/cookie-settings)
 
-[Snapchat.com Cookie Settings](https://www.snapchat.com/cookie-settings?lang=en-US)
+[Snapchat.com cookie settings](https://www.snapchat.com/cookie-settings?lang=en-GB)
 
-[Spectacles.com Cookie Settings](https://www.spectacles.com/cookie-settings?lang=en-US)
+[Spectacles.com cookie Settings](https://www.spectacles.com/cookie-settings?lang=en-GB)
 
-[Yellowla.com Cookie Settings](https://www.yellowla.com/cookie-settings?lang=en-US)
+[Yellowla.com cookie settings](https://www.yellowla.com/cookie-settings?lang=en-GB)
 
-[Snapfoundation.org Cookie Settings](https://www.snapfoundation.org/cookie-settings)
+[Snapfoundation.org cookie Settings](https://www.snapfoundation.org/cookie-settings)
 
-[Arcadiacreativestudio.com Cookie Settings](https://arcadiacreativestudio.com/cookie-settings?lang=en-US)
+[Arcadiacreativestudio.com cookie settings](https://arcadiacreativestudio.com/cookie-settings?lang=en-GB)
 
-[Pixy.com Cookie Settings](https://pixy.com/cookie-settings?lang=en-US)
+[Pixy.com cookie settings](https://pixy.com/cookie-settings?lang=en-GB)
 
 Third-party advertising partners
 
@@ -92,8 +92,6 @@ Third-party advertising partners
 *   [Facebook](https://www.facebook.com/policies/cookies/)
     
 *   [Google Analytics](https://policies.google.com/technologies/cookies)
-    
-*   [Hubspot](https://www.hubspot.com/)
     
 *   [LinkedIn](https://www.linkedin.com/legal/cookie-policy)
     
@@ -104,7 +102,5 @@ Third-party advertising partners
 *   [Pinterest](https://policy.pinterest.com/cookies)
     
 *   [Reddit](https://www.reddit.com/policies/cookies)
-    
-*   [The Trade Desk](https://www.thetradedesk.com/us/privacy)
     
 *   [Twitter](https://help.twitter.com/rules-and-policies/twitter-cookies)

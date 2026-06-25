@@ -3,13 +3,13 @@ Snap Developer Terms
 
 ------------------------
 
-Effective: January 31, 2025
+Effective: 30 May 2022
 
 ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms/business-services#governing-law-and-disputes) PROVISION SET FORTH IN THE [BUSINESS SERVICES TERMS](https://www.snap.com/terms/business-services). IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
 
 **Introduction**
 
-These Snap Developer Terms form a legally binding contract between you and Snap, govern the use of the Business Services for Snap’s developer program (“Snap Developer Program”), and are incorporated into the [Business Services Terms](https://www.snap.com/terms/business-services). Some terms used in these Snap Developer Terms are defined in the [Business Services Terms](https://www.snap.com/terms/business-services). These Snap Developer Terms incorporate by reference the [Snap Kit Docs](https://docs.snap.com/snap-kit/app-review/overview?lang=en-US), which are Supplemental Terms and Policies under the [Business Services Terms](https://www.snap.com/terms/business-services).
+These Snap Developer Terms form a legally binding contract between you and Snap, govern the use of the Business Services for Snap’s developer program (“Snap Developer Program”), and are incorporated into the [Business Services Terms](https://www.snap.com/terms/business-services). Some terms used in these Snap Developer Terms are defined in the [Business Services Terms](https://www.snap.com/terms/business-services). These Snap Developer Terms incorporate by reference the [Snap Kit Docs](https://docs.snap.com/snap-kit/app-review/overview?lang=en-GB), which are Supplemental Terms and Policies under the [Business Services Terms](https://www.snap.com/terms/business-services).
 
 **1\. Definitions**
 

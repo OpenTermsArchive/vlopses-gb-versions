@@ -17,24 +17,24 @@ Community Standards
 
 - - -
 
-Violence and Incitement
+Violence and incitement
 =======================
 
 ### Policy details
 
 CHANGE LOG
 
-Policy Rationale
+Policy rationale
 
-We aim to prevent potential offline violence that may be related to content on our platforms. While we understand that people commonly express disdain or disagreement by threatening or calling for violence in non-serious and casual ways, we remove language that incites or facilitates violence and credible threats to public or personal safety. This includes violent speech targeting a person or group of people on the basis of their protected characteristic(s) or immigration status. We remove content, disable accounts and work with law enforcement when we believe there is a genuine risk of physical harm or direct threats to public safety. We also try to consider the language and context in order to distinguish casual or awareness-raising statements from content that constitutes a credible threat to public or personal safety. In determining whether a threat is credible, we may also consider additional information such as a person's public visibility and the risks to their physical safety.
+We aim to prevent potential offline violence that may be related to content on our platforms. While we understand that people commonly express disdain or disagreement by threatening or calling for violence in non-serious and casual ways, we remove language that incites or facilitates violence and credible threats to public or personal safety. This includes violent speech targeting a person or group of people on the basis of their protected characteristic(s) or immigration status. We remove content, disable accounts and work with law enforcement when we believe that there is a genuine risk of physical harm or direct threats to public safety. We also try to consider the language and context in order to distinguish casual or awareness-raising statements from content that constitutes a credible threat to public or personal safety. In determining whether a threat is credible, we may also consider additional information such as a person's public visibility and the risks to their physical safety.
 
-In some cases, we see aspirational or conditional threats of violence, including expressions of hope that violence will be committed, directed at terrorists and other violent actors (e.g., “Terrorists deserve to be killed,” “I hope they kill the terrorists”). We deem those non-credible, absent specific evidence to the contrary.
+In some cases, we see aspirational or conditional threats of violence, including expressions of hope that violence will be committed, directed at terrorists and other violent actors (e.g. "Terrorists deserve to be killed", "I hope they kill the terrorists"). We deem those non-credible, absent specific evidence to the contrary.
 
-We Remove:
+We remove:
 
-We remove threats of violence against various targets. Threats of violence are statements or visuals representing an intention, aspiration, or call for violence against a target, and threats can be expressed in various types of statements such as statements of intent, calls for action, advocacy, expressions of hope, aspirational statements and conditional statements.
+We remove threats of violence against various targets. Threats of violence are statements or visuals representing an intention, aspiration or call for violence against a target, and threats can be expressed in various types of statements, such as statements of intent, calls for action, advocacy, expressions of hope, aspirational statements and conditional statements.
 
-**We do not prohibit threats when shared in awareness-raising or condemning context, when less severe threats are made in the context of contact sports, or certain threats against violent actors, like terrorist groups.**
+**We do not prohibit threats when shared in awareness-raising or condemning context, when less severe threats are made in the context of contact sports, or certain threats against violent actors, such as terrorist groups.**
 
 **Universal protections for everyone**
 
@@ -44,35 +44,35 @@ Everyone is protected from the following threats:
     
 *   Threats of violence that could lead to serious injury (mid-severity violence). We remove such threats against public figures and groups not based on protected characteristics when credible, and we remove them against any other targets (including groups based on protected characteristics) regardless of credibility
     
-*   Admissions to high-severity or mid-severity violence (in written or verbal form, or visually depicted by the perpetrator or an associate), except when shared in a context of redemption, self-defense, contact sports (mid-severity or less), or when committed by law enforcement, military or state security personnel
+*   Admissions to high-severity or mid-severity violence (in written or verbal form, or visually depicted by the perpetrator or an associate), except when shared in a context of redemption, self-defence, contact sports (mid-severity or less) or when committed by law enforcement, military or state security personnel
     
 *   Threats or depictions of kidnappings or abductions, unless it is clear that the content is being shared by a victim or their family as a plea for help, or shared for informational, condemnation or awareness-raising purposes
     
 
-**Additional protections for Private Adults, All Children, high-risk persons and persons or groups based on their protected characteristics:**
+**Additional protections for private adults, all children, high-risk persons and persons or groups based on their protected characteristics:**
 
 In addition to the universal protections for everyone, all private adults (when self-reported), children and persons or groups of people targeted on the basis of their protected characteristic(s), are protected from threats of low-severity violence.
 
-**Other Violence**
+**Other violence**
 
 In addition to all of the protections listed above, we remove the following:
 
-*   Content that asks for, offers, or admits to offering services of high-severity violence (for example, hitmen, mercenaries, assassins, female genital mutilation) or advocates for the use of these services
+*   Content that asks for, offers or admits to offering services of high-severity violence (for example, hitmen, mercenaries, assassins, female genital mutilation) or advocates for the use of these services
     
-*   Instructions on how to make or use weapons where there is language explicitly stating the goal to seriously injure or kill people, or imagery that shows or simulates the end result, unless with context that the content is for a non-violent purpose such as educational self-defense (for example, combat training, martial arts) and military training
+*   Instructions on how to make or use weapons where there is language explicitly stating the goal to seriously injure or kill people, or imagery that shows or simulates the end result, unless with context that the content is for a non-violent purpose such as educational self-defence (for example, combat training, martial arts) and military training
     
 *   Instructions on how to make or use explosives, unless with context that the content is for a non-violent purpose such as recreational uses (for example, fireworks and commercial video games, fishing)
     
 *   Threats to take up weapons or to bring weapons to a location or forcibly enter a location (including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election), or locations where there are temporary signals of a heightened risk of violence.
     
-*   Threats of violence related to voting, voter registration, or the administration or outcome of an election, even if there is no target.
+*   Threats of violence related to voting, voter registration or the administration or outcome of an election, even if there is no target.
     
-*   Glorification of gender-based violence that is either intimate partner violence or honor-based violence
+*   Glorification of gender-based violence that is either intimate partner violence or honour-based violence
     
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
-We Remove:
+We remove:
 
 *   Threats against law enforcement officers or election officials, regardless of their public figure status or credibility of the threat.
     
@@ -82,13 +82,13 @@ We Remove:
 *   Threat: a coded statement that is one of the following:
     
 
-*   Shared in a retaliatory context (e.g., expressions of desire to engage in violence against others in response to a grievance or threat that may be real, perceived or anticipated)
+*   Shared in a retaliatory context (e.g. expressions of desire to engage in violence against others in response to a grievance or threat that may be real, perceived or anticipated)
     
-*   References to historical or fictional incidents of violence (e.g., content that threatens others by referring to known historical incidents of violence that have been committed throughout history or in fictional settings)
+*   References to historical or fictional incidents of violence (e.g. content that threatens others by referring to known historical incidents of violence that have been committed throughout history or in fictional settings)
     
-*   Acts as a threatening call to action (e.g., content inviting or encouraging others to carry out violent acts or to join in carrying out the violent acts)
+*   Acts as a threatening call to action (e.g. content inviting or encouraging others to carry out violent acts or to join in carrying out the violent acts)
     
-*   Indicates knowledge of or shares sensitive information that could expose others to violence (e.g., content that either makes note of or implies awareness of personal information that might make a threat of violence more credible. This includes implying knowledge of a person's residential address, their place of employment or education, daily commute routes or current location)
+*   Indicates knowledge of or shares sensitive information that could expose others to violence (e.g. content that either makes note of or implies awareness of personal information that might make a threat of violence more credible. This includes implying knowledge of a person's residential address, their place of employment or education, daily commute routes or current location)
     
 
 *   Context
@@ -96,14 +96,14 @@ We Remove:
 
 *   Local context or expertise confirms that the statement in question could lead to imminent violence.
     
-*   The target of the content or an authorized representative reports the content to us.
+*   The target of the content or an authorised representative reports the content to us.
     
 *   The target is a child.
     
 
-*   Implicit threats to bring armaments to locations, including but not limited to places of worship, educational facilities, polling places or locations used to count votes or administer an election (or encouraging others to do the same) or locations where there are temporary signals of a heightened risk of violence.
+*   Implicit threats to bring armaments to locations, including, but not limited to, places of worship, educational facilities, polling places or locations used to count votes or administer an election (or encouraging others to do the same) or locations where there are temporary signals of a heightened risk of violence.
     
-*   Claims or speculation about election-related corruption, irregularities, or bias when combined with a signal that content is threatening violence (e.g., threats to take up or bring a weapon, visual depictions of a weapon, references to arson, theft, vandalism), including:
+*   Claims or speculation about election-related corruption, irregularities or bias when combined with a signal that content is threatening violence (e.g. threats to take up or bring a weapon, visual depictions of a weapon, references to arson, theft, vandalism), including:
     
 
 *   Targeting individual(s)
@@ -113,9 +113,9 @@ We Remove:
 *   Where the target is not explicit
     
 
-*   References to election-related gatherings or events when combined with a signal that content is threatening violence (e.g., threats to take up or bring a weapon, visual depictions of a weapon, references to arson, theft, vandalism).
+*   References to election-related gatherings or events when combined with a signal that content is threatening violence (e.g. threats to take up or bring a weapon, visual depictions of a weapon, references to arson, theft, vandalism).
     
-*   Threats of high- or mid-severity violence in the defense of self or another human when the criteria below are met.
+*   Threats of high- or mid-severity violence in the defence of self or another human when the criteria below are met.
     
 
 *   Against a person (excluding persons identifiable by name or face, people targeted based on their protected characteristics, and children)
@@ -888,22 +888,22 @@ Content that attempts to buy, sell, trade, coordinate the trade of, donate, gift
 
 - - -
 
-Fraud, Scams, and Deceptive Practices
-=====================================
+Fraud, scams and deceptive practices
+====================================
 
 ### Policy details
 
 CHANGE LOG
 
-Policy Rationale
+Policy rationale
 
-We aim to protect users and businesses from being deceived out of their money, property or personal information. We achieve this by removing content and combatting behavior that purposefully employs deceptive means - such as wilful misrepresentation, stolen information and exaggerated claims - to either scam or defraud users and businesses, or to drive engagement. This includes content that seeks to coordinate or promote those activities using our services. We allow people to raise awareness and educate others as well as condemn these activities.
+We aim to protect users and businesses from being deceived out of their money, property or personal information. We achieve this by removing content and combatting behaviour that purposefully employs deceptive means – such as wilful misrepresentation, stolen information and exaggerated claims – to either scam or defraud users and businesses, or to drive engagement. This includes content that seeks to coordinate or promote those activities using our services. We allow people to raise awareness and educate others as well as condemn these activities.
 
 We do not allow:
 
 Content that attempts to scam or defraud users and/or businesses by means of:
 
-**Loan Fraud and Scams**
+**Loan fraud and scams**
 
 Content that:
 
@@ -914,11 +914,11 @@ Content that:
 *   Note: We also look for other signals to determine if an entity is posting legitimate, non-fraudulent content, such as when it is a verified entity and a bank or financial institution.
     
 
-**Gambling Fraud and Scams**
+**Gambling fraud and scams**
 
 Content that:
 
-*   Offers real money gambling services (“Real money” is real-world currency that can be used to buy goods or services in the real world, including national currencies such as U.S. Dollars and virtual currencies such as Bitcoin):
+*   Offers real money gambling services ("Real money" is real-world currency that can be used to buy goods or services in the real world, including national currencies such as US Dollars and virtual currencies such as Bitcoin):
     
     *   with a guarantee of winning.
         
@@ -930,37 +930,37 @@ Content that:
 
 Social casino games that simulate gambling with no opportunity to win real money fall under our [Community Standard for Restricted Goods and Services](https://transparency.meta.com/policies/community-standards/regulated-goods/).
 
-**Investment or Financial Fraud and Scams**
+**Investment or financial fraud and scams**
 
-*   _Investment Opportunities._ Content that:
+*   _Investment opportunities._ Content that:
     
     *   Offers investment opportunities where returns on investment are guaranteed or risk-free.
         
     *   Offers investment opportunities where returns on investment or compensation is partly or fully based on recruitment of others to participate in the scheme.
         
-    *   Offers investment opportunities where the opportunity is of a “get-rich-quick” nature and/or claims that a small investment can be turned into a large amount.
+    *   Offers investment opportunities where the opportunity is of a "get-rich-quick" nature and/or claims that a small investment can be turned into a large amount.
         
     
 
-*   _Money/Cash Flip._ Content that:
+*   _Money/cash flip._ Content that:
     
-    *   Offers to turn a certain sum of money into a larger one through flipping or trick or strategy involving explicit mentions of ”cash flip,” "money flip,” or similar terminology.
+    *   Offers to turn a certain sum of money into a larger one through flipping or trick or strategy involving explicit mentions of "cash flip", "money flip" or similar terminology.
         
     
 
-**Money Muling and Laundering Fraud and Scams**
+**Money muling and laundering fraud and scams**
 
-*   _Money Muling._ Content that:
+*   _Money muling._ Content that:
     
     *   Offers or asks for money muling (causing victims to be unknowing participants in money laundering by offering money or share of profits in exchange for allowing others to use their bank accounts or transferring money on behalf of others).
         
-    *   Offers or asks for money muling by offering employment to accept and transfer money to third parties using the victim’s bank account.
+    *   Offers or asks for money muling by offering employment to accept and transfer money to third parties using the victim's bank account.
         
     
 
-*   _Money Laundering._ Content that:
+*   _Money laundering._ Content that:
     
-    *   Requests, solicits, or offers to facilitate money laundering, which is an attempt to make illegally obtained money appear legitimate by disguising the origin of the money through a complex sequence of financial transactions, including through any of the following means:
+    *   Requests, solicits or offers to facilitate money laundering, which is an attempt to make illegally obtained money appear legitimate by disguising the origin of the money through a complex sequence of financial transactions, including through any of the following means:
         
         *   Seeking transfer of funds through SWIFT (Society for Worldwide Interbank Financial Telecommunications) or similar methods,
             
@@ -969,37 +969,37 @@ Social casino games that simulate gambling with no opportunity to win real money
         
     
 
-**Inauthentic Identity Fraud and Scams**
+**Inauthentic identity fraud and scams**
 
 Content that:
 
 *   Attempts to scam or defraud users by misrepresenting the identity of the poster or nature of a request:
     
-    *   Charity Fraud and Scam, which are fraudulent requests for money or donations for charitable causes together with claims that the donation is urgent and includes information, such as bank accounts, where money can be sent.
+    *   Charity fraud and scam, which are fraudulent requests for money or donations for charitable causes together with claims that the donation is urgent and includes information, such as bank accounts, where money can be sent.
         
-    *   Romance Fraud and Scam, which are fraudulent attempts to establish online romantic relationships by seeking non-sexual companionship or relationship and offering or asking for money or its equivalent in exchange.
+    *   Romance fraud and scam, which are fraudulent attempts to establish online romantic relationships by seeking non-sexual companionship or relationship and offering or asking for money or its equivalent in exchange.
         
-    *   Established Business/Entity Fraud and Scams, which involve falsely claiming to represent, or speak in the voice of, an established business or entity, in an attempt to scam or defraud.
+    *   Established business/entity fraud and scams, which involve falsely claiming to represent, or speak in the voice of, an established business or entity, in an attempt to scam or defraud.
         
     
 
-**Product or Reward Fraud and Scams**
+**Product or reward fraud and scams**
 
-*   _Government Grant Fraud and Scam._ Content that:
+*   _Government grant fraud and scam._ Content that:
     
     *   Falsely offers money from government grants or any other governmental source of funding. We consider various signals to determine if an entity is posting legitimate, non-fraudulent content, such as when it comes from a verified entity.
         
     
 
-*   _Tangible, Spiritual or Illuminati Fraud and Scam._ Content that:
+*   _Tangible, spiritual or illuminati fraud and scam._ Content that:
     
-    *   Offers tangible rewards, such as money, goods, or services that have a monetary value including physical, digital and virtual currencies, and physical or digital goods and services for membership in or joining an association, cult, religious sect (for example, the Illuminati brotherhood).
+    *   Offers tangible rewards, such as money, goods or services that have a monetary value, including physical, digital and virtual currencies, and physical or digital goods and services for membership in or joining an association, cult, religious sect (for example, the Illuminati brotherhood).
         
-    *   Offers tangible rewards for using black magic or spells or magical items (for example, spells, lucky charms, amulets, tokens, potions, magic wallet, etc.).
+    *   Offers tangible rewards for using black magic or spells or magical items (for example, spells, lucky charms, amulets, tokens, potions, magic wallet etc.).
         
     
 
-*   _Insurance Fraud and Scams._ Content that:
+*   _Insurance fraud and scams._ Content that:
     
     *   Offers false, heavily discounted insurance with requests for an up-front fee (admin fee, or deposit, or otherwise).
         
@@ -1009,7 +1009,7 @@ Content that:
         
     
 
-*   _Job Fraud and Scams._ Content that:
+*   _Job fraud and scams._ Content that:
     
     *   Offers jobs with an unclear or vague job description and get-rich-quick opportunities promising money with little time investment or effort.
         
@@ -1027,13 +1027,13 @@ Content that:
         
     
 
-*   _Debt Relief and Credit Repair Fraud and Scam._ Content that:
+*   _Debt relief and credit repair fraud and scam._ Content that:
     
     *   Promises to delete or eliminate or reduce debt by a particular amount in a set period of time.
         
     *   Promises to stop or delete all debt collections or lawsuits.
         
-    *   Promises to forgive or cancel debt through "new government program” or change in law or equivalent statement.
+    *   Promises to forgive or cancel debt through "new government programme" or change in law or equivalent statement.
         
     *   Promises to delete or remove credit information from credit reports or create new "credit identity".
         
@@ -1041,13 +1041,13 @@ Content that:
         
     
 
-*   _Giveaway Fraud and Scam._ Content that:
+*   _Giveaway fraud and scam._ Content that:
     
     *   Offers a guaranteed reward of real money in exchange for users needing to:
         
         *   Register at an off-site link.
             
-        *   Share Personal Identifiable Information (PII) or Other Personal Information.
+        *   Share personal identifiable information (PII) or other personal information.
             
         *   Contact off-platform or on-platform via private message.
             
@@ -1056,15 +1056,15 @@ Content that:
         
     
 
-*   _Advance Fee Fraud and Scam._ Content that:
+*   _Advance fee fraud and scam._ Content that:
     
     *   Falsely promises money in exchange for an up-front fee/wire transfer/payment.
         
     
 
-**Fake Documents Fraud and Scams**
+**Fake documents fraud and scams**
 
-*   _Fake or Forged Documents._ Content that:
+*   _Fake or forged documents._ Content that:
     
     *   Offers solicitation, creation, sale, purchase or trade of fake or forged documents.
         
@@ -1076,19 +1076,19 @@ Content that:
         
     
 
-*   _Fake or Counterfeit Currency._ Content that:
+*   _Fake or counterfeit currency._ Content that:
     
-    *   Offers sale, purchase or trade of fake or counterfeit currency, except board-game currency (e.g., Monopoly money) if there is clear context that it is for board-game purposes.
+    *   Offers sale, purchase or trade of fake or counterfeit currency, except board-game currency (e.g. Monopoly money) if there is clear context that it is for board-game purposes.
         
     
 
-*   _Fake or Counterfeit Vouchers._ Content that:
+*   _Fake or counterfeit vouchers._ Content that:
     
     *   Offers sharing, sale, purchase or trade of fake or counterfeit vouchers.
         
-    *   Admits to, promotes, or solicits the use of physical or digital coupons or vouchers to achieve atypical pricing by either:
+    *   Admits to, promotes or solicits the use of physical or digital coupons or vouchers to achieve atypical pricing by either:
         
-        *   using coupons or vouchers to purchase items those coupons or vouchers are not intended for; or
+        *   using coupons or vouchers to purchase items that those coupons or vouchers are not intended for; or
             
         *   by using expired coupons or vouchers.
             
@@ -1101,21 +1101,21 @@ Content that:
         
     
 
-**Stolen Information, Goods or Services Fraud and Scam**
+**Stolen information, goods or services fraud and scam**
 
-*   _Carding Fraud and Scam._ Content that:
+*   _Carding fraud and scam._ Content that:
     
-    *   Involves buying, selling or trading of stolen credit cards or other financial instruments that can be used for unauthorized purchases (also known as "carding").
+    *   Involves buying, selling or trading of stolen credit cards or other financial instruments that can be used for unauthorised purchases (also known as "carding").
         
     
 
-*   _PII Fraud and Scam._ Content that:
+*   _PII fraud and scam._ Content that:
     
-    *   Offers buying, selling or trading of Personal Identifiable Information (PII) or Other Personal Information except if it belongs to a fictional character.
+    *   Offers buying, selling or trading of personal identifiable information (PII) or other personal information except if it belongs to a fictional character.
         
     
 
-*   _Fake Review Fraud and Scam._ Content that:
+*   _Fake review fraud and scam._ Content that:
     
     *   Calls for buying, selling or trading of product reviews/ratings.
         
@@ -1123,7 +1123,7 @@ Content that:
         
     
 
-*   _Subscription Fraud and Scam._ Content that:
+*   _Subscription fraud and scam._ Content that:
     
     *   Offers buying, selling or trading of credentials for subscription services (login credentials to online services which require a recurring payment at regular intervals) by making references to a paid online service, either by naming it or by sharing its logo.
         
@@ -1131,44 +1131,44 @@ Content that:
         
     
 
-*   _Cheating Fraud and Scam._ Content that:
+*   _Cheating fraud and scam._ Content that:
     
-    *   Involves sharing, selling, trading, or buying of:
+    *   Involves sharing, selling, trading or buying of:
         
         *   future exam papers or answer sheets.
             
         *   Products or services that enable cheating in exams.
             
-        *   Products or services that enable passing drug tests in an unauthorized manner
+        *   Products or services that enable passing drug tests in an unauthorised manner
             
         
     
 
-**Unauthorized Use of Devices Fraud and Scam**
+**Unauthorised use of devices fraud and scam**
 
-*   _Device Manipulation Fraud and Scam._ Content that
+*   _Device manipulation fraud and scam._ Content that
     
-    *   Calls for buying, selling, trading or sharing of any manipulated, altered, or fake measurement devices.
+    *   Calls for buying, selling, trading or sharing of any manipulated, altered or fake measurement devices.
         
     *   Admits to, promotes or solicits use of physical manipulation of devices to achieve inaccurate pricing.
         
     
 
-*   _Digital Content Fraud and Scam._ Content that
+*   _Digital content fraud and scam._ Content that
     
-    *   Offers or asks for products that facilitate or encourage access to digital content in an unauthorized manner. These include but are not limited to: augmented set top boxes, fully loaded/KODI installed boxes and KODI services.
+    *   Offers or asks for products that facilitate or encourage access to digital content in an unauthorised manner. These include, but are not limited to: augmented set top boxes, fully loaded/KODI installed boxes and KODI services.
         
     
 
-**Deceptive and Misleading Practices**
+**Deceptive and misleading practices**
 
-*   _Misleading Health Practices._ Content that
+*   _Misleading health practices._ Content that
     
-    *   Promotes false or misleading health claims or guarantees in a weight loss context by employing click-bait tactics, such as the use of sensational language that make exaggerated or extreme claims
+    *   Promotes false or misleading health claims or guarantees in a weight loss context by employing clickbait tactics, such as the use of sensational language that make exaggerated or extreme claims
         
     
 
-For the following content, we limit the ability to view the content to adults, ages 18 and older:
+For the following content, we limit the ability to view the content to adults aged 18 and older:
 
 Content that
 
@@ -1187,19 +1187,19 @@ For the following Community Standards, we require additional information and/or 
         
     *   That offers vaccines in an attempt to scam or defraud users.
         
-    *   That attempts to establish a fake persona, pretends to be a famous person, or makes unauthorized use of an image of a famous person in an attempt to scam or defraud.
+    *   That attempts to establish a fake persona, pretends to be a famous person or makes unauthorised use of an image of a famous person in an attempt to scam or defraud.
         
-    *   That offers or asks for products or services designed to facilitate the surreptitious viewing or recording of individuals, e.g., spy cams, mobile phone trackers (including those that allow tracing unknown phone numbers), or other hidden surveillance equipment.
+    *   That offers or asks for products or services designed to facilitate the surreptitious viewing or recording of individuals, e.g. spy cams, mobile phone trackers (including those that allow tracing unknown phone numbers) or other hidden surveillance equipment.
         
     *   That offers litigant recruitment opportunities for people to participate in class action lawsuits by impersonating a government entity or a news outlet, by using sensationalist language, or by using exaggerated claims.
         
-    *   That offers subscription services that prompt users to enter Personal Information.
+    *   That offers subscription services that prompt users to enter personal information.
         
-    *   We do not allow entities to participate in or claim to engage in organized Fraud or Scam behavior, including the use of multiple accounts on our services in concert to perpetrate fraudulent behaviors.
+    *   We do not allow entities to participate in or claim to engage in organised Fraud or Scam behaviour, including the use of multiple accounts on our services in concert to perpetrate fraudulent behaviours.
         
     
 
-In certain cases, we allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
+In certain cases, we allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirised or attributed to something or someone else in order to mock or criticise them.
 
 - - -
 
@@ -3124,50 +3124,52 @@ About recommendations on Facebook
 
 Copy link
 
+What content does Facebook recommend?
+
 What content is not recommended?
 
 Why was my content not recommended?
 
-What are recommendation guidelines?
+What are Community Standards?
 
 I have a different question
 
-We make personalized recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts, and entities (such as Pages, Groups, or Events) that people do not already follow. Some examples of our recommendations experiences include Pages You May Like, “Suggested For You” posts in Feed, People You May Know, or Groups You Should Join. Some entities might have limited or no access to features that encourage engagement, and might not be as widely recommended on Facebook as other entities.
+We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, groups or events) that people do not already follow. Some examples of our recommendations experiences include Pages you may like, "Suggested for you" posts in Feed, People you may know or Groups you should join. Some entities might have limited or no access to features that encourage engagement, and might not be as widely recommended on Facebook as other entities.
 
-Our goal is to make recommendations that are relevant and valuable to each person who sees them. We work towards our goal by personalizing recommendations, which means making unique recommendations for each person. For example, if you and another person have Facebook Friends in common, we may suggest that person as a potential new Friend for you.
+Our goal is to make recommendations that are relevant and valuable to each person who sees them. We work towards our goal by personalising recommendations, which means making unique recommendations for each person. For example, if you and another person have Facebook friends in common, we may suggest that person as a potential new friend for you.
 
 Facebook's baseline standards for recommendations
 -------------------------------------------------
 
-At Facebook, we have guidelines about what content we will recommend to people. Those guidelines fit into a strategy we have used to manage problematic content on Facebook since 2016, called “[remove, reduce, and inform](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2F2018%2F05%2Finside-feed-reduce-remove-inform%2F).” This strategy involves removing content that violates our [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), reducing the spread of problematic content that does not violate our standards, and informing people with additional information so they can choose what to click, read or share. Discussion of our “reduce” work on Facebook has often centered on Feed and how we rank posts within it. However, our Recommendations Guidelines are another important tool that we use to reduce the spread of problematic content on our platform.
+At Facebook, we have guidelines about what content we will recommend to people. Those guidelines fit into a strategy we have used to manage problematic content on Facebook since 2016, called "[remove, reduce and inform](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2F2018%2F05%2Finside-feed-reduce-remove-inform%2F)". This strategy involves removing content that violates our [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), reducing the spread of problematic content that does not violate our standards and informing people with additional information so that they can choose what to click, read or share. Discussion of our "reduce" work on Facebook has often centred on Feed and how we rank posts within it. However, our Recommendations Guidelines are another important tool that we use to reduce the spread of problematic content on our platform.
 
-Through our Recommendations Guidelines, we work to avoid making recommendations that could be low-quality, objectionable, or particularly sensitive, and we also avoid making recommendations that may be inappropriate for younger viewers. Our Recommendations Guidelines are designed to maintain a higher standard than our Community Standards, because recommended content and connections are from accounts or entities you haven't chosen to follow. Therefore, not all content allowed on our platform will be eligible for recommendation.
+Through our Recommendations Guidelines, we work to avoid making recommendations that could be low quality, objectionable or particularly sensitive, and we also avoid making recommendations that may be inappropriate for younger viewers. Our Recommendations Guidelines are designed to maintain a higher standard than our Community Standards, because recommended content and connections are from accounts or entities that you haven't chosen to follow. Therefore, not all content allowed on our platform will be eligible for recommendation.
 
-In developing these guidelines, we sought input from 50 leading experts specializing in recommender systems, expression, safety, and digital rights. Those consultations are part of our constant efforts to improve these guidelines and provide people with a safe and positive experience when they receive recommendations on our platform.
+In developing these guidelines, we sought input from 50 leading experts specialising in recommender systems, expression, safety and digital rights. Those consultations are part of our constant efforts to improve these guidelines and provide people with a safe and positive experience when they receive recommendations on our platform.
 
-We want to provide you with more information about the types of content, accounts, and entities that we try to avoid recommending, both to keep our community more informed and to provide guidance for content creators about recommendations.
+We want to provide you with more information about the types of content, accounts and entities that we try to avoid recommending, both to keep our community more informed and to provide guidance for content creators about recommendations.
 
-Content Recommendations
+Content recommendations
 -----------------------
 
 There are five categories of content that are allowed on our platforms, but that may not be eligible for recommendations. These categories are listed below, as are some illustrative examples of content within each category.
 
 **Content that impedes our ability to foster a safe community, such as:**
 
-1.  Content that discusses self-harm, suicide, or eating disorders, as well as content that depicts or trivialises themes around death or depression. (We remove content that [encourages suicide or self-injury, or any graphic imagery](https://www.facebook.com/communitystandards/suicide_self_injury_violence).)
+1.  Content that discusses self-harm, suicide or eating disorders, as well as content that depicts or trivialises themes around death or depression. (We remove content that [encourages suicide or self-injury, or any graphic imagery](https://www.facebook.com/communitystandards/suicide_self_injury_violence).)
 2.  Content that may depict violence, such as people fighting. (We remove [graphically violent](https://www.facebook.com/communitystandards/graphic_violence) content.)
 3.  Content that may be sexually explicit or suggestive, such as pictures of people in see-through clothing. (We remove content that contains [adult nudity or sexual activity](https://www.facebook.com/communitystandards/adult_nudity_sexual_activity).)
 4.  Content that promotes the use of certain regulated products, such as tobacco or vaping products, adult products and services, or pharmaceutical drugs. (We remove content that attempts to [sell or trade most regulated goods](https://www.facebook.com/communitystandards/regulated_goods).)
-5.  Content shared by any non-recommendable account or entity (e.g. Groups or Pages, as outlined below).
+5.  Content shared by any unrecommendable account or entity (e.g. groups or Pages, as outlined below).
 
-**Sensitive or Low-Quality Content about Health or Finance, such as:**
+**Sensitive or low-quality content about health or finance, such as:**
 
 1.  Content that promotes or depicts cosmetic procedures.
-2.  Content containing exaggerated health claims, such as “miracle cures.”
+2.  Content containing exaggerated health claims, such as "miracle cures".
 3.  Content attempting to sell products or services based on health-related claims, such as promoting a supplement to help a person lose weight.
-4.  Content that promotes misleading or deceptive business models, such as payday loans or “risk-free” investments.
+4.  Content that promotes misleading or deceptive business models, such as payday loans or "risk-free" investments.
 
-**Content that Users Broadly Tell us they Dislike, such as:**
+**Content that users broadly tell us they dislike, such as:**
 
 1.  Content that promotes a contest or giveaway.
 2.  Content that includes links to low-quality or deceptive landing pages or domains, such as landing pages filled with click-through or malicious ads.
@@ -3175,58 +3177,33 @@ There are five categories of content that are allowed on our platforms, but that
 **Content that is associated with low-quality publishing, such as:**
 
 1.  Unoriginal content that is largely repurposed from another source [without adding material value](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F04%2Fpeople-publishers-the-community%2F).
-2.  [Content from web sites that get a disproportionate number of clicks from Facebook versus other places on the web.](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F04%2Fremove-reduce-inform-new-steps%2F)
-3.  News content that does not include transparent information about authorship or the publisher’s editorial staff.
+2.  [Content from websites that get a disproportionate number of clicks from Facebook versus other places on the web.](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F04%2Fremove-reduce-inform-new-steps%2F)
+3.  News content that does not include transparent information about authorship or the publisher's editorial staff.
 4.  Long captions unrelated to the underlying content and coordinated comment networks intended to artificially drive engagement and distribution.
 
-**False or Misleading Content, such as:**
+**False or misleading content, such as:**
 
 1.  Content including claims that have been found false by independent fact-checkers. (We remove misinformation that [could cause physical harm or suppress voting](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F).)
-2.  [Vaccine-related misinformation](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F03%2Fcombatting-vaccine-misinformation%2F) that has been widely debunked by leading global health organizations.
-3.  Content that promotes the use of fraudulent documents, such as someone sharing a post about using a fake ID. (We remove content attempting to sell [fraudulent documents](https://www.facebook.com/communitystandards/fraud_deception), like medical prescriptions).
+2.  [Vaccine-related misinformation](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F03%2Fcombatting-vaccine-misinformation%2F) that has been widely debunked by leading global health organisations.
+3.  Content that promotes the use of fraudulent documents, such as someone sharing a post about using a fake ID. (We remove content attempting to sell [fraudulent documents](https://www.facebook.com/communitystandards/fraud_deception), such as medical prescriptions).
 
 As noted above, we take additional steps to avoid recommending certain types of sensitive content to minors on Facebook. For example, we strive to build our systems so as to not recommend content that promotes the sale or use of alcohol to users who are minors.
 
-Account and Entity Recommendations
+Account and entity recommendations
 ----------------------------------
 
-We generally do not recommend accounts (including Profiles and Page admins) or entities (such as Pages, Groups, or Events) that:
+We generally do not recommend accounts (including Profiles and Page admins) or entities (such as Pages, groups or events) that:
 
 1.  Recently violated our Community Standards. This does not include accounts or entities that we otherwise remove from our platforms for violating our Community Standards.
-2.  Repeatedly and/or recently shared content (including the names or cover photos associated with groups or Pages) we try not to recommend across the categories described in the Content Recommendations section above.
-3.  Repeatedly posted [vaccine-related misinformation](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F03%2Fcombatting-vaccine-misinformation%2F) that has been widely debunked by leading global health organizations.
-4.  Repeatedly engaged in misleading practices to build followings, such as purchasing ‘likes’.
-5.  Recently and repeatedly posted false information as determined by independent third party fact-checkers or certain expert organizations.
-6.  [Are associated with offline movements or organizations that are tied to violence](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F08%2Faddressing-movements-and-organizations-tied-to-violence%2F).
+2.  Repeatedly and/or recently shared content (including the names or cover photos associated with groups or Pages) we try not to recommend across the categories described in the Content recommendations section above.
+3.  Repeatedly posted [vaccine-related misinformation](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F03%2Fcombatting-vaccine-misinformation%2F) that has been widely debunked by leading global health organisations.
+4.  Repeatedly engaged in misleading practices to build followings, such as purchasing "likes".
+5.  Recently and repeatedly posted false information as determined by independent third-party fact-checkers or certain expert organisations.
+6.  [Are associated with offline movements or organisations that are tied to violence](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F08%2Faddressing-movements-and-organizations-tied-to-violence%2F).
 
 We may let people know when they're about to engage with an entity that meets any of the above criteria to help them make informed decisions.
 
-A similar set of these guidelines applies to recommendations on Instagram. Those guidelines can be found [in the Instagram Help Center.](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%3Fhelpref%3Dfaq_content)
-
-Related Articles
-----------------
-
-[Turn Recommendations on or off for your business Page](https://www.facebook.com/help/548274415377576/?helpref=related_articles)
-
-[How Page review count and recommendation score are determined](https://www.facebook.com/help/500762053364226/?helpref=related_articles)
-
-[See your Facebook Page's recommendations](https://www.facebook.com/help/153159431903167/?helpref=related_articles)
-
-[Recommend a business on Facebook](https://www.facebook.com/help/271128916342286/?helpref=related_articles)
-
-[Learn about and manage suggested content in your Facebook Feed](https://www.facebook.com/help/485502912850153/?helpref=related_articles)
-
-Related Articles
-
-[Turn Recommendations on or off for your business Page](https://www.facebook.com/help/548274415377576/?helpref=related_articles)
-
-[How Page review count and recommendation score are determined](https://www.facebook.com/help/500762053364226/?helpref=related_articles)
-
-[See your Facebook Page's recommendations](https://www.facebook.com/help/153159431903167/?helpref=related_articles)
-
-[Recommend a business on Facebook](https://www.facebook.com/help/271128916342286/?helpref=related_articles)
-
-[Learn about and manage suggested content in your Facebook Feed](https://www.facebook.com/help/485502912850153/?helpref=related_articles)
+A similar set of these guidelines applies to recommendations on Instagram. Those guidelines can be found [in the Instagram Help Centre.](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%3Fhelpref%3Dfaq_content)
 
 Other ways to get help
 ----------------------
@@ -3237,26 +3214,26 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-Terms and Policies
+Terms and policies
 
-EVENTS AND LIVE
+Events and Live
 ---------------
 
-Pages, Groups, and Events
-=========================
+Pages, groups and events
+========================
 
 ### Introduction
 
-The following terms, as well as our , , and , apply to the creators and admins of Pages, groups, and Events. Note that other terms and policies, including our , may also apply depending on how you use our services.
+The following terms, as well as our , , and , apply to the creators and admins of Pages, groups and events. Note that other terms and policies, including our , may also apply depending on how you use our services.
 
   
 
-Pages, groups, and Events help build communities with common interests. Admins act as the leaders, representatives, and caretakers of these communities. Admins are expected to represent themselves authentically and to promote the safety and well-being of their communities.
+Pages, groups and events help build communities with common interests. Admins are the leaders, representatives and caretakers of these communities. Admins are expected to represent themselves authentically and to promote the safety and well-being of their communities.
 
   
 
-When admins create content that violates our policies (or when group admins or moderators approve violating content created by others) we may take against the Page, group, or Event in which the content appeared.
+When admins create content that violates our policies (or when group admins or moderators approve violating content created by others) we may take against the Page, group or event in which the content appeared.
 
-### Policies for Pages, Groups, and Events
+### Policies for Pages, groups and events
 
 * * *

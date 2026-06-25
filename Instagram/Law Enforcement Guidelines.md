@@ -109,6 +109,31 @@ Post:
 
 Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://www.facebook.com/records) should expect longer response times.
 
+Related articles
+----------------
+
+[Exposed private information](https://help.instagram.com/122717417885747/?helpref=related_articles)
+
+[Help a law enforcement officer who has posted suicidal content](https://help.instagram.com/1694704320773694/?helpref=related_articles)
+
+[How do I contact Meta's local representative in Turkey?](https://help.instagram.com/1404340366574172/?helpref=related_articles)
+
+[More information about Standard Contractual Clauses](https://help.instagram.com/272603474673152/?helpref=related_articles)
+
+[Privacy settings and information](https://help.instagram.com/196883487377501/?helpref=related_articles)
+
+Related articles
+
+[Exposed private information](https://help.instagram.com/122717417885747/?helpref=related_articles)
+
+[Help a law enforcement officer who has posted suicidal content](https://help.instagram.com/1694704320773694/?helpref=related_articles)
+
+[How do I contact Meta's local representative in Turkey?](https://help.instagram.com/1404340366574172/?helpref=related_articles)
+
+[More information about Standard Contractual Clauses](https://help.instagram.com/272603474673152/?helpref=related_articles)
+
+[Privacy settings and information](https://help.instagram.com/196883487377501/?helpref=related_articles)
+
 Other ways to get help
 ----------------------
 

@@ -3,24 +3,26 @@ Information for law enforcement
 
 Copy link
 
-Request user information
+Solicitar información de usuario
 
-Submit an emergency request
+Retención de datos
 
-Preserve account records
+Solicitudes de emergencia
 
-I have a different question
+Seguridad infantil
+
+Tengo otra pregunta
 
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
 Requests for user information
 -----------------------------
 
-We disclose account records solely in accordance with our terms of service and applicable law, including the federal Stored Communications Act (“SCA”), 18 U.S.C. Sections 2701-2712. Under the SCA:
+We disclose account records solely in accordance with our terms of service and applicable law, including the federal Stored Communications Act ("SCA"), 18 USC Sections 2701-2712. Under the SCA:
 
-*   a valid subpoena issued in connection with an official criminal investigation is required to compel the disclosure of basic subscriber records (defined in 18 U.S.C. Section 2703(c)(2)), which may include: name, length of service, credit card information, email address(es), and any recent login/logout IP address(es), if available.
-*   a court order issued under 18 U.S.C. Section 2703(d) is required to compel the disclosure of certain records or other information pertaining to the account, not including contents of communications, which may include message headers and IP addresses, in addition to the basic subscriber records identified above.
-*   a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause is required to compel the disclosure of the stored contents of any account, which may include messages, photos, comments, and location information.
+*   A valid subpoena issued in connection with an official criminal investigation is required to compel the disclosure of basic subscriber records (defined in 18 USC Section 2703(c)(2)), which may include: name, length of service, credit card information, email address(es) and any recent login/logout IP address(es), if available.
+*   a court order issued under 18 USC Section 2703(d) is required to compel the disclosure of certain records or other information pertaining to the account, not including contents of communications, which may include message headers and IP addresses, in addition to the basic subscriber records identified above.
+*   A search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause is required to compel the disclosure of the stored contents of any account, which may include messages, photos, comments and location information.
 
 It is important to note that some information we store is collected automatically, while other information is provided by the user. We do not require email or phone verification, and we do not require people to use real names or identities on Instagram.
 
@@ -36,8 +38,8 @@ Information to include
 
 All requests must be made with particularity, including the specific data categories requested and date limitations for the request, as well as:
 
-1.  The name of the issuing authority and agent, email address from a law enforcement domain, and a direct contact phone number.
-2.  The username of the Instagram account in question on the relevant date and details regarding specific information requested and its relationship to your investigation. Usernames are not static and we are unable to process requests that do not include the relevant date combined with the username.
+1.  The name of the issuing authority and agent, email address from a law enforcement domain and a direct contact phone number.
+2.  The username of the Instagram account in question on the relevant date and details regarding specific information requested and its relationship to your investigation. Usernames are not static, and we are unable to process requests that do not include the relevant date combined with the username.
 
 Emergency requests
 ------------------
@@ -49,9 +51,9 @@ Important note: We will not review or respond to messages sent to this email add
 Child safety
 ------------
 
-We report all apparent instances of child sexual exploitation appearing on our site from anywhere in the world to the National Center for Missing and Exploited Children (NCMEC), in accordance with applicable law including content drawn to our attention by government requests. NCMEC refers matters to law enforcement authorities from around the world in order to help victims.
+We report all apparent instances of child sexual exploitation appearing on our site from anywhere in the world to the United States National Center for Missing and Exploited Children (NCMEC), in accordance with applicable law including content drawn to our attention by government requests. NCMEC refers matters to law enforcement authorities from around the world in order to help victims.
 
-If a request relates to a child exploitation or safety matter, please specify those circumstances (and include relevant NCMEC report identifiers) in the request to ensure that we are able to address these matters expeditiously and effectively.
+If a request relates to a child exploitation or safety matter, please specify these circumstances (and include relevant NCMEC report identifiers) in the request to ensure that we are able to address these matters expeditiously and effectively.
 
 International legal process requirements
 ----------------------------------------
@@ -61,17 +63,17 @@ We disclose account records solely in accordance with applicable terms of servic
 Account preservation
 --------------------
 
-We will take steps to preserve account records in connection with official criminal investigations for 90 days pending our receipt of formal legal process. You may expeditiously submit formal preservation requests through the Law Enforcement Online Request System at facebook.com/records, or by email, or mail as indicated below.
+We will take steps to preserve account records in connection with official criminal investigations for 90 days pending our receipt of formal legal process. You may expeditiously submit formal preservation requests through the Law Enforcement Online Request System at facebook.com/records, or by email or post as indicated below.
 
 User consent
 ------------
 
-If law enforcement seeks information about an Instagram user who has provided consent for the official to access or obtain the user’s account information, the user should be directed to obtain that information on their own from their account. For account content, such as messages, photos and videos, users can access Instagram’s "Download Data" feature from their Privacy and Security settings.
+If law enforcement seeks information about an Instagram user who has provided consent for the official to access or obtain the user's account information, the user should be directed to obtain that information on their own from their account. For account content, such as messages, photos and videos, users can access Instagram's "Download Data" feature from their Privacy and Security settings.
 
 Notification
 ------------
 
-Our policy is to notify people who use our service of requests for their information prior to disclosure unless we are prohibited by law from doing so or in exceptional circumstances, such as child exploitation cases, emergencies or when notice would be counterproductive. We will provide delayed notice upon expiration of a specific non-disclosure period in a court order and where we have a good faith belief that exceptional circumstances no longer exist, and we are not otherwise prohibited by law from doing so. Law enforcement officials who believe that notification would jeopardize an investigation should obtain an appropriate court order or other appropriate process establishing that notice is prohibited. If your data request draws attention to an ongoing violation of our terms of use, we will take action to prevent further abuse, including actions that may notify the user that we are aware of their misconduct.
+Our policy is to notify people who use our service of requests for their information prior to disclosure, unless we are prohibited by law from doing so or in exceptional circumstances, such as child exploitation cases, emergencies or when providing notice would be counter-productive. We will provide delayed notice upon expiry of a specific non-disclosure period in a court order and where we have a good faith belief that exceptional circumstances no longer exist, and we are not otherwise prohibited by law from doing so. Law enforcement officials who believe that notification would jeopardise an investigation should obtain an appropriate court order or other appropriate process establishing that providing notice is prohibited. If your data request draws attention to an ongoing breach of our terms of use, we will take action to prevent further abuse, including actions that may notify the user that we are aware of their misconduct.
 
 Testimony
 ---------
@@ -92,7 +94,7 @@ Law enforcement officials may use the [Law Enforcement Online Request System](ht
 
 Please note:
 
-For Law Enforcement outside of the U.S.:
+For law enforcement outside of the US:
 
 Please note that for users of the Instagram services in the European region (excluding the United Kingdom), the service provider and data controller is Meta Platforms Ireland Ltd. If your request is for Meta Platforms Ireland Ltd., it must be addressed to:  
 Meta Platforms Ireland Ltd.,  
@@ -101,9 +103,9 @@ Merrion Road, Dublin 4, D04 X2K5, Ireland
 For Instagram users in countries outside of the European region, the service provider is Meta Platforms, Inc., please ensure that any requests for Instagram or Facebook user data are correctly addressed to:  
 Meta Platforms, Inc.  
 1 Meta Way  
-Menlo Park, CA 94025
+Menlo Park, CA 94025, US
 
-Mail:
+Post:
 
 Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://www.facebook.com/records) should expect longer response times.
 

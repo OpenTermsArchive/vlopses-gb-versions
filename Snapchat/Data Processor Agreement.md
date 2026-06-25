@@ -3,7 +3,7 @@ Data Sharing Agreement
 
 --------------------------
 
-Effective: November 30, 2021
+Effective: 30 November 2021
 
 ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms/business-services#governing-law-and-disputes) PROVISION SET FORTH IN THE [BUSINESS SERVICES TERMS](https://www.snap.com/terms/business-services). IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
 
@@ -200,7 +200,7 @@ Data Transfer Agreement
 
 ---------------------------
 
-Effective: July 25, 2023
+Effective: 25 July 2023
 
 PLEASE NOTE: WE'VE PUBLISHED THE TERMS BELOW IN CONNECTION WITH THE ADOPTION OF THE 2022 UK APPROVED ADDENDUM TO THE 2021 EUROPEAN COMMISSION-APPROVED STANDARD CONTRACTUAL CLAUSES AND TO CLARIFY SUCH 2021 EC-APPROVED SCCS APPLY TO TRANSFERS OF SWISS CUSTOMER PERSONAL DATA.
 
@@ -226,7 +226,7 @@ b. _UK Data:_ Where a Data Transfer occurs for which you are acting as a data co
 
 **3\. Controller to processor Data Transfers**
 
-a. _EEA / Swiss Data:_ Where a Data Transfer occurs for which you are acting as data controller and provide Customer Personal Data of EEA or Swiss data subjects to Snap as a processor under the [Data Processing Agreement](https://www.snap.com/terms/data-processing-agreement), then any Data Transfers that occur of such data shall be governed by the [EEA controller to processor SCCs](https://www.snap.com/terms/standard-contractual-clauses) which are incorporated into this DTA with the following amendments (with references in this clause 3 to Clauses being to Clauses of the SCCs): (i) in respect of Clause 9 (sub-processors), Snap shall inform you of intended changes by updating the list available [here](https://businesshelp.snapchat.com/s/article/snap-subprocessors?language=en_US); and (ii) Annexes I and II of the [EEA controller to processor SCCs](https://www.snap.com/terms/standard-contractual-clauses) shall be completed with the information set out in Schedules 1 and 2 of the [Data Processing Agreement](https://www.snap.com/terms/data-processing-agreement), respectively.
+a. _EEA / Swiss Data:_ Where a Data Transfer occurs for which you are acting as data controller and provide Customer Personal Data of EEA or Swiss data subjects to Snap as a processor under the [Data Processing Agreement](https://www.snap.com/terms/data-processing-agreement), then any Data Transfers that occur of such data shall be governed by the [EEA controller to processor SCCs](https://www.snap.com/terms/standard-contractual-clauses) which are incorporated into this DTA with the following amendments (with references in this clause 3 to Clauses being to Clauses of the SCCs): (i) in respect of Clause 9 (sub-processors), Snap shall inform you of intended changes by updating the list available [here](https://businesshelp.snapchat.com/s/article/snap-subprocessors?language=en_GB); and (ii) Annexes I and II of the [EEA controller to processor SCCs](https://www.snap.com/terms/standard-contractual-clauses) shall be completed with the information set out in Schedules 1 and 2 of the [Data Processing Agreement](https://www.snap.com/terms/data-processing-agreement), respectively.
 
 b. _UK Data:_ Where a Data Transfer occurs for which you are acting as a data controller and provide Customer Personal Data of UK data subjects to Snap acting as a processor under the [Data Processing Agreement](https://www.snap.com/terms/data-processing-agreement), then any Data Transfers which occur of such data shall be governed by the [EEA controller to processor SCCs](https://www.snap.com/terms/standard-contractual-clauses) incorporating the amendments set out in clause 3.a. and the UK IDTA Addendum. 
 
@@ -246,9 +246,9 @@ b. If either: (i) any of the means of legitimising transfers of personal data ou
 
 **6\. Conflicts**
 
-If there is any conflict or inconsistency between any provision of this DTA and any other applicable agreement, the order of precedence shall be as follows: the UK IDTA Addendum and the relevant SCCs (as applicable), this DTA, the [Data Processing Agreement](https://www.snap.com/terms/data-processing-agreement) or [Data Sharing Agreement](https://www.snap.com/terms/data-sharing-agreement) (as applicable), and the [Business Service Terms](https://www.snap.com/terms/business-services).
+If there is any conflict or inconsistency between any provision of this DTA and any other applicable agreement, the order of precedence shall be as follows: the UK IDTA Addendum and the relevant SCCs (as applicable), this DTA, the [Data Processing Agreement](https://www.snap.com/terms/data-processing-agreement) or [Data Sharing Agreement](https://www.snap.com/terms/data-sharing-agreement) (as applicable) and the [Business Service Terms](https://www.snap.com/terms/business-services).
 
-_In summary: this Agreement applies to any transfer of customer personal data from you to Snap outside of the EEA, Switzerland, the UK, or a country subject to an adequacy decision made by the European Commission or UK Secretary of State (as applicable). Different transfer mechanisms apply depending on the customers' country of residence and whether the data is being shared with Snap as a data controller or as a data processor. Snap promises that at the time of any data transfer it has not received any Government Agency Requests for the data and that Snap will inform you of any such requests as soon as reasonably practicable. If Data Protection Laws require the execution of separate transfer mechanisms, then Snap will assist with putting these in place. If the transfer mechanisms set out above become invalid or are otherwise suspended by a regulator, Snap may amend or put in place alternative transfer mechanisms._
+_In summary: this Agreement applies to any transfer of customer personal data from you to Snap outside of the EEA, Switzerland, the UK or a country subject to an adequacy decision made by the European Commission or UK Secretary of State (as applicable). Different transfer mechanisms apply depending on the customers' country of residence and whether the data is being shared with Snap as a data controller or as a data processor. Snap promises that at the time of any data transfer it has not received any Government Agency Requests for the data and that Snap will inform you of any such requests as soon as reasonably practicable. If Data Protection Laws require the execution of separate transfer mechanisms, then Snap will assist with putting these in place. If the transfer mechanisms set out above become invalid or are otherwise suspended by a regulator, Snap may amend or put in place alternative transfer mechanisms._
 
 - - -
 
@@ -257,23 +257,23 @@ Data Processing Agreement
 
 -----------------------------
 
-Effective: July 25, 2023
+Effective: 25 July 2023
 
-ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms/business-services#governing-law-and-disputes) PROVISION SET FORTH IN THE [BUSINESS SERVICES TERMS](https://www.snap.com/terms/business-services). IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms/business-services#governing-law-and-disputes) PROVISION SET FORTH IN THE [BUSINESS SERVICES TERMS](https://www.snap.com/terms/business-services). IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
 
 **Introduction**
 
-This Data Processing Agreement (”Agreement”) forms a legally binding contract between you and Snap, applies to the extent Snap processes Customer Personal Data on your behalf when you are the Data Controller, and is incorporated into the [Business Services Terms](https://www.snap.com/terms/business-services). Some terms used in this Agreement are defined in the [Business Services Terms](https://www.snap.com/terms/business-services).
+This Data Processing Agreement ("Agreement") forms a legally binding contract between you and Snap, applies to the extent Snap processes Customers' Personal Data on your behalf when you are the data controller, and is incorporated into the [Business Services Terms](https://www.snap.com/terms/business-services). Some terms used in this Agreement are defined in the [Business Services Terms](https://www.snap.com/terms/business-services).
 
-_In summary: this Agreement applies when Snap processes your customers' personal data where you are the data controller and Snap is the data processor._
+_In summary: This Agreement applies when Snap processes your Customers' Personal Data where you are the Data Controller and Snap is the Data Processor._
 
 **1\. Definitions**
 
-“Customer Personal Data” means the personal data of EEA, Switzerland, UK, and Brazilian data subjects provided to Snap by you or on your behalf when you are the Data Controller.
+"Customer Personal Data" means the personal data of EEA, Switzerland, UK and Brazilian data subjects provided to Snap by you or on your behalf when you are the Data Controller.
 
-“Data Controller” means a controller as defined in the GDPR, UK GDPR or LGPD, as applicable, who alone or jointly with others determines the purposes and means of the processing of Customer Personal Data.
+"Data Controller" means a controller as defined in the GDPR, UK GDPR or LGPD, as applicable, who alone or jointly with others determines the purpose and means of the processing of Customer Personal Data.
 
-“Data Protection Law” means the EEA, Switzerland, UK, and Brazilian data protection laws applicable to the processing of Customer Personal Data under this Agreement, including the GDPR, the UK Data Protection Laws and LGPD.
+"Data Protection Law" means the EEA, Switzerland, UK and Brazilian data protection laws applicable to the processing of Customer Personal Data under this Agreement, including the GDPR, the UK Data Protection Laws and LGPD.
 
 “EEA” means the European Economic Area.
 
@@ -281,15 +281,15 @@ _In summary: this Agreement applies when Snap processes your customers' personal
 
 “LGPD” means Brazilian General Data Protection Law (Lei Geral de Proteção de Dados Pessoais).
 
-“Personal Data Breach” means the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Customer Personal Data on systems managed or controlled by Snap.
+"Personal Data Breach" means the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Customer Personal Data on systems managed or controlled by Snap.
 
-“Subprocessors” means third parties authorized under this Agreement to access and process Customer Personal Data in order to provide parts of the Business Services.
+"Sub-processors" means third parties authorized under this Agreement to access and process Customer Personal Data in order to provide parts of the Business Services.
 
 “UK” means the United Kingdom.
 
-"UK Data Protection Laws" means the GDPR as it forms part of the law of England and Wales, Scotland and Northern Ireland by virtue of section 3 of the European Union (Withdrawal) Act 2018 in the UK ("UK GDPR") and the Data Protection Act 2018.
+“UK Data Protection Laws” means the GDPR as it forms part of the law of England and Wales, Scotland and Northern Ireland by virtue of section 3 of the European Union (Withdrawal) Act 2018 in the UK (“UK GDPR”) and the Data Protection Act 2018.
 
-The terms “personal data,” “data subject,” “processing,” “controller,” ”processor,” “representative,” and “supervisory authority,” each as used in this Agreement, have the meanings given in the GDPR, UK GDPR or LGPD, as applicable, in each case irrespective of whether Data Protection Law applies.
+The terms "personal data", "data subject", "processing", "controller", "processor", "representative" and "supervisor authority", each as used in this Agreement, have the meanings given in the GDPR, UK GDPR or LGPD, as applicable, in each case irrespective of whether Data Protection Law applies.
 
 **2\. Processing of Customer Personal Data**
 
@@ -303,15 +303,15 @@ d. Details of Processing. The subject matter and details of processing are descr
 
 e. Compliance with Law. Each party agrees it will comply with its obligations under the Data Protection Law relating to any Customer Personal Data it processes under or in relation to this Agreement. Without prejudice to the foregoing, Snap will not process Customer Personal Data in a manner that will, or is likely to, result in the Data Controller breaching its obligations under the Data Protection Law. Snap will promptly inform the Data Controller if Snap is of the opinion that the Data Controller’s instruction infringes Data Protection Law.
 
-_In summary:  you appoint Snap to process customer personal data on your behalf. You remain responsible for establishing a valid legal basis for processing the personal data. Both you and Snap agree to comply with all data protection laws._
+_In summary: you appoint Snap to process customer personal data on your behalf. You remain responsible for establishing a valid legal basis for processing the personal data. Both you and Snap agree to comply with all data protection laws._
 
 **3\. Snap Obligations**
 
 a. Processing of Customer Personal Data. Snap will only process Customer Personal Data in accordance with the [Business Services Terms](https://www.snap.com/terms/business-services) and this Agreement, and will not use or process Customer Personal Data for any purpose other than in its capacity as processor appointed by the Data Controller.
 
-b. Data Security. In accordance with Article 32 GDPR, UK GDPR and LGPD, as applicable, and as described in Schedule 2 of this Agreement, Snap will implement and maintain all appropriate technical, administrative, and organizational measures required to: (i) ensure a level of confidentiality and security appropriate to the risks represented by the processing and the nature of Customer Personal Data; and (ii) prevent unauthorized or unlawful processing of Customer Personal Data, accidental loss, disclosure or destruction of, or damage to, Customer Personal Data.
+b. Data security. In accordance with Article 32 GDPR, UK GDPR and LGPD, as applicable, and as described in Schedule 2 of this Agreement, Snap will implement and maintain all appropriate technical, administrative, and organisational measures required to: (i) ensure a level of confidentiality and security appropriate to the risks represented by the processing and the nature of Customer Personal Data; and (ii) prevent unauthorised or unlawful processing of Customer Personal Data, accidental loss, disclosure or destruction of or damage to Customer Personal Data.
 
-c. Non-Disclosure. Snap will not publish, disclose, or divulge (and will ensure that its personnel do not publish, disclose, or divulge) Customer Personal Data to a third party unless the Data Controller has given its prior written consent.
+c. Non-disclosure. Snap will not publish, disclose, or divulge (and will ensure that its personnel do not publish, disclose, or divulge) Customer Personal Data to a third party unless the Data Controller has given its prior written consent.
 
 d. Confidentiality. Snap will ensure that only personnel who may be required to assist in meeting its obligations under the [Business Services Terms](https://www.snap.com/terms/business-services) or this Agreement will have access to Customer Personal Data and that such personnel are bound by appropriate obligations of confidentiality, and take all reasonable steps in accordance with best industry practice to ensure the confidentiality of the Customer Personal Data.
 
@@ -321,13 +321,13 @@ f. Data Subject and Supervisory Requests. Snap will inform the Data Controller p
 
 g. Data Protection Impact Assessment. Upon request, Snap will provide the Data Controller with commercially reasonable information and assistance, taking into account the nature of the processing activity and the information available to Snap, to assist the Data Controller to conduct a data protection impact assessment as required by Data Protection Law.
 
-h. Providing Evidence. During the term of this Agreement and for a period of one year thereafter, Snap will make available to the Data Controller, or an internationally recognized auditing firm acting on the Data Controller’s behalf, all information reasonably necessary to demonstrate Snap’s compliance with this Agreement, and Snap will allow for and contribute to audits conducted by the Data Controller or its representatives who are bound by appropriate obligations of confidentiality; if: (i) the Data Controller provides no fewer than ten business days’ prior written notice to Snap; (ii) such audit is conducted during Snap’s normal business hours and in a manner that does not unreasonably interfere with Snap’s normal business operations; (iii) such audit lasts no longer than three total business days; (iv) in no event is the Data Controller (or, for avoidance of doubt, any authorized third-party auditor) entitled to access or receive Snap’s proprietary or confidential information, except to the extent strictly necessary to demonstrate compliance with this Agreement; and (v) the Data Controller is obligated to reimburse Snap for Snap’s documented reasonable costs if that audit determines that Snap is in compliance with this Agreement. In the event the audit determines Snap is out of compliance with this Agreement, then Snap will be obligated for all reasonable costs of such audit.
+h. Providing Evidence. During the term of this Agreement and for a period of one year thereafter, Snap will make available to the Data Controller, or an internationally recognised auditing firm acting on the Data Controller’s behalf, all information reasonably necessary to demonstrate Snap’s compliance with this Agreement, and Snap will allow for and contribute to audits conducted by the Data Controller or its representatives who are bound by appropriate obligations of confidentiality; if: (i) the Data Controller provides no fewer than ten business days’ prior written notice to Snap; (ii) such audit is conducted during Snap’s normal business hours and in a manner that does not unreasonably interfere with Snap’s normal business operations; (iii) such audit lasts no longer than three total business days; (iv) in no event is the Data Controller (or, for avoidance of doubt, any authorised third-party auditor) entitled to access or receive Snap’s proprietary or confidential information, except to the extent strictly necessary to demonstrate compliance with this Agreement; and (v) the Data Controller is obligated to reimburse Snap for Snap’s documented reasonable costs if that audit determines that Snap is in compliance with this Agreement. In the event the audit determines Snap is out of compliance with this Agreement, then Snap will be obligated for all reasonable costs of such audit.
 
-i. Return or Destroy Customer Personal Data. Upon completion of Snap’s obligations in relation to processing of Customer Personal Data under this Agreement or upon the Data Controller’s request at any time during the term of this Agreement, (and, if the Data Controller so requests, at regular intervals set by the Data Controller), Snap will either: (i) return all or subsets of the Customer Personal Data in Snap’s possession to the Data Controller; (ii) render all or part of Customer Personal Data anonymous in such a manner that the data no longer constitutes personal data; or (iii) permanently delete or render all or parts of the Customer Personal Data unreadable. Upon the Data Controller’s request, Snap must provide written confirmation to the Data Controller of the anonymization, return, and deletion of Customer Personal Data.
+i. Return or Destroy Customer Personal Data. Upon completion of Snap’s obligations in relation to processing of Customer Personal Data under this Agreement or upon the Data Controller’s request at any time during the term of this Agreement, (and, if the Data Controller so requests, at regular intervals set by the Data Controller), Snap will either: (i) return all or subsets of the Customer Personal Data in Snap’s possession to the Data Controller; (ii) render all or part of Customer Personal Data anonymous in such a manner that the data no longer constitutes personal data; or (iii) permanently delete or render all or parts of the Customer Personal Data unreadable. Upon the Data Controller’s request, Snap must provide written confirmation to the Data Controller of the anonymisation, return, and deletion of Customer Personal Data.
 
 j. Hashed Customer Personal Data. If Snap receives Customer Personal Data in hashed or otherwise obfuscated format, Snap will: (i) not attempt to reverse engineer or otherwise try to re-identify the hashed or obfuscated the Data Controller Personal Data unless the Data Controller instructs Snap to do so; and (ii) only share the Customer Personal Data in the format Snap received it from the Data Controller.
 
-_In summary: Snap will adhere to a number of obligations, some of which are statutory requirements, when processing customer personal data that you have provided, as set out above._
+_In summary: Snap will adhere to a number of obligations, some of which are statutory requirements, when processing Customer Personal Data that you have provided, as set out above._
 
 **4\. Personal Data Breach**
 
@@ -339,17 +339,17 @@ _In summary: if there is a data breach Snap will notify you within 72 hours of b
 
 **5\. Subprocessors**
 
-a. Authorized Subprocessors. The Data Controller specifically authorizes the engagement of Snap’s affiliates to process Customer Personal Data and the Data Controller generally authorizes the engagement of any other third parties as Subprocessors to process Customer Personal Data.
+a. Authorised Subprocessors. The Data Controller specifically authorises the engagement of Snap's affiliates to process Customer Personal Data and the Data controller generally authorises the engagement on any other third-parties as Subprocessors to process customer Personal Data.
 
-b. Obligations of Subprocessor. In accordance with Article 28 (4) GDPR, UK GDPR and LGPD, as applicable, Snap will impose legally binding contract terms on each Subprocessor that are as restrictive as those contained in this Agreement.
+b. Obligation of Subprocessor. In accordance with Article 28 (4) GDPR, UK GDPR and LGPD, as applicable, Snap will impose legally binding contract terms on each Subprocessor that are as restrictive as those contained in this Agreement.
 
 c. Restricted Access. Snap will ensure each Subprocessor only accesses and uses Customer Personal Data to the extent required to perform the obligations subcontracted to it and in accordance with this Agreement.
 
-d. Updates of Subprocessors. In accordance with Article 28 (2) GDPR and UK GDPR (as applicable), [here](https://businesshelp.snapchat.com/s/article/snap-subprocessors?language=en_US) is an up-to-date list of: (i) all Subprocessors involved in processing Customer Personal Data; (ii) the purposes for which the Subprocessors process Customer Personal Data; and (iii) the location of each Subprocessor. Snap will notify the Data Controller at least 30 days before adding a new Subprocessor. 
+d. Updates of Subprocessors. In accordance with Article 28 (2) GDPR and UK GDPR (as applicable), [here](https://businesshelp.snapchat.com/s/article/snap-subprocessors?language=en_GB) is an up-to-date list: (i) all Subprocessors involved in processing Customer Personal Data; (ii) the purpose for which the Subprocessor process Customer Personal Data; and (iii) the location of each Subprocessor. Snap will notify the Data Controller at least 30 days before adding a new Subprocessor.
 
-e. Right to Object. Data Controller has the right to object to the addition of a new Subprocessor, as described in this Section. In the event that the Data Controller objects to the processing of Customer Personal Data by any newly appointed Subprocessor, it will immediately inform Snap, after which Snap will either: (i) instruct the Subprocessor to cease any further processing of Customer Personal Data, in which event this Agreement shall continue unaffected; or (ii) allow the Data Controller to terminate this Agreement immediately.
+e. Right to Object. Data Controller has the right to object to the addition of a new Subprocessor, as described in this Section. In the event that the Data Controller objects to the processing of customer Personal Data by any newly appointed Subprocessor, it will immediately inform Snap, after which Snap will either: (i) instruct the Subprocessor to ease any further processing of Customer Personal Data, in which events this Agreement shall continue unaffected; or (ii) allow the Data controller to terminate this Agreement immediately.
 
-_In summary: in addition to authorising Snap to act as a data processor, you also authorise Snap's affiliates to process customer personal data as subprocessors. Snap will enter into a legally binding agreement with all subprocessors and maintain a list of those appointed. You have the right to object to Snap's appointment of a subprocessor._
+_In summary: in addition to authorising Snap to act as a Data Processor, you also authorise Snap's affiliates to process Customer Personal Data as Subprocessors. Snap will enter into a legally binding agreement with all Subprocessors and maintain a list of those appointed. You have the right to object to Snap's appointment of a Subprocessor._
 
 **6\. Data Transfers**
 
@@ -369,23 +369,23 @@ c. With respect to personal data of Brazilian data subjects, the Data Controller
 
 _In summary: if you are based in the EEA, Switzerland or the UK the Data Transfer Agreement shall apply to all transfers of personal data to Snap. With respect to personal data of EEA, Switzerland and UK data subjects, you and Snap agree to comply with the provisions relating to international transfers under the GDPR. With respect to Brazilian data subjects' personal data, you assure Snap that Snap's processing of such personal data outside Brazil will comply with the Brazilian General Data Protection Law._ 
 
-**7\. Indemnity; Subprocessor Liability**
+**7\. Indemnity: Subprocessor Liability**
 
-a. Indemnity. Snap agrees to indemnify the Data Controller against all third-party complaints, charges, claims, damages, losses, costs, liabilities, and expenses due to, arising out of, or relating in any way to Snap’s breach of this Agreement.
+a. Indemnity. Snap agrees to indemnify the Data Controller against all third-party complaints, charges, claims, damages, losses, costs, liabilities and expenses due to, arising out of, or relating in any way to Snap's breach of this Agreement.
 
-b. Indemnity Process. The Data Controller will promptly notify Snap in writing of any indemnification claim, but any failure to notify Snap will not relieve Snap from any indemnity liability or obligation it may have, except to the extent Snap is materially prejudiced by that failure. The Data Controller will reasonably cooperate with Snap, at Snap’s expense, in connection with the defense, compromise, or settlement of any indemnification claim. Snap will not compromise or settle any claim in any manner, nor make any admission of liability, without the Data Controller’s prior written consent, which the Data Controller may provide in its sole discretion. The Data Controller may participate (at its cost) in the defense, compromise, and settlement of the claim with counsel of the Data Controller’s choosing.
+b. Indemnity Process. The Data Controller will promptly notify Snap in writing of any indemnification claim, but any failure to notify Snap will not relieve Snap from any indemnify liability or obligation it may have, except to the extent Snap is materially prejudiced by that failure. The Data Controller will reasonably cooperate with Snap, at Snap's expense, in connection with the defence, compromise or settlement of any indemnification claim. Snap will not compromise or settle any claim in any manner, nor make any admission of liability, without the Data Controller's prior written consent, which the Data Controller may provide in its sole discretion. The Data Controller may participate (at its cost) in the defence, compromise and settlement of the claim with counsel of the Data controller's choosing.
 
-c. Subprocessor Liability. Snap acknowledges and agrees that it will remain liable to the Data Controller for a breach of the terms of this Agreement by a Subprocessor and any other subsequent third-party processors appointed by it.
+c. Subprocessor Liability. Snap acknowledges and agrees that it will remain liable to the Data Controller for a breach of the terms of this Agreement by a Subprocessor and any other subsequent third-party processor appointment by it.
 
-_In summary: if you suffer any third party losses in relation to Snap's breach of this Agreement, Snap will compensate you._ 
+_In summary: If you suffer any third-party losses in relation to Snap's breach of this Agreement, Snap will compensate you._
 
 **8\. Termination**
 
 a. Termination. This Agreement will terminate automatically upon termination of the [Business Services Terms](https://www.snap.com/terms/business-services).
 
-b. Survival. Snap’s obligations related to returning or deleting Customer Personal Data will survive termination of the [Business Services Terms](https://www.snap.com/terms/business-services) and this Agreement until Snap has returned or deleted the Customer Personal Data in accordance with this Agreement.
+b. Survival. Snap's obligations related to returning or deleting Customer's Personal Data will survive termination of the [Business Services Terms](https://www.snap.com/terms/business-services) and this Agreement until Snap has returned or deleted the Customer's Personal Data in accordance with this Agreement.
 
-_In summary: this Agreement will terminate at the same time that the Business Services Terms terminate, but Snap will continue to be obliged to return or delete customer personal data._ 
+_In summary: This Agreement will terminate at the same time that the Business Services Terms terminate, but Snap will continue to be obliged to return or delete Customer's Personal Data._
 
 **9\. Conflicts**
 
@@ -397,37 +397,37 @@ Schedule 1: Details of Data Processing
 
 **A. List of Parties**
 
-**Data exporter(s)**
+**Data Exporter(s)**
 
-The data exporter shall be the Data Controller, as defined in this Agreement, with the name, address, and contact details as provided to Snap via the Business Services. The activities relevant to the data transferred under these Clauses include the use of the relevant Business Services in accordance with the [Business Services Terms](https://www.snap.com/terms/business-services) and applicable Supplemental Terms and Policies . The data exporter shall be in the controller role. 
+The Data Exporter shall be the Data controller, as defined in this Agreement, with the name, address and contact details as provided to Snap via the Business Services. The activities relevant to the data transferred under these Clauses include the use of the relevant Business Services in accordance with the [Business Services Terms](https://www.snap.com/terms/business-services) and applicable Supplemental Terms and Policies. The Data Exporter shall be in the controller role.
 
-**Data importer(s)**
+**Data Importer(s)**
 
-The data importer shall be :
+The Data Importer shall be:
 
 Snap Inc., with its address at 3000 31st Street, Santa Monica, California 90405
 
-The activities relevant to the data transferred under these Clauses include the provision of the relevant Business Services in accordance with the [Business Services Terms](https://www.snap.com/terms/business-services) and applicable Supplemental Terms and Policies terms. The data importer shall be in the processor role.
+The activities relevant to the data transferred under these Clauses include the provision of the relevant Business Services in accordance with the [Business Services Terms](https://www.snap.com/terms/business-services) and applicable Supplemental Terms and Policies Terms. The Data Importer shall be in the processor role.
 
 **B. Description of Transfer**
 
 The data processing activities carried out by Snap under this Agreement are as follows:
 
-**Subject matter**
+**Subject Matter**
 
 Snap's provision of the Business Services to the Data Controller.
 
 **Duration of the processing and retention**
 
-For the term of this Agreement plus the period from expiry of the term of this Agreement until the anonymization, return, or deletion of data in accordance with this Agreement.
+For the terms of this Agreement plus the period from expiry of the terms of this Agreement until the anonymisation, return or deletion of data in accordance with this Agreement.
 
-**Nature and purpose**
+**Nature and Purpose**
 
-Snap will process Customer Personal Data for the purposes of providing the Business Services to the Data Controller in accordance with and as described in the [Business Services Terms](https://www.snap.com/terms/business-services) and this Agreement.
+Snap will process Customer Personal Data for the purpose of providing the Business Services to the Data Controller in accordance with and as described in the [Business Services Terms](https://www.snap.com/terms/business-services) and this Agreement.
 
-**Data categories**
+**Data Categories**
 
-Customer Personal Data relating to individuals provided to Snap via the Business Services, by (or at the direction of) the Data Controller, which may include:
+Customer Personal data relating to individual provided to Snap via the Business Services, by (or at the direction of) the Data Controller, which may include:
 
 *   email address
     
@@ -441,30 +441,30 @@ Customer Personal Data relating to individuals provided to Snap via the Business
     
 *   browser user agent
     
-*   actions and events taken on websites and apps, including pages viewed, purchases, searches, check-out events, wish lists, installs, and user registration methods
+*   actions and events taken on websites and apps, including pages viewed, purchases, searches. check-out events, wish lists, installs and user registration methods
     
 
 **Sensitive data transferred**
 
 Not applicable
 
-**Frequency of the transfer** 
+**Frequency of the transfer**
 
 Continuous
 
-**Data subjects**
+**Data Subjects**
 
-Data subjects include EEA, Switzerland, UK, and Brazilian individuals about whom personal data is provided to Snap via the Business Services by (or at the direction of) the Data Controller.
+Data Subjects include EEA, Switzerland, UK and Brazilian individuals about whom personal data is provided to Snap via the Business Services by (or at the direction of) the Data Controller.
 
 **C. Competent Supervisory Authority**
 
-The competent supervisory authority will be the Dutch Data Protection Authority (Autoriteit Persoonsgegevens, AP).
+The competent supervisory authority will be the Dutch Data Protection Authority (Autoriteit Persoonsgegevens, AP)
 
 _In summary: the subject matter and details of processing are set out above._
 
 Schedule 2 - Snap Security Measures
 
-1\. Implementation of and compliance with a written information security program consistent with established industry standards and including administrative, technical, and physical safeguards appropriate to the nature of the Customer Personal Data and designed to protect such information from: unauthorized access, destruction, use, modification, or disclosure; unauthorized access to or use that could result in substantial harm or inconvenience to the Data Controller, the Data Controller's customers, or the Data Controller's employees; and any anticipated threats or hazards to the security or integrity of such information.
+1\. Implementation of and compliance with a written information security program consistent with established industry standards and including administrative, technical, and physical safeguards appropriate to the nature of the Customer Personal Data and designed to protect such information from: unauthorised access, destruction, use, modification, or disclosure; unauthorised access to or use that could result in substantial harm or inconvenience to the Data Controller, the Data Controller's customers, or the Data Controller's employees; and any anticipated threats or hazards to the security or integrity of such information.
 
 2\. Adopting and implementing reasonable policies and standards related to security.
 
@@ -478,15 +478,15 @@ Schedule 2 - Snap Security Measures
 
 7\. Conducting training to make employees and others with access to the Customer Personal Data aware of information security risks and to enhance compliance with Snap's policies and standards related to data protection.
 
-8\. Preventing unauthorized access to the Customer Personal Data through the use, as appropriate, of physical and logical (passwords) entry controls, secure areas for data processing, procedures for monitoring the use of data processing facilities, built-in system audit trails, use of secure passwords, network intrusion detection technology, encryption and authentication technology, secure log-on procedures, and virus protection, monitoring compliance with Snap's policies and standards related to data protection on an ongoing basis. In particular, Snap has implemented and complies with, as appropriate and without limitation:
+8\. Preventing unauthorised access to the Customer Personal Data through the use, as appropriate, of physical and logical (passwords) entry controls, secure areas for data processing, procedures for monitoring the use of data processing facilities, built-in system audit trails, use of secure passwords, network intrusion detection technology, encryption and authentication technology, secure log-on procedures, and virus protection, monitoring compliance with Snap's policies and standards related to data protection on an ongoing basis. In particular, Snap has implemented and complies with, as appropriate and without limitation:
 
-*   Physical access control measures to prevent unauthorized access to data processing systems (e.g., access ID cards, card readers, desk officers, alarm systems, motion detectors, burglar alarms, video surveillance, and exterior security);
+*   Physical access control measures to prevent unauthorised access to data processing systems (e.g., access ID cards, card readers, desk officers, alarm systems, motion detectors, burglar alarms, video surveillance, and exterior security);
     
-*   Denial-of-use control measures to prevent unauthorized use of data protection systems (e.g., automatically enforced password complexity and change requirements and firewalls.);
+*   Denial-of-use control measures to prevent unauthorised use of data protection systems (e.g., automatically enforced password complexity and change requirements and firewalls.) ;
     
-*   Requirements-driven authorization scheme and access rights, and monitoring and logging of system access to ensure that persons entitled to use a data processing system have access only to the data to which they have a right of access, and that the Customer Personal Data cannot be read, copied, modified, or removed without authorization;
+*   Requirements-driven authorisation scheme and access rights, and monitoring and logging of system access to ensure that persons entitled to use a data processing system have access only to the data to which they have a right of access, and that the Customer Personal Data cannot be read, copied, modified, or removed without authorisation;
     
-*   Data transmission control measures to ensure that the Customer Personal Data cannot be read, copied, modified, or removed without authorization during electronic transmission, transport, or storage on data media, and transfer and receipt of records. In particular, Snap's information security program will be designed:
+*   Data transmission control measures to ensure that the Customer Personal Data cannot be read, copied, modified, or removed without authorisation during electronic transmission, transport, or storage on data media, and transfer and receipt of records. In particular, Snap's information security program will be designed:
     
     *   To encrypt in storage any data sets in Snap's possession, including sensitive personal data, using appropriate encryption levels based on industry-leading encryption standards, including AES -256, and storing user identities on the system using key value pair such as ghost\_id to prevent storage of actual user ID; and
         
@@ -497,7 +497,7 @@ Schedule 2 - Snap Security Measures
     
 *   Continuous security testing measures to ensure information security practices remain relevant, effective, and up to date, including annual penetration testings, bug bounty program, use of system scanning tools, tabletop exercises, backup restoration tests, pre-production failovers, and conducting post-mortems on any actual incidents in order to update the relevant disaster recovery plans;
     
-*   Subprocessor supervision measures to ensure that, if Snap is permitted to use subprocessors, the Customer Personal Data is processed strictly in accordance with the Data Controller's instructions including, as appropriate:
+*   Subprocessor supervision measures to ensure that, if Snap is permitted to use Subprocessors, the Customer Personal Data is processed strictly in accordance with the Data Controller's instructions including, as appropriate:
     
     *   Measures to ensure that the Customer Personal Data is protected from accidental destruction or loss including, as appropriate and without limitation, data backup, retention and secure destruction policies; secure offsite storage of data sufficient for disaster recovery; uninterrupted power supply, and disaster recovery programs; and
         

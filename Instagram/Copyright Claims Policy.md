@@ -3,13 +3,15 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+Report copyright violation
 
-Denunciar violação de marca registrada
+Report trademark violation
 
-O que é propriedade intelectual?
+What is copyright?
 
-Tenho uma pergunta diferente
+What is trademark?
+
+I have a different question
 
 About intellectual property
 ---------------------------
@@ -205,11 +207,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-Can I use someone's work?
+What is not protected by copyright?
 
 I have a different question
 
@@ -274,6 +276,8 @@ I created a work
 
 Employer owns my work
 
+What is copyright?
+
 I have a different question
 
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you are likely to own the copyright for that painting. Similarly, if you take a photo, you are likely to own the copyright for that photo.
@@ -327,9 +331,11 @@ Copy link
 
 What are my copyright rights?
 
-Stop someone using my work
+Stop others copying my work
 
 What is copyright infringement?
+
+Grant permission to use my work
 
 I have a different question
 
@@ -446,9 +452,9 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What is copyright law?
 
-What is trademark?
+What is trademark law?
 
 Copyright vs trademark
 
@@ -501,9 +507,9 @@ Copy link
 
 How to avoid copyright violation?
 
-What content can I post?
+What is copyright law?
 
-Do I need permission?
+Can I use content I bought?
 
 What is fair use?
 
@@ -779,9 +785,7 @@ My account was disabled
 
 What is repeat infringer policy?
 
-My content was restored
-
-How to avoid copyright?
+What happens to my Page?
 
 I have a different question
 
@@ -901,11 +905,11 @@ Copy link
 
 Report copyright infringement
 
-Report copyright on Threads
+Fill in a copyright form
 
-What is Brand Rights Protection?
+Use Brand Rights Protection
 
-What is DMCA?
+Contact DMCA designated agent
 
 I have a different question
 
@@ -959,13 +963,13 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is intellectual property?
+Consider my copyright permissions
 
-What is copyright infringement?
+Consider my trademark permissions
 
-What is trademark infringement?
+Legal consequences of reporting
 
-What are legal consequences?
+What is a fraudulent report?
 
 I have a different question
 
@@ -1077,11 +1081,11 @@ Copy link
 
 Contact DMCA agent
 
-Online form for DMCA
+DMCA online form
 
-DMCA agent contact details
+DMCA agent email
 
-Complete copyright claim
+DMCA agent address
 
 I have a different question
 
@@ -1140,11 +1144,11 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-Submit a copyright claim
+What information do I need?
 
-What info do I need?
+Where do I find a URL?
 
-Find a URL for content
+What is a copyright report?
 
 I have a different question
 
@@ -1280,9 +1284,9 @@ Copy link
 
 What happens after I report?
 
-I need to provide more info
+Respond to a report
 
-Who sees my report details?
+What information is shared?
 
 I have a different question
 
@@ -1394,11 +1398,11 @@ More about trademarks and what they protect
 
 Copy link
 
-What is a trademark?
+What are trademarks?
 
-What do trademarks protect?
+How do trademarks protect me?
 
-Can I use a trademark?
+Report a trademark infringement
 
 I have a different question
 
@@ -1455,7 +1459,7 @@ When does infringement occur?
 
 What is likelihood of confusion?
 
-Limits to trademark rights
+Limits to trademark rights?
 
 I have a different question
 
@@ -1508,13 +1512,15 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Registrieren Sie eine Marke
+Register my trademark
 
-Was sind Common Law-Rechte?
+What are common law rights?
 
-Was ist eine USPTO-Registrierung?
+Do I need to register?
 
-Ich habe eine andere Frage
+What is the USPTO?
+
+I have a different question
 
 It depends. In the US, a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, amongst other things. For these reasons, trademark owners often obtain USPTO registrations.
 
@@ -1559,11 +1565,13 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark registration?
+Trademark vs business registration
+
+What is a trademark?
 
 What is a business registration?
 
-USPTO registration
+What is USPTO?
 
 I have a different question
 
@@ -1674,9 +1682,11 @@ Copy link
 
 Report counterfeit goods
 
-What is a counterfeit good?
+What is a counterfeit?
 
-Report counterfeit on Threads
+Counterfeit goods on Instagram
+
+I can't report counterfeit goods
 
 I have a different question
 
@@ -1782,9 +1792,9 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What is copyright law?
 
-What is trademark?
+What is trademark law?
 
 Copyright vs trademark
 
@@ -1835,11 +1845,13 @@ How to make sure that the content you post to Instagram or Threads don't violate
 
 Copy link
 
-My content violates trademark law
+My content violates trademark
 
 What is trademark law?
 
-How to avoid trademark infringement?
+How to avoid trademark violation?
+
+Can I use a trademark?
 
 I have a different question
 
@@ -1891,9 +1903,11 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 
 Copy link
 
+Appeal content removal
+
 My content was removed
 
-Appeal content removal
+Contact rights owner
 
 What is intellectual property?
 
@@ -1951,9 +1965,7 @@ My account was disabled
 
 What is repeat infringer policy?
 
-My content was restored
-
-How to avoid copyright?
+What happens to my Page?
 
 I have a different question
 
@@ -2173,11 +2185,11 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-Submit a copyright claim
+What information do I need?
 
-What info do I need?
+Where do I find a URL?
 
-Find a URL for content
+What is a copyright report?
 
 I have a different question
 
@@ -2235,13 +2247,13 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is intellectual property?
+Consider my copyright permissions
 
-What is copyright infringement?
+Consider my trademark permissions
 
-What is trademark infringement?
+Legal consequences of reporting
 
-What are legal consequences?
+What is a fraudulent report?
 
 I have a different question
 
@@ -2446,9 +2458,9 @@ Copy link
 
 What info do I need?
 
-Where do I submit a report?
+Where do I find URLs?
 
-How do I find a URL?
+What is a trademark?
 
 I have a different question
 

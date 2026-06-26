@@ -3,15 +3,13 @@ Information for law enforcement
 
 Copy link
 
-Solicitar información de usuario
+Request user information
 
-Retención de datos
+Submit an emergency request
 
-Solicitudes de emergencia
+What is the Stored Communications Act?
 
-Seguridad infantil
-
-Tengo otra pregunta
+I have a different question
 
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 

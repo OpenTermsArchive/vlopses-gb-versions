@@ -3,13 +3,13 @@ Instagram Content Monetisation Policies
 
 Copy link
 
-Why can't I monetise content?
+My content was demonetised
 
-What are prohibited formats?
+Why was my content demonetised?
 
-What are restricted categories?
+Appeal a monetisation decision
 
-What is unoriginal content?
+What content is restricted?
 
 I have a different question
 

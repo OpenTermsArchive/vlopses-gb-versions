@@ -3,15 +3,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Denunciar violação de direitos autorais
 
-Report trademark violation
+Denunciar violação de marca registrada
 
-What is copyright?
+O que é propriedade intelectual?
 
-What is trademark?
-
-I have a different question
+Tenho uma pergunta diferente
 
 About intellectual property
 ---------------------------
@@ -276,8 +274,6 @@ I created a work
 
 Employer owns my work
 
-What is copyright?
-
 I have a different question
 
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you are likely to own the copyright for that painting. Similarly, if you take a photo, you are likely to own the copyright for that photo.
@@ -384,13 +380,11 @@ How long does copyright protection last?
 
 Copy link
 
-How long does copyright last?
-
-When does work enter public domain?
-
-What is the Berne Convention?
-
 What is public domain?
+
+When does copyright expire?
+
+How long does copyright last?
 
 I have a different question
 
@@ -452,9 +446,9 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright law?
+What is copyright?
 
-What is trademark law?
+What is trademark?
 
 Copyright vs trademark
 
@@ -507,9 +501,9 @@ Copy link
 
 How to avoid copyright violation?
 
-What is copyright law?
+What content can I post?
 
-Can I use content I bought?
+Do I need permission?
 
 What is fair use?
 
@@ -586,7 +580,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Factors of fair use
+Can I use copyrighted material?
 
 I have a different question
 
@@ -785,7 +779,9 @@ My account was disabled
 
 What is repeat infringer policy?
 
-What happens to my Page?
+My content was restored
+
+How to avoid copyright?
 
 I have a different question
 
@@ -963,13 +959,13 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-Consider my copyright permissions
+What is intellectual property?
 
-Consider my trademark permissions
+What is copyright infringement?
 
-Legal consequences of reporting
+What is trademark infringement?
 
-What is a fraudulent report?
+What are legal consequences?
 
 I have a different question
 
@@ -1032,9 +1028,9 @@ Copy link
 
 Report an infringement
 
-What is intellectual property?
+My content was infringed
 
-Who can report infringement?
+What is intellectual property?
 
 I have a different question
 
@@ -1081,11 +1077,11 @@ Copy link
 
 Contact DMCA agent
 
-DMCA online form
+Online form for DMCA
 
-DMCA agent email
+DMCA agent contact details
 
-DMCA agent address
+Complete copyright claim
 
 I have a different question
 
@@ -1144,11 +1140,11 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-What information do I need?
+Submit a copyright claim
 
-Where do I find a URL?
+What info do I need?
 
-What is a copyright report?
+Find a URL for content
 
 I have a different question
 
@@ -1284,9 +1280,9 @@ Copy link
 
 What happens after I report?
 
-Respond to a report
+I need to provide more info
 
-What information is shared?
+Who sees my report details?
 
 I have a different question
 
@@ -1565,13 +1561,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Trademark vs business registration
-
-What is a trademark?
+What is a trademark registration?
 
 What is a business registration?
 
-What is USPTO?
+USPTO registration
 
 I have a different question
 
@@ -1629,13 +1623,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long does my trademark last?
+How long do trademark rights last?
 
-Renew my trademark registration
+How do I renew my trademark?
 
-I stopped using my trademark
-
-What happens if I don't renew?
+What happens if I stop using my trademark?
 
 I have a different question
 
@@ -1792,9 +1784,9 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright law?
+What is copyright?
 
-What is trademark law?
+What is trademark?
 
 Copyright vs trademark
 
@@ -1845,13 +1837,11 @@ How to make sure that the content you post to Instagram or Threads don't violate
 
 Copy link
 
-My content violates trademark
+My content violates trademark law
 
 What is trademark law?
 
-How to avoid trademark violation?
-
-Can I use a trademark?
+How to avoid trademark infringement?
 
 I have a different question
 
@@ -1903,11 +1893,9 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 
 Copy link
 
-Appeal content removal
-
 My content was removed
 
-Contact rights owner
+Appeal content removal
 
 What is intellectual property?
 
@@ -1965,7 +1953,9 @@ My account was disabled
 
 What is repeat infringer policy?
 
-What happens to my Page?
+My content was restored
+
+How to avoid copyright?
 
 I have a different question
 
@@ -2025,9 +2015,11 @@ Copy link
 
 Report trademark infringement
 
-What is trademark infringement?
+Report copyright infringement
 
-Use Brand Rights Protection
+What is the Brand Rights Protection tool?
+
+What happens after I report?
 
 I have a different question
 
@@ -2082,9 +2074,9 @@ Copy link
 
 Report an infringement
 
-What is intellectual property?
+My content was infringed
 
-Who can report infringement?
+What is intellectual property?
 
 I have a different question
 
@@ -2131,11 +2123,9 @@ Copy link
 
 Report a username
 
+My trademark is infringed
+
 What is trademark infringement?
-
-My trademark is in a username
-
-Contact the username owner
 
 I have a different question
 
@@ -2185,11 +2175,11 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-What information do I need?
+Submit a copyright claim
 
-Where do I find a URL?
+What info do I need?
 
-What is a copyright report?
+Find a URL for content
 
 I have a different question
 
@@ -2247,13 +2237,13 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-Consider my copyright permissions
+What is intellectual property?
 
-Consider my trademark permissions
+What is copyright infringement?
 
-Legal consequences of reporting
+What is trademark infringement?
 
-What is a fraudulent report?
+What are legal consequences?
 
 I have a different question
 
@@ -2377,7 +2367,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Factors of fair use
+Can I use copyrighted material?
 
 I have a different question
 

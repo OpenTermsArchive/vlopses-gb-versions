@@ -3130,8 +3130,6 @@ What content is not recommended?
 
 Why was my content not recommended?
 
-What are Community Standards?
-
 I have a different question
 
 We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, groups or events) that people do not already follow. Some examples of our recommendations experiences include Pages you may like, "Suggested for you" posts in Feed, People you may know or Groups you should join. Some entities might have limited or no access to features that encourage engagement, and might not be as widely recommended on Facebook as other entities.

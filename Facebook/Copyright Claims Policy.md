@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-Report a copyright violation
+Denunciar violação de direitos autorais
 
-Report a trademark violation
+Denunciar violação de marca registrada
 
-What is copyright?
+O que é direito autoral?
 
-What is a trademark?
+O que é marca registrada?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -421,15 +421,15 @@ What is a counterfeit?
 
 Copy link
 
-Report counterfeit goods
+Denunciar um produto contrafeito
 
-What is a counterfeit good?
+O que é uma réplica?
 
-Report counterfeit sales
+O que é violação de marca?
 
-What is trademark infringement?
+Como denunciar no Facebook?
 
-I have a different question
+Tenho uma pergunta diferente
 
 A counterfeit good is a knock-off or replica version of another company's product. It usually copies the trademark (name or logo) and/or distinctive features of that other company's product to imitate a genuine product. The manufacture, promotion or sale of counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognised as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
@@ -1032,11 +1032,13 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What to include in report?
+Submit a trademark report
 
-Where do I submit report?
+What to include in report
 
-How to find infringing URL?
+How to find a URL
+
+My trademark was infringed
 
 I have a different question
 
@@ -2434,11 +2436,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What info is sent?
+What information is provided?
 
-Who sees my email?
+How do I appeal?
 
-Can I appeal a removal?
+My content was removed
 
 I have a different question
 
@@ -2562,11 +2564,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
+Protect my video content
+
 What is Rights Manager?
 
 What is content protection?
 
-How do I apply for tools?
+I can't apply for tools
 
 I have a different question
 

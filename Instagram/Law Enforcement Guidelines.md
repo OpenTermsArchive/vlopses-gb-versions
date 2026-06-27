@@ -7,9 +7,7 @@ Request user information
 
 Submit an emergency request
 
-What data is retained?
-
-How to submit a request?
+International legal requests
 
 I have a different question
 

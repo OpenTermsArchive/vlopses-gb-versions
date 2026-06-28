@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-Report a copyright violation
+Denunciar violação de direitos autorais
 
-Report a trademark violation
+Denunciar violação de marca registrada
 
-What is copyright?
+O que é direito autoral?
 
-What is a trademark?
+O que é marca registrada?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -190,9 +190,7 @@ What is trademark infringement?
 
 What is trademark dilution?
 
-What causes consumer confusion?
-
-What are limits to trademark rights?
+What is likelihood of confusion?
 
 I have a different question
 
@@ -543,9 +541,7 @@ What is copyright?
 
 What is trademark?
 
-Copyright infringement
-
-Trademark infringement
+Copyright vs trademark
 
 I have a different question
 
@@ -723,9 +719,7 @@ My account was disabled
 
 My Page was removed
 
-My Group was removed
-
-What are feature limits?
+What is intellectual property?
 
 I have a different question
 
@@ -868,11 +862,11 @@ Copy link
 
 Report an infringement
 
-Report someone else's copyright
+What is intellectual property?
 
-Report someone else's trademark
+Report a copyright infringement
 
-How to report infringement
+Report a trademark infringement
 
 I have a different question
 
@@ -1034,13 +1028,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-Submit a trademark report
+What to include in report?
 
-What to include in report
+Where do I submit report?
 
-How to find a URL
-
-My trademark was infringed
+How to find infringing URL?
 
 I have a different question
 
@@ -1181,7 +1173,7 @@ Report copyright infringement
 
 Report trademark infringement
 
-How to use Brand Rights Protection
+I can't find the ad
 
 I have a different question
 
@@ -1301,9 +1293,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel my copyright report
+
+How to retract a report?
 
 I can't withdraw my report
 
@@ -1419,13 +1413,13 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
-Report intellectual property infringement
+Report an IP infringement
+
+Brand Rights Protection
 
 What is Brand Rights Protection?
 
-My intellectual property was infringed
-
-How do I apply for Brand Rights Protection?
+How to apply for BRP?
 
 I have a different question
 
@@ -1566,11 +1560,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
+What is not protected by copyright?
 
 I have a different question
 
@@ -1748,9 +1742,9 @@ How long does copyright protection last?
 
 Copy link
 
-How long does copyright last?
-
 What is public domain?
+
+How long does copyright last?
 
 When does copyright expire?
 
@@ -1962,11 +1956,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+Can I infringe copyright unintentionally?
 
 What is fair use?
 
-What if I gave credit?
+What is copyright infringement?
+
+What does copyright protect?
 
 I have a different question
 
@@ -2115,13 +2111,15 @@ Facebook Lite App Help
 
 More
 
-Rayuan kandungan yang dialih keluar
+Apelar remoção de conteúdo
 
-Hubungi pemilik hak cipta
+Conteúdo removido por direitos autorais
 
-Kandungan saya dialih keluar secara tidak sengaja
+O que é DMCA?
 
-Saya ada soalan lain
+Não consigo apelar
+
+Tenho uma pergunta diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -2246,7 +2244,7 @@ Report copyright infringement
 
 Contact designated agent
 
-Message content poster
+Who can report copyright?
 
 I have a different question
 
@@ -2305,7 +2303,7 @@ Copy link
 
 Contact DMCA agent
 
-Report copyright infringement
+Submit a copyright claim
 
 DMCA contact details
 

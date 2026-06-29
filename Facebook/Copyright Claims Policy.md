@@ -190,7 +190,9 @@ What is trademark infringement?
 
 What is trademark dilution?
 
-What is likelihood of confusion?
+What causes consumer confusion?
+
+What are limits to trademark rights?
 
 I have a different question
 
@@ -253,13 +255,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register my trademark
+Register a trademark
 
-Trademark rights without registration
+What is a trademark right?
 
-Register trademark outside US
+Register trademark in EU
 
-What is a common law right?
+Common law trademark rights
 
 I have a different question
 
@@ -477,9 +479,9 @@ Copy link
 
 What is trademark infringement?
 
-When can I use a trademark?
+What is nominative fair use?
 
-What are limits to trademark rights?
+Are there geographic limits?
 
 I have a different question
 
@@ -502,9 +504,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -514,9 +516,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -656,11 +658,11 @@ Copy link
 
 Apelar remoção de conteúdo
 
-Apelar relatório de marca registada
+O que é uma violação de IP?
 
-Apelar relatório de propriedade intelectual
+O que é uma marca registada?
 
-Tenho uma questão diferente
+Tenho uma pergunta diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -862,11 +864,11 @@ Copy link
 
 Report an infringement
 
-What is intellectual property?
+Report someone else's copyright
 
-Report a copyright infringement
+Report someone else's trademark
 
-Report a trademark infringement
+How to report infringement
 
 I have a different question
 
@@ -1028,11 +1030,13 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What to include in report?
+Submit a trademark report
 
-Where do I submit report?
+What to include in report
 
-How to find infringing URL?
+How to find a URL
+
+My trademark was infringed
 
 I have a different question
 
@@ -1101,13 +1105,11 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What is my report number?
+What happens after I report?
 
-Ask for more information
+My report number
 
-Who sees my report details?
-
-Can I appeal a decision?
+Respond to a message
 
 I have a different question
 
@@ -1173,7 +1175,7 @@ Report copyright infringement
 
 Report trademark infringement
 
-I can't find the ad
+How to use Brand Rights Protection
 
 I have a different question
 
@@ -1626,9 +1628,11 @@ Copy link
 
 Who owns my original work?
 
-What is copyright ownership?
+What is copyright?
 
-My employer owns my work
+I created an original work
+
+What if I'm in a photo?
 
 I have a different question
 
@@ -1798,11 +1802,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-Do I have permission to post?
+My post was removed
 
 What is fair use?
 
-Is my content copyrighted?
+How do I get permission?
+
+What is public domain content?
 
 I have a different question
 
@@ -2111,15 +2117,13 @@ Facebook Lite App Help
 
 More
 
-Apelar remoção de conteúdo
+Rayuan kandungan yang dialih keluar
 
-Conteúdo removido por direitos autorais
+Hubungi pemilik hak cipta
 
-O que é DMCA?
+Kandungan saya dialih keluar secara tidak sengaja
 
-Não consigo apelar
-
-Tenho uma pergunta diferente
+Saya ada soalan lain
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -2244,7 +2248,7 @@ Report copyright infringement
 
 Contact designated agent
 
-Who can report copyright?
+Message content poster
 
 I have a different question
 
@@ -2303,7 +2307,7 @@ Copy link
 
 Contact DMCA agent
 
-Submit a copyright claim
+Report copyright infringement
 
 DMCA contact details
 
@@ -2430,11 +2434,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What info is sent?
+What information is provided?
 
-Who sees my email?
+How do I appeal?
 
-Can I appeal a removal?
+My content was removed
 
 I have a different question
 
@@ -2492,13 +2496,13 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What is a copyright report?
+What happens after I report?
 
-My report number is missing
+What information is shared?
 
 I need to update my report
 
-Why was my report rejected?
+How do I appeal a report?
 
 I have a different question
 
@@ -2558,11 +2562,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
+Protect my video content
+
 What is Rights Manager?
 
 What is content protection?
 
-How do I apply for tools?
+I can't apply for tools
 
 I have a different question
 

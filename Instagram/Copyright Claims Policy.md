@@ -79,16 +79,6 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
-How do I protect my work?
-
-Report copyright infringement
-
-What is copyright?
-
-Can I use copyrighted music?
-
-I have a different question
-
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [US. Copyright Office](https://www.copyright.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram and Threads can't provide you with legal advice, so you may want to speak to a legal professional if you have more questions about copyright.
@@ -513,15 +503,13 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-Como evitar violação de direitos?
+What is copyright infringement?
 
-O que é violação de direitos?
+How to avoid copyright issues?
 
-Posso usar conteúdo de terceiros?
+Can I use content I bought?
 
-O que acontece se eu violar?
-
-Tenho uma pergunta diferente
+I have a different question
 
 Under Instagram's [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards), you can only post content to Instagram or Threads that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Instagram or Threads doesn't violate copyright law is to only post content that you've created yourself.
 
@@ -594,7 +582,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-What are factors of fair use?
+Can I use copyrighted work?
 
 I have a different question
 
@@ -673,11 +661,11 @@ Can I still violate another person's copyright on Instagram or Threads if I didn
 
 Copy link
 
-What is copyright infringement?
-
 Can I use copyrighted content?
 
 What is fair use?
+
+What if I give credit?
 
 I have a different question
 
@@ -789,15 +777,13 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-Min konto er deaktiveret
+My account was disabled
 
-Hvad er gentagen overtrædelse?
+What is repeat infringer policy?
 
-Min konto blev deaktiveret ved en fejl
+My content was restored
 
-Hvordan undgår jeg krænkelse af ophavsret?
-
-Jeg har et andet spørgsmål
+I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -1150,13 +1136,11 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-What information do I need?
+What to include in report?
 
-Where do I find the form?
+Where to find URLs?
 
-What is a copyright report?
-
-What is an electronic signature?
+My report was rejected
 
 I have a different question
 
@@ -1292,9 +1276,9 @@ Copy link
 
 What happens after I report?
 
-I need to add more information
+Why was my report rejected?
 
-Who sees my report details?
+What information is shared?
 
 I have a different question
 
@@ -1408,9 +1392,9 @@ Copy link
 
 What is a trademark?
 
-What do trademarks protect?
+How do I protect my trademark?
 
-Can I use a trademark?
+What can a trademark protect?
 
 I have a different question
 
@@ -1518,13 +1502,15 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Registrieren Sie eine Marke
+Register my trademark
 
-Was sind Markenrechte?
+What are common law rights?
 
-Was sind Common Law Rechte?
+Do I need to register?
 
-Ich habe eine andere Frage
+What is a business registration?
+
+I have a different question
 
 It depends. In the US, a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, amongst other things. For these reasons, trademark owners often obtain USPTO registrations.
 
@@ -1569,13 +1555,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Trademark registration vs business
-
 What is a trademark registration?
 
 What is a business registration?
 
-What is the USPTO?
+USPTO registration
 
 I have a different question
 
@@ -1735,9 +1719,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
+What are trademark limits?
+
 What is nominative fair use?
 
-What is trademark infringement?
+My trademark was infringed
 
 Are trademark rights limited?
 
@@ -1851,9 +1837,11 @@ Copy link
 
 My content violates trademark law
 
+How to avoid trademark violation?
+
 What is trademark law?
 
-How to avoid trademark infringement?
+Can I use a trademarked word?
 
 I have a different question
 
@@ -1905,13 +1893,11 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 
 Copy link
 
-Appeal content removal
-
-Contact rights owner
-
 My content was removed
 
-What is copyright infringement?
+Appeal content removal
+
+What is intellectual property?
 
 I have a different question
 
@@ -1963,15 +1949,13 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-Min konto er deaktiveret
+My account was disabled
 
-Hvad er gentagen overtrædelse?
+What is repeat infringer policy?
 
-Min konto blev deaktiveret ved en fejl
+My content was restored
 
-Hvordan undgår jeg krænkelse af ophavsret?
-
-Jeg har et andet spørgsmål
+I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -2187,13 +2171,11 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-What information do I need?
+What to include in report?
 
-Where do I find the form?
+Where to find URLs?
 
-What is a copyright report?
-
-What is an electronic signature?
+My report was rejected
 
 I have a different question
 
@@ -2318,9 +2300,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
+What are trademark limits?
+
 What is nominative fair use?
 
-What is trademark infringement?
+My trademark was infringed
 
 Are trademark rights limited?
 
@@ -2381,7 +2365,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-What are factors of fair use?
+Can I use copyrighted work?
 
 I have a different question
 
@@ -2532,9 +2516,11 @@ Copy link
 
 What happens after I report?
 
-What information is shared?
+I didn't get a report number
 
-I need my report number
+I need to add more info
+
+Who sees my report details?
 
 I have a different question
 
@@ -2651,9 +2637,9 @@ Copy link
 
 What information is shared?
 
-Who receives my information?
+Who sees my trademark report?
 
-What if I appeal?
+Can I appeal a removal?
 
 I have a different question
 
@@ -2706,13 +2692,11 @@ Resolve issues, make changes and get support in real time
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
 
-My content was removed
+Appeal content removal
 
-Appeal a copyright removal
+Submit a DMCA counter-notification
 
 What is a DMCA counter-notification?
-
-My appeal was rejected
 
 I have a different question
 

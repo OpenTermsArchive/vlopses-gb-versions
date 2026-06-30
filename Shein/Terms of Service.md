@@ -56,7 +56,7 @@ The benefits of SHEIN SAVER Membership are only available for orders placed on t
 
 The SHEIN SAVER coupon pack consists of multiple coupons, which are distributed automatically by the system in multiple cycles.
 
-SHEIN SAVER coupon will have a special style ![](//img.ltwebstatic.com/images3_acp/2023/09/05/e7/16938933834157ee99e9e10f934fddf032c986e0ce.webp) , you can check it on the [SHEIN SAVER member-only page](https://www.shein.co.uk/user/sheinsaver) , or check the validity of the coupon and the conditions of application by clicking "SHEIN SAVER" filter on [My Coupons page](https://www.shein.co.uk/user/coupon) .
+SHEIN SAVER coupon will have a special style ![](//img.ltwebstatic.com/images3_acp/2023/09/05/e7/16938933834157ee99e9e10f934fddf032c986e0ce.avif) , you can check it on the [SHEIN SAVER member-only page](https://www.shein.co.uk/user/sheinsaver) , or check the validity of the coupon and the conditions of application by clicking "SHEIN SAVER" filter on [My Coupons page](https://www.shein.co.uk/user/coupon) .
 
 Issuance Rules:
 
@@ -182,7 +182,7 @@ Infinite Towers Services Ltd. operates the website [https://www.shein.co.uk/](ht
 
 These General Conditions of Use ( **“GCU”** ) govern the contractual relationship between (a) **Infinite Towers Services Ltd.** whose registered office is at 1 Bartholomew Lane, London, United Kingdom, EC2N 2AX (hereinafter, **“SHEIN”** or **“we”** ) and (b) **you** (hereinafter **“You”** or the **“Customer”** ), regarding your use of the Marketplace within the United Kingdom (hereinafter the **“Territory”** ).
 
-Before using the Marketplace, please read carefully these GCU and either [print](https://files-c.ltwebstatic.com/ccc/2026/02/10/17706934901893108730.pdf) them or, to save them electronically before accepting them. The fact that you use the Site implies your acceptance, without reservation, of these GCU, unless legally prohibited. These GCU may be modified at any time by SHEIN and the applicable GCU shall be those in force at the time the Customer uses the Marketplace. The Customer is responsible for checking these GCU for any changes whenever uses the Site.
+Before using the Marketplace, please read carefully these GCU and either [print](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828077182723397672.pdf) them or, to save them electronically before accepting them. The fact that you use the Site implies your acceptance, without reservation, of these GCU, unless legally prohibited. These GCU may be modified at any time by SHEIN and the applicable GCU shall be those in force at the time the Customer uses the Marketplace. The Customer is responsible for checking these GCU for any changes whenever uses the Site.
 
 The Customer understands and agrees that the following policies form an integral part of the T&Cs (as defined in clause 1.3 below):
 
@@ -284,7 +284,7 @@ The use of the Marketplace is free of charge (except for possible connection cos
 
 5.1 SHEIN Electronic Wallet (« Wallet »)
 
-The creation of a User Account automatically includes the creation of a SHEIN electronic wallet (the **"Wallet"** ). The latter allows you to collect and view your coupons, bonus points, wallet credits (offered where applicable when placing orders) and where applicable, your gift cards. These various credits or discounts can be accessed at any time via the Site in the "My Assets" section. We may limit the amounts in Wallet credits, gift cards, or coupons that you are able to maintain at any given time, at our sole discretion.
+The creation of a User Account automatically includes the creation of a SHEIN electronic wallet (the **"Wallet"** ). The latter allows you to collect and view your coupons, bonus points, wallet credits (offered where applicable when placing orders) and where applicable, your gift cards. These various credits or discounts can be accessed at any time via the Site in the "My Assets" section. We may limit the amounts in Wallet credits, gift cards, or coupons that you are able to maintain at any given time, at our sole discretion.Coupons, Bonus points, Wallet credit, and Gift cards can be issued by Infinite Towers Services Ltd. and/or its affiliates.  
 
 (1) **Coupons:** Discount coupons ( **"Coupons"** ) may be obtained from SHEIN where this service is offered or may be granted by SHEIN in its sole discretion. Coupons may be stored in the "My Assets" section. They have a validity date, after which they can no longer be used. Coupons that have been purchased can only be redeemed at the Site where they were purchased or obtained. For more information on coupons, please refer to the [Coupon Policy](https://www.shein.co.uk/Coupon-Policy-a-1302.html) which applies to their use. Notwithstanding the foregoing, any Coupons which are specifically designated for the sole purpose of purchasing products exclusively distributed by Sellers cannot be used for purchasing products sold by SHEIN and vice versa.
 
@@ -604,9 +604,9 @@ Company number: 14874601
 
   
 
-GENERAL CONDITIONS OF SALE
+GENERAL CONDITIONS OF SALE  
 
-**Version of February 11th, 2026**
+****Version of**** ****July 1st********, 2026****
 
 Welcome to [https://www.shein.co.uk/](https://www.shein.co.uk/) and/or the mobile application (the **“Marketplace”** ) operated by Infinite Towers Services Ltd. \[address: 1 Bartholomew Lane, London, United Kingdom, EC2N 2AX, registration number: 14874601\] ( **“Shein”** or **“the Operator”** ).
 
@@ -631,7 +631,7 @@ If you wish to order from another country outside of the Territory you will be r
 
 In order to place an order on the Marketplace, the Customer declares that he/she is at least 18 years old. It is specified **that the Products are intended for the domestic and personal use by the Customer,** without any direct connection with his/her professional activity. The Customer undertakes not to purchase Products with a view to reselling them.
 
-Before making a purchase, the Customer will be invited to read carefully these GCS to [print](https://files-c.ltwebstatic.com/ccc/2026/02/10/17706934901893108730.pdf) them or to save them electronically and to accept them. The fact that a Customer places an order implies his/her express acceptance, without reservation, of both these General Conditions of Sale and the General Conditions of Use applicable to the use of the Marketplace (both hereinafter jointly referred as **“T&Cs”** ), unless legally prohibited. The T&CS may be modified at any time by SHEIN. In any event, the applicable T&CS shall be those in force at the time the Customer places an order. The Customer is responsible for checking the T&Cs for any changes whenever the Customer uses the Marketplace.
+Before making a purchase, the Customer will be invited to read carefully these GCS to [print](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828078502723397672.pdf) them or to save them electronically and to accept them. The fact that a Customer places an order implies his/her express acceptance, without reservation, of both these General Conditions of Sale and the General Conditions of Use applicable to the use of the Marketplace (both hereinafter jointly referred as **“T&Cs”** ), unless legally prohibited. The T&CS may be modified at any time by SHEIN. In any event, the applicable T&CS shall be those in force at the time the Customer places an order. The Customer is responsible for checking the T&Cs for any changes whenever the Customer uses the Marketplace.
 
 The Customer understands and agrees that the following Marketplace policies form an integral part of the T&Cs:
 

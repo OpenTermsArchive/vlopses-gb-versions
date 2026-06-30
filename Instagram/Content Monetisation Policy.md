@@ -199,15 +199,25 @@ Related articles
 
 Related articles
 
-[Instagram Affiliate Boosting Programme Creator Terms](https://help.instagram.com/240062899028619/?helpref=related_articles)
+[Instagram Affiliate Boosting Programme Creator Terms
 
-[How to use the paid partnership label to tag organic branded content on Instagram](https://help.instagram.com/1109894795810258/?helpref=related_articles)
+* * *](https://help.instagram.com/240062899028619/?helpref=related_articles)
 
-[Instagram partnership ad specifications for creators](https://help.instagram.com/1022082264667994/?helpref=related_articles)
+[How to use the paid partnership label to tag organic branded content on Instagram
 
-[Set audience restrictions for branded content on Instagram](https://help.instagram.com/521368460486230/?helpref=related_articles)
+* * *](https://help.instagram.com/1109894795810258/?helpref=related_articles)
 
-[Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
+[Instagram partnership ad specifications for creators
+
+* * *](https://help.instagram.com/1022082264667994/?helpref=related_articles)
+
+[Set audience restrictions for branded content on Instagram
+
+* * *](https://help.instagram.com/521368460486230/?helpref=related_articles)
+
+[Get started with branded content on Instagram
+
+* * *](https://help.instagram.com/1123581461537025/?helpref=related_articles)
 
 [Create a branded content campaign for a brand on Instagram's creator marketplace](https://help.instagram.com/744025857252464/?helpref=related_articles)
 
@@ -309,15 +319,25 @@ Related articles
 
 Related articles
 
-[Instagram Affiliate Boosting Programme Creator Terms](https://help.instagram.com/240062899028619/?helpref=related_articles)
+[Instagram Affiliate Boosting Programme Creator Terms
 
-[How to use the paid partnership label to tag organic branded content on Instagram](https://help.instagram.com/1109894795810258/?helpref=related_articles)
+* * *](https://help.instagram.com/240062899028619/?helpref=related_articles)
 
-[Find branded content projects as a creator on Instagram's creator marketplace](https://help.instagram.com/1237032497140392/?helpref=related_articles)
+[How to use the paid partnership label to tag organic branded content on Instagram
 
-[Instagram partnership ad specifications for creators](https://help.instagram.com/1022082264667994/?helpref=related_articles)
+* * *](https://help.instagram.com/1109894795810258/?helpref=related_articles)
 
-[Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
+[Find branded content projects as a creator on Instagram's creator marketplace
+
+* * *](https://help.instagram.com/1237032497140392/?helpref=related_articles)
+
+[Instagram partnership ad specifications for creators
+
+* * *](https://help.instagram.com/1022082264667994/?helpref=related_articles)
+
+[Get started with branded content on Instagram
+
+* * *](https://help.instagram.com/1123581461537025/?helpref=related_articles)
 
 [About Instagram's creator marketplace](https://help.instagram.com/337707278243327/?helpref=related_articles)
 

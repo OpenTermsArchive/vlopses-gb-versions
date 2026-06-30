@@ -190,15 +190,25 @@ Related articles
 
 Related articles
 
-[Intellectual property](https://help.instagram.com/535503073130320/?helpref=related_articles)
+[Intellectual property
 
-[Why we added more information to our Terms](https://help.instagram.com/2281921558660165/?helpref=related_articles)
+* * *](https://help.instagram.com/535503073130320/?helpref=related_articles)
 
-[Why your account has been restricted for data scraping and what can you do](https://help.instagram.com/740480200552298/?helpref=related_articles)
+[Why we added more information to our Terms
 
-[Exposed private information](https://help.instagram.com/122717417885747/?helpref=related_articles)
+* * *](https://help.instagram.com/2281921558660165/?helpref=related_articles)
 
-[Information for law enforcement](https://help.instagram.com/494561080557017/?helpref=related_articles)
+[Why your account has been restricted for data scraping and what can you do
+
+* * *](https://help.instagram.com/740480200552298/?helpref=related_articles)
+
+[Exposed private information
+
+* * *](https://help.instagram.com/122717417885747/?helpref=related_articles)
+
+[Information for law enforcement
+
+* * *](https://help.instagram.com/494561080557017/?helpref=related_articles)
 
 [How long does copyright protection last?](https://help.instagram.com/1896184403962569/?helpref=related_articles)
 

@@ -122,13 +122,21 @@ Related articles
 
 Related articles
 
-[Exposed private information](https://help.instagram.com/122717417885747/?helpref=related_articles)
+[Exposed private information
 
-[Help a law enforcement officer who has posted suicidal content](https://help.instagram.com/1694704320773694/?helpref=related_articles)
+* * *](https://help.instagram.com/122717417885747/?helpref=related_articles)
 
-[How do I contact Meta's local representative in Turkey?](https://help.instagram.com/1404340366574172/?helpref=related_articles)
+[Help a law enforcement officer who has posted suicidal content
 
-[More information about Standard Contractual Clauses](https://help.instagram.com/272603474673152/?helpref=related_articles)
+* * *](https://help.instagram.com/1694704320773694/?helpref=related_articles)
+
+[How do I contact Meta's local representative in Turkey?
+
+* * *](https://help.instagram.com/1404340366574172/?helpref=related_articles)
+
+[More information about Standard Contractual Clauses
+
+* * *](https://help.instagram.com/272603474673152/?helpref=related_articles)
 
 [Privacy settings and information](https://help.instagram.com/196883487377501/?helpref=related_articles)
 

@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-Report a copyright violation
+Denunciar violação de direitos autorais
 
-Report a trademark violation
+Denunciar violação de marca registrada
 
-What is copyright?
+O que é direito autoral?
 
-What is a trademark?
+O que é marca registrada?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -149,11 +149,11 @@ Related articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -163,17 +163,17 @@ Related articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
+[Trademark
+
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
 [Are there any limits to trademark rights?
 
 * * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
+[What's the difference between copyright and trademark?
 
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Trademark
-
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+* * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -461,15 +461,15 @@ What is a counterfeit?
 
 Copy link
 
-Report counterfeit goods
+Denunciar um produto contrafeito
 
-What is a counterfeit good?
+O que é uma réplica?
 
-Report counterfeit sales
+O que é violação de marca?
 
-What is trademark infringement?
+Como denunciar no Facebook?
 
-I have a different question
+Tenho uma pergunta diferente
 
 A counterfeit good is a knock-off or replica version of another company's product. It usually copies the trademark (name or logo) and/or distinctive features of that other company's product to imitate a genuine product. The manufacture, promotion or sale of counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognised as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
@@ -894,7 +894,9 @@ Copy link
 
 Report trademark infringement
 
-Fill in the form
+What is trademark infringement?
+
+I can't report infringement
 
 What are the legal consequences?
 
@@ -1026,9 +1028,9 @@ Report a username
 
 My trademark is infringed
 
-Contact the user directly
-
 What is trademark infringement?
+
+Contact username owner
 
 I have a different question
 
@@ -1449,11 +1451,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel my copyright report
-
-How to retract a report?
+Cancel my IP report
 
 I can't withdraw my report
 
@@ -1651,15 +1651,13 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
-Report copyright infringement
+Melde en krænkelse af ophavsret
 
-Protect my copyrighted work
+Hvad er ophavsret?
 
-What is copyright?
+Beskyt mit ophavsretligt værk
 
-What is Rights Manager?
-
-I have a different question
+Jeg har et andet spørgsmål
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -2502,7 +2500,7 @@ Report copyright infringement
 
 Contact designated agent
 
-Message content poster
+Who can report copyright?
 
 I have a different question
 

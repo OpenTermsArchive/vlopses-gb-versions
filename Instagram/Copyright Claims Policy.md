@@ -3,15 +3,15 @@ Intellectual property
 
 Copy link
 
-Melde en krænkelse af ophavsret
+What is intellectual property?
 
-Melde en krænkelse af varemærke
+What is copyright?
 
-Hvad er ophavsret?
+What is a trademark?
 
-Hvad er et varemærke?
+Report an intellectual property violation
 
-Jeg har et andet spørgsmål
+I have a different question
 
 About intellectual property
 ---------------------------
@@ -288,9 +288,9 @@ Copy link
 
 Who owns copyright?
 
-I created a work
+I created a work for my job
 
-Employer owns my work
+I took a photo of a sculpture
 
 I have a different question
 
@@ -353,7 +353,7 @@ Copy link
 
 What are my copyright rights?
 
-Stop others copying my work
+Stop others using my work
 
 What is copyright infringement?
 
@@ -859,15 +859,15 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-A minha conta foi desativada
+My account was disabled
 
-Recuperar a minha conta
+What is repeat infringer policy?
 
-O que acontece à minha conta?
+My content was restored
 
-Como evitar violações de IP?
+How to avoid copyright?
 
-Tenho uma pergunta diferente
+I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -1197,13 +1197,11 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-Contact DMCA agent
+Contact Instagram's DMCA agent
 
-DMCA online form
+Send a DMCA report
 
-DMCA agent email
-
-DMCA agent address
+What is a complete copyright claim?
 
 I have a different question
 
@@ -1935,14 +1933,6 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
-
-What is nominative fair use?
-
-Are trademark rights limited?
-
-I have a different question
-
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it's likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it's generally not considered infringing.
 
 Notably, simply referring to a trademark for the purpose of discussing the product or service offered probably won't be an infringing use of the trademark, as long as that reference doesn't use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
@@ -2195,15 +2185,15 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-A minha conta foi desativada
+My account was disabled
 
-Recuperar a minha conta
+What is repeat infringer policy?
 
-O que acontece à minha conta?
+My content was restored
 
-Como evitar violações de IP?
+How to avoid copyright?
 
-Tenho uma pergunta diferente
+I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -2393,9 +2383,11 @@ Copy link
 
 Report a username
 
-My trademark is infringed
-
 What is trademark infringement?
+
+My trademark is in a username
+
+Can I report a username?
 
 I have a different question
 
@@ -2597,14 +2589,6 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
-
-What is trademark infringement?
-
-What is nominative fair use?
-
-Are trademark rights limited?
-
-I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it's likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it's generally not considered infringing.
 

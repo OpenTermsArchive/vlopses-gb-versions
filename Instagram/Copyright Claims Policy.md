@@ -5,11 +5,11 @@ Copy link
 
 Denunciar violação de direitos autorais
 
-Denunciar violação de marca registrada
+Denunciar violação de marca registada
 
 O que é propriedade intelectual?
 
-Minha conta foi invadida
+O que é uma marca registada?
 
 Tenho uma pergunta diferente
 
@@ -149,16 +149,6 @@ Resolve issues, make changes and get support in real time
 
 Trademark
 =========
-
-Report trademark infringement
-
-What do trademarks protect?
-
-Avoid infringing trademarks
-
-What is trademark law?
-
-I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
@@ -1231,9 +1221,9 @@ Related articles
 
 [How dispute settlement bodies work in the EU for Instagram and Threads](https://help.instagram.com/1399805013976109/?helpref=related_articles)
 
-[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
+[About alvará judicial for Instagram and Threads profiles in Brazil](https://help.instagram.com/1294050306248239/?helpref=related_articles)
 
-[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
+[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
 
 Related articles
 
@@ -1249,11 +1239,11 @@ Related articles
 
 * * *](https://help.instagram.com/1399805013976109/?helpref=related_articles)
 
-[Report intellectual property infringement on Threads
+[About alvará judicial for Instagram and Threads profiles in Brazil
 
-* * *](https://help.instagram.com/1055435822080964/?helpref=related_articles)
+* * *](https://help.instagram.com/1294050306248239/?helpref=related_articles)
 
-[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
+[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2393,11 +2383,9 @@ Copy link
 
 Report a username
 
+My trademark is infringed
+
 What is trademark infringement?
-
-My trademark is in a username
-
-Can I report a username?
 
 I have a different question
 
@@ -2756,11 +2744,11 @@ Information that you need to include in a trademark report on Instagram or Threa
 
 Copy link
 
-What info do I need?
+What info for trademark report?
 
-Where do I find URLs?
+Where do I submit a report?
 
-What is a trademark?
+How to find a URL?
 
 I have a different question
 
@@ -2971,9 +2959,9 @@ Copy link
 
 What information is shared?
 
-What is a trademark report?
+Who receives my information?
 
-Can I appeal a removal?
+What if I appeal?
 
 I have a different question
 

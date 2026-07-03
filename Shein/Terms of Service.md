@@ -56,7 +56,7 @@ The benefits of SHEIN SAVER Membership are only available for orders placed on t
 
 The SHEIN SAVER coupon pack consists of multiple coupons, which are distributed automatically by the system in multiple cycles.
 
-SHEIN SAVER coupon will have a special style ![](//img.ltwebstatic.com/images3_acp/2023/09/05/e7/16938933834157ee99e9e10f934fddf032c986e0ce.webp) , you can check it on the [SHEIN SAVER member-only page](https://www.shein.co.uk/user/sheinsaver) , or check the validity of the coupon and the conditions of application by clicking "SHEIN SAVER" filter on [My Coupons page](https://www.shein.co.uk/user/coupon) .
+SHEIN SAVER coupon will have a special style ![](//img.ltwebstatic.com/images3_acp/2023/09/05/e7/16938933834157ee99e9e10f934fddf032c986e0ce.avif) , you can check it on the [SHEIN SAVER member-only page](https://www.shein.co.uk/user/sheinsaver) , or check the validity of the coupon and the conditions of application by clicking "SHEIN SAVER" filter on [My Coupons page](https://www.shein.co.uk/user/coupon) .
 
 Issuance Rules:
 

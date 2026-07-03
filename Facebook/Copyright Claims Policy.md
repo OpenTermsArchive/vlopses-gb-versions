@@ -198,7 +198,7 @@ What is trademark infringement?
 
 What is trademark dilution?
 
-What is likelihood of confusion?
+What causes likelihood of confusion?
 
 I have a different question
 
@@ -2267,7 +2267,7 @@ My video was removed
 
 Why was my video removed?
 
-My video has copyrighted content
+I have rights to the content
 
 I didn't get an email
 
@@ -2571,9 +2571,11 @@ Copy link
 
 Contact DMCA agent
 
-Report copyright infringement
+Send a copyright claim
 
-What is a DMCA claim?
+What is a DMCA report?
+
+How to contact by post?
 
 I have a different question
 

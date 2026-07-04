@@ -5,11 +5,11 @@ Copy link
 
 Denunciar violação de direitos autorais
 
-Denunciar violação de marca registada
+Denunciar violação de marca registrada
 
 O que é propriedade intelectual?
 
-O que é uma marca registada?
+Minha conta foi invadida
 
 Tenho uma pergunta diferente
 
@@ -1550,13 +1550,11 @@ More about trademarks and what they protect
 
 Copy link
 
-What is a trademark?
+What are trademarks?
 
-What do trademarks protect?
+How do trademarks protect me?
 
-Can I use a trademark?
-
-How do I report a trademark?
+Can I protect my brand?
 
 I have a different question
 
@@ -1571,35 +1569,35 @@ Please note that Instagram and Threads can't adjudicate disputes between third p
 Related articles
 ----------------
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
 [Trademark](https://help.instagram.com/222826637847963/?helpref=related_articles)
 
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
 [How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
+[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+
 Related articles
-
-[The difference between copyright and trademark
-
-* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 [Trademark
 
 * * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
 
-[Are there any limits to trademark rights?
+[The difference between copyright and trademark
 
-* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
+* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?
 
 * * *](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
-[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
+[How long does trademark protection last?
+
+* * *](https://help.instagram.com/349865072108966/?helpref=related_articles)
+
+[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1872,9 +1870,9 @@ Copy link
 
 Report counterfeit goods
 
-What is a counterfeit?
+What are counterfeit goods?
 
-What is trademark infringement?
+Report counterfeit on Threads
 
 I have a different question
 
@@ -2383,9 +2381,11 @@ Copy link
 
 Report a username
 
-My trademark is infringed
-
 What is trademark infringement?
+
+My trademark is in a username
+
+Can I report a username?
 
 I have a different question
 
@@ -2744,11 +2744,11 @@ Information that you need to include in a trademark report on Instagram or Threa
 
 Copy link
 
-What info for trademark report?
+What info do I need?
 
-Where do I submit a report?
+Where do I find URLs?
 
-How to find a URL?
+What is a trademark?
 
 I have a different question
 
@@ -2959,9 +2959,9 @@ Copy link
 
 What information is shared?
 
-Who receives my information?
+What is a trademark report?
 
-What if I appeal?
+Can I appeal a removal?
 
 I have a different question
 

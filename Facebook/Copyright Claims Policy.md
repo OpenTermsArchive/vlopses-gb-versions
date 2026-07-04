@@ -1235,9 +1235,9 @@ Copy link
 
 What happens after I report?
 
-Will Meta ask for more info?
+I need to update my report
 
-Who sees my report details?
+What information is shared?
 
 I have a different question
 
@@ -1736,13 +1736,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
-
-What is intellectual property?
+What is not protected by copyright?
 
 I have a different question
 
@@ -2267,7 +2265,7 @@ My video was removed
 
 Why was my video removed?
 
-I have rights to the content
+My video has copyrighted content
 
 I didn't get an email
 
@@ -2571,11 +2569,9 @@ Copy link
 
 Contact DMCA agent
 
-Send a copyright claim
+Report copyright infringement
 
-What is a DMCA report?
-
-How to contact by post?
+What is a DMCA claim?
 
 I have a different question
 
@@ -2716,11 +2712,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What info is sent?
+What info is provided?
 
-Who sees my email?
+Who owns the rights?
 
-Can I appeal a removal?
+How do I appeal?
 
 I have a different question
 

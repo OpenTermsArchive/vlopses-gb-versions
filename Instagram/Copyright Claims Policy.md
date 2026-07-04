@@ -1337,9 +1337,9 @@ Copy link
 
 What information is shared?
 
-Can I appeal a removal?
+Who sees my email?
 
-My content was removed
+How do I appeal?
 
 I have a different question
 
@@ -1550,11 +1550,13 @@ More about trademarks and what they protect
 
 Copy link
 
-What are trademarks?
+What is a trademark?
 
-How do trademarks protect me?
+What do trademarks protect?
 
-Can I protect my brand?
+Can I use a trademark?
+
+How do I report a trademark?
 
 I have a different question
 
@@ -1569,35 +1571,35 @@ Please note that Instagram and Threads can't adjudicate disputes between third p
 Related articles
 ----------------
 
+[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+
 [Trademark](https://help.instagram.com/222826637847963/?helpref=related_articles)
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
 [How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
 Related articles
-
-[Trademark
-
-* * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
 
 [The difference between copyright and trademark
 
 * * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
+[Trademark
+
+* * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
+
+[Are there any limits to trademark rights?
+
+* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
+
 [Does a trademark need to be registered to be protected?
 
 * * *](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
-[How long does trademark protection last?
-
-* * *](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1870,9 +1872,9 @@ Copy link
 
 Report counterfeit goods
 
-What are counterfeit goods?
+What is a counterfeit?
 
-Report counterfeit on Threads
+What is trademark infringement?
 
 I have a different question
 

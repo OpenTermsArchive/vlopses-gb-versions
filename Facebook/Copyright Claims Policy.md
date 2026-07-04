@@ -50,6 +50,14 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 Trademark
 =========
 
+Melde en krænkelse af varemærke
+
+Hvad beskytter varemærker?
+
+Undgå varemærkekrænkelse
+
+Jeg har et andet spørgsmål
+
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
 If you believe that someone is infringing your trademark, you can report it to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -1235,9 +1243,9 @@ Copy link
 
 What happens after I report?
 
-I need to update my report
+Will Meta ask for more info?
 
-What information is shared?
+Who sees my report details?
 
 I have a different question
 
@@ -1736,11 +1744,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What is not protected by copyright?
+What is not protected?
+
+My content was copied
+
+What is intellectual property?
 
 I have a different question
 
@@ -1878,11 +1888,11 @@ Copy link
 
 What are my copyright rights?
 
+My content was copied
+
 Stop others using my work
 
 What is copyright infringement?
-
-Grant permission to use work
 
 I have a different question
 
@@ -2265,7 +2275,7 @@ My video was removed
 
 Why was my video removed?
 
-My video has copyrighted content
+I have rights to the content
 
 I didn't get an email
 
@@ -2712,11 +2722,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What info is provided?
+What info is sent?
 
-Who owns the rights?
+Who sees my email?
 
-How do I appeal?
+Can I appeal a removal?
 
 I have a different question
 

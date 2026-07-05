@@ -286,11 +286,11 @@ How do I know if I own the copyright in a work?
 
 Copy link
 
-Who owns my copyright?
+Who owns copyright?
 
-I created a work
+I created a work for my job
 
-Employer owns my copyright?
+What is an original work?
 
 I have a different question
 
@@ -416,9 +416,9 @@ Copy link
 
 What is public domain?
 
-When does copyright expire?
-
 How long does copyright last?
+
+When does copyright expire?
 
 I have a different question
 
@@ -549,13 +549,11 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-How to avoid copyright violation?
+How do I avoid copyright?
 
-What is copyright law?
+What is copyright infringement?
 
 Can I use content I bought?
-
-What is fair use?
 
 I have a different question
 
@@ -864,8 +862,6 @@ My account was disabled
 What is repeat infringer policy?
 
 My content was restored
-
-How to avoid copyright?
 
 I have a different question
 
@@ -1686,13 +1682,11 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register my trademark
+Do I need to register a trademark?
 
 What are common law rights?
 
-Do I need to register?
-
-What is a business registration?
+What is a USPTO registration?
 
 I have a different question
 
@@ -1747,13 +1741,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Trademark vs business registration
-
 What is a trademark registration?
 
 What is a business registration?
 
-What is the USPTO?
+USPTO registration
 
 I have a different question
 
@@ -2201,8 +2193,6 @@ What is repeat infringer policy?
 
 My content was restored
 
-How to avoid copyright?
-
 I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
@@ -2393,11 +2383,9 @@ Copy link
 
 Report a username
 
+My trademark is infringed
+
 What is trademark infringement?
-
-My trademark is in a username
-
-Can I report a username?
 
 I have a different question
 

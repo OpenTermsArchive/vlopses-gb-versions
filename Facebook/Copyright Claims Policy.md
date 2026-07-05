@@ -269,13 +269,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register my trademark
+Register a trademark
+
+What is a registered trademark?
 
 Trademark rights without registration
 
-Register trademark in EU
-
-What is common law right?
+What is EUIPO?
 
 I have a different question
 
@@ -465,7 +465,7 @@ Report counterfeit goods
 
 What is trademark infringement?
 
-Counterfeits on Facebook
+Is selling counterfeits illegal?
 
 I have a different question
 
@@ -730,9 +730,11 @@ Copy link
 
 Apelar remoção de conteúdo
 
-O que é uma violação de IP?
+Apelar relatório de marca registada
 
-Meu conteúdo foi removido
+O meu conteúdo foi removido
+
+Apelar relatório de propriedade intelectual
 
 Tenho uma pergunta diferente
 
@@ -960,15 +962,15 @@ Can I report an infringement of someone else's intellectual property on Facebook
 
 Copy link
 
-Report copyright infringement
+Denunciar uma infração
 
-Report trademark infringement
+Denunciar infração de outra pessoa
 
-What is intellectual property?
+O que é propriedade intelectual?
 
-Who can report infringement?
+Como denunciar uma infração?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Facebook infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
@@ -1027,8 +1029,6 @@ Report a username
 My trademark is infringed
 
 What is trademark infringement?
-
-Contact the username owner
 
 I have a different question
 
@@ -1152,11 +1152,13 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
+Submit a trademark report
+
 What to include in report?
 
-Where do I find a URL?
+How to find a URL?
 
-What is a trademark?
+What is an electronic signature?
 
 I have a different question
 
@@ -1305,15 +1307,15 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad
+Rapporter en annonce
 
-Report copyright infringement
+Rapporter une violation de copyright
 
-Report trademark infringement
+Rapporter une violation de marque
 
-I can't report an ad
+Je n'ai pas accès à Brand Rights Protection
 
-I have a different question
+J'ai une autre question
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
@@ -2008,16 +2010,6 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-What is copyright infringement?
-
-Do I have permission to post?
-
-What is fair use?
-
-Is my content public domain?
-
-I have a different question
-
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
 *   Bought or downloaded the content (for example, a song from iTunes)
@@ -2186,13 +2178,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
-
-What is copyright infringement?
+Can I infringe copyright unintentionally?
 
 What is fair use?
 
-What content is copyrighted?
+What does copyright protect?
 
 I have a different question
 
@@ -2640,11 +2630,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What to include in report?
+What information do I need?
 
-My contact information
+Where do I find URLs?
 
-What is a copyright report?
+What is an electronic signature?
 
 I have a different question
 

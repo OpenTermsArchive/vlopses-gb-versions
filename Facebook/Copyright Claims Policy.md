@@ -50,14 +50,6 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 Trademark
 =========
 
-Melde en krænkelse af varemærke
-
-Hvad beskytter varemærker?
-
-Undgå varemærkekrænkelse
-
-Jeg har et andet spørgsmål
-
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
 If you believe that someone is infringing your trademark, you can report it to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -473,7 +465,7 @@ Report counterfeit goods
 
 What is trademark infringement?
 
-Is selling counterfeits illegal?
+Counterfeits on Facebook
 
 I have a different question
 
@@ -560,9 +552,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -576,13 +568,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
-
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?
+
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -1313,15 +1305,15 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Rapporter en annonce
+Report an ad
 
-Rapporter une violation de copyright
+Report copyright infringement
 
-Rapporter une violation de marque
+Report trademark infringement
 
-Je n'ai pas accès à Brand Rights Protection
+I can't report an ad
 
-J'ai une autre question
+I have a different question
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
@@ -1888,11 +1880,11 @@ Copy link
 
 What are my copyright rights?
 
-My content was copied
-
 Stop others using my work
 
 What is copyright infringement?
+
+Grant permission to use work
 
 I have a different question
 
@@ -2508,13 +2500,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Melden Sie eine Urheberrechtsverletzung
+Report copyright infringement
 
-Ich möchte eine Urheberrechtsverletzung melden
+Contact designated agent
 
-Wie kontaktiere ich den benannten Vertreter?
+Who can report copyright?
 
-Ich habe eine andere Frage
+I have a different question
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
@@ -2648,11 +2640,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What information do I need?
+What to include in report?
 
-Where do I find URLs?
+My contact information
 
-What is an electronic signature?
+What is a copyright report?
 
 I have a different question
 

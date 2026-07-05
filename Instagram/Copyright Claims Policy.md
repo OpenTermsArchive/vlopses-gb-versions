@@ -286,11 +286,11 @@ How do I know if I own the copyright in a work?
 
 Copy link
 
-Who owns copyright?
+Who owns my copyright?
 
-I created a work for my job
+I created a work
 
-What is an original work?
+Employer owns my copyright?
 
 I have a different question
 
@@ -549,11 +549,13 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-How do I avoid copyright?
+How to avoid copyright violation?
 
-What is copyright infringement?
+What is copyright law?
 
 Can I use content I bought?
+
+What is fair use?
 
 I have a different question
 
@@ -862,6 +864,8 @@ My account was disabled
 What is repeat infringer policy?
 
 My content was restored
+
+How to avoid copyright?
 
 I have a different question
 
@@ -1337,9 +1341,9 @@ Copy link
 
 What information is shared?
 
-Who sees my email?
+Can I appeal a removal?
 
-How do I appeal?
+My content was removed
 
 I have a different question
 
@@ -1682,11 +1686,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Do I need to register a trademark?
+Register my trademark
 
 What are common law rights?
 
-What is a USPTO registration?
+Do I need to register?
+
+What is a business registration?
 
 I have a different question
 
@@ -1741,11 +1747,13 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
+Trademark vs business registration
+
 What is a trademark registration?
 
 What is a business registration?
 
-USPTO registration
+What is the USPTO?
 
 I have a different question
 
@@ -2192,6 +2200,8 @@ My account was disabled
 What is repeat infringer policy?
 
 My content was restored
+
+How to avoid copyright?
 
 I have a different question
 

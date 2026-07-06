@@ -269,13 +269,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register a trademark
-
-What is a registered trademark?
+Register my trademark
 
 Trademark rights without registration
 
-What is EUIPO?
+Register trademark in EU
+
+What is common law right?
 
 I have a different question
 
@@ -552,9 +552,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -568,13 +568,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect
-
-* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?
 
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect
+
+* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -730,11 +730,9 @@ Copy link
 
 Apelar remoção de conteúdo
 
-Apelar relatório de marca registada
+O que é uma violação de IP?
 
-O meu conteúdo foi removido
-
-Apelar relatório de propriedade intelectual
+Meu conteúdo foi removido
 
 Tenho uma pergunta diferente
 
@@ -803,9 +801,7 @@ My account was disabled
 
 My Page was removed
 
-My Group was removed
-
-What happens to my account?
+What is intellectual property?
 
 I have a different question
 
@@ -962,15 +958,15 @@ Can I report an infringement of someone else's intellectual property on Facebook
 
 Copy link
 
-Denunciar uma infração
+Report copyright infringement
 
-Denunciar infração de outra pessoa
+Report trademark infringement
 
-O que é propriedade intelectual?
+What is intellectual property?
 
-Como denunciar uma infração?
+Who can report infringement?
 
-Tenho uma pergunta diferente
+I have a different question
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Facebook infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
@@ -1029,6 +1025,8 @@ Report a username
 My trademark is infringed
 
 What is trademark infringement?
+
+Contact the username owner
 
 I have a different question
 
@@ -1152,13 +1150,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-Submit a trademark report
-
 What to include in report?
 
-How to find a URL?
+Where do I find a URL?
 
-What is an electronic signature?
+What is a trademark?
 
 I have a different question
 
@@ -1449,11 +1445,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel my copyright report
 
-Restore removed content
+Retract my report
 
 I have a different question
 
@@ -1513,11 +1509,11 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What info is sent?
+What information is shared?
 
-Who sees my email?
+Who sees my email address?
 
-Can I appeal a removal?
+How do I appeal a removal?
 
 I have a different question
 
@@ -1651,9 +1647,7 @@ Melde en krænkelse af ophavsret
 
 Hvad er ophavsret?
 
-Beskyt min ophavsret
-
-Rettighedsadministrator
+Beskyt mit ophavsretligt værk
 
 Jeg har et andet spørgsmål
 
@@ -2010,6 +2004,16 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+I posted copyrighted content
+
+What is fair use?
+
+How do I get permission?
+
+What is public domain content?
+
+I have a different question
+
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
 *   Bought or downloaded the content (for example, a song from iTunes)
@@ -2178,11 +2182,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I infringe copyright unintentionally?
+Can I violate copyright unintentionally?
+
+What is copyright infringement?
 
 What is fair use?
 
-What does copyright protect?
+What content is copyrighted?
 
 I have a different question
 
@@ -2490,13 +2496,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Report copyright infringement
+Melden Sie eine Urheberrechtsverletzung
 
-Contact designated agent
+Ich möchte eine Urheberrechtsverletzung melden
 
-Who can report copyright?
+Wie kontaktiere ich den benannten Vertreter?
 
-I have a different question
+Ich habe eine andere Frage
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
@@ -2630,11 +2636,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What information do I need?
+What to include in report?
 
-Where do I find URLs?
+My contact information
 
-What is an electronic signature?
+What is a copyright report?
 
 I have a different question
 

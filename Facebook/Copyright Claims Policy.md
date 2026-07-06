@@ -525,11 +525,11 @@ Copy link
 
 What is trademark infringement?
 
+Limits to trademark rights?
+
+Use trademark without permission?
+
 What is nominative fair use?
-
-Can I resell trademarked goods?
-
-Are trademark rights geographic?
 
 I have a different question
 
@@ -801,7 +801,9 @@ My account was disabled
 
 My Page was removed
 
-What is intellectual property?
+My Group was removed
+
+What happens to my account?
 
 I have a different question
 
@@ -1445,11 +1447,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel my copyright report
+Cancel my IP report
 
-Retract my report
+Restore removed content
 
 I have a different question
 
@@ -1509,11 +1511,11 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What information is shared?
+What info is sent?
 
-Who sees my email address?
+Who sees my email?
 
-How do I appeal a removal?
+Can I appeal a removal?
 
 I have a different question
 
@@ -1647,7 +1649,9 @@ Melde en krænkelse af ophavsret
 
 Hvad er ophavsret?
 
-Beskyt mit ophavsretligt værk
+Beskyt min ophavsret
+
+Rettighedsadministrator
 
 Jeg har et andet spørgsmål
 
@@ -2182,13 +2186,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
-
-What is copyright infringement?
+Can I infringe copyright unintentionally?
 
 What is fair use?
 
-What content is copyrighted?
+What does copyright protect?
 
 I have a different question
 
@@ -2636,11 +2638,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What to include in report?
+What information do I need?
 
-My contact information
+Where do I find URLs?
 
-What is a copyright report?
+What is an electronic signature?
 
 I have a different question
 

@@ -215,11 +215,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected by copyright?
-
-What is intellectual property?
 
 I have a different question
 
@@ -416,9 +416,9 @@ Copy link
 
 What is public domain?
 
-When does copyright expire?
-
 How long does copyright last?
+
+When does copyright expire?
 
 I have a different question
 
@@ -634,15 +634,13 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
+O que é uso justo?
 
-What are copyright exceptions?
+O que são exceções de direitos autorais?
 
-Can I use copyrighted work?
+Posso usar conteúdo protegido por direitos autorais?
 
-What is copyright infringement?
-
-I have a different question
+Tenho uma pergunta diferente
 
 Laws across the globe recognise that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
@@ -1197,11 +1195,11 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-Contact DMCA agent
+Contact Instagram DMCA agent
 
-DMCA agent email
+How to contact DMCA agent?
 
-DMCA agent address
+What is DMCA designated agent?
 
 I have a different question
 
@@ -1343,9 +1341,9 @@ Copy link
 
 What information is shared?
 
-Can I appeal a removal?
+Who sees my email?
 
-My content was removed
+How do I appeal?
 
 I have a different question
 
@@ -1424,9 +1422,11 @@ Copy link
 
 What happens after I report?
 
-Why do you ask for more info?
+I need to provide more info
 
-What info is shared?
+Who sees my report details?
+
+Can I appeal a copyright report?
 
 I have a different question
 
@@ -1815,11 +1815,13 @@ How long does trademark protection last?
 
 Copy link
 
-How long do trademark rights last?
+How long does trademark last?
 
-What happens if I stop using a trademark?
+Renew my trademark
 
-How do I renew a trademark?
+I stopped using my trademark
+
+What is the USPTO?
 
 I have a different question
 
@@ -2129,7 +2131,7 @@ My content was removed
 
 Appeal content removal
 
-Contact rights owner
+What is intellectual property?
 
 I have a different question
 
@@ -2261,13 +2263,13 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-How do I report trademark infringement?
+Report trademark infringement
 
-How do I report copyright infringement?
+Fill in trademark form
 
-What is the Brand Rights Protection tool?
+Use Brand Rights Protection
 
-What happens after I report?
+What is trademark infringement?
 
 I have a different question
 
@@ -2657,15 +2659,13 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
+O que é uso justo?
 
-What are copyright exceptions?
+O que são exceções de direitos autorais?
 
-Can I use copyrighted work?
+Posso usar conteúdo protegido por direitos autorais?
 
-What is copyright infringement?
-
-I have a different question
+Tenho uma pergunta diferente
 
 Laws across the globe recognise that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
@@ -3028,15 +3028,15 @@ Resolve issues, make changes and get support in real time
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
 
-My content was removed
+Apelar remoção de conteúdo
 
-Appeal a copyright report
+Contranotificação DMCA
 
-Submit a DMCA counter-notification
+Conteúdo removido por engano
 
-What is AGCOM?
+Recurso para utilizadores italianos
 
-I have a different question
+Tenho uma questão diferente
 
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
 

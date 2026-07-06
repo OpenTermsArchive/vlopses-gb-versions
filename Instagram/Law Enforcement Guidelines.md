@@ -3,15 +3,15 @@ Information for law enforcement
 
 Copy link
 
-Solicitar información de usuario
+Pedir registos de conta
 
-Solicitudes de emergencia
+Retenção de dados
 
-Retención de datos
+Pedidos de emergência
 
-Requisitos legales internacionales
+Pedidos internacionais
 
-I have a different question
+Tenho uma questão diferente
 
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 

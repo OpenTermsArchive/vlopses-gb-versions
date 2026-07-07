@@ -525,11 +525,11 @@ Copy link
 
 What is trademark infringement?
 
-Limits to trademark rights?
-
-Use trademark without permission?
-
 What is nominative fair use?
+
+Can I resell trademarked goods?
+
+Are trademark rights geographic?
 
 I have a different question
 
@@ -1649,9 +1649,7 @@ Melde en krænkelse af ophavsret
 
 Hvad er ophavsret?
 
-Beskyt min ophavsret
-
-Rettighedsadministrator
+Beskyt mit ophavsretligt værk
 
 Jeg har et andet spørgsmål
 
@@ -2008,13 +2006,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I posted copyrighted content
+What is copyright infringement?
+
+Do I have permission to post?
 
 What is fair use?
 
-How do I get permission?
-
-What is public domain content?
+Is my content public domain?
 
 I have a different question
 
@@ -2186,11 +2184,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I infringe copyright unintentionally?
+Can I violate copyright unintentionally?
+
+What is copyright infringement?
 
 What is fair use?
 
-What does copyright protect?
+What content is copyrighted?
 
 I have a different question
 
@@ -2569,9 +2569,11 @@ Copy link
 
 Contact DMCA agent
 
-Report copyright infringement
+Send a copyright claim
 
-What is a DMCA claim?
+What is a DMCA report?
+
+How to contact by post?
 
 I have a different question
 

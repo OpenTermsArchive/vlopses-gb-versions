@@ -1061,14 +1061,6 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is copyright infringement?
-
-What is trademark infringement?
-
-Legal consequences of false report?
-
-I have a different question
-
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
 
@@ -1261,14 +1253,6 @@ Information that you need to include in a copyright report to Instagram or Threa
 ==================================================================================
 
 Copy link
-
-What information do I need?
-
-Where do I submit a report?
-
-What is a copyright report?
-
-I have a different question
 
 The fastest and easiest way to submit a claim of copyright infringement to us is to use our [online form](https://help.instagram.com/contact/372592039493026). Whether you submit your report through our online form or another method, Instagram and Threads need the following information to be able to process your report:
 
@@ -1919,14 +1903,6 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
-
-What is nominative fair use?
-
-Are trademark rights limited geographically?
-
-I have a different question
-
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it's likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it's generally not considered infringing.
 
 Notably, simply referring to a trademark for the purpose of discussing the product or service offered probably won't be an infringing use of the trademark, as long as that reference doesn't use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
@@ -2435,14 +2411,6 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-What information do I need?
-
-Where do I submit a report?
-
-What is a copyright report?
-
-I have a different question
-
 The fastest and easiest way to submit a claim of copyright infringement to us is to use our [online form](https://help.instagram.com/contact/372592039493026). Whether you submit your report through our online form or another method, Instagram and Threads need the following information to be able to process your report:
 
 *   Your complete contact information (full name, postal address and phone number)\*.
@@ -2504,14 +2472,6 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
-
-What is copyright infringement?
-
-What is trademark infringement?
-
-Legal consequences of false report?
-
-I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -2577,14 +2537,6 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
-
-What is trademark infringement?
-
-What is nominative fair use?
-
-Are trademark rights limited geographically?
-
-I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it's likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it's generally not considered infringing.
 
@@ -2736,11 +2688,11 @@ Information that you need to include in a trademark report on Instagram or Threa
 
 Copy link
 
-What info for trademark report?
+What info do I need?
 
-Where do I submit a report?
+Where do I find URLs?
 
-How to find a URL?
+What is a trademark?
 
 I have a different question
 

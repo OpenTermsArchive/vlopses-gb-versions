@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+What is copyright?
 
-Denunciar violação de marca registada
+What is a trademark?
 
-O que é propriedade intelectual?
+Report a copyright violation
 
-O que é uma marca registada?
+Report a trademark violation
 
-Tenho uma pergunta diferente
+I have a different question
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -525,11 +525,11 @@ Copy link
 
 What is trademark infringement?
 
-Limits to trademark rights?
-
-Use trademark without permission?
-
 What is nominative fair use?
+
+Can I resell trademarked goods?
+
+Are trademark rights geographic?
 
 I have a different question
 
@@ -664,6 +664,8 @@ My content violates trademark law
 What is trademark infringement?
 
 How to avoid trademark issues?
+
+What if my content is reported?
 
 I have a different question
 
@@ -1878,11 +1880,11 @@ Copy link
 
 What are my copyright rights?
 
-My content was copied
-
 Stop others using my work
 
 What is copyright infringement?
+
+Grant permission to use work
 
 I have a different question
 
@@ -2782,13 +2784,13 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-O que acontece após o relatório?
+What happens after I report?
 
-O que é um relatório de direitos autorais?
+What information is shared?
 
-O que é o número do relatório?
+I need to update my report
 
-Tenho uma pergunta diferente
+I have a different question
 
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
@@ -2854,15 +2856,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Proteger o meu conteúdo
+Apply for Rights Manager
 
-O que é o Rights Manager?
+What is Rights Manager?
 
-O que é a proteção de conteúdo?
+What is content protection?
 
-Não consigo proteger o meu vídeo
+Report copyright infringement
 
-Tenho uma questão diferente
+I have a different question
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 

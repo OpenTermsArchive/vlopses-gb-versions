@@ -215,11 +215,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
 What is not protected by copyright?
+
+What is intellectual property?
 
 I have a different question
 
@@ -863,6 +863,8 @@ What is repeat infringer policy?
 
 My content was restored
 
+How to avoid copyright?
+
 I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
@@ -1061,11 +1063,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is intellectual property?
+What is copyright infringement?
 
-Report copyright infringement
+What is trademark infringement?
 
-Legal consequences of reporting
+Legal consequences of false report?
 
 I have a different question
 
@@ -1262,11 +1264,9 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-Submit a copyright claim
+What information do I need?
 
-What info do I need?
-
-Find a URL for content
+Where do I submit a report?
 
 What is a copyright report?
 
@@ -1573,35 +1573,35 @@ Please note that Instagram and Threads can't adjudicate disputes between third p
 Related articles
 ----------------
 
+[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+
 [Trademark](https://help.instagram.com/222826637847963/?helpref=related_articles)
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
 [How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
 Related articles
-
-[Trademark
-
-* * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
 
 [The difference between copyright and trademark
 
 * * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
+[Trademark
+
+* * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
+
+[Are there any limits to trademark rights?
+
+* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
+
 [Does a trademark need to be registered to be protected?
 
 * * *](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
-[How long does trademark protection last?
-
-* * *](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2195,6 +2195,8 @@ What is repeat infringer policy?
 
 My content was restored
 
+How to avoid copyright?
+
 I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
@@ -2447,11 +2449,9 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-Submit a copyright claim
+What information do I need?
 
-What info do I need?
-
-Find a URL for content
+Where do I submit a report?
 
 What is a copyright report?
 
@@ -2519,11 +2519,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is intellectual property?
+What is copyright infringement?
 
-Report copyright infringement
+What is trademark infringement?
 
-Legal consequences of reporting
+Legal consequences of false report?
 
 I have a different question
 

@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Denunciar violação de direitos autorais
 
-What is a trademark?
+Denunciar violação de marca registada
 
-Report a copyright violation
+O que é propriedade intelectual?
 
-Report a trademark violation
+O que é uma marca registada?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -339,9 +339,7 @@ What is a trademark registration?
 
 What is a business registration?
 
-Register a trademark in the US
-
-Register a trademark in the EU
+What is the USPTO?
 
 I have a different question
 
@@ -664,8 +662,6 @@ My content violates trademark law
 What is trademark infringement?
 
 How to avoid trademark issues?
-
-What if my content is reported?
 
 I have a different question
 
@@ -1152,11 +1148,13 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
+Submit a trademark report
+
 What to include in report?
 
-Where do I find a URL?
+How to find a URL?
 
-What is a trademark?
+What is an electronic signature?
 
 I have a different question
 
@@ -1736,13 +1734,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
-
-What is intellectual property?
+What is not protected by copyright?
 
 I have a different question
 
@@ -2186,13 +2182,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
-
-What is copyright infringement?
+Can I infringe copyright unintentionally?
 
 What is fair use?
 
-What content is copyrighted?
+What does copyright protect?
 
 I have a different question
 
@@ -2267,7 +2261,7 @@ My video was removed
 
 Why was my video removed?
 
-I have rights to the content
+My video has copyrighted content
 
 I didn't get an email
 

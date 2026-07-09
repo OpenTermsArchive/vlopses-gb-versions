@@ -339,7 +339,9 @@ What is a trademark registration?
 
 What is a business registration?
 
-What is the USPTO?
+Register a trademark in the US
+
+Register a trademark in the EU
 
 I have a different question
 
@@ -397,13 +399,15 @@ How long does trademark protection last?
 
 Copy link
 
-Perco i miei diritti di marchio?
+How long do trademark rights last?
 
-Rinnovo la mia registrazione di marchio
+Renew my trademark
 
-Quanto dura la protezione del marchio?
+Lose trademark rights
 
-Ho una domanda diversa
+What is USPTO?
+
+I have a different question
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights.
 
@@ -663,6 +667,8 @@ What is trademark infringement?
 
 How to avoid trademark issues?
 
+What if my content is reported?
+
 I have a different question
 
 Under Facebook's [Terms of Service](https://www.facebook.com/terms) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook if it doesn't violate someone else's intellectual property rights, including trademarks. Please note that as a Facebook user, you are responsible for the content you post. If your content violates Facebook's policies or is reported to Meta as infringing the intellectual property rights of another party, Facebook may remove that content.
@@ -890,9 +896,11 @@ Copy link
 
 Report trademark infringement
 
-Fill in trademark form
+What is trademark infringement?
 
-What are the consequences?
+I can't report infringement
+
+What are the legal consequences?
 
 I have a different question
 
@@ -1148,13 +1156,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-Submit a trademark report
-
 What to include in report?
 
-How to find a URL?
+Where do I find a URL?
 
-What is an electronic signature?
+What is a trademark?
 
 I have a different question
 
@@ -1445,11 +1451,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel my copyright report
 
-Restore removed content
+Retract my report
 
 I have a different question
 
@@ -1734,11 +1740,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What is not protected by copyright?
+What is not protected?
+
+My content was copied
+
+What is intellectual property?
 
 I have a different question
 
@@ -1876,11 +1884,11 @@ Copy link
 
 What are my copyright rights?
 
+My content was copied
+
 Stop others using my work
 
 What is copyright infringement?
-
-Grant permission to use work
 
 I have a different question
 
@@ -2092,9 +2100,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
-
-What is copyright infringement?
+What is the fair use doctrine?
 
 I have a different question
 
@@ -2182,11 +2188,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I infringe copyright unintentionally?
+Can I violate copyright unintentionally?
+
+What is copyright infringement?
 
 What is fair use?
 
-What does copyright protect?
+What content is copyrighted?
 
 I have a different question
 
@@ -2261,7 +2269,7 @@ My video was removed
 
 Why was my video removed?
 
-My video has copyrighted content
+I have rights to the content
 
 I didn't get an email
 

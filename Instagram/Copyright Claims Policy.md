@@ -215,11 +215,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected by copyright?
-
-What is intellectual property?
 
 I have a different question
 
@@ -1061,11 +1061,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is copyright infringement?
+What is intellectual property?
 
-What is trademark infringement?
+Report copyright infringement
 
-Legal consequences of false report?
+Legal consequences of reporting
 
 I have a different question
 
@@ -1262,9 +1262,11 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-What information do I need?
+Submit a copyright claim
 
-Where do I submit a report?
+What info do I need?
+
+Find a URL for content
 
 What is a copyright report?
 
@@ -2445,9 +2447,11 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-What information do I need?
+Submit a copyright claim
 
-Where do I submit a report?
+What info do I need?
+
+Find a URL for content
 
 What is a copyright report?
 
@@ -2515,11 +2519,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is copyright infringement?
+What is intellectual property?
 
-What is trademark infringement?
+Report copyright infringement
 
-Legal consequences of false report?
+Legal consequences of reporting
 
 I have a different question
 

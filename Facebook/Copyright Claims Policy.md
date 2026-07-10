@@ -130,7 +130,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report a trademark infringement
+How do trademarks work?
 
 I have a different question
 
@@ -399,15 +399,13 @@ How long does trademark protection last?
 
 Copy link
 
-How long do trademark rights last?
+Perco i miei diritti di marchio?
 
-Renew my trademark
+Rinnovo la mia registrazione di marchio
 
-Lose trademark rights
+Quanto dura la protezione del marchio?
 
-What is USPTO?
-
-I have a different question
+Ho una domanda diversa
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights.
 
@@ -896,11 +894,9 @@ Copy link
 
 Report trademark infringement
 
-What is trademark infringement?
+Fill in trademark form
 
-I can't report infringement
-
-What are the legal consequences?
+What are the consequences?
 
 I have a different question
 
@@ -1740,13 +1736,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-My content was copied
-
-What is intellectual property?
+What is not protected by copyright?
 
 I have a different question
 
@@ -1814,11 +1808,11 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns copyright?
+Who owns my original work?
 
-I created an original work
+What is copyright?
 
-My employer owns copyright
+I created a work for my job
 
 I have a different question
 
@@ -1884,11 +1878,11 @@ Copy link
 
 What are my copyright rights?
 
-My content was copied
-
 Stop others using my work
 
 What is copyright infringement?
+
+Grant permission to use work
 
 I have a different question
 
@@ -2100,7 +2094,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-What is the fair use doctrine?
+How is fair use determined?
+
+What is copyright infringement?
 
 I have a different question
 
@@ -2786,13 +2782,13 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens after I report?
+O que acontece após o relatório?
 
-What information is shared?
+O que é um relatório de direitos autorais?
 
-I need to update my report
+O que é o número do relatório?
 
-I have a different question
+Tenho uma pergunta diferente
 
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 

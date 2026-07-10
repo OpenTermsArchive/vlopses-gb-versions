@@ -5,11 +5,11 @@ Copy link
 
 Denunciar violação de direitos autorais
 
-Denunciar violação de marca registrada
+Denunciar violação de marca registada
 
 O que é propriedade intelectual?
 
-Minha conta foi invadida
+O que é uma marca registada?
 
 Tenho uma pergunta diferente
 
@@ -549,11 +549,13 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-How do I avoid copyright?
+How to avoid copyright violation?
 
-What is copyright infringement?
+What is copyright law?
 
 Can I use content I bought?
+
+What is fair use?
 
 I have a different question
 
@@ -1136,9 +1138,9 @@ Copy link
 
 Report an infringement
 
-Let rights owner know
+What is intellectual property?
 
-My intellectual property rights
+My content was infringed
 
 I have a different question
 
@@ -1741,11 +1743,13 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
+Trademark vs business registration
+
 What is a trademark registration?
 
 What is a business registration?
 
-USPTO registration
+What is the USPTO?
 
 I have a different question
 
@@ -2326,9 +2330,9 @@ Copy link
 
 Report an infringement
 
-Let rights owner know
+What is intellectual property?
 
-My intellectual property rights
+My content was infringed
 
 I have a different question
 

@@ -863,8 +863,6 @@ What is repeat infringer policy?
 
 My content was restored
 
-How to avoid copyright?
-
 I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
@@ -2194,8 +2192,6 @@ My account was disabled
 What is repeat infringer policy?
 
 My content was restored
-
-How to avoid copyright?
 
 I have a different question
 

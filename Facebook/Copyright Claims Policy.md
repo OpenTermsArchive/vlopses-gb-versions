@@ -130,7 +130,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report a trademark infringement
+How do trademarks work?
 
 I have a different question
 
@@ -149,11 +149,11 @@ Related articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -163,17 +163,17 @@ Related articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
+[Trademark
+
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
 [Are there any limits to trademark rights?
 
 * * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
+[What's the difference between copyright and trademark?
 
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Trademark
-
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+* * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -801,9 +801,7 @@ My account was disabled
 
 My Page was removed
 
-My Group was removed
-
-What happens to my account?
+What is intellectual property?
 
 I have a different question
 
@@ -1447,11 +1445,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel my copyright report
 
-Restore removed content
+Retract my report
 
 I have a different question
 
@@ -1810,11 +1808,11 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns copyright?
+Who owns my original work?
 
-I created an original work
+What is copyright?
 
-My employer owns copyright
+I created a work for my job
 
 I have a different question
 
@@ -2096,9 +2094,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
-
-What is copyright infringement?
+What is the fair use doctrine?
 
 I have a different question
 
@@ -2856,15 +2852,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Proteger o meu conteúdo
+Apply for Rights Manager
 
-O que é o Rights Manager?
+What is Rights Manager?
 
-O que é a proteção de conteúdo?
+What is content protection?
 
-Não consigo proteger o meu vídeo
+Report copyright infringement
 
-Tenho uma questão diferente
+I have a different question
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 

@@ -416,9 +416,9 @@ Copy link
 
 What is public domain?
 
-When does copyright expire?
-
 How long does copyright last?
+
+When does copyright expire?
 
 I have a different question
 
@@ -549,13 +549,11 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-How to avoid copyright violation?
+How do I avoid copyright?
 
-What is copyright law?
+What is copyright infringement?
 
 Can I use content I bought?
-
-What is fair use?
 
 I have a different question
 
@@ -1138,9 +1136,9 @@ Copy link
 
 Report an infringement
 
-What is intellectual property?
+Let rights owner know
 
-My content was infringed
+My intellectual property rights
 
 I have a different question
 
@@ -1743,13 +1741,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Trademark vs business registration
-
 What is a trademark registration?
 
 What is a business registration?
 
-What is the USPTO?
+USPTO registration
 
 I have a different question
 
@@ -2330,9 +2326,9 @@ Copy link
 
 Report an infringement
 
-What is intellectual property?
+Let rights owner know
 
-My content was infringed
+My intellectual property rights
 
 I have a different question
 

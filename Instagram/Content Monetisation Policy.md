@@ -3,11 +3,13 @@ Instagram Content Monetisation Policies
 
 Copy link
 
-My content was demonetised
+What content can be monetised?
 
 Why was my content demonetised?
 
-What content can I monetise?
+What are prohibited formats?
+
+What are restricted categories?
 
 I have a different question
 
@@ -307,7 +309,7 @@ Related articles
 
 [How to use the paid partnership label to tag organic branded content on Instagram](https://help.instagram.com/1109894795810258/?helpref=related_articles)
 
-[Find branded content projects as a creator on Instagram's creator marketplace](https://help.instagram.com/1237032497140392/?helpref=related_articles)
+[Find branded content projects as a creator on Meta Creator Marketplace](https://help.instagram.com/1237032497140392/?helpref=related_articles)
 
 [Instagram partnership ad specifications for creators](https://help.instagram.com/1022082264667994/?helpref=related_articles)
 
@@ -325,7 +327,7 @@ Related articles
 
 * * *](https://help.instagram.com/1109894795810258/?helpref=related_articles)
 
-[Find branded content projects as a creator on Instagram's creator marketplace
+[Find branded content projects as a creator on Meta Creator Marketplace
 
 * * *](https://help.instagram.com/1237032497140392/?helpref=related_articles)
 

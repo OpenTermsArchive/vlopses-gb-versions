@@ -1235,9 +1235,9 @@ Copy link
 
 What happens after I report?
 
-Will Meta ask for more info?
+I need to update my report
 
-Who sees my report details?
+What information is shared?
 
 I have a different question
 
@@ -1385,11 +1385,11 @@ Copy link
 
 Report a third-party app
 
-App violates Terms of Service
-
-App infringes my IP
+My intellectual property infringed
 
 Contact app developer
+
+App not following Terms
 
 I have a different question
 
@@ -2096,9 +2096,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
-
-What is copyright infringement?
+What is the fair use doctrine?
 
 I have a different question
 
@@ -2571,11 +2569,9 @@ Copy link
 
 Contact DMCA agent
 
-Send a copyright claim
+Report copyright infringement
 
-What is a DMCA report?
-
-How to contact by post?
+What is a DMCA claim?
 
 I have a different question
 

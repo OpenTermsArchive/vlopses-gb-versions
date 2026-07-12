@@ -130,7 +130,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-How do trademarks work?
+Report a trademark infringement
 
 I have a different question
 
@@ -149,11 +149,11 @@ Related articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -163,17 +163,17 @@ Related articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark
-
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?
 
 * * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?
+[Does a trademark need to be registered to be protected?
 
-* * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[Trademark
+
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -801,7 +801,9 @@ My account was disabled
 
 My Page was removed
 
-What is intellectual property?
+My Group was removed
+
+What happens to my account?
 
 I have a different question
 
@@ -1383,11 +1385,11 @@ Copy link
 
 Report a third-party app
 
-My intellectual property infringed
+App violates Terms of Service
+
+App infringes my IP
 
 Contact app developer
-
-App not following Terms
 
 I have a different question
 
@@ -1445,11 +1447,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel my copyright report
+Cancel my IP report
 
-Retract my report
+Restore removed content
 
 I have a different question
 
@@ -1808,11 +1810,11 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns my original work?
+Who owns copyright?
 
-What is copyright?
+I created an original work
 
-I created a work for my job
+My employer owns copyright
 
 I have a different question
 
@@ -2094,7 +2096,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-What is the fair use doctrine?
+How is fair use determined?
+
+What is copyright infringement?
 
 I have a different question
 
@@ -2567,9 +2571,11 @@ Copy link
 
 Contact DMCA agent
 
-Report copyright infringement
+Send a copyright claim
 
-What is a DMCA claim?
+What is a DMCA report?
+
+How to contact by post?
 
 I have a different question
 

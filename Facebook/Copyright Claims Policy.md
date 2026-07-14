@@ -525,11 +525,11 @@ Copy link
 
 What is trademark infringement?
 
+Limits to trademark rights?
+
+Use trademark without permission?
+
 What is nominative fair use?
-
-Can I resell trademarked goods?
-
-Are trademark rights geographic?
 
 I have a different question
 
@@ -1235,9 +1235,9 @@ Copy link
 
 What happens after I report?
 
-I need to update my report
+Will Meta ask for more info?
 
-What information is shared?
+Who sees my report details?
 
 I have a different question
 
@@ -2184,13 +2184,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
-
-What is copyright infringement?
+Can I infringe copyright unintentionally?
 
 What is fair use?
 
-What content is copyrighted?
+What does copyright protect?
 
 I have a different question
 

@@ -5,11 +5,11 @@ Copy link
 
 Denunciar violação de direitos autorais
 
-Denunciar violação de marca registrada
+Denunciar violação de marca registada
 
 O que é propriedade intelectual?
 
-Minha conta foi invadida
+O que é uma marca registada?
 
 Tenho uma pergunta diferente
 
@@ -1491,11 +1491,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel my copyright report
+Cancel my IP report
 
-Withdraw my trademark report
+IP report submitted by mistake
 
-I reported content by mistake
+Restore content after retraction
 
 I have a different question
 
@@ -1684,13 +1684,11 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register my trademark
+Do I need to register a trademark?
 
 What are common law rights?
 
-Do I need to register?
-
-What is a business registration?
+What is a USPTO registration?
 
 I have a different question
 
@@ -1815,11 +1813,13 @@ How long does trademark protection last?
 
 Copy link
 
-How long do trademark rights last?
+How long does trademark last?
 
-What happens if I stop using a trademark?
+Renew my trademark
 
-How do I renew a trademark?
+I stopped using my trademark
+
+What is the USPTO?
 
 I have a different question
 
@@ -2129,7 +2129,7 @@ My content was removed
 
 Appeal content removal
 
-Contact rights owner
+What is intellectual property?
 
 I have a different question
 
@@ -2897,11 +2897,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel my copyright report
+Cancel my IP report
 
-Withdraw my trademark report
+IP report submitted by mistake
 
-I reported content by mistake
+Restore content after retraction
 
 I have a different question
 

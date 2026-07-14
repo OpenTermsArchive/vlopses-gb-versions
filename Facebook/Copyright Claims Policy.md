@@ -525,11 +525,11 @@ Copy link
 
 What is trademark infringement?
 
-Limits to trademark rights?
-
-Use trademark without permission?
-
 What is nominative fair use?
+
+Can I resell trademarked goods?
+
+Are trademark rights geographic?
 
 I have a different question
 
@@ -552,9 +552,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -568,13 +568,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
-
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?
+
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -2008,13 +2008,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-What is copyright infringement?
-
-Do I have permission to post?
+I posted copyrighted content
 
 What is fair use?
 
-Is my content public domain?
+How do I get permission?
+
+What is public domain content?
 
 I have a different question
 
@@ -2184,11 +2184,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I infringe copyright unintentionally?
+Can I violate copyright unintentionally?
+
+What is copyright infringement?
 
 What is fair use?
 
-What does copyright protect?
+What content is copyrighted?
 
 I have a different question
 

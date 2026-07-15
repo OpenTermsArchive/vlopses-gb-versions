@@ -174,7 +174,7 @@ Summary of T&Cs
 
 SHEIN MARKETPLACE’ S GENERAL CONDITIONS OF USE
 
-**Version of February 11th, 2026**
+**Version of** **July 1st****, 2026**
 
 Welcome to the Shein UK Marketplace.
 
@@ -284,7 +284,7 @@ The use of the Marketplace is free of charge (except for possible connection cos
 
 5.1 SHEIN Electronic Wallet (« Wallet »)
 
-The creation of a User Account automatically includes the creation of a SHEIN electronic wallet (the **"Wallet"** ). The latter allows you to collect and view your coupons, bonus points, wallet credits (offered where applicable when placing orders) and where applicable, your gift cards. These various credits or discounts can be accessed at any time via the Site in the "My Assets" section. We may limit the amounts in Wallet credits, gift cards, or coupons that you are able to maintain at any given time, at our sole discretion.Coupons, Bonus points, Wallet credit, and Gift cards can be issued by Infinite Towers Services Ltd. and/or its affiliates.  
+The creation of a User Account automatically includes the creation of a SHEIN electronic wallet (the **"Wallet"** ). The latter allows you to collect and view your coupons, bonus points, wallet credits (offered where applicable when placing orders) and where applicable, your gift cards. These various credits or discounts can be accessed at any time via the Site in the "My Assets" section. We may limit the amounts in Wallet credits, gift cards, or coupons that you are able to maintain at any given time, at our sole discretion.Coupons, Bonus points, Wallet credit, and Gift cards can be issued by Infinite Towers Services Ltd. and/or its affiliates.
 
 (1) **Coupons:** Discount coupons ( **"Coupons"** ) may be obtained from SHEIN where this service is offered or may be granted by SHEIN in its sole discretion. Coupons may be stored in the "My Assets" section. They have a validity date, after which they can no longer be used. Coupons that have been purchased can only be redeemed at the Site where they were purchased or obtained. For more information on coupons, please refer to the [Coupon Policy](https://www.shein.co.uk/Coupon-Policy-a-1302.html) which applies to their use. Notwithstanding the foregoing, any Coupons which are specifically designated for the sole purpose of purchasing products exclusively distributed by Sellers cannot be used for purchasing products sold by SHEIN and vice versa.
 
@@ -604,9 +604,9 @@ Company number: 14874601
 
   
 
-GENERAL CONDITIONS OF SALE  
+GENERAL CONDITIONS OF SALE
 
-****Version of**** ****July 1st********, 2026****
+****Version of**February 11th**, 2026****
 
 Welcome to [https://www.shein.co.uk/](https://www.shein.co.uk/) and/or the mobile application (the **“Marketplace”** ) operated by Infinite Towers Services Ltd. \[address: 1 Bartholomew Lane, London, United Kingdom, EC2N 2AX, registration number: 14874601\] ( **“Shein”** or **“the Operator”** ).
 

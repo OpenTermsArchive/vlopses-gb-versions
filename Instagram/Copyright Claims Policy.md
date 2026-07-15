@@ -5,11 +5,11 @@ Copy link
 
 Denunciar violação de direitos autorais
 
-Denunciar violação de marca registada
+Denunciar violação de marca registrada
 
 O que é propriedade intelectual?
 
-O que é uma marca registada?
+Minha conta foi invadida
 
 Tenho uma pergunta diferente
 
@@ -149,6 +149,16 @@ Resolve issues, make changes and get support in real time
 
 Trademark
 =========
+
+Report trademark infringement
+
+What do trademarks protect?
+
+Avoid infringing trademarks
+
+What is trademark law?
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
@@ -488,11 +498,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What is copyright law?
 
-What is trademark?
+What is trademark law?
 
-Copyright vs trademark
+Difference between copyright and trademark?
+
+What is the DMCA?
 
 I have a different question
 
@@ -549,13 +561,11 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-How to avoid copyright violation?
+How do I avoid copyright?
 
-What is copyright law?
+What is copyright infringement?
 
 Can I use content I bought?
-
-What is fair use?
 
 I have a different question
 
@@ -1998,11 +2008,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What is copyright law?
 
-What is trademark?
+What is trademark law?
 
-Copyright vs trademark
+Difference between copyright and trademark?
+
+What is the DMCA?
 
 I have a different question
 
@@ -2129,7 +2141,7 @@ My content was removed
 
 Appeal content removal
 
-What is intellectual property?
+Contact rights owner
 
 I have a different question
 

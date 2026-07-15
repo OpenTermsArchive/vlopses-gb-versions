@@ -9,6 +9,8 @@ How is the service funded?
 
 What is the Privacy Policy?
 
+What are my commitments?
+
 I have a different question
 
 Welcome to Instagram!  

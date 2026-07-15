@@ -3,13 +3,11 @@ Information for law enforcement
 
 Copy link
 
-Solicitar información de usuario
+Requests for user information
 
-Solicitudes de emergencia
+Emergency requests
 
-Retención de datos
-
-Requisitos legales internacionales
+International legal requests
 
 I have a different question
 

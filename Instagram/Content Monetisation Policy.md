@@ -313,7 +313,7 @@ Related articles
 
 [Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
 
-[About Instagram's creator marketplace](https://help.instagram.com/337707278243327/?helpref=related_articles)
+[About Meta creator marketplace for businesses](https://help.instagram.com/337707278243327/?helpref=related_articles)
 
 [Find branded content projects as a creator on Meta Creator Marketplace](https://help.instagram.com/1237032497140392/?helpref=related_articles)
 
@@ -335,7 +335,7 @@ Related articles
 
 * * *](https://help.instagram.com/1123581461537025/?helpref=related_articles)
 
-[About Instagram's creator marketplace
+[About Meta creator marketplace for businesses
 
 * * *](https://help.instagram.com/337707278243327/?helpref=related_articles)
 

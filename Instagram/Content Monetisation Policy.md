@@ -235,13 +235,15 @@ Instagram Partner Monetisation Policies
 
 Copy link
 
-Où puis-je monétiser ?
+What are Partner Monetisation Policies?
 
-Monétiser le contenu
+My account is ineligible for monetisation
 
-Monétiser l'engagement authentique
+What are Content Monetisation Policies?
 
-J'ai une question différente
+I lost my monetisation eligibility
+
+I have a different question
 
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetisation Policies. This is still the best place to learn about the rules for using Instagram's monetisation tools.
 
@@ -311,9 +313,9 @@ Related articles
 
 [Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
 
-[About Meta creator marketplace for businesses](https://help.instagram.com/337707278243327/?helpref=related_articles)
-
 [Find branded content projects as a creator on Meta Creator Marketplace](https://help.instagram.com/1237032497140392/?helpref=related_articles)
+
+[About affiliate partnerships on Instagram](https://help.instagram.com/982341200806383/?helpref=related_articles)
 
 Related articles
 
@@ -333,11 +335,11 @@ Related articles
 
 * * *](https://help.instagram.com/1123581461537025/?helpref=related_articles)
 
-[About Meta creator marketplace for businesses
+[Find branded content projects as a creator on Meta Creator Marketplace
 
-* * *](https://help.instagram.com/337707278243327/?helpref=related_articles)
+* * *](https://help.instagram.com/1237032497140392/?helpref=related_articles)
 
-[Find branded content projects as a creator on Meta Creator Marketplace](https://help.instagram.com/1237032497140392/?helpref=related_articles)
+[About affiliate partnerships on Instagram](https://help.instagram.com/982341200806383/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

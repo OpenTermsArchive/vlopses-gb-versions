@@ -399,11 +399,11 @@ Copy link
 
 How long do trademark rights last?
 
-Renew my trademark
+Renew trademark registration
 
 Lose trademark rights
 
-USPTO trademark renewal
+What is USPTO?
 
 I have a different question
 
@@ -732,11 +732,13 @@ Copy link
 
 Apelar remoção de conteúdo
 
-Apelar relatório de marca comercial
+Apelar relatório de marca registada
 
-Conteúdo removido por engano
+Apelar relatório de propriedade intelectual
 
-Tenho uma pergunta diferente
+Não recebi notificação
+
+Tenho uma questão diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -894,11 +896,9 @@ Copy link
 
 Report trademark infringement
 
+Fill in the report form
+
 What is trademark infringement?
-
-Contact the content poster
-
-I can't report infringement
 
 I have a different question
 
@@ -2420,13 +2420,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is DMCA?
+What is a DMCA counter-notification?
 
-File a counter-notification
+How do I file a counter-notification?
 
-My content was removed
+What happens after I file?
 
-What is the Repeat Infringer policy?
+My content wasn't restored
 
 I have a different question
 
@@ -2490,11 +2490,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Report copyright infringement
+I want to report copyright
 
 Contact designated agent
 
-Who can report copyright?
+My copyright was infringed
 
 I have a different question
 
@@ -2776,9 +2776,9 @@ Copy link
 
 What happens after I report?
 
-My copyright report was rejected
+I need to update my report
 
-What information is shared?
+What info is shared?
 
 I have a different question
 

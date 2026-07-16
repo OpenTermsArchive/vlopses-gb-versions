@@ -147,11 +147,11 @@ Related articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -161,17 +161,17 @@ Related articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
+[Trademark
+
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
 [Are there any limits to trademark rights?
 
 * * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
+[What's the difference between copyright and trademark?
 
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Trademark
-
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+* * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -196,7 +196,7 @@ What is trademark infringement?
 
 What is trademark dilution?
 
-What causes confusion?
+What is likelihood of confusion?
 
 I have a different question
 
@@ -399,11 +399,11 @@ Copy link
 
 How long do trademark rights last?
 
-Renew trademark registration
+Renew my trademark
 
 Lose trademark rights
 
-What is USPTO?
+USPTO trademark renewal
 
 I have a different question
 
@@ -732,13 +732,11 @@ Copy link
 
 Apelar remoção de conteúdo
 
-Apelar relatório de marca registada
+Apelar relatório de marca comercial
 
-Apelar relatório de propriedade intelectual
+Conteúdo removido por engano
 
-Não recebi notificação
-
-Tenho uma questão diferente
+Tenho uma pergunta diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 

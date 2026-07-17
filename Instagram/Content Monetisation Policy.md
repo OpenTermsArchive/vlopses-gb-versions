@@ -5,9 +5,9 @@ Copy link
 
 Why can't I monetise content?
 
-What content is restricted?
-
 What are prohibited formats?
+
+What are restricted categories?
 
 What is unoriginal content?
 
@@ -235,15 +235,13 @@ Instagram Partner Monetisation Policies
 
 Copy link
 
-What are Partner Monetisation Policies?
+Où puis-je monétiser ?
 
-My account is ineligible for monetisation
+Monétiser le contenu
 
-What are Content Monetisation Policies?
+Monétiser l'engagement authentique
 
-I lost my monetisation eligibility
-
-I have a different question
+J'ai une question différente
 
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetisation Policies. This is still the best place to learn about the rules for using Instagram's monetisation tools.
 

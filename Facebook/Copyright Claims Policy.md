@@ -14,15 +14,13 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Denunciar violação de direitos autorais
 
-What is a trademark?
+Denunciar violação de marca registada
 
-Report copyright violation
+O que é propriedade intelectual?
 
-Report trademark violation
-
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -271,11 +269,11 @@ Copy link
 
 Register a trademark
 
-Trademark rights without registration
-
-USPTO registration benefits
+USPTO registration
 
 EUIPO trademark registration
+
+Common law trademark rights
 
 I have a different question
 
@@ -399,6 +397,16 @@ How long does trademark protection last?
 
 Copy link
 
+How long do trademark rights last?
+
+Renew my trademark
+
+Lose trademark rights
+
+USPTO trademark renewal
+
+I have a different question
+
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights.
 
 For trademarks that are registered with the United States Patent and Trademark Office (USPTO), registrations must be renewed periodically. For trademarks that are registered with the European Union Intellectual Property Office (EUIPO), registration lasts for ten years and may be renewed indefinitely. The laws in other jurisdictions may vary.
@@ -455,9 +463,11 @@ Copy link
 
 Report counterfeit goods
 
-What are counterfeit goods?
+What is trademark infringement?
 
-Counterfeit sales on Facebook
+Is selling counterfeits illegal?
+
+How to spot a counterfeit?
 
 I have a different question
 
@@ -584,6 +594,16 @@ What's the difference between copyright and trademark?
 ======================================================
 
 Copy link
+
+What is copyright?
+
+What is trademark?
+
+Copyright infringement
+
+Trademark infringement
+
+I have a different question
 
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -1211,9 +1231,9 @@ Copy link
 
 What happens after I report?
 
-Will Meta ask for more info?
+What info is shared?
 
-Who sees my report details?
+Contact about my report
 
 I have a different question
 
@@ -1485,6 +1505,16 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
+What info is sent?
+
+Rights owner's name
+
+Email address sent
+
+How to appeal removed content?
+
+I have a different question
+
 When we receive [trademark reports](https://www.facebook.com/help/191999230901156?helpref=faq_content) and remove the reported content, we typically provide the person who posted the content with the following information:
 
 *   Report number
@@ -1551,7 +1581,9 @@ Report intellectual property infringement
 
 Brand Rights Protection
 
-What is Brand Rights Protection?
+My intellectual property was infringed
+
+What is intellectual property?
 
 I have a different question
 
@@ -1970,13 +2002,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My post was removed
+My content was removed
 
 What is fair use?
 
-How do I get permission?
-
 What is public domain?
+
+How do I get permission?
 
 I have a different question
 
@@ -2458,11 +2490,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Report copyright infringement
+I want to report copyright
 
 Contact designated agent
 
-Who can report copyright?
+My copyright was infringed
 
 I have a different question
 
@@ -2598,11 +2630,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-Submit a copyright report
-
 What info to include?
 
 Where to find URLs?
+
+What is an electronic signature?
 
 I have a different question
 
@@ -2672,11 +2704,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What info is provided?
+What info is sent?
 
-Who receives the information?
+Rights owner's name
 
-What if I don't want to provide my email?
+How to appeal?
 
 I have a different question
 

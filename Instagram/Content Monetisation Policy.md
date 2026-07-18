@@ -5,9 +5,9 @@ Copy link
 
 Why can't I monetise content?
 
-What content is restricted?
-
 What are prohibited formats?
+
+What are restricted categories?
 
 What is unoriginal content?
 

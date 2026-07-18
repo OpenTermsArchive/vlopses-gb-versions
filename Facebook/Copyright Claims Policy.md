@@ -14,13 +14,15 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+What is copyright?
 
-Denunciar violação de marca registada
+What is a trademark?
 
-O que é propriedade intelectual?
+Report copyright violation
 
-Tenho uma pergunta diferente
+Report trademark violation
+
+I have a different question
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -128,7 +130,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Can I use a similar trademark?
+How do trademarks work?
 
 I have a different question
 
@@ -269,11 +271,11 @@ Copy link
 
 Register a trademark
 
-USPTO registration
+Trademark rights without registration
+
+USPTO registration benefits
 
 EUIPO trademark registration
-
-Common law trademark rights
 
 I have a different question
 
@@ -732,11 +734,13 @@ Copy link
 
 Apelar remoção de conteúdo
 
-Apelar relatório de marca comercial
+Apelar relatório de marca registada
 
-Conteúdo removido por engano
+Apelar relatório de propriedade intelectual
 
-Tenho uma pergunta diferente
+Não recebi notificação
+
+Tenho uma questão diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -1148,11 +1152,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What to include in report?
+Report a trademark infringement
 
-Where to find infringing content?
+What to include in report
 
-What is a trademark?
+How to find a URL
 
 I have a different question
 
@@ -1231,9 +1235,9 @@ Copy link
 
 What happens after I report?
 
-What info is shared?
+Will Meta ask for more info?
 
-Contact about my report
+Who sees my report details?
 
 I have a different question
 
@@ -1301,13 +1305,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad
+Report an infringing ad
 
 Report copyright infringement
 
 Report trademark infringement
-
-I can't find the ad
 
 I have a different question
 
@@ -1581,9 +1583,7 @@ Report intellectual property infringement
 
 Brand Rights Protection
 
-My intellectual property was infringed
-
-What is intellectual property?
+What is Brand Rights Protection?
 
 I have a different question
 
@@ -2420,13 +2420,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is a DMCA counter-notification?
+What is DMCA?
 
-How do I file a counter-notification?
+File a counter-notification
 
-What happens after I file?
+My content was removed
 
-My content wasn't restored
+What is the Repeat Infringer policy?
 
 I have a different question
 
@@ -2561,7 +2561,7 @@ Copy link
 
 Contact DMCA agent
 
-Report copyright infringement
+Send a copyright claim
 
 DMCA contact details
 

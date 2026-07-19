@@ -1730,11 +1730,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What is not protected by copyright?
+What is not protected?
+
+What is an original work?
 
 I have a different question
 
@@ -2000,13 +2000,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My post was removed
+My content was removed
 
 What is fair use?
 
-How do I get permission?
-
 What is public domain?
+
+How do I get permission?
 
 I have a different question
 

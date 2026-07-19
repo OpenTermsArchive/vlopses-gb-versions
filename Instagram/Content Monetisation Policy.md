@@ -235,13 +235,15 @@ Instagram Partner Monetisation Policies
 
 Copy link
 
-Où puis-je monétiser ?
+What are Partner Monetisation Policies?
 
-Monétiser le contenu
+My account is ineligible for monetisation
 
-Monétiser l'engagement authentique
+What are Content Monetisation Policies?
 
-J'ai une question différente
+I lost my monetisation eligibility
+
+I have a different question
 
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetisation Policies. This is still the best place to learn about the rules for using Instagram's monetisation tools.
 

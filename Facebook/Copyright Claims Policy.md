@@ -14,15 +14,13 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Denunciar violação de direitos autorais
 
-What is a trademark?
+Denunciar violação de marca registada
 
-Report copyright violation
+O que é propriedade intelectual?
 
-Report trademark violation
-
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -2002,13 +2000,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
+My post was removed
 
 What is fair use?
 
-What is public domain?
-
 How do I get permission?
+
+What is public domain?
 
 I have a different question
 
@@ -2803,9 +2801,9 @@ Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
@@ -2819,13 +2817,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[What information do I need to include in a trademark report to Meta?
-
-* * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook
 
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[What information do I need to include in a trademark report to Meta?
+
+* * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 

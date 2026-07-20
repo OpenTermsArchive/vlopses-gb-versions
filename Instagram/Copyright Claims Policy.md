@@ -3,13 +3,13 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos de autor
+Report a copyright violation
 
-Denunciar violação de marca comercial
+Report a trademark violation
 
-O que é propriedade intelectual?
+What is intellectual property?
 
-Tenho uma questão diferente
+I have a different question
 
 About intellectual property
 ---------------------------
@@ -84,6 +84,14 @@ Resolve issues, make changes and get support in real time
 
 Copyright
 =========
+
+Report copyright infringement
+
+Protect my copyrighted work
+
+What is copyright?
+
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
@@ -215,9 +223,11 @@ Copy link
 
 What does copyright protect?
 
-What is not protected by copyright?
+What is not protected?
 
-My content was removed
+My content was copied
+
+What is fair use?
 
 I have a different question
 
@@ -284,11 +294,11 @@ How do I know if I own the copyright in a work?
 
 Copy link
 
-Who owns copyright?
+Who owns my creative work?
 
-I created a work
+I created a work for my job
 
-Employer owns my work
+What if I'm in a photo?
 
 I have a different question
 
@@ -349,13 +359,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-Stop others copying my work
+What are my copyright rights?
+
+My content was copied
 
 What is copyright infringement?
 
-Grant permission to use work
-
-Prevent others using my work
+How do I grant permission?
 
 I have a different question
 
@@ -486,11 +496,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What is copyright law?
 
-What is trademark?
+What is trademark law?
 
-Copyright vs trademark
+Difference between copyright and trademark
+
+What does copyright protect?
 
 I have a different question
 
@@ -547,11 +559,9 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-How to avoid copyright issues?
+How do I avoid copyright infringement?
 
-What is copyright infringement?
-
-Can I use content I bought?
+What content can I post?
 
 What is fair use?
 
@@ -636,7 +646,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Factors of fair use
+How do I know if it's fair use?
+
+What is copyright infringement?
 
 I have a different question
 
@@ -798,7 +810,7 @@ O que fazer se o meu conteúdo for removido?
 
 O meu conteúdo foi removido por engano
 
-Como apelo de uma remoção?
+Como apelo de uma remoção de conteúdo?
 
 O que é violação de direitos de autor?
 
@@ -860,6 +872,8 @@ My account was disabled
 What is repeat infringer policy?
 
 My content was restored
+
+Avoid copyright infringement
 
 I have a different question
 
@@ -995,11 +1009,11 @@ Copy link
 
 Report copyright infringement
 
-Copyright infringement form
+Fill in copyright form
 
-Brand Rights Protection
+Use Brand Rights Protection
 
-DMCA designated agent
+Contact DMCA agent
 
 I have a different question
 
@@ -1061,11 +1075,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What to consider before reporting?
+What is copyright infringement?
 
-Legal consequences of false report?
+What is trademark infringement?
 
-How to submit a report?
+Legal consequences of false report
 
 I have a different question
 
@@ -1191,11 +1205,13 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-Send a DMCA report
+How do I contact DMCA agent?
 
-Contact Instagram's DMCA agent
+Where is the online form?
 
-Include a complete copyright claim
+What is the DMCA agent's email?
+
+What is the DMCA agent's address?
 
 I have a different question
 
@@ -1487,11 +1503,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel my copyright report
+Cancel an IP report
 
-Withdraw trademark report
+IP report submitted by mistake
 
-I can't withdraw my report
+Restore content after retraction
 
 I have a different question
 
@@ -1552,7 +1568,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Can I use a similar trademark?
+Report a trademark infringement
 
 I have a different question
 
@@ -1741,8 +1757,6 @@ What is a business registration?
 
 USPTO registration
 
-Difference between registrations
-
 I have a different question
 
 In some countries or states in the US, a business might be able to register with a government office, or obtain a permit or licence to do business in that country or state. These registrations, such as ones issued by a state's Secretary of State, generally aren't the same as a trademark registration, and may not themselves create trademark rights for the business. In the US, the registration that's frequently used to establish trademark ownership is one that is issued by the United States Patent and Trademark Office (USPTO).
@@ -1866,9 +1880,9 @@ Copy link
 
 Report counterfeit goods
 
-What are counterfeit goods?
+What is a counterfeit?
 
-Report counterfeit on Threads
+Counterfeit goods on Instagram
 
 I have a different question
 
@@ -1923,13 +1937,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What are trademark rights?
+What is trademark infringement?
 
 What is nominative fair use?
 
-Are trademark rights limited?
-
-What is trademark infringement?
+Are there geographic limits?
 
 I have a different question
 
@@ -1992,11 +2004,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What is copyright law?
 
-What is trademark?
+What is trademark law?
 
-Copyright vs trademark
+Difference between copyright and trademark
+
+What does copyright protect?
 
 I have a different question
 
@@ -2117,13 +2131,15 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 
 Copy link
 
-My content was removed
+Contenuto rimosso per violazione
 
-Appeal content removal
+Contestare la rimozione
 
-What is intellectual property?
+Contenuto rimosso per copyright
 
-I have a different question
+Contenuto rimosso per marchio
+
+Ho una domanda diversa
 
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe that the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
@@ -2186,6 +2202,8 @@ My account was disabled
 What is repeat infringer policy?
 
 My content was restored
+
+Avoid copyright infringement
 
 I have a different question
 
@@ -2507,11 +2525,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What to consider before reporting?
+What is copyright infringement?
 
-Legal consequences of false report?
+What is trademark infringement?
 
-How to submit a report?
+Legal consequences of false report
 
 I have a different question
 
@@ -2580,13 +2598,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What are trademark rights?
+What is trademark infringement?
 
 What is nominative fair use?
 
-Are trademark rights limited?
-
-What is trademark infringement?
+Are there geographic limits?
 
 I have a different question
 
@@ -2653,7 +2669,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Factors of fair use
+How do I know if it's fair use?
+
+What is copyright infringement?
 
 I have a different question
 
@@ -2740,11 +2758,11 @@ Information that you need to include in a trademark report on Instagram or Threa
 
 Copy link
 
-What info for trademark report?
+What information do I need?
 
-Where to find trademark URLs?
+Where do I find a URL?
 
-My trademark report was rejected
+What is a trademark?
 
 I have a different question
 
@@ -2891,11 +2909,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel my copyright report
+Cancel an IP report
 
-Withdraw trademark report
+IP report submitted by mistake
 
-I can't withdraw my report
+Restore content after retraction
 
 I have a different question
 

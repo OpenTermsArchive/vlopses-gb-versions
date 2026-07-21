@@ -3,16 +3,6 @@ Instagram Content Monetisation Policies
 
 Copy link
 
-Why can't I monetise content?
-
-What content is restricted?
-
-What are prohibited formats?
-
-What is unoriginal content?
-
-I have a different question
-
 We offer features and products that help creators and publishers earn money from their content. This content has to follow certain rules.
 
 All content on Instagram must comply with our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content) and [Community Standards](https://transparency.meta.com/policies/community-standards/). These are our high-level rules against sexual, violent, profane or hateful content. However, content appropriate for Instagram in general is not necessarily appropriate for monetisation.
@@ -193,9 +183,9 @@ Related articles
 
 [Set audience restrictions for branded content on Instagram](https://help.instagram.com/521368460486230/?helpref=related_articles)
 
-[Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
-
 [Create a branded content campaign for a brand on Instagram's creator marketplace](https://help.instagram.com/744025857252464/?helpref=related_articles)
+
+[Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
 
 Related articles
 
@@ -215,11 +205,11 @@ Related articles
 
 * * *](https://help.instagram.com/521368460486230/?helpref=related_articles)
 
-[Get started with branded content on Instagram
+[Create a branded content campaign for a brand on Instagram's creator marketplace
 
-* * *](https://help.instagram.com/1123581461537025/?helpref=related_articles)
+* * *](https://help.instagram.com/744025857252464/?helpref=related_articles)
 
-[Create a branded content campaign for a brand on Instagram's creator marketplace](https://help.instagram.com/744025857252464/?helpref=related_articles)
+[Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

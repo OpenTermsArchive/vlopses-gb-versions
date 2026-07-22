@@ -552,9 +552,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -568,13 +568,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect
-
-* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?
 
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect
+
+* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -894,11 +894,9 @@ Copy link
 
 Report trademark infringement
 
+Fill in the report form
+
 What is trademark infringement?
-
-Contact the content poster
-
-I can't report infringement
 
 I have a different question
 
@@ -2090,7 +2088,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-What is fair use in the US?
+What is parody fair use?
 
 I have a different question
 
@@ -2178,7 +2176,7 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I use copyrighted work?
+Can I violate copyright unintentionally?
 
 What is fair use?
 

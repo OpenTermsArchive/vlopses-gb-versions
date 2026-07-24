@@ -14,13 +14,15 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+What is copyright?
 
-Denunciar violação de marca registada
+What is a trademark?
 
-O que é propriedade intelectual?
+Report copyright violation
 
-Tenho uma pergunta diferente
+Report trademark violation
+
+I have a different question
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -891,6 +893,14 @@ How do I report trademark infringement on Facebook?
 ===================================================
 
 Copy link
+
+Report trademark infringement
+
+Fill in the report form
+
+What is trademark infringement?
+
+I have a different question
 
 Meta can't adjudicate disputes between third parties, and so we wouldn't be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside Facebook. In these situations, rather than contacting Meta, you may want to contact the party that you believe is infringing your rights directly, or seek any resolution in court or by other judicial means.
 

@@ -14,15 +14,13 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Denunciar violação de direitos autorais
 
-What is a trademark?
+Denunciar violação de marca registada
 
-Report copyright violation
+O que é propriedade intelectual?
 
-Report trademark violation
-
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -894,16 +892,6 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
-Report trademark infringement
-
-What is trademark infringement?
-
-Contact the content poster
-
-I can't report infringement
-
-I have a different question
-
 Meta can't adjudicate disputes between third parties, and so we wouldn't be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside Facebook. In these situations, rather than contacting Meta, you may want to contact the party that you believe is infringing your rights directly, or seek any resolution in court or by other judicial means.
 
 You can report trademark infringement to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/trademark).
@@ -1404,9 +1392,9 @@ Related articles
 
 [Report content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
-[Can I report an infringement of someone else's intellectual property on Facebook?](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
+[Tools Facebook provides to help protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
-[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+[Can I report an infringement of someone else's intellectual property on Facebook?](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
 
 Related articles
 
@@ -1422,11 +1410,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
-[Can I report an infringement of someone else's intellectual property on Facebook?
+[Tools Facebook provides to help protect your intellectual property
 
-* * *](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
+* * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
-[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+[Can I report an infringement of someone else's intellectual property on Facebook?](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1596,6 +1584,8 @@ Related articles
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
+[Tools Facebook provides to help protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
+
 [Does Facebook sell my information?](https://www.facebook.com/help/152637448140583/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
@@ -1604,13 +1594,15 @@ Related articles
 
 [How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
-[Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
-
 Related articles
 
 [Repeated intellectual property infringement on Facebook
 
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[Tools Facebook provides to help protect your intellectual property
+
+* * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 [Does Facebook sell my information?
 
@@ -1624,11 +1616,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?
-
-* * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
-
-[Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
+[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1734,11 +1722,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected?
-
-What is an original work?
+What is not protected by copyright?
 
 I have a different question
 
@@ -2278,9 +2266,9 @@ Related articles
 
 [Why a video that you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
 
-[Tools Facebook provides to help protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
-
 [How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
+
+[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
 Related articles
 
@@ -2296,11 +2284,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
 
-[Tools Facebook provides to help protect your intellectual property
+[How Facebook determines which videos are "For you"
 
-* * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
+[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

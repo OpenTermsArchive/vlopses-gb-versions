@@ -235,11 +235,11 @@ Instagram Partner Monetisation Policies
 
 Copy link
 
-My monetisation was removed
+What are monetisation policies?
 
-Check my eligibility
+What are content policies?
 
-My content was demonetised
+Why can't I monetise?
 
 I have a different question
 

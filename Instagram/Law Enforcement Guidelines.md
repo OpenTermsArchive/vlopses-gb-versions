@@ -3,13 +3,11 @@ Information for law enforcement
 
 Copy link
 
-Permit for user information
+Request user information
 
-Emergency request for data
+Submit an emergency request
 
-Child safety request
-
-International legal request
+Data retention and availability
 
 I have a different question
 

@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Denunciar violação de direitos autorais
 
-What is a trademark?
+Denunciar violação de marca registada
 
-Report copyright violation
+O que é uma marca registada?
 
-Report trademark violation
+O que é propriedade intelectual?
 
-I have a different question
+Tenho uma questão diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -801,11 +801,11 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
+What happens if I repeatedly infringe?
+
 My account was disabled
 
 My Page was removed
-
-What is intellectual property?
 
 I have a different question
 
@@ -1732,11 +1732,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What is not protected by copyright?
+What is not protected?
+
+What is an original work?
 
 I have a different question
 
@@ -1938,11 +1938,11 @@ How long does copyright protection last?
 
 Copy link
 
+How long does copyright last?
+
 What is public domain?
 
 When does copyright expire?
-
-How long does copyright last?
 
 I have a different question
 
@@ -2090,7 +2090,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-What is parody fair use?
+What is copyright infringement?
 
 I have a different question
 
@@ -2178,7 +2178,7 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+Can I use copyrighted work?
 
 What is fair use?
 
@@ -2345,15 +2345,15 @@ Facebook Lite App Help
 
 More
 
-Rayuan kandungan yang dialih keluar
+Contenuto rimosso per copyright
 
-Kandungan saya dialih keluar
+Contestare rimozione contenuto
 
-Siapa yang melaporkan kandungan saya?
+Cosa sono i diritti d'autore?
 
-Saya tidak bersetuju dengan penyingkiran
+Non riesco a fare ricorso
 
-Saya ada soalan lain
+Ho un'altra domanda
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -2420,13 +2420,11 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is a DMCA counter-notification?
+My content was removed
 
-How do I file a counter-notification?
+What is a counter-notification?
 
-What happens after I file?
-
-My content wasn't restored
+How long does restoration take?
 
 I have a different question
 
@@ -2490,7 +2488,7 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-I want to report copyright
+Report copyright infringement
 
 Contact designated agent
 
@@ -2848,11 +2846,11 @@ Copy link
 
 Protect my intellectual property
 
-Rights Manager for videos
+What is Rights Manager?
 
-Report copyright infringement
+What is content protection?
 
-Apply for Rights Manager
+I can't apply for tools
 
 I have a different question
 

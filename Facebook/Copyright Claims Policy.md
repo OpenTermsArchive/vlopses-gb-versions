@@ -2828,11 +2828,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-Apply for Rights Manager
+Protect my intellectual property
 
 What is Rights Manager?
 
 What is content protection?
+
+I can't apply for tools
 
 I have a different question
 

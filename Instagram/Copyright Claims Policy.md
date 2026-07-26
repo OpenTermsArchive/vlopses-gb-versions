@@ -148,14 +148,6 @@ Resolve issues, make changes and get support in real time
 Trademark
 =========
 
-Report trademark infringement
-
-What does trademark protect?
-
-Avoid trademark infringement
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
 Please note that laws in different countries may vary. For more information on trademark law, you can visit the website of the [United States Patent and Trademark Office](http://www.uspto.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram or Threads can't provide you with legal advice, so you may want to speak with an attorney if you have more questions about trademarks.
@@ -296,7 +288,7 @@ Who owns copyright?
 
 I created a work for my job
 
-I appear in a photo
+What if I'm in a photo?
 
 I have a different question
 
@@ -646,7 +638,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted work?
+How do fair use factors work?
 
 I have a different question
 
@@ -735,9 +727,9 @@ Copy link
 
 What is copyright infringement?
 
-What is fair use?
+Can I use copyrighted content?
 
-Can I use content if I give credit?
+What is fair use?
 
 I have a different question
 
@@ -1428,9 +1420,9 @@ Copy link
 
 What happens after I report?
 
-I didn't get a report number
+I need to add more information
 
-Why was my report rejected?
+Who sees my report details?
 
 I have a different question
 
@@ -1497,9 +1489,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel my copyright report
+Cancel an IP report
 
-Withdraw my trademark report
+IP report already submitted
+
+How to withdraw IP report
 
 I have a different question
 
@@ -1625,8 +1619,6 @@ When does infringement occur?
 
 What is likelihood of confusion?
 
-Limits to trademark rights
-
 I have a different question
 
 Generally, trademark infringement occurs when:
@@ -1749,7 +1741,7 @@ What is a trademark registration?
 
 What is a business registration?
 
-Difference between registrations?
+USPTO registration vs business registration
 
 I have a different question
 
@@ -1931,13 +1923,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What are trademark limits?
-
-When is trademark use infringing?
+What is trademark infringement?
 
 What is nominative fair use?
 
-Are trademark rights geographic?
+Are there geographic limits?
 
 I have a different question
 
@@ -2063,11 +2053,13 @@ How to make sure that the content you post to Instagram or Threads don't violate
 
 Copy link
 
-My content violates trademark
+My content violates trademark law
+
+How to avoid trademark violation
 
 What is trademark law?
 
-Can I use someone else's trademark?
+Can I use a trademarked word?
 
 I have a different question
 
@@ -2132,6 +2124,8 @@ My content was removed
 Appeal content removal
 
 What is intellectual property?
+
+What is copyright infringement?
 
 I have a different question
 
@@ -2588,13 +2582,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What are trademark limits?
-
-When is trademark use infringing?
+What is trademark infringement?
 
 What is nominative fair use?
 
-Are trademark rights geographic?
+Are there geographic limits?
 
 I have a different question
 
@@ -2661,7 +2653,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted work?
+How do fair use factors work?
 
 I have a different question
 
@@ -2899,9 +2891,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel my copyright report
+Cancel an IP report
 
-Withdraw my trademark report
+IP report already submitted
+
+How to withdraw IP report
 
 I have a different question
 
@@ -2963,9 +2957,9 @@ Copy link
 
 What information is sent?
 
-Who receives my report?
+What is a trademark report?
 
-What if I report by fax?
+What if I appeal?
 
 I have a different question
 

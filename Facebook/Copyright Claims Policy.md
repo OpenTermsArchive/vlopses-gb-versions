@@ -2074,7 +2074,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-What is parody?
+What is copyright infringement?
 
 I have a different question
 
@@ -2828,13 +2828,11 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-Protect my intellectual property
+Apply for Rights Manager
 
 What is Rights Manager?
 
 What is content protection?
-
-I can't apply for tools
 
 I have a different question
 

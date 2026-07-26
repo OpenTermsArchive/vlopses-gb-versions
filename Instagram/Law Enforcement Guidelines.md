@@ -3,11 +3,13 @@ Information for law enforcement
 
 Copy link
 
-Request user information
+How do I request user information?
 
-Submit an emergency request
+What information can I request?
 
-Data retention and availability
+How do I make an emergency request?
+
+How do I submit a request?
 
 I have a different question
 

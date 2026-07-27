@@ -148,6 +148,14 @@ Resolve issues, make changes and get support in real time
 Trademark
 =========
 
+Report trademark infringement
+
+What does trademark protect?
+
+Avoid trademark infringement
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
 Please note that laws in different countries may vary. For more information on trademark law, you can visit the website of the [United States Patent and Trademark Office](http://www.uspto.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram or Threads can't provide you with legal advice, so you may want to speak with an attorney if you have more questions about trademarks.
@@ -288,7 +296,7 @@ Who owns copyright?
 
 I created a work for my job
 
-I appear in a photo
+What if I'm in a photo?
 
 I have a different question
 
@@ -351,9 +359,7 @@ Copy link
 
 What are my copyright rights?
 
-Stop others copying my work
-
-Grant permission to use work
+My content was copied
 
 What is copyright infringement?
 
@@ -414,9 +420,9 @@ Copy link
 
 What is public domain?
 
-When does copyright expire?
-
 How long does copyright last?
+
+Can I use public domain content?
 
 I have a different question
 
@@ -486,13 +492,15 @@ The difference between copyright and trademark
 
 Copy link
 
-Perbezaan hak cipta dan tanda dagangan
+What is copyright?
 
-Apakah itu hak cipta?
+What is trademark?
 
-Apakah itu tanda dagangan?
+Copyright infringement
 
-Saya ada soalan lain
+Trademark infringement
+
+I have a different question
 
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -794,13 +802,15 @@ What to do if content that you posted on Instagram or Threads is removed because
 
 Copy link
 
-Contenuto rimosso per violazione
+My content was removed
 
-Contatta il titolare dei diritti
+Appeal a copyright removal
 
-Ricorso per violazione copyright
+Contact the rights owner
 
-Ho una domanda diversa
+What is intellectual property?
+
+I have a different question
 
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe that the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
@@ -857,7 +867,7 @@ My account was disabled
 
 What is repeat infringer policy?
 
-My content was restored
+What happens to my content?
 
 I have a different question
 
@@ -993,11 +1003,9 @@ Copy link
 
 Report copyright infringement
 
-Fill in a copyright form
+Report using Brand Rights
 
-Use Brand Rights Protection
-
-Contact DMCA designated agent
+Contact DMCA agent
 
 I have a different question
 
@@ -1189,11 +1197,11 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-Contact DMCA agent
+Contact Instagram's DMCA agent
 
-DMCA agent email
+Report copyright infringement
 
-DMCA agent phone number
+What is a complete copyright claim?
 
 I have a different question
 
@@ -1335,9 +1343,9 @@ Copy link
 
 What information is shared?
 
-Can I hide my email?
+How to appeal a copyright claim?
 
-What if I appeal?
+What if I don't have an email?
 
 I have a different question
 
@@ -1416,9 +1424,9 @@ Copy link
 
 What happens after I report?
 
-I didn't get a report number
+I need to add more information
 
-Why was my report rejected?
+Who sees my report details?
 
 I have a different question
 
@@ -1546,11 +1554,11 @@ More about trademarks and what they protect
 
 Copy link
 
-What are trademarks?
+What is a trademark?
 
 What do trademarks protect?
 
-How do I protect my trademark?
+Can I use a trademark?
 
 I have a different question
 
@@ -1614,8 +1622,6 @@ What is trademark infringement?
 When does infringement occur?
 
 What is likelihood of confusion?
-
-Limits to trademark rights
 
 I have a different question
 
@@ -1805,11 +1811,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long do trademark rights last?
+How long does trademark last?
 
-What happens if I stop using a trademark?
+Renew my trademark
 
-How do I renew a trademark?
+What if I stop using trademark?
 
 I have a different question
 
@@ -1921,11 +1927,13 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What are trademark limits?
+
+When is trademark use infringing?
 
 What is nominative fair use?
 
-Are there geographic limits?
+Are trademark rights geographic?
 
 I have a different question
 
@@ -1988,13 +1996,15 @@ The difference between copyright and trademark
 
 Copy link
 
-Perbezaan hak cipta dan tanda dagangan
+What is copyright?
 
-Apakah itu hak cipta?
+What is trademark?
 
-Apakah itu tanda dagangan?
+Copyright infringement
 
-Saya ada soalan lain
+Trademark infringement
+
+I have a different question
 
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -2183,7 +2193,7 @@ My account was disabled
 
 What is repeat infringer policy?
 
-My content was restored
+What happens to my content?
 
 I have a different question
 
@@ -2249,13 +2259,13 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-How do I report trademark infringement?
+Denunciar infração de marca
 
-How do I report copyright infringement?
+Preencher formulário de denúncia
 
-What is the Brand Rights Protection tool?
+Usar ferramenta de proteção de direitos
 
-I have a different question
+Tenho uma pergunta diferente
 
 Instagram and Threads can't adjudicate disputes between third parties, and so we wouldn't be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
@@ -2576,11 +2586,13 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What are trademark limits?
+
+When is trademark use infringing?
 
 What is nominative fair use?
 
-Are there geographic limits?
+Are trademark rights geographic?
 
 I have a different question
 
@@ -2949,9 +2961,9 @@ Copy link
 
 What information is sent?
 
-What is a trademark report?
+Who receives my report?
 
-What if I appeal?
+What if I report by fax?
 
 I have a different question
 

@@ -288,7 +288,7 @@ Who owns copyright?
 
 I created a work for my job
 
-What if I'm in a photo?
+I appear in a photo
 
 I have a different question
 
@@ -486,15 +486,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+Perbezaan hak cipta dan tanda dagangan
 
-What is trademark?
+Apakah itu hak cipta?
 
-Copyright infringement
+Apakah itu tanda dagangan?
 
-Trademark infringement
-
-I have a different question
+Saya ada soalan lain
 
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -796,15 +794,13 @@ What to do if content that you posted on Instagram or Threads is removed because
 
 Copy link
 
-My content was removed
+Contenuto rimosso per violazione
 
-Appeal a copyright removal
+Contatta il titolare dei diritti
 
-Contact the rights owner
+Ricorso per violazione copyright
 
-What is intellectual property?
-
-I have a different question
+Ho una domanda diversa
 
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe that the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
@@ -1136,11 +1132,11 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-Who can report infringement?
+Report intellectual property infringement
 
-Report copyright infringement
+Report someone else's copyright
 
-Report trademark infringement
+Report someone else's trademark
 
 I have a different question
 
@@ -1420,9 +1416,9 @@ Copy link
 
 What happens after I report?
 
-I need to add more information
+I didn't get a report number
 
-Who sees my report details?
+Why was my report rejected?
 
 I have a different question
 
@@ -1550,11 +1546,11 @@ More about trademarks and what they protect
 
 Copy link
 
-What is a trademark?
+What are trademarks?
 
 What do trademarks protect?
 
-Can I use a trademark?
+How do I protect my trademark?
 
 I have a different question
 
@@ -1618,6 +1614,8 @@ What is trademark infringement?
 When does infringement occur?
 
 What is likelihood of confusion?
+
+Limits to trademark rights
 
 I have a different question
 
@@ -1866,9 +1864,9 @@ Copy link
 
 Report counterfeit goods
 
-What is a counterfeit?
+What are counterfeit goods?
 
-Counterfeit products on Instagram
+Report counterfeit on Threads
 
 I have a different question
 
@@ -1990,15 +1988,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+Perbezaan hak cipta dan tanda dagangan
 
-What is trademark?
+Apakah itu hak cipta?
 
-Copyright infringement
+Apakah itu tanda dagangan?
 
-Trademark infringement
-
-I have a different question
+Saya ada soalan lain
 
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -2053,13 +2049,11 @@ How to make sure that the content you post to Instagram or Threads don't violate
 
 Copy link
 
-My content violates trademark law
-
-How to avoid trademark violation
+My content violates trademark
 
 What is trademark law?
 
-Can I use a trademarked word?
+Can I use someone else's trademark?
 
 I have a different question
 
@@ -2320,11 +2314,11 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-Who can report infringement?
+Report intellectual property infringement
 
-Report copyright infringement
+Report someone else's copyright
 
-Report trademark infringement
+Report someone else's trademark
 
 I have a different question
 
@@ -2377,11 +2371,11 @@ How to report a username on Instagram or Threads for infringing my trademark
 
 Copy link
 
-I want to report a username
-
-Report a username for trademark
+Report a username
 
 What is trademark infringement?
+
+I can't report a username
 
 I have a different question
 
@@ -2744,9 +2738,7 @@ What info do I need?
 
 Where do I submit a report?
 
-What is a trademark report?
-
-How do I find a URL?
+What is a trademark?
 
 I have a different question
 
@@ -2820,11 +2812,11 @@ What happens when you submit a trademark report to Instagram or Threads
 
 Copy link
 
-I submitted a trademark report
+What happens after I report?
 
-What happens to my report?
+I didn't get a report number
 
-Why was my content removed?
+What info is shared?
 
 I have a different question
 

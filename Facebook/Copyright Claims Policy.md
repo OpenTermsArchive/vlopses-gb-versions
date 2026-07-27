@@ -2162,11 +2162,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is copyright infringement?
-
-Can I use copyrighted content?
+Can I infringe copyright unintentionally?
 
 What is fair use?
+
+What if I gave credit?
 
 I have a different question
 

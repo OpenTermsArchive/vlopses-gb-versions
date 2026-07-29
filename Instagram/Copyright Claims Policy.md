@@ -3,11 +3,13 @@ Intellectual property
 
 Copy link
 
+My copyright was violated
+
+My trademark was violated
+
 What is intellectual property?
 
-Report a copyright violation
-
-Report a trademark violation
+Report an impersonation account
 
 I have a different question
 
@@ -410,13 +412,15 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
+Hvor længe varer ophavsret?
 
-How long does copyright last?
+Hvad er offentligt domæne?
 
-When does copyright expire?
+Hvornår udløber ophavsret?
 
-I have a different question
+Hvad er Bernerkonventionen?
+
+Jeg har et andet spørgsmål
 
 Copyright protection doesn't last forever. Eventually, a work loses copyright protection and becomes part of the "public domain". Once a work is in the public domain, it's freely available for anyone to use.
 
@@ -484,11 +488,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What is copyright law?
 
-What is trademark?
+What is trademark law?
 
 Copyright vs trademark
+
+What is DMCA?
 
 I have a different question
 
@@ -798,8 +804,6 @@ Appeal a copyright removal
 
 Contact the rights owner
 
-What is intellectual property?
-
 I have a different question
 
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe that the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
@@ -858,6 +862,8 @@ My account was disabled
 What is repeat infringer policy?
 
 My content was restored
+
+How to avoid copyright infringement?
 
 I have a different question
 
@@ -1059,13 +1065,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is intellectual property?
+Consider my copyright permissions
 
-What is copyright infringement?
+Consider my trademark permissions
 
-What is trademark infringement?
-
-Legal consequences of false report?
+Legal consequences of false report
 
 I have a different question
 
@@ -1134,11 +1138,11 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-I want to report an infringement
+Who can report infringement?
 
-Who can report an infringement?
+Report copyright infringement
 
-What if I'm not the owner?
+Report trademark infringement
 
 I have a different question
 
@@ -1191,11 +1195,11 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-How do I contact DMCA agent?
+Contact Instagram DMCA agent
 
-Where do I send DMCA report?
+Report copyright infringement
 
-What is the DMCA email?
+What is a complete copyright claim?
 
 I have a different question
 
@@ -1335,13 +1339,13 @@ Instagram or Threads removed content as a result of your copyright report. What 
 
 Copy link
 
-O que acontece com o meu conteúdo?
+What information is shared?
 
-Posso apelar de uma remoção?
+Can I appeal a removal?
 
-Quem pode ver minhas informações?
+My content was removed
 
-Tenho uma pergunta diferente
+I have a different question
 
 When we receive copyright claims through our online form and remove the reported content, we typically provide the reported user with the following information.
 
@@ -1487,11 +1491,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel my copyright report
+Cancel intellectual property report
 
-Withdraw my trademark report
+Withdraw trademark report
 
-I reported content by mistake
+Withdraw copyright report
 
 I have a different question
 
@@ -1611,11 +1615,11 @@ What is trademark infringement?
 
 Copy link
 
-What is likelihood of confusion?
+What is trademark infringement?
 
 When does infringement occur?
 
-What are limits to trademark rights?
+What is likelihood of confusion?
 
 I have a different question
 
@@ -1676,15 +1680,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Registrar mi marca comercial
+Register a trademark
 
-¿Qué es una marca comercial registrada?
+What are common law rights?
 
-¿Qué son los derechos de common law?
+Do I need to register?
 
-¿Necesito registrar mi marca comercial?
-
-Tengo una pregunta diferente
+I have a different question
 
 It depends. In the US, a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, amongst other things. For these reasons, trademark owners often obtain USPTO registrations.
 
@@ -1992,11 +1994,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What is copyright law?
 
-What is trademark?
+What is trademark law?
 
 Copyright vs trademark
+
+What is DMCA?
 
 I have a different question
 
@@ -2053,13 +2057,15 @@ How to make sure that the content you post to Instagram or Threads don't violate
 
 Copy link
 
-Oversigt over varemærkeloven
+O que é violação de marca registada?
 
-Hvad er en varemærkekrænkelse?
+Como evitar violação de marca?
 
-Hvad sker der, hvis jeg krænker et varemærke?
+O meu conteúdo viola marca registada?
 
-Jeg har et andet spørgsmål
+O que acontece se eu violar?
+
+Tenho uma questão diferente
 
 Under Instagram's [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards), you can only post content to Instagram or Threads if it doesn't violate the intellectual property rights of another party, including trademarks. Please note that as an Instagram or Threads user, you are responsible for the content you post. If your content violates Threads or Instagram's policies or is reported to Instagram or Threads as infringing the intellectual property rights of another party, Instagram or Threads may remove that content.
 
@@ -2121,9 +2127,9 @@ My content was removed
 
 Appeal content removal
 
-What is intellectual property?
-
 What is copyright infringement?
+
+What is trademark infringement?
 
 I have a different question
 
@@ -2188,6 +2194,8 @@ My account was disabled
 What is repeat infringer policy?
 
 My content was restored
+
+How to avoid copyright infringement?
 
 I have a different question
 
@@ -2318,11 +2326,11 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-I want to report an infringement
+Who can report infringement?
 
-Who can report an infringement?
+Report copyright infringement
 
-What if I'm not the owner?
+Report trademark infringement
 
 I have a different question
 
@@ -2375,13 +2383,11 @@ How to report a username on Instagram or Threads for infringing my trademark
 
 Copy link
 
-I want to report a username
+Report a username
+
+My trademark is infringed
 
 What is trademark infringement?
-
-How do I contact the user?
-
-Can I report for copyright?
 
 I have a different question
 
@@ -2509,13 +2515,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is intellectual property?
+Consider my copyright permissions
 
-What is copyright infringement?
+Consider my trademark permissions
 
-What is trademark infringement?
-
-Legal consequences of false report?
+Legal consequences of false report
 
 I have a different question
 
@@ -2746,7 +2750,7 @@ Copy link
 
 What info do I need?
 
-Where do I find a URL?
+Where do I find URLs?
 
 What is a trademark?
 
@@ -2893,11 +2897,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel my copyright report
+Cancel intellectual property report
 
-Withdraw my trademark report
+Withdraw trademark report
 
-I reported content by mistake
+Withdraw copyright report
 
 I have a different question
 
@@ -2961,7 +2965,7 @@ What information is shared?
 
 What is a trademark report?
 
-What if I appeal?
+How to appeal content removal?
 
 I have a different question
 

@@ -459,9 +459,9 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What is a counterfeit good?
 
-Is selling counterfeits illegal?
+Report counterfeit sales on Facebook
 
 I have a different question
 

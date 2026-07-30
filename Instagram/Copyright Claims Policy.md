@@ -3,13 +3,11 @@ Intellectual property
 
 Copy link
 
-My copyright was violated
-
-My trademark was violated
-
 What is intellectual property?
 
-Report an impersonation account
+Report a copyright violation
+
+Report a trademark violation
 
 I have a different question
 
@@ -353,11 +351,9 @@ Copy link
 
 What are my copyright rights?
 
-Stop others copying my work
-
-Prevent others using my work
-
 What is copyright infringement?
+
+Can I grant permission?
 
 I have a different question
 
@@ -414,13 +410,15 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
+Hvor længe varer ophavsret?
 
-How long does copyright last?
+Hvad er offentligt domæne?
 
-When does copyright expire?
+Hvornår udløber ophavsret?
 
-I have a different question
+Hvad er Bernerkonventionen?
+
+Jeg har et andet spørgsmål
 
 Copyright protection doesn't last forever. Eventually, a work loses copyright protection and becomes part of the "public domain". Once a work is in the public domain, it's freely available for anyone to use.
 
@@ -640,9 +638,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Factors of fair use
-
-What is copyright infringement?
+How do fair use factors work?
 
 I have a different question
 
@@ -1422,9 +1418,9 @@ Copy link
 
 What happens after I report?
 
-What information is shared?
+My report was rejected
 
-Why was my report rejected?
+I need my report number
 
 I have a different question
 
@@ -1615,11 +1611,11 @@ What is trademark infringement?
 
 Copy link
 
-What is likelihood of confusion?
+What is trademark infringement?
 
 When does infringement occur?
 
-What are limits to trademark rights?
+What is likelihood of confusion?
 
 I have a different question
 
@@ -1927,11 +1923,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What are trademark limits?
 
 What is nominative fair use?
 
-Can I resell trademarked goods?
+What is trademark infringement?
 
 Are trademark rights limited by region?
 
@@ -2059,15 +2055,13 @@ How to make sure that the content you post to Instagram or Threads don't violate
 
 Copy link
 
-O que é violação de marca registada?
+Oversigt over varemærkeloven
 
-Como evitar violação de marca?
+Hvad er en varemærkekrænkelse?
 
-O meu conteúdo viola marca registada?
+Hvad sker der, hvis jeg krænker et varemærke?
 
-O que acontece se eu violar?
-
-Tenho uma questão diferente
+Jeg har et andet spørgsmål
 
 Under Instagram's [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards), you can only post content to Instagram or Threads if it doesn't violate the intellectual property rights of another party, including trademarks. Please note that as an Instagram or Threads user, you are responsible for the content you post. If your content violates Threads or Instagram's policies or is reported to Instagram or Threads as infringing the intellectual property rights of another party, Instagram or Threads may remove that content.
 
@@ -2129,9 +2123,9 @@ My content was removed
 
 Appeal content removal
 
-What is intellectual property?
-
 What is copyright infringement?
+
+What is trademark infringement?
 
 I have a different question
 
@@ -2383,13 +2377,11 @@ How to report a username on Instagram or Threads for infringing my trademark
 
 Copy link
 
-I want to report a username
+Report a username
+
+My trademark is infringed
 
 What is trademark infringement?
-
-How do I contact the user?
-
-Can I report for copyright?
 
 I have a different question
 
@@ -2590,11 +2582,11 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What are trademark limits?
 
 What is nominative fair use?
 
-Can I resell trademarked goods?
+What is trademark infringement?
 
 Are trademark rights limited by region?
 
@@ -2663,9 +2655,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Factors of fair use
-
-What is copyright infringement?
+How do fair use factors work?
 
 I have a different question
 

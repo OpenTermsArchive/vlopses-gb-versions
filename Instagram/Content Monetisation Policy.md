@@ -311,9 +311,9 @@ Related articles
 
 [Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
 
-[Find branded content projects as a creator on Meta Creator Marketplace](https://help.instagram.com/1237032497140392/?helpref=related_articles)
-
 [About affiliate partnerships on Instagram](https://help.instagram.com/982341200806383/?helpref=related_articles)
+
+[Find branded content projects as a creator on Meta Creator Marketplace](https://help.instagram.com/1237032497140392/?helpref=related_articles)
 
 Related articles
 
@@ -333,11 +333,11 @@ Related articles
 
 * * *](https://help.instagram.com/1123581461537025/?helpref=related_articles)
 
-[Find branded content projects as a creator on Meta Creator Marketplace
+[About affiliate partnerships on Instagram
 
-* * *](https://help.instagram.com/1237032497140392/?helpref=related_articles)
+* * *](https://help.instagram.com/982341200806383/?helpref=related_articles)
 
-[About affiliate partnerships on Instagram](https://help.instagram.com/982341200806383/?helpref=related_articles)
+[Find branded content projects as a creator on Meta Creator Marketplace](https://help.instagram.com/1237032497140392/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

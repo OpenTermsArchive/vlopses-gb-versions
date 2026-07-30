@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Melde en krænkelse af ophavsret
 
-What is a trademark?
+Melde en krænkelse af varemærke
 
-Report copyright violation
+Hvad er ophavsret?
 
-Report trademark violation
+Hvad er et varemærke?
 
-I have a different question
+Jeg har et andet spørgsmål
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -459,9 +459,9 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What is a counterfeit good?
 
-Is selling counterfeits illegal?
+Report counterfeit sales on Facebook
 
 I have a different question
 
@@ -1635,6 +1635,8 @@ Protect my copyrighted work
 
 What is copyright?
 
+Rights Manager tools
+
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -2264,7 +2266,7 @@ Related articles
 
 [How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
+[Ask to edit or remove a video that you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
 
 Related articles
 
@@ -2284,7 +2286,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
+[Ask to edit or remove a video that you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

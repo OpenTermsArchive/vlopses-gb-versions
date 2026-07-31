@@ -3,13 +3,11 @@ Intellectual property
 
 Copy link
 
-My copyright was violated
-
-My trademark was violated
-
 What is intellectual property?
 
-Report an impersonation account
+Report a copyright violation
+
+Report a trademark violation
 
 I have a different question
 
@@ -412,13 +410,15 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
+Hvor længe varer ophavsret?
 
-How long does copyright last?
+Hvad er offentligt domæne?
 
-When does copyright expire?
+Hvornår udløber ophavsret?
 
-I have a different question
+Hvad er Bernerkonventionen?
+
+Jeg har et andet spørgsmål
 
 Copyright protection doesn't last forever. Eventually, a work loses copyright protection and becomes part of the "public domain". Once a work is in the public domain, it's freely available for anyone to use.
 
@@ -636,7 +636,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-How do fair use factors work?
+Factors of fair use
+
+What is copyright infringement?
 
 I have a different question
 
@@ -859,6 +861,8 @@ What is repeat infringer policy?
 
 My content was restored
 
+How to avoid copyright infringement?
+
 I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
@@ -923,13 +927,13 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 
 Copy link
 
-What is a counter-notification?
+What is a DMCA counter-notification?
 
-How do I file a counter-notification?
+How long does DMCA process take?
 
-What happens after I file?
+Can I restore removed content?
 
-My content was not restored
+What if my content isn't restored?
 
 I have a different question
 
@@ -1132,11 +1136,11 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-Who can report infringement?
+I want to report an infringement
 
-Report copyright infringement
+Who can report an infringement?
 
-Report trademark infringement
+What if I'm not the owner?
 
 I have a different question
 
@@ -1416,9 +1420,9 @@ Copy link
 
 What happens after I report?
 
-My report was rejected
+What information is shared?
 
-I need my report number
+Why was my report rejected?
 
 I have a different question
 
@@ -2189,6 +2193,8 @@ What is repeat infringer policy?
 
 My content was restored
 
+How to avoid copyright infringement?
+
 I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
@@ -2253,11 +2259,11 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-Report trademark infringement
+How do I report trademark infringement?
 
-Report copyright infringement
+What is the Brand Rights Protection tool?
 
-What is the Brand Rights tool?
+What happens after I report?
 
 I have a different question
 
@@ -2318,11 +2324,11 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-Who can report infringement?
+I want to report an infringement
 
-Report copyright infringement
+Who can report an infringement?
 
-Report trademark infringement
+What if I'm not the owner?
 
 I have a different question
 
@@ -2653,7 +2659,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-How do fair use factors work?
+Factors of fair use
+
+What is copyright infringement?
 
 I have a different question
 
@@ -2742,7 +2750,7 @@ Copy link
 
 What info do I need?
 
-Where do I find a URL?
+Where do I find URLs?
 
 What is a trademark?
 
@@ -2957,7 +2965,7 @@ What information is shared?
 
 What is a trademark report?
 
-What if I appeal?
+How to appeal content removal?
 
 I have a different question
 

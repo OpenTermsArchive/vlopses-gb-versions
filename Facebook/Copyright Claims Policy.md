@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Melde en krænkelse af ophavsret
 
-What is a trademark?
+Melde en krænkelse af varemærke
 
-Report copyright violation
+Hvad er ophavsret?
 
-Report trademark violation
+Hvad er et varemærke?
 
-I have a different question
+Jeg har et andet spørgsmål
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -1223,9 +1223,9 @@ Copy link
 
 What happens after I report?
 
-Will the person be notified?
+What info is shared?
 
-What information is shared?
+I need to respond to a message
 
 I have a different question
 

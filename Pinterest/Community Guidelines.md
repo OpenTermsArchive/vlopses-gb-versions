@@ -356,13 +356,7 @@ collection\_fields
 
 How can we make this article better?
 
-Additional Response
-
-  
-
-       
-
-Leave this field blank 
+Additional Response         
 
 Pinterest has a long-standing commitment to creating a safe and positive space online and takes the safety of all users seriously. We continually invest in our policies, products and partnerships to support the safety and well-being of our community, and the UK Online Safety Act follows our commitment to making Pinterest inspiring and welcoming for everyone.
 
@@ -397,9 +391,3 @@ collection\_fields
 How can we make this article better?
 
 Additional Response
-
-  
-
-       
-
-Leave this field blank

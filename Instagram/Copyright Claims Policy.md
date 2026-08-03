@@ -513,9 +513,9 @@ Related articles
 
 [More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
 [What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Related articles
 
@@ -531,11 +531,11 @@ Related articles
 
 * * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?
+[What is trademark infringement?
 
-* * *](https://help.instagram.com/346906112398235/?helpref=related_articles)
+* * *](https://help.instagram.com/1904208239817294/?helpref=related_articles)
 
-[What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -962,7 +962,7 @@ Related articles
 
 [About labelled state-controlled media on Instagram and Threads](https://help.instagram.com/2589432474704452/?helpref=related_articles)
 
-[About supervision on Instagram](https://help.instagram.com/658522825492278/?helpref=related_articles)
+[Information that you need to include in a copyright report to Instagram or Threads](https://help.instagram.com/454257084652404/?helpref=related_articles)
 
 Related articles
 
@@ -982,7 +982,7 @@ Related articles
 
 * * *](https://help.instagram.com/2589432474704452/?helpref=related_articles)
 
-[About supervision on Instagram](https://help.instagram.com/658522825492278/?helpref=related_articles)
+[Information that you need to include in a copyright report to Instagram or Threads](https://help.instagram.com/454257084652404/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2025,9 +2025,9 @@ Related articles
 
 [More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
 [What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Related articles
 
@@ -2043,11 +2043,11 @@ Related articles
 
 * * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?
+[What is trademark infringement?
 
-* * *](https://help.instagram.com/346906112398235/?helpref=related_articles)
+* * *](https://help.instagram.com/1904208239817294/?helpref=related_articles)
 
-[What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

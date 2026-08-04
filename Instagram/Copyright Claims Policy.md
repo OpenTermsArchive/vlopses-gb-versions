@@ -3,13 +3,11 @@ Intellectual property
 
 Copy link
 
-My copyright was violated
-
-My trademark was violated
-
 What is intellectual property?
 
-Report an impersonation account
+Report a copyright violation
+
+Report a trademark violation
 
 I have a different question
 
@@ -551,11 +549,9 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-How to avoid copyright infringement?
+How to avoid copyright violation?
 
-What content can I post?
-
-Can I use content I bought?
+What is copyright law?
 
 What is fair use?
 

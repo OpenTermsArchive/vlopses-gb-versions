@@ -3,13 +3,11 @@ Intellectual property
 
 Copy link
 
-My copyright was violated
-
-My trademark was violated
-
 What is intellectual property?
 
-Report an impersonation account
+Report a copyright violation
+
+Report a trademark violation
 
 I have a different question
 

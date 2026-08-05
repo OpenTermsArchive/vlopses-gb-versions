@@ -166,19 +166,19 @@ Standard Shipping
 
 FREE on almost all orders
 
-7 - 13 business days
+6 - 13 business days
 
 Express Shipping
 
 £9.00
 
-4 - 9 business days
+4 - 7 business days
 
 Click & Collect
 
 FREE on almost all orders
 
-7 - 9 business days
+6 - 8 business days
 
 Temu reserves the right to adjust thresholds in specific events or circumstances. The applicable thresholds are detailed before you submit your order.
 

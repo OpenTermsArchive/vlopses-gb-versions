@@ -2476,11 +2476,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Report copyright infringement
+I want to report copyright
+
+My copyright was infringed
 
 Contact designated agent
-
-Message content poster
 
 I have a different question
 

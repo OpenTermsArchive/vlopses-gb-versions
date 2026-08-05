@@ -159,10 +159,6 @@ We also allow members to call out the harassing, hateful, or otherwise abusive c
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
-Was this answer helpful?
-
-Yes No
-
 - - -
 
 Violent and graphic content

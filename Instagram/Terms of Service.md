@@ -3,13 +3,15 @@ Terms of Use
 
 Copy link
 
-Hvad er Instagram-tjenesten?
+What is the Instagram Service?
 
-Hvordan finansieres Instagram?
+How is the service funded?
 
-Hvad er privatlivspolitikken?
+What is the Privacy Policy?
 
-Jeg har et andet spørgsmål
+What are my commitments?
+
+I have a different question
 
 Welcome to Instagram!  
   

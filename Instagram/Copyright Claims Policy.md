@@ -551,9 +551,11 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-How to avoid copyright violation?
+How to avoid copyright infringement?
 
-What is copyright law?
+What content can I post?
+
+Can I use content I bought?
 
 What is fair use?
 

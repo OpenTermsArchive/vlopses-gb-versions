@@ -3,13 +3,15 @@ Information for law enforcement
 
 Copy link
 
-Anfrage für Nutzerinformationen
+Request user information
 
-Notfallanfrage senden
+Emergency requests
 
-Internationale rechtliche Anfragen
+International legal requests
 
-Ich habe eine andere Frage
+Preserve account records
+
+I have a different question
 
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 

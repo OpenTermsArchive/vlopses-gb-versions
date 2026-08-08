@@ -3,13 +3,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Denunciar violação de direitos autorais
 
-Report trademark violation
+Denunciar violação de marca registada
 
-What is intellectual property?
+O que é propriedade intelectual?
 
-I have a different question
+Tenho uma pergunta diferente
 
 About intellectual property
 ---------------------------
@@ -997,9 +997,9 @@ Copy link
 
 Report copyright infringement
 
-What is copyright infringement?
+Fill in copyright form
 
-Report using Brand Rights Protection
+Use Brand Rights Protection
 
 I have a different question
 
@@ -1061,13 +1061,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is intellectual property?
+Consider my copyright permissions
 
-What is copyright infringement?
+Consider my trademark permissions
 
-What is trademark infringement?
-
-What are the legal consequences?
+Legal consequences of reporting
 
 I have a different question
 
@@ -2511,13 +2509,11 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is intellectual property?
+Consider my copyright permissions
 
-What is copyright infringement?
+Consider my trademark permissions
 
-What is trademark infringement?
-
-What are the legal consequences?
+Legal consequences of reporting
 
 I have a different question
 

@@ -1998,15 +1998,15 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I posted copyrighted content
+Evitar violações de direitos autorais
 
-Do I need permission?
+O que é uso justo?
 
-What is fair use?
+Obter permissão para usar conteúdo
 
-What is public domain?
+O que é domínio público?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 

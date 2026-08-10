@@ -3,13 +3,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Denunciar violação de direitos autorais
 
-Report trademark violation
+Denunciar violação de marca registada
 
-What is intellectual property?
+O que é propriedade intelectual?
 
-I have a different question
+Tenho uma pergunta diferente
 
 About intellectual property
 ---------------------------
@@ -547,11 +547,11 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-My content violates copyright
+How to avoid copyright issues?
 
 What is copyright infringement?
 
-Can I use someone else's content?
+Can I use downloaded content?
 
 What is fair use?
 
@@ -636,7 +636,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted work?
+What are the factors of fair use?
 
 I have a different question
 
@@ -2653,7 +2653,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted work?
+What are the factors of fair use?
 
 I have a different question
 

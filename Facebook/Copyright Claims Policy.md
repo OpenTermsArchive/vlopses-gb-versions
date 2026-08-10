@@ -194,14 +194,6 @@ What is trademark infringement?
 
 Copy link
 
-What is trademark infringement?
-
-What is trademark dilution?
-
-What is likelihood of confusion?
-
-I have a different question
-
 Generally, trademark infringement occurs when all three of the following requirements are met:
 
 1.  A company or person uses a trademark owner's trademark (or similar trademark) without permission

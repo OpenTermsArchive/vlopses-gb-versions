@@ -997,9 +997,9 @@ Copy link
 
 Report copyright infringement
 
-Fill in copyright form
+What is copyright infringement?
 
-Use Brand Rights Protection
+Report using Brand Rights Protection
 
 I have a different question
 
@@ -1866,9 +1866,9 @@ Copy link
 
 Report counterfeit goods
 
-What are counterfeit goods?
+What is a counterfeit?
 
-Report counterfeit products
+Counterfeit goods on Instagram
 
 I have a different question
 
@@ -2255,11 +2255,11 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-How do I report trademark infringement?
+Report trademark infringement
 
-What is the Brand Rights Protection tool?
+Report copyright infringement
 
-What happens after I report?
+What is trademark infringement?
 
 I have a different question
 

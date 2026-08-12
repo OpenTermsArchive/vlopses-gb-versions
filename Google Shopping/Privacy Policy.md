@@ -501,26 +501,26 @@ _30 May 2024_
 Transparency and privacy
 ========================
 
-If you believe a Google Customer Reviews participant is in violation of one of the policies below, please let us know by filling out the [Google Customer Reviews report violation form](https://support.google.com/merchants/contact/gcr_report_violation?previewKey=5005707) so we can investigate. We take action on content and products that violate our policies. This may include disapproving violating content or product, as well as issuing warnings or suspending accounts for repeated or egregious violations. We take repeat violations of our policies seriously.
+If you believe that a Google Customer Reviews participant is in violation of one of the policies below, please let us know by filling in the [Google Customer Reviews report violation form](https://support.google.com/merchants/contact/gcr_report_violation?previewKey=5005707) so that we can investigate. We take action on content and products that violate our policies. This may include disapproving violative content or products, as well as issuing warnings or suspending accounts for repeated or egregious violations. We take repeat violations of our policies seriously.
 
 False and misleading representation
 -----------------------------------
 
-Google Customer Reviews doesn’t allow its participants to display content that misrepresents a product, offering, or material fact. A Google Customer Reviews participant is not allowed to provide an inaccurate product or offering description or knowingly omit any material details of a product or offering. This applies to all product features including but not limited to quality, value, price, or history of the good.
+Google Customer Reviews doesn't allow its participants to display content that misrepresents a product, offering or material fact. A Google Customer Reviews participant is not allowed to provide an inaccurate product or offering description or to knowingly omit any material details of a product or offering. This applies to all product features including, but not limited to, the quality, value, price or history of the goods.
 
-Google doesn’t allow merchants to falsely represent other merchants or organizations.
+Google doesn't allow merchants to falsely represent other merchants or organisations.
 
 Implied affiliation
 -------------------
 
-Google Customer Reviews doesn't allow content that implies an affiliation, partnership, or any special relationship with Google without explicit authorization from Google. Participants will not issue any press release, announcements, or other promotional materials related to their participation in Google Customer Reviews without Google’s prior approval. Please direct all requests for such approval to press@google.com. Additionally, participants can't imply an affiliation, partnership, or any special relationship with any unrelated third party.
+Google Customer Reviews doesn't allow content that implies an affiliation, partnership or any special relationship with Google without explicit authorisation from Google. Participants will not issue any press releases, announcements or other promotional materials related to their participation in Google Customer Reviews without Google's prior approval. Please direct all requests for such approval to press@google.com. Additionally, participants can't imply an affiliation, partnership or any special relationship with any unrelated third party.
 
 Information harvesting
 ----------------------
 
-Google Customer Reviews doesn't allow websites whose primary purpose is to collect personal information. This includes but is not limited to websites offering free gifts or other incentives in exchange for personal information. We refer to this practice as "information harvesting". Examples of free gifts or incentives include: prizes, offers, videos, eBooks, and quiz/survey results.
+Google Customer Reviews doesn't allow websites whose primary purpose is to collect personal information. This includes, but is not limited to, websites offering free gifts or other incentives in exchange for personal information. We refer to this practice as 'information harvesting'. Examples of free gifts or incentives include prizes, offers, videos, eBooks and quiz/survey results.
 
-Websites that are not harvesting information from users, but collect sensitive personal information (such as bank details and credit card numbers), must use a secure processing server (https://) when collecting this information.
+Websites that are not harvesting information from users but that collect sensitive personal information (such as bank details and credit card numbers) must use a secure processing server (https://) when collecting this information.
 
 Participants remain responsible for ensuring that they are compliant with local laws and regulations on the subject of privacy and data protection. Google may suspend any account or campaign found to be in violation of our policy or the law.
 
@@ -529,26 +529,26 @@ Software principles
 
 Google Customer Reviews doesn't allow websites that distribute harmful or disruptive software onto users' machines. Additionally, Google doesn't allow websites that are misleading or deceptive about the nature of distributed downloads.
 
-This policy is shaped by our corporate [Software Principles](http://www.google.com/about/company/software-principles.html):
+This policy is shaped by our corporate [software principles](http://www.google.com/about/company/software-principles.html):
 
-*   Installation - We believe software shouldn't trick you into installing it.
-*   Upfront disclosure - When an application is installed or enabled, it should inform you of its principal and significant functions.
-*   Simple removal - It should be easy for you to figure out how to disable or delete an application.
-*   Clear behavior - Applications that affect or change your user experience should make it clear that they're the reason for those changes.
-*   Snooping - If an application collects or transmits your personal information such as your address, you should know.
-*   Keeping good company - Application providers shouldn't allow their products to be bundled with applications that don't meet these guidelines.
+*   Installation – we believe that software shouldn't trick you into installing it.
+*   Upfront disclosure – when an application is installed or enabled, it should inform you of its principal and significant functions.
+*   Simple removal – it should be easy for you to figure out how to disable or delete an application.
+*   Clear behaviour – applications that affect or change your user experience should make it clear that they're the reason for those changes.
+*   Snooping – if an application collects or transmits your personal information such as your address, you should know.
+*   Keeping good company – application providers shouldn't allow their products to be bundled with applications that don't meet these guidelines.
 
-Some applications may not be malicious in their intent, but are designed to bundle applications, transmit user information, or change computer settings without explicit user acknowledgement. This type of software is considered harmful for the user because it may steal personal and financial information, is typically not easy to uninstall or remove, may change browser settings, and may transmit data to and from other external entities without the user's consent.
+Some applications may not be malicious in their intent but are designed to bundle applications, transmit user information or change computer settings without explicit user acknowledgement. This type of software is considered harmful for the user because it may steal personal and financial information, is typically not easy to uninstall or remove, may change browser settings and may transmit data to and from other external entities without the user's consent.
 
 Participant privacy practices
 -----------------------------
 
-Participants must post a privacy policy which accurately discloses their practices regarding the collection, use, and disclosure of information, including personally-identifiable information.
+Participants must post a privacy policy that accurately discloses their practices regarding the collection, use and disclosure of information, including personally identifiable information.
 
 Participants should include the following information in their privacy policies:
 
-*   Third party vendors, including Google, use cookies to serve the badge on your website and to serve ads based on a user's prior visits to your website
-*   Users may opt out of Google's use of cookies to serve ads based on a user's prior visits to your website by visiting the [Google advertising opt-out page](https://www.google.com/policies/privacy/ads/). Alternatively you can point users who wish to opt out of a third party vendor's use of cookies for interest-based advertising to the [Network Advertising Initiative opt out page](https://optout.networkadvertising.org/?c=1).
+*   Third-party vendors, including Google, use cookies to serve the badge on your website and to serve ads based on a user's prior visits to your website.
+*   Users may opt out of Google's use of cookies to serve ads based on a user's prior visits to your website by visiting the [Google advertising opt-out page](https://www.google.com/policies/privacy/ads/). Alternatively, you can point users who wish to opt out of a third-party vendor's use of cookies for interest-based advertising to the [Network Advertising Initiative opt-out page](https://optout.networkadvertising.org/?c=1).
 
 Because seller sites and laws across countries/territories vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the [Network Advertising Initiative (NAI)](https://www.networkadvertising.org/) for guidance on drafting a privacy policy.
 
@@ -559,12 +559,12 @@ Sellers must provide a secure way for customers to purchase products online and 
 
 *   Credit and debit card numbers
 *   Bank and investment account numbers
-*   Checking account numbers
-*   Wire transfer numbers
-*   National identity, pension, social security, or health care numbers
-*   Any other information which is defined as sensitive personal data/information under applicable law
+*   Other account numbers
+*   Bank transfer numbers
+*   National identity, pension, national insurance or healthcare numbers
+*   Any other information that is defined as sensitive personal data/information under applicable law
 
-For any page of your website that collects and stores sensitive personal information, your site must be hosted on a secure server that uses SSL (https). In addition, participants must clearly post their terms for opting-in and opting-out of saving payment instruments for future purchases, as applicable.
+For any page of your website that collects and stores sensitive personal information, your site must be hosted on a secure server that uses SSL (https). In addition, participants must clearly post their terms for opting in and opting out of saving payment instruments for future purchases, as applicable.
 
 - - -
 

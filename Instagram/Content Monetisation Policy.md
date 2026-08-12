@@ -3,15 +3,13 @@ Instagram Content Monetisation Policies
 
 Copy link
 
-What content can be monetised?
+O que são as Políticas de Monetização?
 
-Why was my content demonetised?
+Por que o meu conteúdo não pode ser monetizado?
 
-What are prohibited formats?
+O meu conteúdo é elegível para monetização?
 
-What are restricted categories?
-
-I have a different question
+Tenho uma pergunta diferente
 
 We offer features and products that help creators and publishers earn money from their content. This content has to follow certain rules.
 
@@ -237,11 +235,11 @@ Copy link
 
 What are monetisation policies?
 
-My account was ineligible
+Am I eligible to monetise?
 
-Why was my content rejected?
+Why was my monetisation removed?
 
-I can't monetise on Instagram
+What are content monetisation policies?
 
 I have a different question
 

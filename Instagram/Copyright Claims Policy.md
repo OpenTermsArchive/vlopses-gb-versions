@@ -997,9 +997,9 @@ Copy link
 
 Report copyright infringement
 
-What is copyright infringement?
+Fill in copyright form
 
-Report using Brand Rights Protection
+Use Brand Rights Protection
 
 I have a different question
 
@@ -2255,11 +2255,11 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-Report trademark infringement
+How do I report trademark infringement?
 
-Report copyright infringement
+What is the Brand Rights Protection tool?
 
-What is trademark infringement?
+What happens after I report?
 
 I have a different question
 

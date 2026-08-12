@@ -1,27 +1,27 @@
-Intellectual Property
+Intellectual property
 =====================
 
-_**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-This policy prohibits apps and developer accounts from infringing on the intellectual property rights of others, including copyright, trademark, and patents. You must ensure that all content in your app and store listing is either your own original work or that you have the necessary licenses and/or permissions to use it. Please review the full policy to ensure compliance.
+This policy prohibits apps and developer accounts from infringing on the intellectual property rights of others, including copyright, trademark and patents. You must ensure that all content in your app and store listing is either your own original work or that you have the necessary licences and/or permissions to use it. Please review the full policy to ensure compliance.
 
-![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34) **Full Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
-We don’t allow apps or developer accounts that infringe on the intellectual property rights of others (including trademark, copyright, patent, trade secret, and other proprietary rights). We also don’t allow apps that encourage or induce infringement of intellectual property rights.
+We don’t allow apps or developer accounts that infringe on the intellectual property rights of others (including trademark, copyright, patent, trade secret and other proprietary rights). We also don’t allow apps that encourage or induce infringement of intellectual property rights.
 
 We will respond to clear notices of alleged copyright infringement. For more information or to file a DMCA request, please visit our [copyright procedures](https://support.google.com/legal/troubleshooter/1114905#ts=1115643).
 
 To submit a complaint regarding the sale or promotion for sale of counterfeit goods within an app, please submit a [counterfeit notice](https://support.google.com/legal/contact/lr_counterfeit?product=googleplay&uraw=).
 
-If you are a trademark owner and you believe there is an app on Google Play that infringes on your trademark rights, we encourage you to reach out to the developer directly to resolve your concern. If you are unable to reach a resolution with the developer, please submit a trademark complaint through this [form](https://support.google.com/legal/contact/lr_trademark?product=googleplay&vid=null).
+If you are a trademark owner and you believe that there is an app on Google Play that infringes on your trademark rights, we encourage you to get in touch with the developer directly to resolve your concern. If you are unable to reach a resolution with the developer, please submit a trademark complaint through this [form](https://support.google.com/legal/contact/lr_trademark?product=googleplay&vid=null?hl=en-GB).
 
-If you have written documentation proving that you have permission to use a third party's intellectual property in your app or store listing (such as brand names, logos and graphic assets), [contact the Google Play team](https://support.google.com/googleplay/android-developer/answer/6320428) in advance of your submission to ensure that your app is not rejected for an intellectual property violation.
+If you have written documentation proving that you have permission to use a third- party's intellectual property in your app or Store Listing (such as brand names, logos and graphic assets), [contact the Google Play team](https://support.google.com/googleplay/android-developer/answer/6320428) in advance of your submission to ensure that your app is not rejected for an intellectual property violation.
 
 #### [COLLAPSE ALL](https://support.google.com/googleplay/android-developer/answer/9888072) [EXPAND ALL](#1&2&3&4&5&6&7&8&9)
 
-#### Unauthorized Use of Copyrighted Content
+### Unauthorised use of copyrighted content
 
 We don’t allow apps that infringe copyright. Modifying copyrighted content may still lead to a violation. Developers may be required to provide evidence of their rights to use copyrighted content.
 
@@ -29,9 +29,9 @@ Please be careful when using copyrighted content to demonstrate the functionalit
 
 Examples of common violations
 
-*   Cover art for music albums, video games, and books.
-*   Marketing images from movies, television, or video games.
-*   Artwork or images from comic books, cartoons, movies, music videos, or television.
+*   Cover art for music albums, video games and books.
+*   Marketing images from films, television or video games.
+*   Artwork or images from comic books, cartoons, films, music videos or television.
 *   College and professional sports team logos.
 *   Photos taken from a public figure’s social media account.
 *   Professional images of public figures.
@@ -39,13 +39,13 @@ Examples of common violations
 *   Apps that have soundboards that play audio clips from copyrighted content.
 *   Full reproductions or translations of books that are not in the public domain.
 
-#### Encouraging Infringement of Copyright
+### Encouraging infringement of copyright
 
-We don’t allow apps that induce or encourage copyright infringement. Before you publish your app, look for ways your app may be encouraging copyright infringement and get legal advice if necessary.
+We don’t allow apps that induce or encourage copyright infringement. Before you publish your app, look for ways that your app may be encouraging copyright infringement and seek legal advice if necessary.
 
 Examples of common violations
 
-*   Streaming apps that allow users to download a local copy of copyrighted content without authorization.
+*   Streaming apps that allow users to download a local copy of copyrighted content without authorisation.
     
 *   Apps that encourage users to stream and download copyrighted works, including music and video, in violation of applicable copyright law:
     
@@ -53,25 +53,25 @@ Examples of common violations
     
      
     
-    ① The description in this app listing encourages users to download copyrighted content without authorization.  
-    ② The screenshot in the app listing encourages users to download copyrighted content without authorization.
+    ① The description in this app listing encourages users to download copyrighted content without authorisation.  
+    ② The screenshot in the app listing encourages users to download copyrighted content without authorisation.
     
 
-#### Trademark Infringement
+### Trademark infringement
 
-We don’t allow apps that infringe on others’ trademarks. A trademark is a word, symbol, or combination that identifies the source of a good or service. Once acquired, a trademark gives the owner exclusive rights to the trademark usage with respect to certain goods or services.
+We don’t allow apps that infringe on others’ trademarks. A trademark is a word, symbol or combination that identifies the source of a good or service. Once acquired, a trademark gives the owner exclusive rights to the trademark usage with respect to certain goods or services.
 
-Trademark infringement is improper or unauthorized use of an identical or similar trademark in a way that is likely to cause confusion as to the source of that product. If your app uses another party’s trademarks in a way that is likely to cause confusion, your app may be suspended.
+Trademark infringement is improper or unauthorised use of an identical or similar trademark in a way that is likely to cause confusion as to the source of that product. If your app uses another party’s trademarks in a way that is likely to cause confusion, your app may be suspended.
 
-#### Counterfeit
+### Counterfeit
 
-We don't allow apps that sell or promote for sale counterfeit goods. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.
+We don't allow apps that sell counterfeit goods or promote them for sale. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.
 
-![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key Considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Use only original content you have created for your app and store listing. | Don't use another party's trademarks, such as logos or brand names without permission and/or in a way that could confuse users. |
-| Obtain written documentation or a license for any third-party intellectual property you use. | Don't modify or use copyrighted content without permission. |
-| Contact the Google Play team in advance with notice and documentation if your app uses a third party's intellectual property. | Don't create an app that encourages or facilitates the infringement of intellectual property rights (e.g. unauthorized streaming). |
+| Use only original content that you have created for your app and store listing. | Don't use another party's trademarks, such as logos or brand names without permission and/or in a way that could confuse users. |
+| Obtain written documentation or a licence for any third-party intellectual property that you use. | Don't modify or use copyrighted content without permission. |
+| Contact the Google Play team in advance with notice and documentation if your app uses a third party's intellectual property. | Don't create an app that encourages or facilitates the infringement of intellectual property rights (e.g. unauthorised streaming). |

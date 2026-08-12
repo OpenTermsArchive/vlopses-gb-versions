@@ -67,17 +67,17 @@ Of the more than 2 billion Content ID claims made in 2024, fewer than 1% have b
 Submit a copyright counter notification
 =======================================
 
-A counter notification is a legal request to reinstate content that was removed due to a [copyright removal request](https://support.google.com/youtube/answer/13823830). If you believe your content was removed by mistake, you can submit a counter notification to [resolve a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
+A counter notification is a legal request to reinstate content that was removed due to a [copyright removal request](https://support.google.com/youtube/answer/13823830). If you believe that your content was removed by mistake, you can submit a counter notification to [resolve a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
 
-For videos, you can submit in [YouTube Studio](#studio) or by [email, fax, or mail](#email). For non-video content, such as channel banner images, submit by [email, fax, or mail](#email).
+For videos, you can submit in [YouTube Studio](#studio) or by [email, fax or post](#email). For non-video content, such as channel banner images, submit by [email, fax or post](#email).
 
 **What to know before you submit:**
 
-*   **When to submit:** Only submit a counter notification if you believe your content was removed due to a mistake. This includes misidentifications of content that may qualify for a copyright exception, such as [fair use](https://support.google.com/youtube/answer/9783148), fair dealing, or [public domain](https://support.google.com/youtube/answer/2797466#public_domain).
-*   **Other options:** If you don't believe the content removal was a mistake, you can **wait 90 days** and the [copyright strike](https://support.google.com/youtube/answer/2814000) will expire, as long as you've completed Copyright School. You can also try to [request a retraction](https://support.google.com/youtube/answer/2807691#uploader) to resolve the copyright strike.
-*   **Evidence of ownership or permission:** Confirm you own the rights to all elements in your content, including any music (even if it’s just playing in the background). If you’ve used someone else’s copyrighted content, confirm you have a license or [permission](https://support.google.com/youtube/answer/2797468#permission) to use it.
-*   **What info is shared:** Legally, we’re required to share the counter notification with the claimant. If disclosing personal information is a concern, an authorized representative (such as an attorney) can submit on the uploader's behalf by [email, fax, or mail](#email).
-*   **Who submits the notification:** Counter notifications should be submitted by the original uploader of the content at issue. Alternatively, an authorized representative, such as an attorney, can submit on behalf of the uploader.
+*   **When to submit:** Only submit a counter notification if you believe that your content was removed due to a mistake. This includes misidentifications of content that may qualify for a copyright exception, such as [fair use](https://support.google.com/youtube/answer/9783148), fair dealing or [public domain](https://support.google.com/youtube/answer/2797466#public_domain).
+*   **Other options:** If you don't believe that the content removal was a mistake, you can **wait 90 days** and the [copyright strike](https://support.google.com/youtube/answer/2814000) will expire, as long as you've completed Copyright School. You can also try to [request a retraction](https://support.google.com/youtube/answer/2807691#uploader) to resolve the copyright strike.
+*   **Evidence of ownership or permission:** Confirm that you own the rights to all elements in your content, including any music (even if it's just playing in the background). If you've used someone else's copyrighted content, confirm that you have a licence or [permission](https://support.google.com/youtube/answer/2797468#permission) to use it.
+*   **What info is shared:** Legally, we're required to share the counter notification with the claimant. If disclosing personal information is a concern, an authorised representative (such as a lawyer) can submit on the uploader's behalf by [email, fax or post](#email).
+*   **Who submits the notification:** Counter notifications should be submitted by the original uploader of the content at issue. Alternatively, an authorised representative, such as a lawyer, can submit on behalf of the uploader.
 
 **Do not submit false information**. Misuse of our processes, such as submitting fraudulent documentation, may result in the termination of your account or other legal consequences.
 
@@ -88,38 +88,38 @@ Copyright counter notifications for videos can be submitted in [YouTube Studio](
 
 1.  Sign in to [YouTube Studio](https://studio.youtube.com/).
 2.  From the left menu, click **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
-3.  Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w48-h48) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copyright**.
-4.  In the **Visibility** column, find a video with “Removed” status.
+3.  Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w36-h36) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copyright**.
+4.  In the **Visibility** column, find a video with 'Removed' status.
 5.  In the **Restrictions** column, hover over **Copyright**.
 6.  Click **See details**.
-7.  Under **Content used**, click **Take action** ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Submit a counter notification**.
-8.  Read the counter notification requirements and check the box to confirm ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Continue**.
-9.  Enter your contact info ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Continue**.
-    *   Make sure you include your complete physical address and full legal name (usually a first and last name). Do not enter a company or channel name.
-10.  Enter your rationale. Clearly and concisely explain why you believe the removal of your content qualifies as a mistake or misidentification.
-11.  Review the statements and check the boxes to agree.
-12.  Enter your full legal name as your signature ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Continue**.
-13.  _(Optional)_ If other videos were removed from the same removal request and you also believe they were incorrectly removed, you can select these videos and include all of them in the counter notification.
+7.  Under **Content used**, click **Take action** ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Submit a counter notification**.
+8.  Read the counter notification requirements and tick the box to confirm ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Continue**.
+9.  Enter your contact info ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Continue**.
+    *   Make sure that you include your complete physical address and full legal name (usually a first and last name). Do not enter a company or channel name.
+10.  Enter your rationale. Clearly and concisely explain why you believe that the removal of your content qualifies as a mistake or misidentification.
+11.  Review the statements and tick the boxes to agree.
+12.  Enter your full legal name as your signature ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Continue**.
+13.  _(Optional)_ If other videos were removed as part of the same removal request and you also believe that they were removed incorrectly, you can select these videos and include all of them in the counter notification.
 14.  Click **Submit**.
 
-Submit by email, fax, or mail
------------------------------
+Submit by email, fax or post
+----------------------------
 
-Copyright counter notifications for videos and non-video content, such as channel banner images, can be submitted by email, fax, or mail.
+Copyright counter notifications for videos and non-video content, such as channel banner images, can be submitted by email, fax or post.
 
-To submit by email, send all the required information below in the body of an email (not as an attachment) to [copyright@youtube.com](mailto:copyright@youtube.com) or send it by [fax or mail](https://support.google.com/youtube/answer/6005908):
+To submit by email, send all the required information below in the body of an email (not as an attachment) to [copyright@youtube.com](mailto:copyright@youtube.com) or send it by [fax or post](https://support.google.com/youtube/answer/6005908):
 
 1\. Your contact info
 
-To get in touch with you, or the representative authorized to act on your behalf, about your counter notification, include the following:
+To get in touch with you, or the representative authorised to act on your behalf, about your counter notification, include the following:
 
-*   **Your full legal name:** First and last name, not a company name. If you're an authorized representative, also include your relationship to the uploader.
+*   **Your full legal name:** First name and surname, not a company name. If you're an authorised representative, also include your relationship to the uploader.
 *   **Your physical address**
 *   **Your telephone number**
 
 2\. Statement to the claimant
 
-In your own words, you must include a statement to the claimant that clearly and concisely explains **why you believe the removal of the content was a mistake or misidentification**. Misidentification includes cases of copyright exceptions, such as [fair use](https://support.google.com/youtube/answer/9783148), fair dealing, or [public domain](https://support.google.com/youtube/answer/2797466#public_domain).
+You must include a statement to the claimant, in your own words, that clearly and concisely explains **why you believe that the removal of the content was a mistake or misidentification**. Misidentification includes cases of copyright exceptions, such as [fair use](https://support.google.com/youtube/answer/9783148), fair dealing or [public domain](https://support.google.com/youtube/answer/2797466#public_domain).
 
 3\. Links to the content
 
@@ -127,94 +127,94 @@ Counter notifications must include direct links to the content that was removed 
 
 | Content type | Valid URL format | Where to find the URL |
 | --- | --- | --- |
-| **Channel banner images** | www.youtube.com/channel/UCxxxxxxxxxxxxxxxxxxxxx<br><br>**OR**<br><br>www.youtube.com/user/xxxxxxxxx | Go to the channel page ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**.​ |
-| **Channel descriptions** | www.youtube.com/user/xxxxxxxxx/about | Go to channel's **About** section ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**.​ |
-| **Clips** | www.youtube.com/clip/xxxxxxxxxxxxxxxxxxxxxxxxxx | Click the clip's title ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**.​ |
-| **Comments on videos** | www.youtube.com/watch?v=xxxxxxxxxx&lc=xxxxxxxxxxxxxxxxxx | Click the posted date above the comment (page will reload) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**.​ |
-| **Comments on posts** | www.youtube.com/channel/xxxxxxxxxxx/community?lc=xxxxxxxxxxxx&lb=xxxxxxxxxxxx | Click the posted date above the comment (page will reload) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**.​ |
-| **Effects (Shorts)** | www.youtube.com/effect/xxxxxxxxxx<br><br>**Keep in mind:** Videos that have already used the Effect aren’t affected by the removal of the Effect. | ​Click the Effect chip (above the channel name in the Short) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**. |
-| **Membership badges, emoji, or creator's perk descriptions** | Beginning with yt3.ggpht.com/xxxxx | Right-click the image ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy Image Address**.​ |
-| **Also include the channel URL:**<br><br>www.youtube.com/channel/UCxxxxxxxxxxxxxxxxxxxxx<br><br>**OR**<br><br>www.youtube.com/user/xxxxxxxxx | ​Go to the channel page ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**.​ |
-| **Playables** | www.youtube.com/playables/xxxxxxxxxxxxxx | Go to the game page ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**.​ |
-| **Playlist descriptions** | www.youtube.com/playlist?list=xxxxxxxxxxxxxxxx | Click the playlist title ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**. |
-| **Playlist image** | Beginning with https://i.ytimg.com/xxxxxxxxxx | Right-click the image ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy Image Address**.​ |
-| **Also include the playlist URL**:<br><br>https://www.youtube.com/playlist?list=xxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxx | Click the playlist title ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**. |
-| **Posts** | https://www.youtube.com/post/xxxxxxxxxxxxxxxxxxx | Click the posted date of the post (page will reload) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**. |
-| **Profile pictures** | https://yt3.googleusercontent.com/xxxxxxxxxxxxxxxx | ​Click the profile picture ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**. |
-| For expedited removal of [profile pictures](https://support.google.com/youtube/answer/10456525), copyright removal requests for profile pictures may be submitted through [Google’s form](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=dmca). |     |
-| **Shorts** | https://www.youtube.com/shorts/xxxxxxxxxxxxxxxx | Go to the Short ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**. |
-| **Super Stickers** | Beginning with lh3.googleusercontent.com/xxxxx | Click the dollar sign ![](//lh3.googleusercontent.com/9o3_b9WGapLlpz22H2GIlPo0wovAA-gG8lsFMFbxBEmY3raj1JZA17kePDt7EChemA=w36) in a live chat ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Super Sticker** ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click image ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy Image Address**. |
-| **Also include the channel URL:**<br><br>www.youtube.com/channel/UCxxxxxxxxxxxxxxxxxxxxx<br><br>**OR**<br><br>www.youtube.com/user/xxxxxxxxx | Go to the channel page ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**. |
-| **Videos** | www.youtube.com/watch?v=xxxxxxxxxxx | Go to the video page ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copy**.​ |
+| **Channel banner images** | www.youtube.com/channel/UCxxxxxxxxxxxxxxxxxxxxx<br><br>**OR**<br><br>www.youtube.com/user/xxxxxxxxx | Go to the channel page ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**.​ |
+| **Channel descriptions** | www.youtube.com/user/xxxxxxxxx/about | Go to the channel's **About** section ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**.​ |
+| **Clips** | www.youtube.com/clip/xxxxxxxxxxxxxxxxxxxxxxxxxx | Click the clip's title ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**.​ |
+| **Comments on videos** | www.youtube.com/watch?v=xxxxxxxxxx&lc=xxxxxxxxxxxxxxxxxx | Click the posted date above the comment (the page will reload) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**.​ |
+| **Comments on posts** | www.youtube.com/channel/xxxxxxxxxxx/community?lc=xxxxxxxxxxxx&lb=xxxxxxxxxxxx | Click the posted date above the comment (the page will reload) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**.​ |
+| **Effects (Shorts)** | www.youtube.com/effect/xxxxxxxxxx<br><br>**Bear in mind:** Videos that have already used the effect aren't affected by the removal of the effect. | ​Click the effect chip (above the channel name in the Short) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**. |
+| **Membership badges, emoji or creator's perk descriptions** | Beginning with yt3.ggpht.com/xxxxx | Right-click the image ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy image address**.​ |
+| **Also include the channel URL:**<br><br>www.youtube.com/channel/UCxxxxxxxxxxxxxxxxxxxxx<br><br>**OR**<br><br>www.youtube.com/user/xxxxxxxxx | ​Go to the channel page ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**.​ |
+| **Playables** | www.youtube.com/playables/xxxxxxxxxxxxxx | Go to the game page ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**.​ |
+| **Playlist descriptions** | www.youtube.com/playlist?list=xxxxxxxxxxxxxxxx | Click the playlist title ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**. |
+| **Playlist image** | Beginning with https://i.ytimg.com/xxxxxxxxxx | Right-click the image ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy image address**.​ |
+| **Also include the playlist URL**:<br><br>https://www.youtube.com/playlist?list=xxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxx | Click the playlist title ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**. |
+| **Posts** | https://www.youtube.com/post/xxxxxxxxxxxxxxxxxxx | Click the posted date of the post (the page will reload) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**. |
+| **Profile pictures** | https://yt3.googleusercontent.com/xxxxxxxxxxxxxxxx | ​Click the profile picture ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**. |
+| For expedited removal of [profile pictures](https://support.google.com/youtube/answer/10456525), copyright removal requests for profile pictures may be submitted through [Google's form](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=dmca). |     |
+| **Shorts** | https://www.youtube.com/shorts/xxxxxxxxxxxxxxxx | Go to the Short ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**. |
+| **Super Stickers** | Beginning with lh3.googleusercontent.com/xxxxx | Click on the dollar sign ![](//lh3.googleusercontent.com/9o3_b9WGapLlpz22H2GIlPo0wovAA-gG8lsFMFbxBEmY3raj1JZA17kePDt7EChemA=w36) in a live chat ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Super Sticker** ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click image ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy image address**. |
+| **Also include the channel URL:**<br><br>www.youtube.com/channel/UCxxxxxxxxxxxxxxxxxxxxx<br><br>**OR**<br><br>www.youtube.com/user/xxxxxxxxx | Go to the channel page ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**. |
+| **Videos** | www.youtube.com/watch?v=xxxxxxxxxxx | Go to the video page ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) right-click the address bar ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copy**.​ |
 
 4\. Legal statements
 
-Agree to and include the following 2 legally required statements:
+Agree to and include the following two legally required statements:
 
-*   "I consent to the jurisdiction of the Federal District Court for the district in which my address is located, or if my address is outside of the United States, the judicial district in which YouTube is located, and will accept service of process from the claimant."
-*   "I swear, under penalty of perjury, that I have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled."
+*   'I consent to the jurisdiction of the Federal District Court for the district in which my address is located, or if my address is outside of the United States, the judicial district in which YouTube is located, and will accept service of process from the claimant.'
+*   'I swear, under penalty of perjury, that I have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled.'
 
 5\. Your signature
 
-Complete and valid copyright counter notifications require the physical or electronic signature of the uploader or a representative authorized to act on their behalf.
+Complete and valid copyright counter notifications require the physical or electronic signature of the uploader or a representative authorised to act on their behalf.
 
-To meet this requirement, the uploader or authorized representative should enter their full legal name as their signature at the bottom of the counter notification. A full legal name should be a first and last name, not a company name.
+To meet this requirement, the uploader or authorised representative should enter their full legal name as their signature at the bottom of the counter notification. A full legal name should be a first name and surname, not a company name.
 
-Frequently asked questions (FAQs)
----------------------------------
+Frequently asked questions (FAQ)
+--------------------------------
 
 What happens after I submit a counter notification?
 
 If your counter notification is valid and forwarded to the claimant, the associated copyright strike may be cleared from your channel. Counter notifications that don't meet all of the [requirements](https://support.google.com/youtube/answer/2807684#email&zippy=%2Cwhat-happens-after-i-submit-a-counter-notification) may be rejected.
 
-The claimant has 10 US business days, as required by copyright law, to [respond to the counter notification](https://support.google.com/youtube/answer/12497556). They must respond with [evidence of legal action](https://support.google.com/youtube/answer/12497556#evidence) taken to keep your content from being reinstated to YouTube.
+The claimant has 10 US working days, as required by copyright law, to [respond to the counter notification](https://support.google.com/youtube/answer/12497556). They must respond with [evidence of legal action](https://support.google.com/youtube/answer/12497556#evidence) taken to keep your content from being reinstated to YouTube.
 
 If the claimant doesn't do this within this 10-day time period, your content will be reinstated to YouTube (unless you have deleted it).
 
-How do I check the status of a counter notification I submitted?
+How do I check the status of a counter notification that I submitted?
 
-You can check the status of a counter notification from your [YouTube Studio dashboard](http://studio.youtube.com/) or follow those steps:
+You can check the status of a counter notification from your [YouTube Studio dashboard](http://studio.youtube.com/) or follow these steps:
 
 1.  Sign in to [YouTube Studio](https://studio.youtube.com/).
 2.  From the left menu, select **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
-3.  Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w48-h48) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Copyright**.
+3.  Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w36-h36) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Copyright**.
 4.  Find the video in question.
 5.  In the **Restrictions** column, hover over **Copyright**.
 6.  Click **See details**.
 7.  Look under the **Content used** section to find the status of the counter notification.
 
-Can I cancel a counter notification I submitted?
+Can I cancel a counter notification that I have submitted?
 
-If you want to cancel a counter notification, you can as long as the claimant hasn't responded to the counter notification yet.
+If you want to cancel a counter notification, you can do so as long as the claimant hasn't responded to the counter notification yet.
 
-To cancel it, reply directly to YouTube's confirmation email (the email that confirmed the counter notification was received). In your reply, explain that you want to retract your counter notification. You can also email [copyright@youtube.com](mailto:copyright@youtube.com) with this information.
+To cancel it, reply directly to YouTube's confirmation email (the email that confirmed that the counter notification has been received). In your reply, explain that you want to retract your counter notification. You can also email [copyright@youtube.com](mailto:copyright@youtube.com) with this information.
 
 What happens if my counter notification is rejected?
 
-If your counter notification is missing any required information, it may be rejected. You’ll be notified by an email sent to the email address associated with your YouTube channel. The email will have more details on the reason for the rejection.
+If your counter notification is missing any required information, it may be rejected. You'll be notified by an email sent to the email address associated with your YouTube channel. The email will have more details on the reason for the rejection.
 
 What you can do next:
 
 *   Reconsider if your content has been removed due to a mistake or misidentification of copyrighted content. If not, you can consider other options to [resolve a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
 *   You can submit a new counter notification that includes all legally required information.
 
-Can I submit 1 counter notification for multiple videos?
+Can I submit one counter notification for multiple videos?
 
-Yes, if multiple videos belong to the same copyright strike and you believe they were incorrectly removed, you can submit 1 counter notification for all videos.
+Yes, if multiple videos belong to the same copyright strike and you believe that they were incorrectly removed, you can submit one counter notification for all videos.
 
 If my channel is terminated, can I submit a counter notification?
 
-Yes. You can submit a counter notification in YouTube Studio or by [email, fax, or mail](https://support.google.com/youtube/answer/2807684#email).
+Yes. You can submit a counter notification in YouTube Studio or by [email, fax or post](https://support.google.com/youtube/answer/2807684#email).
 
-How do I submit a counter notification as an EU DSA Article 86 designated organization?
+How do I submit a counter notification as an EU DSA Article 86 designated organisation?
 
-Counter notifications from EU DSA Article 86 designated organizations should be submitted by [email, fax, or postal mail](https://support.google.com/youtube/answer/6005919).
+Counter notifications from EU DSA Article 86 designated organisations should be submitted by [email, fax or post](https://support.google.com/youtube/answer/6005919).
 
 **Additional requirements:**
 
-1.  Use an email domain associated with an EU DSA Article 86 designated organization.
+1.  Use an email domain associated with an EU DSA Article 86 designated organisation.
 2.  State the country of primary residence of the content owner.
-3.  Include the phrase “I am submitting this appeal on behalf of a YouTube user in the European Union. I represent an organization that is authorized to exercise rights conferred by the Digital Services Act Regulation 2022 (EU) 2022/2065.”
+3.  Include the phrase 'I am submitting this appeal on behalf of a YouTube user in the European Union. I represent an organisation that is authorised to exercise rights conferred by the Digital Services Act Regulation 2022 (EU) 2022/2065.'
 
 - - -
 
@@ -229,24 +229,24 @@ If your video got a [Content ID claim](https://support.google.com/youtube/answer
 
 Copyright strikes are different from Content ID claims. If your channel got a copyright strike, go to the [copyright strikes](https://support.google.com/youtube/answer/2814000) article to learn more.
 
-When you dispute a Content ID claim, the person that claimed your video (the claimant) is notified. The claimant has **30 days** to respond.
+When you dispute a Content ID claim, the person who claimed your video (the claimant) is notified. The claimant has **30 days** to respond.
 
-![](//lh3.googleusercontent.com/QLyi9jXrbwd0i_03YATXIzUjxh7-WP6d1M610LGaJQBI6u1eXTcfL8VqXpPuoKkNmVGB=w895)
+![](//lh3.googleusercontent.com/mmp6SzqvAABxbCbv2hFLhSCw3kQ8D2WVckMd7PmrdbUD5uaXBwPHyYtvHmrDoDM-Cg=w895)
 
 Before you dispute
 ------------------
 
-Before you dispute a Content ID claim, you may want to learn more about [public domain](https://support.google.com/youtube/answer/2797449#c-pd) and copyright exceptions like [fair use](https://support.google.com/youtube/answer/9783148) or fair dealing. Keep in mind that these are **NOT** legitimate reasons to dispute a claim:
+Before you dispute a Content ID claim, you may want to learn more about [public domain](https://support.google.com/youtube/answer/2797449#c-pd) and copyright exceptions like [fair use](https://support.google.com/youtube/answer/9783148) or fair dealing. Bear in mind that these are **NOT** legitimate reasons to dispute a claim:
 
 *   [Giving credit](https://support.google.com/youtube/answer/2797466#credit) to the copyright owner
 *   [Owning a copy](https://support.google.com/youtube/answer/2797466#purchased) of the video or song
-*   [Choosing not to monetize](https://support.google.com/youtube/answer/2797466#refrained) on the video
+*   [Choosing not to monetise](https://support.google.com/youtube/answer/2797466#refrained) on the video
 
 If you don't submit a dispute, there are a few other ways to [resolve a Content ID claim](https://support.google.com/youtube/answer/6013276#claim_options), such as removing the claimed content from your video.
 
-Ultimately, YouTube can’t decide whether you should dispute a claim. If you’re not sure what to do, you may want to seek legal advice before you dispute.
+Ultimately, YouTube can't decide whether you should dispute a claim. If you're not sure what to do, you may want to seek legal advice before you dispute.
 
-Keep in mind that you should only dispute a claim **if you're confident that you have all the necessary rights to use the claimed content**. Repeated or malicious abuse of the dispute process can result in penalties against your video or channel.
+Bear in mind that you should only dispute a claim **if you're confident that you have all the necessary rights to use the claimed content**. Repeated or malicious abuse of the dispute process can result in penalties against your video or channel.
 
 Submit a dispute
 ----------------
@@ -255,13 +255,13 @@ To dispute a Content ID claim:
 
 1.  Sign in to [YouTube Studio](https://studio.youtube.com/).
 2.  From the left menu, select **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
-3.  In the **Videos** tab, find the video with the claim you want to dispute.
-    *   To find the video more easily, you can click the filter bar ![](//lh3.googleusercontent.com/ECoJ4xd-fTvv6V7kGAOIqfW3iCIpeYaJuNngp4m5Re4EKG6IjcDZc00dNneVQOcdFVD8=w36-h36) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Claims**.
+3.  In the **Videos** tab, find the video with the claim that you want to dispute.
+    *   To find the video more easily, you can click the filter bar ![](//lh3.googleusercontent.com/ECoJ4xd-fTvv6V7kGAOIqfW3iCIpeYaJuNngp4m5Re4EKG6IjcDZc00dNneVQOcdFVD8=w36-h36) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Claims**.
 4.  In the **Restrictions** column, hover over **Claims**.
 5.  Click **See details**.
-6.  Under the **Content used**, find the relevant claim and click **Take action** ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Dispute**.
+6.  Under the **Content used**, find the relevant claim and click **Take action** ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=h48) **Dispute**.
 
-**Note:** You may have an option to **Escalate to Appeal** for Content ID claims that block your video. This option skips the initial dispute step and starts the dispute process with an [appeal](https://support.google.com/youtube/answer/12104471). Learn more about the [Escalate to Appeal](https://support.google.com/youtube/answer/12104471#escalate) option.
+**Note:** You may have an option to **escalate to appeal** for Content ID claims that block your video. This option skips the initial dispute step and starts the dispute process with an [appeal](https://support.google.com/youtube/answer/12104471). Learn more about the [escalate to appeal](https://support.google.com/youtube/answer/12104471#escalate) option.
 
 After you dispute
 -----------------
@@ -270,39 +270,39 @@ After you submit a dispute, the person that claimed your video (the claimant) ha
 
 What the claimant can do
 
-*   **Release the claim:** If the claimant agrees with your dispute, they can release their claim. If you were previously monetizing the video, your monetization settings will be restored automatically when all claims on your video are released. Learn more about [monetization during Content ID disputes](https://support.google.com/youtube/answer/7000961).
+*   **Release the claim:** If the claimant agrees with your dispute, they can release their claim. If you were previously monetising the video, your monetisation settings will be restored automatically when all claims on your video are released. Learn more about [monetisation during Content ID disputes](https://support.google.com/youtube/answer/7000961).
 *   **Reinstate the claim:** If the claimant believes that their claim is still valid, they can reinstate it. This means that your dispute was rejected and the claim stays on your video. You may be eligible to [appeal this decision](https://support.google.com/youtube/answer/12104471).
 *   **Submit a copyright removal request:** If the claimant believes that their claim is still valid, they can submit a [copyright removal request](https://support.google.com/youtube/answer/2807622). If the copyright removal request is [valid](https://support.google.com/youtube/answer/2807622#after), your video is removed from YouTube and your channel gets a [copyright strike](https://support.google.com/youtube/answer/2814000). Learn more about options for [resolving a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
-*   **Let the claim expire:** If the claimant doesn’t respond within 30 days, the claim on your video will expire and be released from your video.
+*   **Let the claim expire:** If the claimant doesn't respond within 30 days, the claim on your video will expire and be released from your video.
 
-Learn more about the dispute process in this video's chapter "Dispute Process for Content ID":
+Learn more about the dispute process in this video's chapter 'Dispute process for Content ID':
 
-[Content ID Claims & Dispute Process: Manage & Action Claims in Studio](https://www.youtube.com/watch?v=ybmRMEJG6LY)
+[Content ID claims and dispute process: manage and action claims in Studio](https://www.youtube.com/watch?v=ybmRMEJG6LY)
 
-Subscribe to the [YouTube Creators channel](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ) for the latest news, updates, and tips.
+Subscribe to the [YouTube Creators channel](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ) for the latest news, updates and tips.
 
-Frequently asked questions (FAQs)
----------------------------------
+Frequently asked questions (FAQ)
+--------------------------------
 
 What happens if my dispute is rejected?
 
-If your dispute is rejected, the claim will remain on your video. If you're still confident the claim is invalid, you may be eligible to appeal the decision. Learn more about [appealing a Content ID claim](https://support.google.com/youtube/answer/12104471).
+If your dispute is rejected, the claim will remain on your video. If you're still confident that the claim is invalid, you may be eligible to appeal the decision. Learn more about [appealing a Content ID claim](https://support.google.com/youtube/answer/12104471).
 
-Keep in mind that the claimant can submit a [copyright removal request](https://support.google.com/youtube/answer/2807622) at any time during the dispute process. If this happens and the copyright removal request is [valid](https://support.google.com/youtube/answer/2807622#after), your video would be removed from YouTube and your channel would get a [copyright strike](https://support.google.com/youtube/answer/2814000).
+Bear in mind that the claimant can submit a [copyright removal request](https://support.google.com/youtube/answer/2807622) at any time during the dispute process. If this happens and the copyright removal request is [valid](https://support.google.com/youtube/answer/2807622#after), your video would be removed from YouTube and your channel would get a [copyright strike](https://support.google.com/youtube/answer/2814000).
 
 Why does the claimant review both the initial dispute and the appeal?
 
-The initial dispute and the [appeal](https://support.google.com/youtube/answer/12104471) are reviewed by the claimant because YouTube can’t make ownership determinations. YouTube doesn’t know what content was properly licensed and can’t determine what qualifies for exceptions to copyright, such as [fair use](https://support.google.com/youtube/answer/9783148) or fair dealing.
+The initial dispute and the [appeal](https://support.google.com/youtube/answer/12104471) are reviewed by the claimant because YouTube can't make ownership determinations. YouTube doesn't know what content was properly licensed and can't determine what qualifies for exceptions to copyright, such as [fair use](https://support.google.com/youtube/answer/9783148) or fair dealing.
 
 The appeal step ensures a more thorough review by the claimant because, if they choose to reinstate their claim, they're required to submit a [copyright removal request](https://support.google.com/youtube/answer/2807622) (a legal process) to keep the video down. After that, if you decide to submit a [counter notification](https://support.google.com/youtube/answer/2807684), the claimant is then required to file a lawsuit to keep your video down.
 
 What's the difference between the dispute and Escalate to Appeal options?
 
-The initial dispute option can take up to **30 days** for the claimant to respond to the dispute. If they reject your dispute, you may be able to appeal the decision. The claimant then has 7 days to respond to the appeal.
+The initial dispute option can take up to **30 days** for the claimant to respond to the dispute. If they reject your dispute, you may be able to appeal the decision. The claimant then has seven days to respond to the appeal.
 
-The Escalate to Appeal option is only available for Content ID claims that block your video. This option skips the initial dispute step, which gives the claimant 30 days to respond, and starts the process with an appeal. The claimant then has **7 days** to respond, so the process can be resolved faster.
+The Escalate to appeal option is only available for Content ID claims that block your video. This option skips the initial dispute step, which gives the claimant 30 days to respond, and starts the process with an appeal. The claimant then has **seven days** to respond, so the process can be resolved faster.
 
-If the claimant rejects your appeal, they could then submit a [copyright removal request](https://support.google.com/youtube/answer/2807622). If the copyright removal request is [valid](https://support.google.com/youtube/answer/2807622#after), your video would be removed from YouTube and your channel would get a [copyright strike](https://support.google.com/youtube/answer/2814000). Keep in mind that you can still submit a [counter notification](https://support.google.com/youtube/answer/2807684) if you're confident that a copyright removal request is invalid.
+If the claimant rejects your appeal, they could then submit a [copyright removal request](https://support.google.com/youtube/answer/2807622). If the copyright removal request is [valid](https://support.google.com/youtube/answer/2807622#after), your video would be removed from YouTube and your channel would get a [copyright strike](https://support.google.com/youtube/answer/2814000). Bear in mind that you can still submit a [counter notification](https://support.google.com/youtube/answer/2807684) if you're confident that a copyright removal request is invalid.
 
 Can a video have more than one Content ID claim on it?
 
@@ -312,9 +312,9 @@ If I don't dispute a Content ID claim, how can I resolve it?
 
 If you choose not to dispute, there are [other ways](https://support.google.com/youtube/answer/6013276#claim_options) to resolve a Content ID claim, such as [removing the claimed content](https://support.google.com/youtube/answer/2902117) from your video.
 
-Can I cancel a dispute after it’s submitted?
+Can I cancel a dispute after it has been submitted?
 
-No, once you’ve submitted a dispute, it can’t be canceled.
+No, once you've submitted a dispute, it can't be cancelled.
 
 More info
 ---------
@@ -322,5 +322,5 @@ More info
 *   [Learn about Content ID claims](https://support.google.com/youtube/answer/6013276)
 *   [Appeal a Content ID claim](https://support.google.com/youtube/answer/12104471)
 *   [How Content ID works](https://support.google.com/youtube/answer/2797370)
-*   [Monetization during Content ID disputes](https://support.google.com/youtube/answer/7000961)
+*   [Monetisation during Content ID disputes](https://support.google.com/youtube/answer/7000961)
 *   [Remove claimed content from videos](https://support.google.com/youtube/answer/2902117)

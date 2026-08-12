@@ -1,61 +1,61 @@
 Other legal complaints
 ======================
 
-YouTube only considers legal complaints when the party in question or their authorized legal representative contacts us.
+YouTube only considers legal complaints when the party in question or their authorised legal representative contacts us.
 
-If someone posts your personal identifiable info or uploads a video of you without your knowledge, including in private or sensitive circumstances, [ask the uploader to remove the content](https://support.google.com/youtube/answer/57955). If the uploader doesn’t agree, or if you're uncomfortable contacting them, file a complaint through the [process](https://support.google.com/youtube/answer/142443) on YouTube’s [Privacy Guidelines](https://support.google.com/youtube/answer/7671399) page. Personal info can include your image, name, national identification number, bank account number, contact info, or other uniquely identifiable info. Learn more about the criteria for [content removal due to a privacy violation](https://support.google.com/youtube/answer/7671399#removal_criteria).
+If someone posts your personal identifiable info or uploads a video of you without your knowledge, including in private or sensitive circumstances, [ask the uploader to remove the content](https://support.google.com/youtube/answer/57955). If the uploader doesn't agree or if you're uncomfortable contacting them, file a complaint through the [process](https://support.google.com/youtube/answer/142443) on YouTube's [privacy guidelines](https://support.google.com/youtube/answer/7671399) page. Personal info can include your image, name, national identification number, bank account number, contact info or other uniquely identifiable info. Learn more about the criteria for [content removal due to a privacy violation](https://support.google.com/youtube/answer/7671399#removal_criteria).
 
 If your complaint is not about privacy, select your country/region of dispute from the menu and follow the directions.
 
-Fill out this [form](https://support.google.com/youtube/contact/other_legal).
+Fill in this [form](https://support.google.com/youtube/contact/other_legal).
 
 #### If you can't find your country/region in the menu above
 
-YouTube.com is governed by U.S. law. As such, we do not accept legal complaints from the country/region of your claimed rights. We recommend that you pursue any claims you may have directly against the individual who posted the content. You can try to [get in touch with the uploader](https://support.google.com/youtube/answer/57955). If your lawsuit results in a decision against the individual who posted the content, and if that court order requires us to remove the content from our service, we'll respond accordingly.
+YouTube.com is governed by US law. As such, we do not accept legal complaints from the country/region of your claimed rights. We recommend that you pursue any claims you may have directly against the individual who posted the content. You can try to [get in touch with the uploader](https://support.google.com/youtube/answer/57955). If your lawsuit results in a decision against the individual who posted the content and if that court order requires us to remove the content from our service, we'll respond accordingly.
 
-Learn more about [YouTube policies](https://support.google.com/youtube/topic/2803176), [safety](https://support.google.com/youtube/topic/2803240), and [reporting](https://support.google.com/youtube/topic/2803138).
+Learn more about [YouTube policies](https://support.google.com/youtube/topic/2803176), [safety](https://support.google.com/youtube/topic/2803240) and [reporting](https://support.google.com/youtube/topic/2803138).
 
 #### Policy violations
 
-If you have concerns about YouTube policy violations, you can report the violation. Learn how to [report inappropriate videos, channels, and other content on YouTube](https://support.google.com/youtube/answer/2802027).
+If you have concerns about YouTube policy violations, you can report the violation. Learn how to [report inappropriate videos, channels and other content on YouTube](https://support.google.com/youtube/answer/2802027).
 
 #### Harassment
 
-If you are concerned that an interaction with a community member has risen to the level of harassment, you can report the interaction. Learn how to [report inappropriate videos, channels, and other content on YouTube](https://support.google.com/youtube/answer/2802027).
+If you are concerned that an interaction with a community member has risen to the level of harassment, you can report the interaction. Learn how to [report inappropriate videos, channels and other content on YouTube](https://support.google.com/youtube/answer/2802027).
 
 #### Copyright
 
-If you have a copyright concern, go to our [Copyright center](https://www.youtube.com/howyoutubeworks/policies/copyright/).
+If you have a copyright concern, go to our [Copyright Centre](https://www.youtube.com/howyoutubeworks/policies/copyright/).
 
 #### Privacy complaints
 
-If a video contains your personal identifiable info without your consent, you can file a complaint through the [process](https://support.google.com/youtube/answer/142443) on YouTube's [](https://support.google.com/youtube/answer/142443)[Privacy Guidelines](https://support.google.com/youtube/answer/7671399) page. Personal info can include your image, name, national identification number, bank account number, contact info, or other uniquely identifiable info.
+If a video contains your personal identifiable info without your consent, you can file a complaint through the [process](https://support.google.com/youtube/answer/142443) on YouTube's [](https://support.google.com/youtube/answer/142443)[privacy guidelines](https://support.google.com/youtube/answer/7671399) page. Personal info can include your image, name, national identification number, bank account number, contact info or other uniquely identifiable info.
 
 Learn more about the criteria for [content removal due to a privacy violation](https://support.google.com/youtube/answer/7671399#removal_criteria).
 
 #### Court orders
 
-If there is a U.S. court order that involves content posted to www.youtube.com, you can send the court order by mail to this address:
+If there is a US court order that involves content posted to www.youtube.com, you can send the court order by post to this address:
 
-YouTube, Inc., Attn Legal Support
+YouTube, Inc., Attn. Legal Support
 
 901 Cherry Ave., Second Floor
 
-San Bruno, CA 94066
+San Bruno, CA 94066, USA
 
 - - -
 
 Other legal issues
 ==================
 
-Legal Complaints and Court Orders
+Legal complaints and court orders
 ---------------------------------
 
-If you feel that certain content on the site violates your rights or applicable laws, you may submit a legal complaint under our [trademark](https://support.google.com/youtube/contact/trademark_complaint), [defamation](https://support.google.com/youtube/answer/6154230), [counterfeit](https://support.google.com/youtube/contact/counterfeit_complaint), or [other legal](https://support.google.com/legal/answer/2802027#legal_reporting) complaint flows. If you have a court order against an uploader, you may attach a copy of the court order in response to the autoreply that you receive after you file the appropriate legal complaint. Each court order is examined and evaluated based on a set of regional and global criteria.
+If you feel that certain content on the site violates your rights or applicable laws, you may submit a legal complaint under our [trademark](https://support.google.com/youtube/contact/trademark_complaint), [defamation](https://support.google.com/youtube/answer/6154230), [counterfeit](https://support.google.com/youtube/contact/counterfeit_complaint) or [other legal](https://support.google.com/legal/answer/2802027#legal_reporting) complaint flows. If you have a court order against an uploader, you may attach a copy of the court order in response to the auto-reply that you receive after you file the appropriate legal complaint. Each court order is examined and evaluated based on a set of regional and global criteria.
 
 Bear in mind that you also have other resources to bring content to our attention. For example, if you feel that the content does not comply with our Community Guidelines, please [flag it](https://support.google.com/youtube/answer/2802027). Also, consider whether the video meets the standards for removal under our [privacy](https://support.google.com/youtube/answer/2801895) or [harassment](https://support.google.com/youtube/answer/2802268) policy before filing a legal complaint.
 
-Circumvention of Technological Measures
+Circumvention of technological measures
 ---------------------------------------
 
 When we say circumvention of technological measures, we're referring to tools that allow users to evade a software's licensing protocol. This can mean serial numbers, keygens, passwords and other methods to hack software or games.
@@ -82,199 +82,43 @@ United Kingdom Online Safety Act ('OSA')
 
 The [UK Online Safety Act](https://www.ofcom.org.uk/online-safety/#:~:text=The%20Online%20Safety%20Act%20\(OSA,in%20the%20UK%20safe%20online.) aims to protect everyone in the UK from harmful content online. It sets rules for online platforms like Google to keep you safe. We implement various measures to protect you from illegal content and to minimise the presence of illegal content on our services.
 
-### How to Report Harmful Content
+### How to report harmful content
 
 If you find content that you think violates our [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/) and want to submit it for review, [report the content](https://support.google.com/youtube/answer/2802027). To learn more about YouTube's policies, you can read our [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/). Alternatively, you can also report content if you believe that it should be removed for [legal reasons](https://support.google.com/youtube/contact/other_legal).
 
-In addition, we use a combination of manual processes and automated technology to identify and swiftly take down or restrict access to content that violates our [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/). For more information about our use of automated technology see [How YouTube Works](https://www.youtube.com/intl/ALL_uk/howyoutubeworks/).
+In addition, we use a combination of manual processes and automated technology to identify and swiftly take down or restrict access to content that violates our [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/). For more information about our use of automated technology, see [How YouTube Works](https://www.youtube.com/intl/ALL_uk/howyoutubeworks/).
 
-### Legal Removal Process
+### Legal removal process
 
-When you submit a request through one of our legal webforms to remove content that you believe is illegal or harmful to children (as defined under [Ofcom’s Code](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/category-1-10-weeks/statement-protecting-children-from-harms-online/main-document/protection-of-children-code-of-practice-for-user-to-user-services-.pdf?v=395966)), the request is routed to the team best positioned to help. Occasionally we might ask you for some more details.
+When you submit a request through one of our legal webforms to remove content that you believe is illegal or harmful to children (as defined under [Ofcom's code](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/category-1-10-weeks/statement-protecting-children-from-harms-online/main-document/protection-of-children-code-of-practice-for-user-to-user-services-.pdf?v=395966)), the request is routed to the team who are best positioned to help. Occasionally, we might ask you for some more details.
 
 Once we have made a decision on the request, we will inform you of the outcome and provide a reason for the decision, which may include taking the action requested, denying your request or taking some additional action that we deem appropriate. We typically make a decision within 10 working days, though some more complex cases may take longer. In limited circumstances, we may make a user aware that a legal complaint has been made against their content prior to any enforcement decision and, in the case of government/court requests, we may include the name of the complainant.
 
-If you have filed a request to remove content via our legal webform and we decided not to take action, or if you are a content owner whose content has been removed or restricted, you may have the right to file an appeal.
+If you have filed a request to remove content via our legal webform and we have decided not to take action, or if you are a content owner whose content has been removed or restricted, you may have the right to file an appeal.
 
-Once we have made a decision on the appeal, we will inform you of the outcome and provide a reason for the decision, which may include taking the action requested in your appeal, denying your appeal, or taking some alternative action that we deem appropriate. We typically make a decision within 10 working days, though some more complex cases may take longer.
+Once we have made a decision on the appeal, we will inform you of the outcome and provide a reason for the decision, which may include taking the action requested in your appeal, denying your appeal or taking some alternative action that we deem appropriate. We typically make a decision within 10 working days, though some more complex cases may take longer.
 
-### Information for Parents
+### Information for parents
 
-For more information on the tools and features available to help parents pick the appropriate experiences for their children, see our [Kids & Teens Help Centre](https://www.youtube.com/howyoutubeworks/kids-and-teens/). For more information on how content may be age-restricted, please see our guidance on [Age-Restricted Content](https://support.google.com/youtube/answer/2802167). Age restrictions may be implemented by creators, by our automated technology or following human review.
+For more information on the tools and features available to help parents pick the appropriate experiences for their children, see our [Kids & Teens Help Centre](https://www.youtube.com/howyoutubeworks/kids-and-teens/). For more information on how content may be age-restricted, please see our guidance on [age-restricted content](https://support.google.com/youtube/answer/2802167). Age restrictions may be implemented by creators, by our automated technology or following human review.
 
-### Need Support? You're Not Alone.
+### Need support? You're not alone.
 
 If you or someone you know has experienced serious harm online, there is support available to help, through organisations and resources [recommended by Ofcom](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/support/).
 
 If you have been affected by issues related to suicide, self-harm, eating disorders or bullying, there is support available [here](https://support.google.com/youtube/answer/2802245).
 
-### Google’s compliance with the Online Safety Act
+### Google's compliance with the Online Safety Act
 
-Google is subject to certain obligations under the UK Online Safety Act. Learn more about [Ofcom’s Codes of Practice in relation to the UK Online Safety Act](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/codes-of-practice/).
+Google is subject to certain obligations under the UK Online Safety Act. Learn more about [Ofcom's Codes of Practice in relation to the UK Online Safety Act](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/codes-of-practice/).
 
-Google takes its obligations to comply with the Online Safety Act seriously—[See Google Help Center](https://support.google.com/legal-help-center/answer/15957560). If you believe Google isn't following the rules of the UK Online Safety Act, you can report this. Let us know through [this webform](https://support.google.com/legal/contact/UK_Online_Safety_Act_Form) how we can do better.
+Google takes its obligations to comply with the Online Safety Act seriously – [see the Google Help Centre](https://support.google.com/legal-help-center/answer/15957560). If you believe that Google isn't following the rules of the UK Online Safety Act, you can report this. Let us know through this [webform](https://support.google.com/legal/contact/UK_Online_Safety_Act_Form) how we can do better.
 
-We will review your report and look to decide within ten working days, though some more complex cases may take longer. We may also reach out for more information from you.
+We will review your report and aim to make a decision within 10 working days, though some more complex cases may take longer. We may also get in touch for more information from you.
 
 European Media Freedom Act
 --------------------------
 
-This information is published pursuant to Article 18(2) of the [European Media Freedom Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/new-push-european-democracy/protecting-democracy/european-media-freedom-act) (Regulation (EU) 2024/1083, EMFA). The self-declarations listed below have been provided by Media Service Providers under the procedure set out in Article 18(1) EMFA. Publication of this information does not indicate acceptance of the declaration by YouTube, nor should it be understood as an endorsement of the listed organizations. The content of these declarations remains the sole responsibility of the respective media service providers.
+This information is published pursuant to Article 18(2) of the [European Media Freedom Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/new-push-european-democracy/protecting-democracy/european-media-freedom-act) (Regulation (EU) 2024/1083, EMFA). The self-declarations listed below have been provided by media service providers under the procedure set out in Article 18(1) EMFA. Publication of this information does not indicate acceptance of the declaration by YouTube, nor should it be understood as an endorsement of the listed organisations. The content of these declarations remains the sole responsibility of the respective media service providers.
 
 [Self-declare as a media service provider](https://support.google.com/youtube/contact/EMFA_MSP) under Article 18(1) of the European Media Freedom Act.
-
-| Channel Name | National Regulatory Authority |
-| --- | --- |
-| ARD Food | SWR Runfunkrat |
-| Adoptivbrüder - mit Hannes und Jeremy | SWR Rundfunkrat |
-| Aleksi Rantamaa - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| BKTelevizija | Agencija za komunikacijska omrežja in storitve Republike Slovenije ( akos ) |
-| BussiBlaBla | Kommunikationsbehörde Austria (KommAustria) |
-| C'saint-jo TV | ARCOM |
-| CORDOPOLIS | CNMV |
-| Ca Va Chez vous | ARCOM |
-| Crimeworld | Press Council of Ireland |
-| Côté Sports Vosges Télévision | ARCOM |
-| DJ Orion | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Dallas Vlod / HasBeen | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| DragonSlayer666 | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Du Champ à l'Assiette | ARCOM |
-| EGOvlogi\_ Sonja Ollila | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| El Diario Andalucia | CNMC |
-| Emma Karasjoki - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Eränkävijät | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Essi Lamppu – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Eurovision Song Contest \| Deutschland | SWR Rundfunkrat |
-| FTW | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| FollowtheMoneyEU | De Raad voor de Journalistiek |
-| GazetvanAntwerpen | Vlaamse Regulator voor de Media |
-| Gogi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| HAND DRAUF | SWR Rundfunkrat |
-| Hanna Hantula – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Hrvatska radiotelevizija | The Agency for Electronic Media (AEM) |
-| Ina Mikkola – Valtapeli x Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Irish Independent | Press Council of Ireland |
-| Jaakko Keso – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Klassinen Musiikki | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Kovan viikon ilta | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Le Grand Cactus-RTBF | Conseil Supérieur de l'Audiovisuel |
-| Les Niouzz | Conseil Supérieur de l'Audiovisuel |
-| Menny pahaks - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Mikä keissi? – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Mosaïk Cristal | ARCOM |
-| NieuwsbladOnline | Vlaamse Regulator voor de Media |
-| ORFHallowasmachstDu | Kommunikationsbehörde Austria (KommAustria) |
-| ORFKONTEXT | Kommunikationsbehörde Austria (KommAustria) |
-| ORFPodcast/search | Kommunikationsbehörde Austria (KommAustria) |
-| ORFSuedtirol | Kommunikationsbehörde Austria (KommAustria) |
-| ORFZIBerklaert | Kommunikationsbehörde Austria (KommAustria) |
-| ORFZeitimBild | Kommunikationsbehörde Austria (KommAustria) |
-| Observador | ERC - Entidade Reguladora para a Comunicação Social |
-| Pavlovin Rotat | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Poikelus – YleX | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Puissance Télévision | ARCOM |
-| RTBF Archives | Conseil Supérieur de l'Audiovisuel |
-| RTBF Info | Conseil Supérieur de l'Audiovisuel |
-| RTBF iXPé | Conseil Supérieur de l'Audiovisuel |
-| RTBFSport | Conseil Supérieur de l'Audiovisuel |
-| Radio Antena | Agencija za komunikacijska omrežja in storitve Republike Slovenije |
-| Radio Študent | Agencija za omrežje in komunikacije Republike Slovenije |
-| Rai | Autorità per le Garanzie nelle Comunicazioni (AGCOM) |
-| RecordPortugal | Entidade Reguladora para a Comunicação Social (ERC) |
-| ReportFan | Kommunikationsbehörde Austria (KommAustria) |
-| Riojacom-oy6nt | Olivia García Pérez |
-| Robomestarit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| SONG TINDERN | SWR Rundfunkrat |
-| SPIT | Conseil Supérieur de l'Audiovisuel |
-| SWR Aktuell | SWR Rundfunkrat |
-| SWR DRM | SWR Rundfunkrat |
-| SWR Wissen | SWR Rundfunkrat |
-| [Siol.net](https://siol.net/) | AKOS |
-| [Svenska.yle.fi](https://svenska.yle.fi/) | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| TEEN | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Tarmac | Conseil Supérieur de l'Audiovisuel |
-| Tiede-Henkka – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Timo Korpi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Tipik-RTBF | Conseil Supérieur de l'Audiovisuel |
-| Toinen kanava | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Uuden Musiikin Kilpailu | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| VAL DE LOIRE TV | ARCOM (Autorité de régulation de la communication audiovisuelle et numérique) |
-| Vews-RTBF | Conseil Supérieur de l'Audiovisuel |
-| Viki ja Köpi Show | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Vosges TV | ARCOM |
-| Y-Kollektiv | SWR Rundfunkrat |
-| Yle Abitreenit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Akatemia | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Arabic | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Areena | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Dev | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle E-urheilu | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Galaxi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Kioski FOOD | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Kioski GAMING | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Kioski JOURNAL | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Kioski Popup | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Luuttiklubi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Mix – uutisia lapsille | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle News | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Novyny | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Perjantai-dokkarit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Pikku Kakkonen | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Sandbox | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle SeesarGames | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Somali | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Spel | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Summeri | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Tämäkin on totta | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Urheilu | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Uusi Päivä | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Uutiset | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle Watt | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle X3M | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| Yle koulun jälkeen | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| YleX | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| YleX Feat | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| YleX Nosteessa | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| YleX\_ Katri Norrlin | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| YleX\_ Kohupodi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| ZDF | ZDF Fernsehrat |
-| ZDFheute Nachrichten | ZDF Fernsehrat |
-| autovisie | Commissariaat voor de Media, Raad voor de Journalistiek |
-| bedrock\_nl | Commissariaat voor de Media, Raad voor de Journalistiek |
-| cmtv | Entidade Reguladora para a Comunicação Social (ERC) |
-| detelegraaf | Commissariaat voor de Media, Raad voor de Journalistiek |
-| dvhn | Commissariaat voor de Media, Raad voor de Journalistiek |
-| elDiarioesCastillaLaMancha | Comisión Nacional de los Mercados y la Competencia |
-| eldiariocves | CNMC |
-| eldiarioes | CNMC |
-| hbvl\_hetbelangvanlimburg | Vlaamse Regulator voor de Media |
-| jornaldenegocios7907 | Entidade Reguladora para a Comunicação Social (ERC) |
-| leeuwardercourant | Commissariaat voor de Media, Raad voor de Journalistiek |
-| limburgertv | Commissariaat voor de Media, Raad voor de Journalistiek |
-| marjuttuulikki - Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| metinalista1 | Ministry of culture |
-| metronieuws | Commissariaat voor de Media, Raad voor de Journalistiek |
-| navidfragtnach | Kommunikationsbehörde Austria (KommAustria) |
-| now\_canal\_oficial | Entidade Reguladora para a Comunicação Social (ERC) |
-| nrc\_nl | Commissariaat voor de Media, Raad voor de Journalistiek |
-| nsmbl | Commissariaat voor de Media, Raad voor de Journalistiek |
-| oe3hitradio | Kommunikationsbehörde Austria (KommAustria) |
-| orfmy9to5-Jobwahrheiten | Kommunikationsbehörde Austria (KommAustria) |
-| orfon | Kommunikationsbehörde Austria (KommAustria) |
-| orfradiovorarlberg | Kommunikationsbehörde Austria (KommAustria) |
-| orfsport | Kommunikationsbehörde Austria (KommAustria) |
-| petsandcompanyofficial | Entidade Reguladora para a Comunicação Social (ERC) |
-| radio1slovenia | Agencija za komunikacijska omrežja in storitve Republike Slovenije |
-| radiowienchor2310 | Kommunikationsbehörde Austria (KommAustria) |
-| revistasabado | Entidade Reguladora para a Comunicação Social (ERC) |
-| sikkomgroningen2621 | Commissariaat voor de Media, Raad voor de Journalistiek |
-| silviakochtforfans6017/videos | Kommunikationsbehörde Austria (KommAustria) |
-| spilnews | Commissariaat voor de Media, Raad voor de Journalistiek |
-| summeriVLOG | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| telesport300 | Commissariaat voor de Media, Raad voor de Journalistiek |
-| testtube | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| vertelevideo | CNMC |
-| vrouwnlmagazine | Commissariaat voor de Media, Raad voor de Journalistiek |
-| À feu doux | ARCOM |
-| Новости Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |

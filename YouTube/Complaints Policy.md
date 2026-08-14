@@ -77,48 +77,11 @@ If you've received a notice informing you that your video is in violation of the
 
 If you believe that a video is required by the CVAA to contain captions, but the uploader has not made captions available, please submit a request via [webform](https://www.youtube.com/caption_notification).
 
-United Kingdom Online Safety Act ('OSA')
-----------------------------------------
+Terrorist Content Online Regulation ('TCO')
+-------------------------------------------
 
-The [UK Online Safety Act](https://www.ofcom.org.uk/online-safety/#:~:text=The%20Online%20Safety%20Act%20\(OSA,in%20the%20UK%20safe%20online.) aims to protect everyone in the UK from harmful content online. It sets rules for online platforms like Google to keep you safe. We implement various measures to protect you from illegal content and to minimise the presence of illegal content on our services.
+If you find content that you think violates our [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/) and want to submit it for review, [report the content](https://support.google.com/youtube/answer/2802027). To learn more about YouTube's policies, you can read our [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/). You can also report content if you believe that it should be removed for [legal reasons](https://support.google.com/youtube/contact/other_legal).
 
-### How to report harmful content
+If you're a designated government competent authority, you can [contact YouTube](https://support.google.com/youtube/answer/6154232) to learn how to get in touch with the point of contact for removal orders under Article 3 TCO. For this purpose, Google accepts communications in English.
 
-If you find content that you think violates our [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/) and want to submit it for review, [report the content](https://support.google.com/youtube/answer/2802027). To learn more about YouTube's policies, you can read our [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/). Alternatively, you can also report content if you believe that it should be removed for [legal reasons](https://support.google.com/youtube/contact/other_legal).
-
-In addition, we use a combination of manual processes and automated technology to identify and swiftly take down or restrict access to content that violates our [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/). For more information about our use of automated technology, see [How YouTube Works](https://www.youtube.com/intl/ALL_uk/howyoutubeworks/).
-
-### Legal removal process
-
-When you submit a request through one of our legal webforms to remove content that you believe is illegal or harmful to children (as defined under [Ofcom's code](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/category-1-10-weeks/statement-protecting-children-from-harms-online/main-document/protection-of-children-code-of-practice-for-user-to-user-services-.pdf?v=395966)), the request is routed to the team who are best positioned to help. Occasionally, we might ask you for some more details.
-
-Once we have made a decision on the request, we will inform you of the outcome and provide a reason for the decision, which may include taking the action requested, denying your request or taking some additional action that we deem appropriate. We typically make a decision within 10 working days, though some more complex cases may take longer. In limited circumstances, we may make a user aware that a legal complaint has been made against their content prior to any enforcement decision and, in the case of government/court requests, we may include the name of the complainant.
-
-If you have filed a request to remove content via our legal webform and we have decided not to take action, or if you are a content owner whose content has been removed or restricted, you may have the right to file an appeal.
-
-Once we have made a decision on the appeal, we will inform you of the outcome and provide a reason for the decision, which may include taking the action requested in your appeal, denying your appeal or taking some alternative action that we deem appropriate. We typically make a decision within 10 working days, though some more complex cases may take longer.
-
-### Information for parents
-
-For more information on the tools and features available to help parents pick the appropriate experiences for their children, see our [Kids & Teens Help Centre](https://www.youtube.com/howyoutubeworks/kids-and-teens/). For more information on how content may be age-restricted, please see our guidance on [age-restricted content](https://support.google.com/youtube/answer/2802167). Age restrictions may be implemented by creators, by our automated technology or following human review.
-
-### Need support? You're not alone.
-
-If you or someone you know has experienced serious harm online, there is support available to help, through organisations and resources [recommended by Ofcom](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/support/).
-
-If you have been affected by issues related to suicide, self-harm, eating disorders or bullying, there is support available [here](https://support.google.com/youtube/answer/2802245).
-
-### Google's compliance with the Online Safety Act
-
-Google is subject to certain obligations under the UK Online Safety Act. Learn more about [Ofcom's Codes of Practice in relation to the UK Online Safety Act](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/codes-of-practice/).
-
-Google takes its obligations to comply with the Online Safety Act seriously – [see the Google Help Centre](https://support.google.com/legal-help-center/answer/15957560). If you believe that Google isn't following the rules of the UK Online Safety Act, you can report this. Let us know through this [webform](https://support.google.com/legal/contact/UK_Online_Safety_Act_Form) how we can do better.
-
-We will review your report and aim to make a decision within 10 working days, though some more complex cases may take longer. We may also get in touch for more information from you.
-
-European Media Freedom Act
---------------------------
-
-This information is published pursuant to Article 18(2) of the [European Media Freedom Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/new-push-european-democracy/protecting-democracy/european-media-freedom-act) (Regulation (EU) 2024/1083, EMFA). The self-declarations listed below have been provided by media service providers under the procedure set out in Article 18(1) EMFA. Publication of this information does not indicate acceptance of the declaration by YouTube, nor should it be understood as an endorsement of the listed organisations. The content of these declarations remains the sole responsibility of the respective media service providers.
-
-[Self-declare as a media service provider](https://support.google.com/youtube/contact/EMFA_MSP) under Article 18(1) of the European Media Freedom Act.
+For more information about the EU Terrorist Content Online Regulation (EU 2021/784), please read the [official EU Regulation text](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0784&from=EN).

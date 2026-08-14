@@ -3,13 +3,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Denunciar violação de direitos autorais
 
-Report trademark violation
+Denunciar violação de marca registada
 
-What is intellectual property?
+O que é propriedade intelectual?
 
-I have a different question
+Tenho uma pergunta diferente
 
 About intellectual property
 ---------------------------
@@ -547,11 +547,11 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-How to avoid copyright issues?
+My content violates copyright
 
 What is copyright infringement?
 
-Can I use downloaded content?
+Can I use someone else's content?
 
 What is fair use?
 
@@ -2255,11 +2255,11 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-Report trademark infringement
+How do I report trademark infringement?
 
-Report copyright infringement
+What is the Brand Rights Protection tool?
 
-What is trademark infringement?
+What happens after I report?
 
 I have a different question
 

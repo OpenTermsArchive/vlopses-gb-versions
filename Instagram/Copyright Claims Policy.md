@@ -3,13 +3,13 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+Report copyright violation
 
-Denunciar violação de marca registada
+Report trademark violation
 
-O que é propriedade intelectual?
+What is intellectual property?
 
-Tenho uma pergunta diferente
+I have a different question
 
 About intellectual property
 ---------------------------
@@ -547,11 +547,11 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-My content violates copyright
+How to avoid copyright issues?
 
 What is copyright infringement?
 
-Can I use someone else's content?
+Can I use downloaded content?
 
 What is fair use?
 
@@ -997,9 +997,9 @@ Copy link
 
 Report copyright infringement
 
-What is copyright infringement?
+Fill in copyright form
 
-Report using Brand Rights Protection
+Use Brand Rights Protection
 
 I have a different question
 
@@ -1866,9 +1866,9 @@ Copy link
 
 Report counterfeit goods
 
-What are counterfeit goods?
+What is a counterfeit?
 
-Report counterfeit products
+Counterfeit goods on Instagram
 
 I have a different question
 
@@ -2255,11 +2255,11 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-How do I report trademark infringement?
+Report trademark infringement
 
-What is the Brand Rights Protection tool?
+Report copyright infringement
 
-What happens after I report?
+What is trademark infringement?
 
 I have a different question
 
@@ -3013,13 +3013,64 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-This Page isn't available
--------------------------
+How to appeal the removal of content on Instagram or Threads for copyright reasons
+==================================================================================
 
-The link may be broken or the page may have been removed. Check to see if the link you're trying to open is correct.
+Appeal content removal
 
-[](https://www.facebook.com/help/instagram/)
+Submit a DMCA counter-notification
 
-Go back
+My appeal was rejected
 
-[Back to Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F)
+What is AGCOM?
+
+I have a different question
+
+If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
+
+*   If we have informed you that content you've posted was removed under the notice and counter-notice procedures of the United States Digital Millennium Copyright Act (DMCA), you may be able to file a DMCA counter-notification. Learn more about [DMCA counter-notifications](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F697328657009330%3Fhelpref%3Dfaq_content).
+
+*   If your content was removed because of a copyright report submitted outside the DMCA procedures, you can submit an appeal. Instructions about how to submit an appeal are included in the message that we have sent you. If your account has been disabled, you can submit an appeal by logging in to your account and following the on-screen instructions.
+*   Once we are in receipt of a valid and adequately substantiated appeal, we will review it expeditiously. Appeals can often be resolved quickly when our requests for further information are responded to promptly, where the content in question is not infringing and does not violate our Terms of Service or Community Standards, or where the initial report was a mistake. Appeal decisions can take longer in circumstances where additional review or analysis by our teams is required.
+
+If you are uncertain whether you should file an appeal or a DMCA counter-notification, you may want to seek legal advice. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
+
+Related articles
+----------------
+
+[How to appeal the removal of content on Instagram or Threads for trademark reasons](https://www.facebook.com/help/instagram/693680257839261/?helpref=related_articles)
+
+[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://www.facebook.com/help/instagram/1445818549016877/?helpref=related_articles)
+
+[How to make sure that content you post to Instagram or Threads doesn't violate copyright law](https://www.facebook.com/help/instagram/354736791367645/?helpref=related_articles)
+
+[Appeal Instagram's content decision to the Oversight Board](https://www.facebook.com/help/instagram/675885993348720/?helpref=related_articles)
+
+[Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/instagram/244286600038698/?helpref=related_articles)
+
+Related articles
+
+[How to appeal the removal of content on Instagram or Threads for trademark reasons
+
+* * *](https://www.facebook.com/help/instagram/693680257839261/?helpref=related_articles)
+
+[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement
+
+* * *](https://www.facebook.com/help/instagram/1445818549016877/?helpref=related_articles)
+
+[How to make sure that content you post to Instagram or Threads doesn't violate copyright law
+
+* * *](https://www.facebook.com/help/instagram/354736791367645/?helpref=related_articles)
+
+[Appeal Instagram's content decision to the Oversight Board
+
+* * *](https://www.facebook.com/help/instagram/675885993348720/?helpref=related_articles)
+
+[Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/instagram/244286600038698/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time

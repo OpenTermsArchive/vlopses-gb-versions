@@ -3,23 +3,23 @@
 Google Terms of Service
 =======================
 
-Effective July 30, 2026 | [Archived versions](https://policies.google.com/terms/archive) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20260730/4te5pybt/google_terms_of_service_en_gb.pdf)
+Effective July 30, 2026 | [Archived versions](https://policies.google.com/terms/archive) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20260730/4te5pybt/google_terms_of_service_en.pdf)
 
-[Country version:](https://policies.google.com/terms#footnote-country-version) United Kingdom
+[Country version:](https://policies.google.com/terms#footnote-country-version) Iran
 
 What’s covered in these terms
 -----------------------------
 
 ### We know it’s tempting to skip these Terms of Service, but it’s important to establish what you can expect from us as you use Google [services](https://policies.google.com/terms#footnote-services), and what we expect from you.
 
-These Terms of Service reflect [the way Google’s business works](https://about.google/intl/en_GB/how-our-business-works), the laws that apply to our company, and [certain things we’ve always believed to be true](https://www.google.com/about/philosophy.html). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
+These Terms of Service reflect [the way Google’s business works](https://about.google/intl/en_IR/how-our-business-works), the laws that apply to our company, and [certain things we’ve always believed to be true](https://www.google.com/about/philosophy.html). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
 
 *   [What you can expect from us](https://policies.google.com/terms#toc-what-you-expect), which describes how we provide and develop our services
 *   [What we expect from you](https://policies.google.com/terms#toc-what-we-expect), which establishes certain rules for using our services
 *   [Content in Google services](https://policies.google.com/terms#toc-content), which describes the intellectual property rights to the content you find in our services — whether that content belongs to you, Google, or others
 *   [In case of problems or disagreements](https://policies.google.com/terms#toc-problems), which describes other legal rights you have, and what to expect in case someone violates these terms
 
-Understanding these terms is important because, to use our services, you must accept these terms. We encourage you to download these terms for future reference. We make these terms, and all previous versions, available at all times [here](https://policies.google.com/terms/archive).
+Understanding these terms is important because, by accessing or using our services, you’re agreeing to these terms.
 
 Besides these terms, we also publish a [Privacy Policy](https://policies.google.com/privacy). Although it’s not part of these terms, we encourage you to read it to better understand how you can [update, manage, export, and delete your information](https://myaccount.google.com/).
 
@@ -69,7 +69,7 @@ Contents
 Your relationship with Google
 =============================
 
-These terms help define the relationship between you and Google. When we speak of “Google,” “we,” “us,” and “our,” we mean Google LLC and its [affiliates](https://policies.google.com/terms#footnote-affiliates). Broadly speaking, we give you permission to access and use our [services](https://policies.google.com/terms#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en_GB/how-our-business-works).
+These terms help define the relationship between you and Google. When we speak of “Google,” “we,” “us,” and “our,” we mean Google LLC and its [affiliates](https://policies.google.com/terms#footnote-affiliates). Broadly speaking, we give you permission to access and use our [services](https://policies.google.com/terms#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en_IR/how-our-business-works).
 
 What you can expect from us
 ---------------------------
@@ -94,8 +94,6 @@ Our services are designed to work together, making it easier for you to move fro
 ![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/04-develop-improve-and-update-google-services-lightmode.svg)
 
 We’re constantly developing new technologies and features to improve our services. For example, we use artificial intelligence and machine learning to provide you with simultaneous translations, and to better detect and block spam and malware. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones. When a service requires or includes downloadable or preloaded software, that software sometimes updates automatically on your device once a new version or feature is available. Some services let you adjust your automatic update settings.
-
-We maintain a rigorous product research program, so before we change or stop offering a service, we carefully consider your interests as a user, your reasonable expectations, and the potential impact on you and others. We only change or stop offering services for valid reasons, such as to improve performance or security, to comply with law, to prevent illegal activities or abuse, to reflect technical developments, or because a feature or an entire service is no longer popular enough or economical to offer.
 
 If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice, except in urgent situations such as preventing abuse, responding to legal requirements, or addressing security and operability issues. We’ll also provide you with an opportunity to export [your content](https://policies.google.com/terms#footnote-your-content) from your Google Account using [Google Takeout,](https://takeout.google.com/settings/takeout) subject to applicable law and policies.
 
@@ -170,7 +168,7 @@ This license covers [your content](https://policies.google.com/terms#footnote-yo
 
 ### What’s not covered
 
-*   This license doesn’t affect your data protection rights — it’s only about your intellectual property rights
+*   This license doesn’t affect your privacy rights — it’s only about your intellectual property rights
 *   This license doesn’t cover these types of content:
     *   publicly-available factual information that you provide, such as corrections to the address of a local business. That information doesn’t require a license because it’s considered common knowledge that everyone’s free to use.
     *   feedback that you offer, such as suggestions to improve our services. Feedback is covered in the _[Service-related communications](https://policies.google.com/terms#toc-service-related-comm)_ section below.
@@ -189,7 +187,7 @@ This license allows Google to:
 
 *   host, reproduce, distribute, communicate, and use your content — for example, to save your content on our systems and make it accessible from anywhere you go
 *   publish, publicly perform, or publicly display your content, if you’ve made it visible to others
-*   modify your content, such as reformatting or translating it
+*   modify and create derivative works based on your content, such as reformatting or translating it
 *   sublicense these rights to:
     *   other users to allow the services to work as designed, such as enabling you to share photos with people you choose
     *   our contractors who’ve signed agreements with us that are consistent with these terms, only for the limited purposes described in the _[Purpose](https://policies.google.com/terms#toc-purpose)_ section below
@@ -234,8 +232,6 @@ Many [organizations](https://policies.google.com/terms#footnote-organization), s
 *   an authorized representative of that organization must agree to these terms
 *   your organization’s administrator may assign a Google Account to you. That administrator might require you to follow additional rules and may be able to access or disable your Google Account.
 
-If you’re based in the United Kingdom, then these terms don’t affect the rights you may have as a [business user](https://policies.google.com/terms#footnote-business-user) of online intermediation services — including online platforms such as Google Play — under the [UK Platform-to-Business Regulation](https://policies.google.com/terms#footnote-uk-platform-to-business).
-
 Service-related communications
 ------------------------------
 
@@ -274,11 +270,6 @@ Other content
 -------------
 
 Finally, some of our [services](https://policies.google.com/terms#footnote-services) give you access to content that belongs to other people or [organizations](https://policies.google.com/terms#footnote-organization) — for example, a store owner’s description of their own business, or a newspaper article displayed in Google News. You may not use this content without that person or organization’s permission, or as otherwise allowed by law. The views expressed in other people or organizations’ content are theirs, and don’t necessarily reflect Google’s views.
-
-Illegal or harmful content
---------------------------
-
-We use various measures to protect you from illegal and other harmful content. To learn more about these measures, and how to report content or make a complaint, visit our [Transparency Center](https://transparency.google/intl/en-GB_ALL/tools-programs/reporting-and-appeals/).
 
 ![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/10-software-in-google-services-lightmode.svg)
 
@@ -325,7 +316,7 @@ Liabilities
 
 Both the law and these terms try to strike a balance as to what you or Google can claim from the other in case of problems. That’s why the law requires everyone to be responsible for certain [liabilities](https://policies.google.com/terms#footnote-liability) — but not others — under these terms.
 
-These terms don’t limit [liability](https://policies.google.com/terms#footnote-liability) for:
+These terms only limit our responsibilities as allowed by applicable law. These terms don’t limit liability for:
 
 *   fraud or fraudulent misrepresentation
 *   death or personal injury caused by negligence
@@ -344,7 +335,7 @@ If you’re a [business user](https://policies.google.com/terms#footnote-busines
     *   loss of profits, revenues, business opportunities, goodwill, or anticipated savings
     *   indirect or consequential loss
     *   punitive damages
-*   Except as stated in the _[For all users](https://policies.google.com/terms#for-all)_ section above, Google’s total, aggregate liability arising out of or relating to these terms is limited to the greater of (1) £500 or (2) 125% of the fees that you paid (or that were payable) to use the relevant services in the 12 months before the breach.
+*   Except as stated in the _[For all users](https://policies.google.com/terms#for-all)_ section above, Google’s total liability arising out of or relating to these terms is limited to the greater of (1) US$500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breach.
 
 Taking action in case of problems
 ---------------------------------
@@ -377,7 +368,9 @@ Settling disputes, governing law, and courts
 
 For information about how to contact Google, please visit our [contact page](https://www.google.com/contact).
 
-If you’re a resident of, or an [organization](https://policies.google.com/terms#footnote-organization) based in, the United Kingdom, these terms and your relationship with Google under these terms and [service-specific additional terms](https://policies.google.com/terms/service-specific), are governed by English law, and you can file legal disputes (including for breaches of these terms) in the English courts.
+California law will govern these terms and all disputes arising out of or relating to these terms, [service-specific additional terms](https://policies.google.com/terms/service-specific), or any related [services](https://policies.google.com/terms#footnote-services), regardless of any conflict of laws rules. These disputes will be resolved exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.
+
+To the extent that applicable local law prevents certain disputes from being resolved in a California court, then you can file those disputes in your local courts. Likewise, if applicable local law prevents your local court from applying California law to resolve these disputes, then these disputes will be governed by the applicable local laws of your country, state, or other place of residence.
 
 ![](https://www.gstatic.com/identity/boq/policies/privacy/tos_2024/12-about-these-terms-lightmode.svg)
 
@@ -389,6 +382,8 @@ By law, you have certain rights that can’t be limited by a contract like these
 These terms describe the relationship between you and Google. They don’t create any legal rights for other people or [organizations](https://policies.google.com/terms#footnote-organization), even if others benefit from that relationship under these terms.
 
 We want to make these terms easy to understand, so we’ve used examples from our [services](https://policies.google.com/terms#footnote-services). But not all services mentioned may be available in your country.
+
+If these terms conflict with the [service-specific additional terms](https://policies.google.com/terms/service-specific), the additional terms will govern for that service.
 
 If it turns out that a particular term is not valid or enforceable, this will not affect any other terms.
 
@@ -411,7 +406,7 @@ An individual or entity who is not a consumer (see consumer).
 
 ### consumer
 
-An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft, or profession. This includes “consumers” as defined in [Regulation 4 of the Consumer Contracts (Information, Cancelation and Additional Charges) Regulations 2013](https://www.legislation.gov.uk/uksi/2013/3134/regulation/4/made). (See business user)
+An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft, or profession. (See business user)
 
 ### copyright
 
@@ -460,10 +455,6 @@ Many of these services also include content that you can stream or interact with
 ### trademark
 
 Symbols, names, and images used in commerce that are capable of distinguishing the goods or services of one individual or organization from those of another.
-
-### UK Platform-to-Business Regulation
-
-The Regulation (EU) 2019/1150 on promoting fairness and transparency for business users of online intermediation services, as incorporated into the laws of the United Kingdom.
 
 ### warranty
 

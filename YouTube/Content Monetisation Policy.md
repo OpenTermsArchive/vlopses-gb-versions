@@ -276,8 +276,6 @@ Whether you're facing a specific problem or you want to find out how to get the 
 
 You can find more detailed instructions on how to [contact Creator Support](https://support.google.com/youtube/answer/3545535) and [get help as a YouTube creator](https://support.google.com/youtube/answer/6249136).
 
-If you are a business user based in the European Union or the United Kingdom, you may also be able to resolve issues through mediation. [Find out more about how to request mediation here](http://g.co/help/mediation).
-
 - - -
 
 YouTube Shorts monetisation policies

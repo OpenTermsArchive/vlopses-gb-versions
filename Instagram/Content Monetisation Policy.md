@@ -237,11 +237,11 @@ Copy link
 
 What are monetisation policies?
 
-My account was ineligible
+Am I eligible to monetise?
 
-Why was my content rejected?
+Why was my monetisation removed?
 
-I can't monetise on Instagram
+What are content monetisation policies?
 
 I have a different question
 

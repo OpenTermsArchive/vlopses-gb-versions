@@ -547,11 +547,11 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-My content violates copyright
+How to avoid copyright issues?
 
 What is copyright infringement?
 
-Can I use someone else's content?
+Can I use downloaded content?
 
 What is fair use?
 
@@ -2255,11 +2255,11 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-How do I report trademark infringement?
+Report trademark infringement
 
-What is the Brand Rights Protection tool?
+Report copyright infringement
 
-What happens after I report?
+What is trademark infringement?
 
 I have a different question
 

@@ -552,9 +552,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -568,13 +568,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
-
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?
+
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -2771,6 +2771,14 @@ What happens when you submit a copyright report to Meta
 =======================================================
 
 Copy link
+
+What happens after I report?
+
+What is a report number?
+
+Why was my report rejected?
+
+I have a different question
 
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 

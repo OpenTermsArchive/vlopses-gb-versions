@@ -148,6 +148,14 @@ Resolve issues, make changes and get support in real time
 Trademark
 =========
 
+Report trademark infringement
+
+What do trademarks protect?
+
+Avoid trademark infringement
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
 Please note that laws in different countries may vary. For more information on trademark law, you can visit the website of the [United States Patent and Trademark Office](http://www.uspto.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram or Threads can't provide you with legal advice, so you may want to speak with an attorney if you have more questions about trademarks.
@@ -547,11 +555,11 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-How to avoid copyright issues?
+My content violates copyright
 
 What is copyright infringement?
 
-Can I use downloaded content?
+Can I use someone else's content?
 
 What is fair use?
 
@@ -2255,11 +2263,11 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-Report trademark infringement
+How do I report trademark infringement?
 
-Report copyright infringement
+What is the Brand Rights Protection tool?
 
-What is trademark infringement?
+What happens after I report?
 
 I have a different question
 

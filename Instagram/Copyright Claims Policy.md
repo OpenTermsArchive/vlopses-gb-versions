@@ -3,13 +3,13 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+Report copyright violation
 
-Denunciar violação de marca registada
+Report trademark violation
 
-O que é propriedade intelectual?
+What is intellectual property?
 
-Tenho uma pergunta diferente
+I have a different question
 
 About intellectual property
 ---------------------------
@@ -147,14 +147,6 @@ Resolve issues, make changes and get support in real time
 
 Trademark
 =========
-
-Report trademark infringement
-
-What do trademarks protect?
-
-Avoid trademark infringement
-
-I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 

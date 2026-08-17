@@ -3,13 +3,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Denunciar violação de direitos autorais
 
-Report trademark violation
+Denunciar violação de marca registada
 
-What is intellectual property?
+O que é propriedade intelectual?
 
-I have a different question
+Tenho uma pergunta diferente
 
 About intellectual property
 ---------------------------
@@ -2116,16 +2116,6 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 =================================================================================================================================================
 
 Copy link
-
-Appeal content removal
-
-Contact rights owner
-
-My content was removed
-
-What is intellectual property?
-
-I have a different question
 
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe that the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 

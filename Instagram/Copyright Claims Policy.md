@@ -349,16 +349,6 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-Stop others copying my work
-
-What is copyright infringement?
-
-Grant permission to use work
-
-Prevent others using my work
-
-I have a different question
-
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -1134,14 +1124,6 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-I want to report infringement
-
-Who can report infringement?
-
-What if I'm not the owner?
-
-I have a different question
-
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
 Related articles
@@ -1334,14 +1316,6 @@ Instagram or Threads removed content as a result of your copyright report. What 
 =========================================================================================================================================
 
 Copy link
-
-What information is shared?
-
-Who sees my email address?
-
-Can I appeal a removal?
-
-I have a different question
 
 When we receive copyright claims through our online form and remove the reported content, we typically provide the reported user with the following information.
 
@@ -1737,14 +1711,6 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark registration?
-
-What is a business registration?
-
-USPTO registration
-
-I have a different question
-
 In some countries or states in the US, a business might be able to register with a government office, or obtain a permit or licence to do business in that country or state. These registrations, such as ones issued by a state's Secretary of State, generally aren't the same as a trademark registration, and may not themselves create trademark rights for the business. In the US, the registration that's frequently used to establish trademark ownership is one that is issued by the United States Patent and Trademark Office (USPTO).
 
 Related articles
@@ -2117,6 +2083,16 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 
 Copy link
 
+Appeal content removal
+
+Contact rights owner
+
+My content was removed
+
+What is intellectual property?
+
+I have a different question
+
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe that the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
 Appealing the removal of content
@@ -2309,14 +2285,6 @@ Can I report an infringement of someone else's intellectual property on Instagra
 =============================================================================================
 
 Copy link
-
-I want to report infringement
-
-Who can report infringement?
-
-What if I'm not the owner?
-
-I have a different question
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 

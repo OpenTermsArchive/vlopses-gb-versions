@@ -3,15 +3,15 @@ Terms of Use
 
 Copy link
 
-What is the Instagram Service?
+O que são os Termos de Utilização?
 
-How is the service funded?
+Como o Instagram é financiado?
 
-What is the Privacy Policy?
+O que é a Política de Privacidade?
 
-What are my commitments?
+Não consigo usar o Instagram
 
-I have a different question
+Tenho uma questão diferente
 
 Welcome to Instagram!  
   

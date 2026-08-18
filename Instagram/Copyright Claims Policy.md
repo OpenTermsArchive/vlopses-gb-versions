@@ -349,6 +349,16 @@ What rights do I have as a copyright owner?
 
 Copy link
 
+Stop others copying my work
+
+What is copyright infringement?
+
+Grant permission to use work
+
+Prevent others using my work
+
+I have a different question
+
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -987,9 +997,9 @@ Copy link
 
 Report copyright infringement
 
-Fill in copyright form
+What is copyright infringement?
 
-Use Brand Rights Protection
+Report using Brand Rights Protection
 
 I have a different question
 
@@ -1123,6 +1133,14 @@ Can I report an infringement of someone else's intellectual property on Instagra
 =============================================================================================
 
 Copy link
+
+I want to report infringement
+
+Who can report infringement?
+
+What if I'm not the owner?
+
+I have a different question
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
@@ -1316,6 +1334,14 @@ Instagram or Threads removed content as a result of your copyright report. What 
 =========================================================================================================================================
 
 Copy link
+
+What information is shared?
+
+Who sees my email address?
+
+Can I appeal a removal?
+
+I have a different question
 
 When we receive copyright claims through our online form and remove the reported content, we typically provide the reported user with the following information.
 
@@ -1541,35 +1567,35 @@ Please note that Instagram and Threads can't adjudicate disputes between third p
 Related articles
 ----------------
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
 [Trademark](https://help.instagram.com/222826637847963/?helpref=related_articles)
 
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
 [How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
+[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+
 Related articles
-
-[The difference between copyright and trademark
-
-* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 [Trademark
 
 * * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
 
-[Are there any limits to trademark rights?
+[The difference between copyright and trademark
 
-* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
+* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?
 
 * * *](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
-[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
+[How long does trademark protection last?
+
+* * *](https://help.instagram.com/349865072108966/?helpref=related_articles)
+
+[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1710,6 +1736,14 @@ What is the difference between a trademark registration and a business registrat
 ====================================================================================
 
 Copy link
+
+What is a trademark registration?
+
+What is a business registration?
+
+USPTO registration
+
+I have a different question
 
 In some countries or states in the US, a business might be able to register with a government office, or obtain a permit or licence to do business in that country or state. These registrations, such as ones issued by a state's Secretary of State, generally aren't the same as a trademark registration, and may not themselves create trademark rights for the business. In the US, the registration that's frequently used to establish trademark ownership is one that is issued by the United States Patent and Trademark Office (USPTO).
 
@@ -2285,6 +2319,14 @@ Can I report an infringement of someone else's intellectual property on Instagra
 =============================================================================================
 
 Copy link
+
+I want to report infringement
+
+Who can report infringement?
+
+What if I'm not the owner?
+
+I have a different question
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 

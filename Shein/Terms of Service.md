@@ -1134,7 +1134,7 @@ The SHEIN CLUB Membership ( **“SHEIN Club Membership”** or **“Membership�
 
 Where applicable, "we", "us" and "our" shall refer to SHEIN and "you" or "your" or the “Member” shall refer to you as the subscriber of the Membership.
 
-By entering into this Membership, you represent and warrant that you are at least 18 years old and agree to be bound by these Club Terms. Please make sure that [save a copy of these Club Terms or print them](https://files-c.ltwebstatic.com/ccc/2025/12/19/17661285993632427341.pdf)[](https://files-c.ltwebstatic.com/ccc/2025/12/19/17661286533632427341.pdf)for future reference.
+By entering into this Membership, you represent and warrant that you are at least 18 years old and agree to be bound by these Club Terms. Please make sure that [save a copy of these Club Terms or print them](https://files-c.ltwebstatic.com/ccc/2026/08/18/1787032956774299249.pdf)[](https://files-c.ltwebstatic.com/ccc/2025/12/19/17661286533632427341.pdf) for future reference.
 
 Please note that your use of the SHEIN UK website [https://www.shein.co.uk/](https://m.shein.co.uk/) and corresponding mobile app (“Site”), is also governed by [our Website Terms and Conditions](https://m.shein.co.uk/Terms-and-Conditions-a-399.html) .
 

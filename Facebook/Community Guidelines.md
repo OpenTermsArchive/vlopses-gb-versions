@@ -3150,7 +3150,7 @@ What are recommendation guidelines?
 
 I have a different question
 
-We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, Groups or Events) that people do not already follow. Some examples of our recommendation experiences include Pages you may like, "Suggested for you" posts in Feed, People you may know or Groups you should join.
+We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, groups or events) that people do not already follow. Some examples of our recommendation experiences include Pages you may like, "Suggested for you" posts in Feed, people you may know or groups you should join.
 
 Our goal is to make recommendations that are relevant and valuable to each person who sees them. We work towards our goal by personalising recommendations, which means making unique recommendations for each person. For example, if you and another person have Facebook friends in common, we may suggest that person as a potential new friend for you.
 
@@ -3213,8 +3213,7 @@ We generally do not recommend accounts (including Profiles and Page admins) or e
 2.  Repeatedly and/or have recently shared content (including the names or cover photos associated with groups or Pages) that we try not to recommend across the categories described in the Content Recommendations section above.
 3.  Repeatedly engaged in misleading practices to build followings, such as purchasing "likes".
 4.  In countries where Meta supports third-party fact-checking, have recently and repeatedly posted "False" and "Altered" information as determined by independent third-party fact-checkers.
-5.  [Are associated with offline movements or organisations that are tied to violence.](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F08%2Faddressing-movements-and-organizations-tied-to-violence%2F)
-6.  Teens will not be recommended accounts that we've found regularly share age-inappropriate content, or if their name or bio suggests that the account is inappropriate for teens.
+5.  Teens will not be recommended accounts that we've found regularly share age-inappropriate content, or if their name or bio suggests that the account is inappropriate for teens.
 
 We may let people know when they're about to engage with an entity that meets any of the above criteria to help them make informed decisions.
 

@@ -50,6 +50,16 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 Trademark
 =========
 
+Denunciar uma infração de marca
+
+O que as marcas protegem?
+
+Evitar infringir marcas
+
+O que é Proteção de Direitos de Marca?
+
+Tenho uma pergunta diferente
+
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
 If you believe that someone is infringing your trademark, you can report it to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -1441,11 +1451,13 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel an IP report
+Cancel my copyright report
 
-Restore removed content
+Retract my trademark report
+
+I reported content by mistake
 
 I have a different question
 
@@ -2844,13 +2856,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-Protect my intellectual property
+Apply for Rights Manager
 
-Rights Manager not working
+Protect my video content
+
+What is Content Protection?
 
 Report copyrighted content
-
-How to monetise content
 
 I have a different question
 

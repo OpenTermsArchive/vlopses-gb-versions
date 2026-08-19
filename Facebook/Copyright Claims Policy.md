@@ -14,16 +14,6 @@ Intellectual property
 
 Copy link
 
-What is copyright?
-
-What is a trademark?
-
-Report a copyright violation
-
-Report a trademark violation
-
-I have a different question
-
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -49,16 +39,6 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 
 Trademark
 =========
-
-Denunciar uma infração de marca
-
-O que as marcas protegem?
-
-Evitar infringir marcas
-
-O que é Proteção de Direitos de Marca?
-
-Tenho uma pergunta diferente
 
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
@@ -1451,13 +1431,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel my copyright report
+Cancel an IP report
 
-Retract my trademark report
-
-I reported content by mistake
+Restore removed content
 
 I have a different question
 
@@ -2856,13 +2834,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-Apply for Rights Manager
+Protect my intellectual property
 
-Protect my video content
-
-What is Content Protection?
+Rights Manager not working
 
 Report copyrighted content
+
+How to monetise content
 
 I have a different question
 

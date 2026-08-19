@@ -3144,7 +3144,9 @@ What content does Facebook recommend?
 
 What content is not recommended?
 
-What are the Recommendations Guidelines?
+Why was my content not recommended?
+
+What are recommendation guidelines?
 
 I have a different question
 

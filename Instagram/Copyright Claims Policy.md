@@ -3,13 +3,13 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+Report copyright violation
 
-Denunciar violação de marca registada
+Report trademark violation
 
-O que é propriedade intelectual?
+What is intellectual property?
 
-Tenho uma pergunta diferente
+I have a different question
 
 About intellectual property
 ---------------------------

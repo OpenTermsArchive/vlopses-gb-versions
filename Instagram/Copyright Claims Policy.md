@@ -3,13 +3,13 @@ Intellectual property
 
 Copy link
 
-Denunciar violação de direitos autorais
+Report copyright violation
 
-Denunciar violação de marca registada
+Report trademark violation
 
-O que é propriedade intelectual?
+What is intellectual property?
 
-Tenho uma pergunta diferente
+I have a different question
 
 About intellectual property
 ---------------------------
@@ -84,16 +84,6 @@ Resolve issues, make changes and get support in real time
 
 Copyright
 =========
-
-Report copyright infringement
-
-Protect my copyrighted work
-
-What is copyright?
-
-My content was reported
-
-I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 

@@ -14,6 +14,16 @@ Intellectual property
 
 Copy link
 
+What is copyright?
+
+What is a trademark?
+
+Report a copyright violation
+
+Report a trademark violation
+
+I have a different question
+
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright

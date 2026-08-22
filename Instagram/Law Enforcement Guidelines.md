@@ -3,13 +3,11 @@ Information for law enforcement
 
 Copy link
 
-Request user information
+What information can law enforcement request?
 
-Emergency requests
+How do I submit a request?
 
-International legal requests
-
-Preserve account records
+What about emergency requests?
 
 I have a different question
 

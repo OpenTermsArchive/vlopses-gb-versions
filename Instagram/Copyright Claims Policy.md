@@ -3028,13 +3028,13 @@ Resolve issues, make changes and get support in real time
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
 
-Rayuan kandungan yang dialih keluar
+Appeal content removal
 
-Rayuan laporan hak cipta
+Submit a DMCA counter-notification
 
-DMCA counter-notification
+What happens after I appeal?
 
-Saya mempunyai soalan lain
+I have a different question
 
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
 

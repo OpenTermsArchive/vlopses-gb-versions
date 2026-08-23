@@ -7,9 +7,9 @@ How do I monetise my content?
 
 How do I check monetisation eligibility?
 
-What content is prohibited?
+How do I avoid prohibited formats?
 
-What content is restricted?
+How do I avoid reduced monetisation?
 
 I have a different question
 

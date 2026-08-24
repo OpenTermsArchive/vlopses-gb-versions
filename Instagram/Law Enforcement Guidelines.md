@@ -3,11 +3,11 @@ Information for law enforcement
 
 Copy link
 
-What information can law enforcement request?
+What information is disclosed?
 
-How do I submit a request?
+What is a subpoena?
 
-What about emergency requests?
+What is a search warrant?
 
 I have a different question
 

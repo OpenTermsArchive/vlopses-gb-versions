@@ -3,13 +3,11 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+How do I report copyright violations?
 
-What is a trademark?
+How do I report trademark violations?
 
-Report a copyright violation
-
-Report a trademark violation
+What is intellectual property?
 
 I have a different question
 
@@ -217,9 +215,11 @@ Copy link
 
 What does copyright protect?
 
-What is not protected?
+What is not protected by copyright?
 
-What is fair use?
+What is an original work?
+
+How does copyright apply to ideas?
 
 I have a different question
 
@@ -286,11 +286,11 @@ How do I know if I own the copyright in a work?
 
 Copy link
 
-Who owns copyright?
+Who owns copyright in a work?
 
-I created a work for my job
+What is an original work?
 
-What if I'm in a photo?
+What if I appear in a photo?
 
 I have a different question
 
@@ -351,13 +351,11 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-Stop others copying my work
+What are my copyright owner rights?
 
 What is copyright infringement?
 
-Grant permission to use my work
-
-Prevent others using my work
+Can I grant permission to use my work?
 
 I have a different question
 
@@ -414,11 +412,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
+How long does copyright last?
+
+What is the public domain?
 
 When does copyright expire?
-
-How long does copyright last?
 
 I have a different question
 
@@ -549,13 +547,13 @@ How to make sure that content you post to Instagram or Threads doesn't violate c
 
 Copy link
 
-My content violates copyright
+How do I avoid Instagram copyright?
 
-What is copyright infringement?
+How do I post my own content?
 
-Can I use content I bought?
+How do I get permission to post?
 
-What is fair use?
+How does fair use apply?
 
 I have a different question
 
@@ -638,7 +636,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Factors of fair use
+What are fair use factors?
 
 I have a different question
 
@@ -729,7 +727,7 @@ What is copyright infringement?
 
 What is fair use?
 
-Can I use copyrighted content?
+What happens if I infringe?
 
 I have a different question
 
@@ -796,11 +794,11 @@ What to do if content that you posted on Instagram or Threads is removed because
 
 Copy link
 
-My content was removed
+How do I appeal content removal?
 
-Appeal a copyright removal
+How do I contact the rights owner?
 
-Contact the rights owner
+How do I use music on Instagram?
 
 I have a different question
 
@@ -855,13 +853,13 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-My account was disabled
+What happens if I repeatedly infringe?
 
-What is repeat infringer policy?
+What is Instagram's repeat infringer policy?
 
-My content was restored
+What happens to my Instagram account?
 
-How to avoid copyright infringement?
+How do I avoid copyright infringement?
 
 I have a different question
 
@@ -927,13 +925,11 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 
 Copy link
 
-What is a DMCA counter-notification?
+How do I file a DMCA counter-notification?
 
-How do I file a counter-notification?
+How does Instagram process counter-notifications?
 
-What happens after I file?
-
-Can my content be restored?
+How long does DMCA counter-notification take?
 
 I have a different question
 
@@ -995,13 +991,13 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-How do I report copyright?
+How do I report Instagram copyright?
+
+How do I report Threads copyright?
 
 How do I use Brand Rights Protection?
 
-What is a designated agent?
-
-Who can report copyright?
+How do I contact a DMCA agent?
 
 I have a different question
 
@@ -1063,11 +1059,13 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is copyright infringement?
+How do I report intellectual property?
 
-What is trademark infringement?
+What are Instagram copyright permissions?
 
-What are the legal consequences?
+What are Instagram trademark permissions?
+
+What are legal consequences of reporting?
 
 I have a different question
 
@@ -1136,15 +1134,13 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-Quem pode denunciar uma infração?
+How do I report Instagram copyright?
 
-Denunciar uma infração de direitos autorais
+How do I report Instagram trademark?
 
-Denunciar uma infração de marca registada
+How do I report Threads copyright?
 
-O que acontece após a denúncia?
-
-Tenho uma pergunta diferente
+I have a different question
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
@@ -1195,11 +1191,11 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-How do I contact DMCA agent?
+How do I contact Instagram DMCA agent?
 
-How do I report copyright infringement?
+How do I send a DMCA report?
 
-What is the DMCA online form?
+How do I contact Instagram DMCA by mail?
 
 I have a different question
 
@@ -1266,11 +1262,11 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-How do I report copyright?
+How do I report copyright on Instagram?
 
-What info do I need?
+What info do I need for a copyright report?
 
-Where do I find a URL?
+How do I find a URL for content?
 
 I have a different question
 
@@ -1339,11 +1335,11 @@ Instagram or Threads removed content as a result of your copyright report. What 
 
 Copy link
 
-What information is shared?
+What information is sent?
 
-Can I appeal a copyright claim?
+What is a copyright report?
 
-What if I don't provide an email?
+How do I appeal a removal?
 
 I have a different question
 
@@ -1420,11 +1416,11 @@ What happens when you submit a copyright report to Instagram or Threads
 
 Copy link
 
-What happens after I report?
+How do I get my Instagram report number?
 
-What information is shared?
+How do I respond to Instagram copyright report?
 
-I need to respond to a message
+How does Instagram share my report details?
 
 I have a different question
 
@@ -1489,13 +1485,11 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Copy link
 
-How do I withdraw an IP report?
+How do I withdraw an Instagram report?
 
-How do I cancel an IP report?
+How do I cancel an Instagram report?
 
-How do I withdraw a trademark report?
-
-How do I withdraw a copyright report?
+How do I withdraw a Threads report?
 
 I have a different question
 
@@ -1552,11 +1546,11 @@ More about trademarks and what they protect
 
 Copy link
 
-What is a trademark?
-
 What do trademarks protect?
 
-Report a trademark infringement
+What is a trademark?
+
+Report trademark infringement
 
 I have a different question
 
@@ -1617,9 +1611,11 @@ Copy link
 
 What is trademark infringement?
 
-When does infringement occur?
+When does trademark infringement occur?
 
 What is likelihood of confusion?
+
+What are limits to trademark rights?
 
 I have a different question
 
@@ -1680,13 +1676,11 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register a trademark
+What is a registered trademark?
 
-What are common law rights?
+What are common law trademark rights?
 
-Do I need a registration?
-
-Registering a company creates rights?
+Do I need to register a trademark?
 
 I have a different question
 
@@ -1745,7 +1739,7 @@ What is a trademark registration?
 
 What is a business registration?
 
-USPTO registration
+What is the USPTO?
 
 I have a different question
 
@@ -1811,13 +1805,13 @@ How long does trademark protection last?
 
 Copy link
 
-Renovar registo de marca
+How long do trademark rights last?
 
-Perder direitos de marca
+How do I renew a trademark?
 
-O que é o USPTO?
+What happens if I stop using a trademark?
 
-Tenho uma questão diferente
+I have a different question
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights. Please also note that for trademarks that are registered with the United States Patent and Trademark Office (USPTO), issued registrations must be renewed periodically. The laws in other jurisdictions may vary.
 
@@ -1868,11 +1862,11 @@ What is a counterfeit?
 
 Copy link
 
-How do I report counterfeit goods?
+How do I report counterfeit goods on Instagram?
 
-What is a counterfeit product?
+What is a counterfeit good?
 
-How do I use Brand Rights Protection?
+How do I report counterfeit goods on Threads?
 
 I have a different question
 
@@ -1931,9 +1925,7 @@ What is trademark infringement?
 
 What is nominative fair use?
 
-Are there geographic limits?
-
-What are limited trademark rights?
+Are trademark rights limited geographically?
 
 I have a different question
 
@@ -2057,11 +2049,11 @@ How to make sure that the content you post to Instagram or Threads don't violate
 
 Copy link
 
-My content violates trademark law
+How do I avoid trademark violations?
 
-What is trademark law?
+How do I check for trademark use?
 
-How to avoid trademark infringement?
+How do I use trademarks fairly?
 
 I have a different question
 
@@ -2121,13 +2113,11 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 
 Copy link
 
-Appeal content removal
+How do I appeal content removal?
 
-Contact rights owner
+What happens to removed content?
 
-My content was removed
-
-What is intellectual property?
+How do I contact the rights owner?
 
 I have a different question
 
@@ -2187,13 +2177,13 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-My account was disabled
+What happens if I repeatedly infringe?
 
-What is repeat infringer policy?
+What is Instagram's repeat infringer policy?
 
-My content was restored
+What happens to my Instagram account?
 
-How to avoid copyright infringement?
+How do I avoid copyright infringement?
 
 I have a different question
 
@@ -2261,9 +2251,9 @@ Copy link
 
 How do I report trademark infringement?
 
-How do I use the Brand Rights Protection tool?
+How do I use Brand Rights Protection?
 
-What happens after I report infringement?
+How do I report copyright infringement?
 
 I have a different question
 
@@ -2324,15 +2314,13 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-Quem pode denunciar uma infração?
+How do I report Instagram copyright?
 
-Denunciar uma infração de direitos autorais
+How do I report Instagram trademark?
 
-Denunciar uma infração de marca registada
+How do I report Threads copyright?
 
-O que acontece após a denúncia?
-
-Tenho uma pergunta diferente
+I have a different question
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
@@ -2383,11 +2371,11 @@ How to report a username on Instagram or Threads for infringing my trademark
 
 Copy link
 
-How do I report a username?
+How do I report Instagram username?
 
-What is trademark infringement?
+How do I report Threads username?
 
-Can I report for copyright?
+How do I report trademark infringement?
 
 I have a different question
 
@@ -2445,11 +2433,11 @@ Information that you need to include in a copyright report to Instagram or Threa
 
 Copy link
 
-How do I report copyright?
+How do I report copyright on Instagram?
 
-What info do I need?
+What info do I need for a copyright report?
 
-Where do I find a URL?
+How do I find a URL for content?
 
 I have a different question
 
@@ -2515,11 +2503,13 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is copyright infringement?
+How do I report intellectual property?
 
-What is trademark infringement?
+What are Instagram copyright permissions?
 
-What are the legal consequences?
+What are Instagram trademark permissions?
+
+What are legal consequences of reporting?
 
 I have a different question
 
@@ -2592,9 +2582,7 @@ What is trademark infringement?
 
 What is nominative fair use?
 
-Are there geographic limits?
-
-What are limited trademark rights?
+Are trademark rights limited geographically?
 
 I have a different question
 
@@ -2661,7 +2649,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Factors of fair use
+What are fair use factors?
 
 I have a different question
 
@@ -2748,13 +2736,13 @@ Information that you need to include in a trademark report on Instagram or Threa
 
 Copy link
 
-How do I report trademark infringement?
+How do I report a trademark on Instagram?
 
-What contact information do I need?
+How do I find a URL on Instagram?
 
-What is a trademark registration number?
+How do I report a trademark on Threads?
 
-How do I find a URL?
+What information does Instagram need?
 
 I have a different question
 
@@ -2828,11 +2816,11 @@ What happens when you submit a trademark report to Instagram or Threads
 
 Copy link
 
-What happens after I report?
+How do I submit a trademark report?
 
-What information is shared?
+How do I respond to a trademark report?
 
-Can I appeal a decision?
+How does Instagram use my report?
 
 I have a different question
 
@@ -2897,13 +2885,11 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Copy link
 
-How do I withdraw an IP report?
+How do I withdraw an Instagram report?
 
-How do I cancel an IP report?
+How do I cancel an Instagram report?
 
-How do I withdraw a trademark report?
-
-How do I withdraw a copyright report?
+How do I withdraw a Threads report?
 
 I have a different question
 
@@ -2963,9 +2949,9 @@ Instagram or Threads removed content as a result of your trademark report. What 
 
 Copy link
 
-What information is shared?
+What information is sent?
 
-Who receives my information?
+What is a trademark report?
 
 What if I appeal?
 
@@ -3028,9 +3014,9 @@ Resolve issues, make changes and get support in real time
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
 
-Appeal content removal
+How do I appeal Instagram content removal?
 
-Submit a DMCA counter-notification
+How do I submit a DMCA counter-notification?
 
 What happens after I appeal?
 

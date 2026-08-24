@@ -551,9 +551,9 @@ How do I avoid Instagram copyright?
 
 How do I post my own content?
 
-How do I get permission to post?
+How do I get content permission?
 
-How does fair use apply?
+How do I know if content is copyrighted?
 
 I have a different question
 

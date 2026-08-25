@@ -4184,14 +4184,14 @@ Product rating policies
 
 **Label assets that are AI edited or created**
 
-AI regulations in the European Union, India, and New York require that ads with certain AI-generated or edited assets include disclosures and/or labels that inform consumers that the ads were made with AI.
+AI regulations in the European Union, India and New York require that ads with certain AI-generated or -edited assets include disclosures and/or labels that inform consumers that the ads were made with AI.
 
-Add labels directly to your creatives or use the AI label setting in Google Ads, Display & Video 360, Campaign Manager 360, Merchant Center, and Ads Editor to add AI labels to your creatives. Learn more about how to [Use AI content label settings to label your ads](https://support.google.com/google-ads/answer/17140115).
+Add labels directly to your creatives or use the AI label setting in Google Ads, Display & Video 360, Campaign Manager 360, Merchant Center and Ads Editor to add AI labels to your creatives. Learn more about how to [Use AI content label settings to label your ads](https://support.google.com/google-ads/answer/17140115).
 
 **Notes**
 
 *   These labels will not be in violation of [Google policies prohibiting text overlays](https://support.google.com/adspolicy/answer/10347108) and watermarks.
-*   Use of the AI label setting in Google’s advertising products doesn't guarantee your compliance with specific regulations. Seek legal guidance and take measures as needed to [ensure your ads and assets follow all local legal obligations and policies](https://support.google.com/adspolicy/answer/6023676)
+*   Use of the AI label setting in Google's advertising products doesn't guarantee your compliance with specific regulations. Seek legal guidance and take measures as needed to [ensure that your ads and assets follow all local legal obligations and policies](https://support.google.com/adspolicy/answer/6023676)
 
 We strive to provide shoppers with access to transparent, authentic and helpful product reviews to support a trustworthy shopping ecosystem.
 
@@ -5481,11 +5481,11 @@ Trade sanctions violation
 > 
 > Google Ads and Display & Video 360 aren't available to any entities or individuals that are restricted under applicable trade sanctions and export compliance laws. It's also not available to entities or individuals owned by, controlled by or acting for or on behalf of restricted entities or individuals.
 > 
-> > Ad campaigns that geographically target embargoed countries or territories are not allowed.
+> > Ad campaigns that geographically target embargoed countries or territories aren't allowed.
 > > 
-> > Ad campaigns that are run on behalf of businesses that are located in embargoed countries or regions are not allowed, even if the account owner is not located in an embargoed location.
+> > Ad campaigns that are run on behalf of businesses that are located in embargoed countries or regions aren't allowed, even if the account owner is not located in an embargoed location.
 > > 
-> > Ad campaigns that are run by or on behalf of entities or individuals that are restricted under applicable trade sanctions and regulations are not allowed.
+> > Ad campaigns that are run by or on behalf of entities or individuals that are restricted under applicable trade sanctions and regulations aren't allowed.
 > 
 > Google must comply with sanctions imposed by OFAC. Entities and individuals who are restricted cannot create or use a Google Ads or Display & Video 360 account or have Google Ads or Display & Video 360 used on their behalf. People who are located in or ordinarily reside in [embargoed countries or territories](https://support.google.com/google-ads/answer/6163740) cannot create or use a Google Ads or Display & Video 360 account. Currently, there are embargoes on Crimea, Cuba, so-called Donetsk People's Republic (DNR) and Luhansk People's Republic (LNR), Iran and North Korea.
 

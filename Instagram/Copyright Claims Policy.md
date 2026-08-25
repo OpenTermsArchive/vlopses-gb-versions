@@ -991,13 +991,11 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-How do I report Instagram copyright?
+How do I report copyright infringement on Instagram?
 
-How do I report Threads copyright?
+How do I report copyright infringement on Threads?
 
 How do I use Brand Rights Protection?
-
-How do I contact a DMCA agent?
 
 I have a different question
 

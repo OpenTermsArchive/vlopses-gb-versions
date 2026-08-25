@@ -7,7 +7,9 @@ How do I report copyright violations?
 
 How do I report trademark violations?
 
-What is intellectual property?
+What is Instagram copyright?
+
+What is Instagram trademark?
 
 I have a different question
 
@@ -991,11 +993,13 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-How do I report copyright infringement on Instagram?
+How do I report Instagram copyright?
 
-How do I report copyright infringement on Threads?
+How do I report Threads copyright?
 
 How do I use Brand Rights Protection?
+
+How do I contact a DMCA agent?
 
 I have a different question
 

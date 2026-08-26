@@ -3,13 +3,13 @@ Instagram Content Monetisation Policies
 
 Copy link
 
-How do Instagram monetization policies work?
+How do Instagram monetisation policies work?
 
-How do I check Instagram monetization eligibility?
+How does Instagram monetisation eligibility work?
 
 How do I monetise Instagram content?
 
-How do I fix Instagram monetization issues?
+How do I monetise Instagram videos?
 
 I have a different question
 
@@ -235,13 +235,13 @@ Instagram Partner Monetisation Policies
 
 Copy link
 
-How do Instagram monetization policies work?
+How do Instagram monetisation policies work?
 
-How do I become eligible for Instagram monetization?
+How do I monetise on Instagram?
 
-How do Instagram Community Standards apply?
+How do Instagram content policies work?
 
-How do I check Instagram payment terms?
+How do Instagram payment terms work?
 
 I have a different question
 

@@ -3,11 +3,13 @@ Information for law enforcement
 
 Copy link
 
-What information is disclosed?
+How do I request Instagram user information?
 
-What is a subpoena?
+How do I make an Instagram emergency request?
 
-What is a search warrant?
+How do I preserve Instagram account records?
+
+How do I submit an Instagram request?
 
 I have a different question
 

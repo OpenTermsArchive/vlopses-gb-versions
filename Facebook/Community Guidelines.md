@@ -3142,9 +3142,9 @@ Copy link
 
 What content does Facebook recommend?
 
-What content is not recommended?
+What content does Facebook not recommend?
 
-What accounts are not recommended?
+How do Facebook recommendations work?
 
 I have a different question
 

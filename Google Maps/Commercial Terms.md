@@ -1,10 +1,10 @@
 #### Google Maps Platform EEA Terms of Service
 
-These EEA Google Maps Platform Terms of Service, including the AUP and other URL Terms (together, the "Agreement") are entered into by Google (as defined at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity)) and the entity or person agreeing to these terms ("Customer") and will govern Customer’s access to and use of the Services. If Customer’s billing account address is in the European Economic Area, these Google Maps Platform EEA Terms of Service (“EEA TOS”) will govern Customer’s access to and use of the Services. However, to the extent that a Customer’s Project’s integration existing prior to 8 July, 2025 remains in an unmodified state, such Project’s integration will continue to be governed by the terms of the Google Maps Platform Terms of Service, as described at [https://cloud.google.com/maps-platform/terms](https://cloud.google.com/maps-platform/terms)), and not this Agreement.
+These EEA Google Maps Platform Terms of Service, including the AUP and other URL Terms (together, the "Agreement") are entered into by Google (as defined at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity)) and the entity or person agreeing to these terms ("Customer") and will govern Customer’s access to and use of the Services. If Customer’s billing account address is in the European Economic Area, these Google Maps Platform EEA Terms of Service ("EEA TOS") will govern Customer’s access to and use of the Services. However, to the extent that a Customer’s Project’s integration existing prior to 8 July, 2025 remains in an unmodified state, such Project’s integration will continue to be governed by the terms of the Google Maps Platform Terms of Service, as described at [https://cloud.google.com/maps-platform/terms](https://cloud.google.com/maps-platform/terms)), and not this Agreement.
 
 This Agreement is effective when Customer clicks to accept the Agreement, or enters into an agreement into which these terms are incorporated by reference (the "Effective Date"). As the person accepting this Agreement on Customer’s behalf, you represent and warrant that: (a) you have full legal authority to bind Customer to this Agreement; (b) you have read and understand this Agreement; and (c) you agree, on behalf of Customer, to this Agreement. If you do not have the legal authority to bind Customer, please do not click to accept or use the Services.
 
-If you are accessing the Services as a customer of an unaffiliated Google Maps reseller, these terms will apply to you in relation to your use of the Services (subject to the “Reseller Orders” section of this Agreement). However, if you fall under one of the exempt categories described at [https://cloud.google.com/terms/direct-tos-exemptions](https://cloud.google.com/terms/direct-tos-exemptions) for the applicable Services, these terms do not apply to you, unless you and Google agree otherwise in writing. If you become exempt from these terms after the Effective Date, this will not affect any liability arising between the parties prior to the date that you become exempt.
+If you are accessing the Services as a customer of an unaffiliated Google Maps reseller, these terms will apply to you in relation to your use of the Services (subject to the "Reseller Orders" section of this Agreement). However, if you fall under one of the exempt categories described at [https://cloud.google.com/terms/direct-tos-exemptions](https://cloud.google.com/terms/direct-tos-exemptions) for the applicable Services, these terms do not apply to you, unless you and Google agree otherwise in writing. If you become exempt from these terms after the Effective Date, this will not affect any liability arising between the parties prior to the date that you become exempt.
 
 #### 1\. Accessing the Services.
 
@@ -66,7 +66,7 @@ If you are accessing the Services as a customer of an unaffiliated Google Maps r
 
 3.3 _License Restrictions_. In this Section 3.3 (License Restrictions), the phrase "Customer will not" means "Customer will not, and will not permit a third party to."
 
-3.3.1 _General Restrictions._ Customer will not: (a) copy, modify, create a derivative work of, reverse engineer, decompile, translate, disassemble, or otherwise attempt to extract any or all of the source code (except to the extent such restriction is expressly prohibited by applicable law); (b) sell, resell, sublicense, transfer, or distribute the Services; or (c) access or use the Services: (i) for High Risk Activities; (ii) in a manner intended to avoid incurring Fees; (iii) for materials or activities that are subject to the International Traffic in Arms Regulations (ITAR) maintained by the United States Department of State; (iv) in a manner that breaches, or causes the breach of, Export Control Laws; (v) in a Customer Application that is distributed, marketed, or functional in a Prohibited Territory; (vi) in a Customer Application that would be deemed to be a “Web site or online service directed to children” under the Children’s Online Privacy Protection Act (COPPA); or (vii) to transmit, store, or process health information subject to United States HIPAA regulations_._
+3.3.1 _General Restrictions._ Customer will not: (a) copy, modify, create a derivative work of, reverse engineer, decompile, translate, disassemble, or otherwise attempt to extract any or all of the source code (except to the extent such restriction is expressly prohibited by applicable law); (b) sell, resell, sublicense, transfer, or distribute the Services; or (c) access or use the Services: (i) for High Risk Activities; (ii) in a manner intended to avoid incurring Fees; (iii) for materials or activities that are subject to the International Traffic in Arms Regulations (ITAR) maintained by the United States Department of State; (iv) in a manner that breaches, or causes the breach of, Export Control Laws; (v) in a Customer Application that is distributed, marketed, or functional in a Prohibited Territory; (vi) in a Customer Application that would be deemed to be a "Web site or online service directed to children" under the Children’s Online Privacy Protection Act (COPPA); or (vii) to transmit, store, or process health information subject to United States HIPAA regulations_._
 
 3.3.2 _Restrictions Against Misusing the Services._
 
@@ -188,9 +188,11 @@ _EXCEPT AS EXPRESSLY PROVIDED FOR IN THE AGREEMENT, TO THE FULLEST EXTENT PERMIT
 
 14.2.1 its infringement of the other party’s Intellectual Property Rights;
 
-14.2.2 its payment obligations under the Agreement; or
+14.2.2 its payment obligations under the Agreement;
 
-14.2.3 matters for which liability cannot be excluded or limited under applicable law.
+14.2.3 matters for which liability cannot be excluded or limited under applicable law; or
+
+14.2.4 Customer’s use of the Services in breach of any use or license restrictions in the Agreement.
 
 #### 15\. Advertising
 

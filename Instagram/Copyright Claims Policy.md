@@ -1682,11 +1682,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
+How do trademark rights work?
+
 How do I register a trademark?
 
-How do I protect a trademark?
+What are common law trademark rights?
 
-How do common law rights work?
+How do I protect my trademark?
 
 I have a different question
 
@@ -2826,13 +2828,13 @@ What happens when you submit a trademark report to Instagram or Threads
 
 Copy link
 
-How do I submit a trademark report?
+How do I check my Instagram report?
+
+How does Instagram use my report?
 
 How do I respond to Instagram?
 
-How does Instagram share my details?
-
-How do I get a report number?
+How do I appeal an Instagram report?
 
 I have a different question
 

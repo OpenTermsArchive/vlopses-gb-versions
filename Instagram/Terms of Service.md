@@ -3,11 +3,13 @@ Terms of Use
 
 Copy link
 
-What are Instagram Terms of Use?
+What happens if I delete Instagram?
 
-How is Instagram funded?
+Can I get my Instagram account back?
 
-What is Instagram's Privacy Policy?
+What happens to my Instagram data?
+
+How long does Instagram deletion take?
 
 I have a different question
 

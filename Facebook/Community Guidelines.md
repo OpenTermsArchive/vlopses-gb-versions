@@ -3140,6 +3140,8 @@ About recommendations on Facebook
 
 Copy link
 
+What are Facebook recommendations?
+
 What content does Facebook recommend?
 
 What content does Facebook not recommend?

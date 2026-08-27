@@ -5,74 +5,74 @@ Our Policies
 
 ==================
 
-YouTube's mission is to give everyone a voice and show them the world — and openness and free expression are at the heart of this. Our platform is a place where a broad range of perspectives are encouraged, and we don't shy away from disagreement and debate.
+YouTube’s mission is to give everyone a voice and show them the world — and openness and free expression are at the heart of this. Our platform is a place where a broad range of perspectives are encouraged, and we don’t shy away from disagreement and debate.
 
 How Community & Ad-Friendly Guidelines work
 -------------------------------------------
 
-Our policies help us maintain a responsible business that viewers, creators and advertisers can rely on in order to continue to thrive on YouTube.
+Our policies help us maintain a responsible business that viewers, creators, and advertisers can rely on in order to continue to thrive on YouTube.
 
-As with any system, we sometimes make mistakes. That's why [appeals](https://support.google.com/youtube/answer/185111?en-GB&co=GENIE.Platform%3DDesktop&sjid=6696618074483827073-NA) are an important part of our processes. Creators are notified when their videos are removed due to policy violations or when they may be suspended from the YPP, and can appeal if they disagree with our decision.
+As with any system, we sometimes make mistakes. That’s why [appeals](https://support.google.com/youtube/answer/185111?co=GENIE.Platform%3DDesktop&sjid=9395522532112275037-NC) are an important part of our processes. Creators are notified when their videos are removed due to policy violations or when they may be suspended from YPP, and can appeal if they disagree with our decision.
 
-Our [Community Guidelines](https://support.google.com/youtube/answer/9288567?en-GB&sjid=6696618074483827073-NA) and [Advertiser-Friendly Content Guidelines](https://support.google.com/youtube/answer/6162278?en-GB&sjid=6696618074483827073-NA) are what enable us to strike this balance.
+Our [Community Guidelines](https://support.google.com/youtube/answer/9288567) and [Advertiser-Friendly Content Guidelines](https://support.google.com/youtube/answer/6162278) are what enable us to strike this balance.
 
-[Community Guidelines](https://support.google.com/youtube/answer/9288567?en-GB&sjid=6696618074483827073-NA)
+[Community Guidelines](https://support.google.com/youtube/answer/9288567)
 
-Content that violates our Community Guidelines is flagged by a mix of **automated detection and human reporting** — most of which is detected automatically — and we go to great lengths to make sure that violative content isn’t widely viewed, or even viewed at all, before it’s taken down.
+Content that violates our community guidelines is flagged by a mix of **automated detection and human reporting** — most is automatically detected — and we go to great lengths to make sure violative content isn’t widely viewed, or even viewed at all, before it’s taken down.
 
-Exceptions can be made when content has a clear educational, documentary, scientific or artistic [(EDSA)](https://support.google.com/youtube/answer/6345162?ref_topic=9282435&sjid=277005303270439027-NA) context, including content that is in the public interest.
+Exceptions can be made when content has a clear educational, documentary, scientific, or artistic [(EDSA)](https://support.google.com/youtube/answer/6345162?ref_topic=9282435&sjid=277005303270439027-NA) context, including content that is in the public’s interest.
 
 * * *
 
-[Advertiser-Friendly Content Guidelines](https://support.google.com/youtube/answer/6162278?en-GB&sjid=6696618074483827073-NA)
+[Advertiser-Friendly Content Guidelines](https://support.google.com/youtube/answer/6162278)
 
-Brands rely on us to protect their business interests when they're advertising on YouTube.
+Brands rely on us to protect their business interests when they’re advertising on YouTube.
 
-To help support this, we have a set of ad-friendly guidelines that creators in the [YouTube Partner Programme (YPP)](https://support.google.com/youtube/answer/72851?en-GB&sjid=6696618074483827073-NA) need to follow in order to have ads served on their channel content and earn a share of the revenue.
+To help support this, we have a set of Ad-Friendly guidelines creators in the [YouTube Partner Program (YPP)](https://support.google.com/youtube/answer/72851?hl=en) need to follow in order to have Ads served on their channel content and earn a share of the revenue.
 
 * * *
 
 How we support creators
 -----------------------
 
-Since 2007, we've been paying eligible creators every month through our revenue-sharing model, the [YouTube Partner Programme](https://support.google.com/youtube/answer/72851?en-GB&sjid=6696618074483827073-NA).
+Since 2007, we’ve been paying eligible creators every month through our revenue-sharing model, the [YouTube Partner Program](https://support.google.com/youtube/answer/72851).
 
-For a creator to be eligible for the YPP, they must meet a higher bar for what they share on YouTube. Creators have to follow the [YouTube monetisation policies](https://support.google.com/youtube/answer/1311392?en-GB&sjid=6696618074483827073-NA) and we review each applicant's channel before admitting them to the YPP. We also demonetise videos that violate our advertiser-friendly guidelines, and suspend creators from the YPP for repeat offences. With this model, creators have a long-term incentive to reinforce YouTube's safety and follow our policies.
+For a creator to be eligible for YPP, they must meet a higher bar for what they share on YouTube. Creators have to follow [YouTube monetization policies](https://support.google.com/youtube/answer/1311392) and we review each applicant’s channel before admitting them to YPP. We also demonetize videos that violate our Advertiser Friendly Guidelines, and suspend creators from YPP for repeat offenses. With this model, creators have a long-term incentive to reinforce YouTube’s safety and follow our policies.
 
-We also provide creators with an array of tools to manage their content and communities:
+We also provide Creators with an array of tools to manage their content & communities:
 
 Manage Experiences
 
-Channel guidelines help creators to set what kind of conversations they want to have on their channel.
+Channel Guidelines help creators set what kind of conversations they want to have on their channel.
 
-Creators can hold potentially inappropriate comments for review, hide certain individuals, block words, assign moderation privileges and more.
+Creators can hold potentially inappropriate comments for review, hide certain individuals, block words, assign moderation privileges, and more.
 
 * * *
 
-[How to set channel guidelines](https://support.google.com/youtube/answer/11895180?en-GB&sjid=6696618074483827073-NA)
+[How to set channel guidelines](https://support.google.com/youtube/answer/11895180?sjid=16252001751925794258-NC)
 
 Channel Management
 
-We provide creators with an array of products that help them to decide how to manage their channels.
+We provide creators with an array of products that help them decide how to manage their channels.
 
 * * *
 
-[How to manage posts and comments](https://support.google.com/youtube/topic/9257889?en-GB&ref_topic=9257610&sjid=6696618074483827073-NA)
+[How to manage posts and comments](https://support.google.com/youtube/topic/9257889?ref_topic=9257610&sjid=17973076408754828508-NC)
 
 Privacy & Safety Resources
 
-The privacy and safety of creators on YouTube is important to us, and we provide a range of tools and resources to support them.
+The privacy and safety of creators on YouTube is important to us, and we provide a range of tools & resources to support them.
 
 * * *
 
-[How to use privacy and safety tools,](https://support.google.com/youtube/topic/2803240?en-GB&ref_topic=6151248&sjid=6696618074483827073-NA)
+[How to use privacy and safety tools](https://support.google.com/youtube/topic/2803240?ref_topic=6151248&sjid=16252001751925794258-NC)
 
 How YouTube Partners with Industry Experts to Combat Abuse
 ----------------------------------------------------------
 
-Content that's meant to praise, promote or aid violent extremist or criminal organisations is not allowed on YouTube. We rely on many factors – like certain government and international organisation designations – to determine what constitutes criminal or terrorist organisations.
+Content that’s meant to praise, promote, or aid violent extremist or criminal organizations is not allowed on YouTube. We rely on many factors — like certain government and international organization designations — to determine what constitutes criminal or terrorist organizations.
 
-We're also a founding member of the Global Internet Forum to Counter Terrorism [(GIFCT)](https://gifct.org/), where we work with other tech companies to keep terrorist content off the web and provide training and other resources to smaller companies facing similar challenges.
+We’re also a founding member of the Global Internet Forum to Counter Terrorism [(GIFCT)](https://gifct.org/), where we work with other tech companies to keep terrorist content off the web — and provide training and other resources to smaller companies facing similar challenges.
 
 - - -
 

@@ -81,4 +81,4 @@ The Platform offers you a variety of ways to sort and filter search results, ens
 
 **• “Most Favourite”:** based on the Wishlist inclusions and sales within the previous day.
 
-Customers can also refine their search using filters for categories, sizes, colours, and other product attributes
+Customers can also refine their search using filters for categories, sizes, colours, and other product attributes.

@@ -351,11 +351,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What are my copyright rights?
+What are my copyright owner rights?
 
 What is copyright infringement?
 
 How do I grant copyright permission?
+
+How do I prevent copyright use?
 
 I have a different question
 

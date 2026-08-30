@@ -249,7 +249,7 @@ Exhibit A - Affiliate Earnings Terms and Conditions
 
 3\. Your Commission will be credited to your “Pending” balance 2 days following the placement of each Qualifying Order. We will verify your Commission for a Qualifying Order after the order delivery has been confirmed.The verification period will be displayed on the applicableProgram pageand mayvary depending on the Commission.During this period, the Commission will remain pending and cannot be withdrawn until it is verified and shown as “Available.”
 
-4\. Only Affiliate Earnings shown as your “Available Earnings” are eligible for withdrawal..You can withdraw the Affiliate Earnings in your “Available” account only if the balance is over £20. No withdrawal is allowed if the balance is less than £20. The full balance of your “Available” account must be withdrawn; partial withdrawals are not permitted.
+4\. Only Affiliate Earnings shown as your “Available Earnings” are eligible for withdrawal.You may choose to withdraw your “Available Earnings” as [Temu Credits](https://www.temu.com/temu-credit-balance-policy.html) to your Temu account, or as cash via PayPal.You can withdraw the Affiliate Earnings in your “Available” account only if the balance is over £20. No withdrawal is allowed if the balance is less than £20. The full balance of your “Available” account must be withdrawn; partial withdrawals are not permitted.
 
 5\. If the Qualifying Order is canceled or returned, the Commission and other relevant Affiliate Earnings will be deducted accordingly.
 
@@ -269,13 +269,13 @@ Exhibit A - Affiliate Earnings Terms and Conditions
 
 7\. Withdrawal Methods and Limits
 
-Temu may offer one or more withdrawal methods (e.g., PayPal, depending on your country of residence), each of which is subject to specific daily withdrawal limits and transaction caps. For example:
+Temu may offer one or more withdrawal methods (e.g., PayPal,Temu credit, depending on your country of residence), each of which is subject to specific daily withdrawal limits and transaction caps. For example:
 
-• PayPal: Up to £1,000 for your first withdrawal. Up to £5,000 per day; max 5 withdrawals per day.
+• PayPal: Up to £1,000 for your first withdrawal. Up to £5,000 per day; max 5 withdrawals per day. • Temu credit: Up to £750 for your first withdrawal. Up to £750 per day; max 2 withdrawals per day.
 
 8\. If the withdrawal method you choose involves different currencies, the applicable exchange rate shall be subject to the rate displayed on the withdrawal page at the time of withdrawal.
 
-9\. To withdraw the Affiliate Earnings in your “Available” account as cash, you need to provide and verify your PayPal account and mobile phone number. It may take a few days to receive your payment, depending on PayPal’s processing time.
+9\. To withdraw the Affiliate Earnings in your “Available” account as cash, you need to provide and verify your withdrawal information—such as your account details, mobile phone number, and beneficiary name—based on the withdrawal method you choose. It may take a few days to receive your payment, depending on the processing time of the selected method.
 
 Exhibit B – Endorsement Guideline
 ---------------------------------

@@ -2000,13 +2000,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-What is Facebook copyright?
+What is Facebook copyright law?
 
 How do I avoid Facebook copyright?
 
-What is Facebook fair use?
+What is fair use on Facebook?
 
-How do I get content permission?
+What is public domain content?
 
 I have a different question
 

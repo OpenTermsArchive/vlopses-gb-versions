@@ -3,13 +3,13 @@ Information for law enforcement
 
 Copy link
 
-What are Instagram operational guidelines?
+What are Instagram user information requests?
 
-What Instagram user information is available?
+What Instagram data is available?
 
-How do I submit an emergency request?
+How do I make an emergency request?
 
-How do I submit a request?
+How do I submit an Instagram request?
 
 I have a different question
 

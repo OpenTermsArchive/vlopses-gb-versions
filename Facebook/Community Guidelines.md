@@ -2140,20 +2140,20 @@ Note: If you are a European Union user and are seeing content that you believe v
 
 - - -
 
-Violent and graphic content
+Violent and Graphic Content
 ===========================
 
 ### Policy details
 
 CHANGE LOG
 
-Policy rationale
+Policy Rationale
 
 We understand that people have different sensitivities with regard to graphic and violent imagery. To protect users from such content, we remove the most graphic content and add warning labels to other types of content so that people are aware that it may be sensitive before they click through. We restrict the ability for younger users to see content that may not be suitable or age-appropriate for them. By doing so, we aim to provide an appropriate user experience, while continuing to provide space for our users to express themselves.
 
 We recognise that users may share content in order to shed light on or condemn acts, such as human rights abuses or armed conflict. Our policies consider when content shared in this context and allow room for discussion and awareness raising accordingly.
 
-For paid advertising, we provide additional protections. For example, content that has been deemed as sensitive is not eligible to run in ads. We also prohibit ads from including images and videos that are shocking, gruesome or otherwise sensational. For more information, please consult our [Advertising Standards](https://transparency.meta.com/policies/ad-standards/objectionable-content/sensational-content/).
+For paid advertising, we provide additional protections. For example, content that has been deemed sensitive is not eligible to run in ads. We also prohibit ads from including images and videos that are shocking, gruesome or otherwise sensational. For more information, please consult our [Advertising Standards](https://transparency.meta.com/policies/ad-standards/objectionable-content/sensational-content/).
 
 Do not post:
 
@@ -2170,7 +2170,7 @@ Videos of people, living or deceased, in non-medical contexts, depicting:
 *   Throat-slitting.
     
 
-Live-streams of capital punishments.
+Live streams of capital punishments.
 
 **Sadistic remarks**
 
@@ -2178,7 +2178,7 @@ Sadistic remarks are commentary – such as captions or comments – expressing 
 
 We remove
 
-*   Sadistic remarks made towards imagery (both videos and still images) that otherwise receives a warning screen under this policy, advising people that the content may be sensitive, unless the imagery depicts acts of self-defence (e.g. video of someone defending themselves from armed robbery) or is in a medical context (e.g. an image of medical professionals performing surgery).
+*   Sadistic remarks made toward imagery (both videos and still images) that otherwise receives a warning screen under this policy, advising people that the content may be sensitive; unless the imagery depicts acts of self-defence (e.g. video of someone defending themselves from armed robbery) or is in a medical context (e.g. an image of medical professionals performing surgery).
     
 *   Explicit sadistic remarks made towards the suffering of animals depicted in imagery, and imagery depicting animals going from live to dead.
     
@@ -2193,7 +2193,7 @@ Videos of people, living or deceased, in medical contexts depicting:
 
 *   Dismemberment.
     
-*   VIsible innards, such as exposed organs, bones or muscle tissue on living or deceased persons;
+*   Visible innards, such as exposed organs, bones or muscle tissue on living or deceased persons;
     
 *   Burning or charred persons, including in contexts of cremation; or
     
@@ -2211,9 +2211,9 @@ Still images of people, living or deceased, depicting:
 *   Throat-slitting.
     
 
-Imagery (both videos and still images) depicting a persons' violent death (including their moment of death or the aftermath) or a person experiencing a life-threatening event (such as being struck by a car, falling from a great height or experiencing other possibly fatal physical injury).
+Imagery (both videos and still images) depicting a person's violent death (including their moment of death or the aftermath) or a person experiencing a life threatening event (such as being struck by a car, falling from a great height or experiencing other possibly fatal physical injury).
 
-Imagery depicting capital punishment of a person (excluding live-streams).
+Imagery depicting capital punishment of a person (excluding live streams).
 
 Imagery depicting acts of brutality (e.g. acts of violence or lethal threats on forcibly restrained subjects) committed against a person or group of people.
 
@@ -2243,15 +2243,17 @@ Imagery depicting needles piercing a person's skin outside of a vaccination, acu
 
 Imagery depicting injured people in medical contexts when they appear to be in pain or distress, bruised or with medical tubing in their face and/or hands.
 
-Imagery depicting human waste and bodily fluids (e.g. faeces, urine, vomit, earwax, mucus, byproduct of dermal extractions or blood).
+Imagery depicting human waste and bodily fluids (e.g. faeces, urine, vomit, earwax, mucus, by-product of dermal extractions or blood).
 
 Imagery depicting vehicles that are burning or exploding, or depicting the moment or aftermath of speeding vehicles' impact with other objects where the vehicle is dislodged from its path and/or the vehicle's driver or passenger compartments are severely damaged.
+
+Imagery of physical fights between two or more people, except in a sports context.
 
 **Imagery of animals**
 
 Imagery depicting animals, living or dead, where visible blood is present.
 
-Imagery depicting animals in a birthing context (e.g. there is blood or visible innards present).
+Imagery depicting animals in a birthing context (e.g., there is blood or visible innards present).
 
 Imagery depicting animals, living or dead, where insects are seen coming out of them (e.g. maggots or worms).
 
@@ -2306,7 +2308,7 @@ For the following Community Standards, we require additional information and/or 
 
 We do not allow:
 
-Imagery or audio of a person's violent death when the person's death is confirmed by law enforcement record, death certificate, trusted partner report or media report and a family member of the deceased requests its removal.
+Imagery or audio of a person's violent death when the person's death is confirmed by law enforcement record, death certificate, report by a trusted partner or media report and a family member of the deceased requests its removal.
 
 Video of charred or burning humans in the context of self-immolation as an act of protest.
 
@@ -2629,11 +2631,11 @@ Authentic identity representation
 
 CHANGE LOG
 
-Policy rationale
+Policy Rationale
 
 Authenticity is the cornerstone of our community. We believe that authenticity helps create a community where people are accountable to each other, and to Meta, in meaningful ways. We want to allow for the many ways that identity is expressed across our global community, while preventing impersonation and identity misrepresentation. To maintain a safe and open environment where people can trust one another and build community, we do not allow for the creation of accounts or profiles that are created or used to deceive others.
 
-On Facebook, we require people to create one account using the name they go by in everyday life that represents their authentic identity. We created [additional profiles](https://www.facebook.com/help/967154637433480) to help people express different parts of their identity, such as their interests or businesses.
+On Facebook, we require people to create one account using the name they go by in everyday life that represents their authentic identity. We created [Additional Profiles](https://www.facebook.com/help/967154637433480) to help people express different parts of their identity, such as their interests or businesses.
 
 We do not allow the use of our services and will restrict or disable Facebook, Instagram and Threads accounts or other Facebook entities (such as Pages or groups) that:
 
@@ -2646,7 +2648,7 @@ We do not allow the use of our services and will restrict or disable Facebook, I
     *   Speaking in the voice of another person or entity for whom the user is not authorised to do so (e.g. by creating a Page or profile)
         
     
-*   Engage in identity misrepresentation to mislead or deceive others, evade enforcement or violate our Community Standards. We consider a number of factors when assessing misleading identity misrepresentation, such as:
+*   Engage in identity misrepresentation to mislead or deceive others, evade enforcement, or violate our Community Standards. We consider a number of factors when assessing misleading identity misrepresentation, such as:
     
     *   Repeated or significant changes to identity details, such as name or age
         
@@ -2671,6 +2673,11 @@ On Facebook, we will seek further information before taking actions ranging from
 *   Create an account that represents a non-human entity, such as a business, pet or fictional character
     
 *   Maintain empty profiles with prolonged dormancy
+    
+
+**Fan, satire and parody accounts**
+
+We allow accounts dedicated to fan sentiment, humour, parody, satire, criticism, commentary and opinion. The account must make its unofficial status abundantly clear at minimum in the account name and ideally elsewhere on the profile, such as in the profile photo or bio (e.g. by including "fan page" in the handle/name). Accounts that do not clearly disclose their unofficial nature may be restricted or removed.
 
 - - -
 

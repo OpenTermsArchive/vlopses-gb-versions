@@ -33,7 +33,7 @@ Read the full Policy below.
 
 What information do we collect?
 
-The information that we collect and process about you depends on how you use our [Products](https://privacycenter.instagram.com/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). For example, we collect different information if you sell furniture on Marketplace than if you ask [AI at Meta](https://www.facebook.com/privacy/genai) to write a joke for you. When you use our products, we collect some information about you [even if you don't have an account](https://privacycenter.instagram.com/policy/?annotations[0]=1.ex.41-InformationWeCollectIf).
+The information that we collect and process about you depends on how you use our [Products](https://privacycenter.instagram.com/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). For example, we collect different information if you sell furniture on Marketplace than if you ask Meta AI to write a joke for you. When you use our products, we collect some information about you [even if you don't have an account](https://privacycenter.instagram.com/policy/?annotations[0]=1.ex.41-InformationWeCollectIf).
 
 Here's the information we collect:
 

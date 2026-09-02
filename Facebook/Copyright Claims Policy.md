@@ -18,9 +18,9 @@ What is Facebook copyright?
 
 What is Facebook trademark?
 
-How do I report copyright?
+How do I report copyright violations?
 
-How do I report trademark?
+How do I report trademark violations?
 
 I have a different question
 
@@ -459,13 +459,11 @@ What is a counterfeit?
 
 Copy link
 
+What is a counterfeit good?
+
 How do I report counterfeit goods?
 
 What is trademark infringement?
-
-How do I identify a counterfeit?
-
-What happens if I sell counterfeits?
 
 I have a different question
 

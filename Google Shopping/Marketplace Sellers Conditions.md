@@ -5105,15 +5105,15 @@ Which policies are considered to be egregious?
 Fix your suspended account
 --------------------------
 
-If you believe that there’s been an error and that you haven’t violated Google Ads' policies, submit an appeal.
+If you believe that there's been an error and that you haven't violated the Google Ads policies, submit an appeal.
 
-*   In your Google Ads account, click the **Contact us** link in the notification at the top of your screen.
-*   This link will direct you to the appeal form on the right side of your screen.
+*   In your Google Ads account, select the **Contact us** link in the notification at the top of your screen.
+*   This link will direct you to the appeal form on the right-hand side of your screen.
 *   While you complete the form, relevant policy information will appear to help you understand the reason for the suspension and the appeal process.
 
-If you select 'Contact Us' again while your appeal is still being processed, your Google Ads account will have an 'Appeal pending' status. When your appeal is reviewed, you'll receive an email with the outcome. If your appeal is rejected, you can re-appeal following the same process outlined above.
+If you select **Contact us** again while your appeal is still being processed, your Google Ads account will have an 'Appeal pending' status. When your appeal is reviewed, you'll receive an email with the outcome. If your appeal is rejected, you can re-appeal following the same process outlined above.
 
-Certain selected advertisers must complete [advertiser verification](https://support.google.com/adspolicy/answer/9703665#900) successfully to appeal their account suspension. If Google isn't able to verify their identity after three attempts, they won't be allowed to appeal their account suspension. Advertisers suspended for billing and payment suspensions may be asked to verify their payment method to process their appeals.
+Certain selected advertisers must complete [advertiser verification](https://support.google.com/adspolicy/answer/9703665#900) successfully to appeal their account suspension. If Google isn't able to verify their identity after three attempts, they won't be allowed to appeal their account suspension. Advertisers suspended for [billing and payment issues](https://support.google.com/google-ads/answer/13704200) may be asked to verify their payment method to process their appeals.
 
 Accounts are only reinstated in compelling circumstances, such as in the case of a mistake, so it's important that you take the time to be thorough, accurate and honest.
 

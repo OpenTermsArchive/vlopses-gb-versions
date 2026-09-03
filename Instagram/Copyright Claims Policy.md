@@ -1817,11 +1817,13 @@ How long does trademark protection last?
 
 Copy link
 
-What is trademark protection?
-
-How do I renew trademark registration?
+How long does trademark protection last?
 
 What happens if I stop using a trademark?
+
+How do I renew a trademark registration?
+
+What are trademark rights?
 
 I have a different question
 

@@ -217,9 +217,11 @@ Copy link
 
 What does copyright protect?
 
-What is an original work?
+What is copyright infringement?
 
-What is not protected by copyright?
+What is fair use?
+
+How do I report copyright infringement?
 
 I have a different question
 
@@ -997,9 +999,7 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-What is a DMCA designated agent?
-
-What happens after I report?
+How do I contact DMCA agent?
 
 I have a different question
 
@@ -2836,13 +2836,13 @@ What happens when you submit a trademark report to Instagram or Threads
 
 Copy link
 
-What happens after I report a trademark?
+What happens after an Instagram trademark report?
 
-How do I check my Instagram trademark report?
+How do I respond to an Instagram trademark report?
 
-What information does Instagram share?
+What information is shared in an Instagram trademark report?
 
-How do I appeal an Instagram trademark decision?
+How do I save my Instagram report number?
 
 I have a different question
 

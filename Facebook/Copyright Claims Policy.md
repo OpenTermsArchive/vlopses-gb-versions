@@ -397,11 +397,13 @@ How long does trademark protection last?
 
 Copy link
 
-What are trademark rights?
-
 How long do trademark rights last?
 
 How do I renew trademark rights?
+
+What happens if I stop using a trademark?
+
+What is USPTO trademark registration?
 
 I have a different question
 
@@ -1383,11 +1385,11 @@ Copy link
 
 How do I report a third-party app?
 
-What is a third-party app?
+What is intellectual property infringement?
 
 How do I contact an app developer?
 
-What is intellectual property infringement?
+What are Facebook's Terms of Service?
 
 I have a different question
 
@@ -1938,9 +1940,11 @@ Copy link
 
 What is copyright protection?
 
+How long does copyright last?
+
 What is the public domain?
 
-How long does copyright last?
+How does copyright law work?
 
 I have a different question
 

@@ -397,13 +397,11 @@ How long does trademark protection last?
 
 Copy link
 
+What are trademark rights?
+
 How long do trademark rights last?
 
 How do I renew trademark rights?
-
-What happens if I stop using a trademark?
-
-What is USPTO trademark registration?
 
 I have a different question
 
@@ -1940,11 +1938,9 @@ Copy link
 
 What is copyright protection?
 
-How long does copyright last?
-
 What is the public domain?
 
-How does copyright law work?
+How long does copyright last?
 
 I have a different question
 

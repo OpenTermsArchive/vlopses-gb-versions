@@ -997,7 +997,9 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-How do I contact DMCA agent?
+What is a DMCA designated agent?
+
+What happens after I report?
 
 I have a different question
 
@@ -2834,13 +2836,13 @@ What happens when you submit a trademark report to Instagram or Threads
 
 Copy link
 
-What happens after an Instagram trademark report?
+What happens after I report a trademark?
 
-How do I respond to an Instagram trademark report?
+How do I check my Instagram trademark report?
 
-What information is shared in an Instagram trademark report?
+What information does Instagram share?
 
-How do I save my Instagram report number?
+How do I appeal an Instagram trademark decision?
 
 I have a different question
 

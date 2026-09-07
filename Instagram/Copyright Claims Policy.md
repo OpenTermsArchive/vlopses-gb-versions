@@ -855,11 +855,13 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-What is Instagram's repeat infringer policy?
-
 What happens to my Instagram account?
 
+What is Instagram's repeat infringer policy?
+
 How do I avoid Instagram copyright infringement?
+
+What if my Instagram account was disabled by mistake?
 
 I have a different question
 
@@ -997,7 +999,9 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-How do I contact DMCA agent?
+What is a DMCA designated agent?
+
+What happens after I report?
 
 I have a different question
 
@@ -1872,13 +1876,11 @@ What is a counterfeit?
 
 Copy link
 
-How do I report counterfeit goods?
+What is a counterfeit good?
 
-What are counterfeit goods?
+How do I report counterfeit goods on Instagram?
 
-How do I report counterfeit products?
-
-How do I use Brand Rights Protection?
+How do I report counterfeit goods on Threads?
 
 I have a different question
 
@@ -2193,11 +2195,13 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-What is Instagram's repeat infringer policy?
-
 What happens to my Instagram account?
 
+What is Instagram's repeat infringer policy?
+
 How do I avoid Instagram copyright infringement?
+
+What if my Instagram account was disabled by mistake?
 
 I have a different question
 

@@ -217,11 +217,9 @@ Copy link
 
 What does copyright protect?
 
-What is copyright infringement?
+What is an original work?
 
-What is fair use?
-
-How do I report copyright infringement?
+What is not protected by copyright?
 
 I have a different question
 
@@ -1874,11 +1872,13 @@ What is a counterfeit?
 
 Copy link
 
-What is a counterfeit good?
+How do I report counterfeit goods?
 
-How do I report counterfeit goods on Instagram?
+What are counterfeit goods?
 
-How do I report counterfeit goods on Threads?
+How do I report counterfeit products?
+
+How do I use Brand Rights Protection?
 
 I have a different question
 

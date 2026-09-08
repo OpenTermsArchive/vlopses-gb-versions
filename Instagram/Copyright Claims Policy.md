@@ -796,11 +796,13 @@ What to do if content that you posted on Instagram or Threads is removed because
 
 Copy link
 
-What happens to removed Instagram content?
+How do I appeal Instagram content removal?
 
-How do I appeal Instagram copyright removal?
+What is Instagram copyright infringement?
 
-How do I contact the rights owner?
+What is Instagram trademark infringement?
+
+How do I use music on Instagram?
 
 I have a different question
 
@@ -855,13 +857,11 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-What happens to my Instagram account?
-
 What is Instagram's repeat infringer policy?
 
-How do I avoid Instagram copyright infringement?
+What happens to my Instagram account?
 
-What if my Instagram account was disabled by mistake?
+How do I avoid Instagram copyright infringement?
 
 I have a different question
 
@@ -999,9 +999,7 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-What is a DMCA designated agent?
-
-What happens after I report?
+How do I contact DMCA agent?
 
 I have a different question
 
@@ -2195,13 +2193,11 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-What happens to my Instagram account?
-
 What is Instagram's repeat infringer policy?
 
-How do I avoid Instagram copyright infringement?
+What happens to my Instagram account?
 
-What if my Instagram account was disabled by mistake?
+How do I avoid Instagram copyright infringement?
 
 I have a different question
 

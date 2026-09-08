@@ -796,13 +796,11 @@ What to do if content that you posted on Instagram or Threads is removed because
 
 Copy link
 
-How do I appeal Instagram content removal?
+What happens to removed Instagram content?
 
-What is Instagram copyright infringement?
+How do I appeal Instagram copyright removal?
 
-What is Instagram trademark infringement?
-
-How do I use music on Instagram?
+How do I contact the rights owner?
 
 I have a different question
 

@@ -2149,19 +2149,23 @@ Related articles
 
 [What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://help.instagram.com/1445818549016877/?helpref=related_articles)
 
+[Report content on Threads](https://help.instagram.com/6602413966453273/?helpref=related_articles)
+
 [What to do if Instagram didn't remove content that you reported](https://help.instagram.com/861685284411197/?helpref=related_articles)
 
 [What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights](https://help.instagram.com/1586774981367195/?helpref=related_articles)
 
 [Retract an intellectual property report that you've submitted to Instagram or Threads](https://help.instagram.com/275268756304020/?helpref=related_articles)
 
-[How to appeal the removal of content on Instagram or Threads for trademark reasons](https://help.instagram.com/693680257839261/?helpref=related_articles)
-
 Related articles
 
 [What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement
 
 * * *](https://help.instagram.com/1445818549016877/?helpref=related_articles)
+
+[Report content on Threads
+
+* * *](https://help.instagram.com/6602413966453273/?helpref=related_articles)
 
 [What to do if Instagram didn't remove content that you reported
 
@@ -2171,11 +2175,7 @@ Related articles
 
 * * *](https://help.instagram.com/1586774981367195/?helpref=related_articles)
 
-[Retract an intellectual property report that you've submitted to Instagram or Threads
-
-* * *](https://help.instagram.com/275268756304020/?helpref=related_articles)
-
-[How to appeal the removal of content on Instagram or Threads for trademark reasons](https://help.instagram.com/693680257839261/?helpref=related_articles)
+[Retract an intellectual property report that you've submitted to Instagram or Threads](https://help.instagram.com/275268756304020/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

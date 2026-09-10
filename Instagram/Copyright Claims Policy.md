@@ -1817,11 +1817,13 @@ How long does trademark protection last?
 
 Copy link
 
-What is trademark protection?
-
-How do I renew trademark registration?
+How long does trademark protection last?
 
 What happens if I stop using a trademark?
+
+How do I renew a trademark registration?
+
+What are trademark rights?
 
 I have a different question
 
@@ -2836,13 +2838,13 @@ What happens when you submit a trademark report to Instagram or Threads
 
 Copy link
 
-What happens after an Instagram trademark report?
+What happens after I report a trademark?
 
-How do I respond to an Instagram trademark report?
+How do I check my Instagram trademark report?
 
-What information is shared in an Instagram trademark report?
+What information does Instagram share?
 
-How do I save my Instagram report number?
+How do I respond to an Instagram report?
 
 I have a different question
 

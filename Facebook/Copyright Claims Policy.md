@@ -2430,7 +2430,7 @@ How do I file a DMCA counter-notification?
 
 What happens after I file a counter-notification?
 
-How long does a DMCA counter-notification take?
+How long does a counter-notification take?
 
 I have a different question
 

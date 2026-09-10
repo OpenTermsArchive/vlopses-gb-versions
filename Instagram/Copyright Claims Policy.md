@@ -351,11 +351,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What are my copyright rights?
+What are copyright owner rights?
+
+How do I protect my copyright?
 
 What is copyright infringement?
 
-How do I grant copyright permission?
+How do I report copyright infringement?
 
 I have a different question
 
@@ -997,9 +999,7 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-What is a DMCA designated agent?
-
-What happens after I report?
+How do I contact DMCA agent?
 
 I have a different question
 
@@ -1577,35 +1577,35 @@ Please note that Instagram and Threads can't adjudicate disputes between third p
 Related articles
 ----------------
 
+[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+
 [Trademark](https://help.instagram.com/222826637847963/?helpref=related_articles)
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
 [How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
 Related articles
-
-[Trademark
-
-* * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
 
 [The difference between copyright and trademark
 
 * * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
+[Trademark
+
+* * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
+
+[Are there any limits to trademark rights?
+
+* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
+
 [Does a trademark need to be registered to be protected?
 
 * * *](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
-[How long does trademark protection last?
-
-* * *](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1817,13 +1817,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long does trademark protection last?
+What is trademark protection?
+
+How do I renew trademark registration?
 
 What happens if I stop using a trademark?
-
-How do I renew a trademark registration?
-
-What are trademark rights?
 
 I have a different question
 
@@ -2838,13 +2836,13 @@ What happens when you submit a trademark report to Instagram or Threads
 
 Copy link
 
-What happens after I report a trademark?
+What happens after an Instagram trademark report?
 
-How do I check my Instagram trademark report?
+How do I respond to an Instagram trademark report?
 
-What information does Instagram share?
+What information is shared in an Instagram trademark report?
 
-How do I respond to an Instagram report?
+How do I save my Instagram report number?
 
 I have a different question
 

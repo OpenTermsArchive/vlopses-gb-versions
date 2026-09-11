@@ -351,13 +351,11 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What are my copyright owner rights?
+What are my copyright rights?
 
 What is copyright infringement?
 
 How do I grant copyright permission?
-
-How do I prevent copyright use?
 
 I have a different question
 
@@ -999,7 +997,9 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-How do I contact DMCA agent?
+What is a DMCA designated agent?
+
+What happens after I report?
 
 I have a different question
 

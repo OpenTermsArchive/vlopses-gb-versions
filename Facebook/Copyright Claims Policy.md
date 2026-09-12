@@ -2255,7 +2255,7 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
-What happens if Facebook removes my video?
+What happens if my Facebook video is removed?
 
 How do I appeal a Facebook video removal?
 
@@ -2494,11 +2494,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright infringement?
+How do I report Facebook copyright?
 
-How do I contact a designated agent?
+What is Facebook copyright infringement?
 
-What happens after I report copyright?
+How do I contact Facebook agent?
+
+How do I message content owner?
 
 I have a different question
 
@@ -2779,16 +2781,6 @@ What happens when you submit a copyright report to Meta
 =======================================================
 
 Copy link
-
-What happens after a copyright report?
-
-How do I respond to a copyright report?
-
-What information is shared in a report?
-
-How do I save my report number?
-
-I have a different question
 
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 

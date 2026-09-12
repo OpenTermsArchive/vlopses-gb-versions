@@ -2255,13 +2255,13 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
-What is Facebook copyright content?
+What happens if Facebook removes my video?
 
-What happens to removed videos?
+How do I appeal a Facebook video removal?
 
-How do I check my email settings?
+What are Facebook copyright rules?
 
-How do I check my notification settings?
+How do I check my Facebook notifications?
 
 I have a different question
 
@@ -2494,13 +2494,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report copyright infringement?
 
-What is Facebook copyright infringement?
+How do I contact a designated agent?
 
-How do I contact Facebook agent?
-
-How do I message content owner?
+What happens after I report copyright?
 
 I have a different question
 

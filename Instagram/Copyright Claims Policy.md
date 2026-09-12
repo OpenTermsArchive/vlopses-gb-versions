@@ -150,16 +150,6 @@ Resolve issues, make changes and get support in real time
 Trademark
 =========
 
-What do trademarks protect?
-
-How do I report trademark infringement?
-
-How do I avoid Instagram trademark infringement?
-
-What is trademark infringement?
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
 Please note that laws in different countries may vary. For more information on trademark law, you can visit the website of the [United States Patent and Trademark Office](http://www.uspto.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram or Threads can't provide you with legal advice, so you may want to speak with an attorney if you have more questions about trademarks.
@@ -521,9 +511,9 @@ Related articles
 
 [More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
 [What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Related articles
 
@@ -539,11 +529,11 @@ Related articles
 
 * * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?
+[What is trademark infringement?
 
-* * *](https://help.instagram.com/346906112398235/?helpref=related_articles)
+* * *](https://help.instagram.com/1904208239817294/?helpref=related_articles)
 
-[What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2035,9 +2025,9 @@ Related articles
 
 [More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
 [What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Related articles
 
@@ -2053,11 +2043,11 @@ Related articles
 
 * * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?
+[What is trademark infringement?
 
-* * *](https://help.instagram.com/346906112398235/?helpref=related_articles)
+* * *](https://help.instagram.com/1904208239817294/?helpref=related_articles)
 
-[What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

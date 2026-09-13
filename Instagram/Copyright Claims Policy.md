@@ -997,7 +997,9 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-How do I contact DMCA agent?
+What is a DMCA designated agent?
+
+What happens after I report?
 
 I have a different question
 
@@ -1133,16 +1135,6 @@ Can I report an infringement of someone else's intellectual property on Instagra
 =============================================================================================
 
 Copy link
-
-How do I report Instagram infringement?
-
-How do I report Threads infringement?
-
-What is Instagram intellectual property?
-
-What is Threads intellectual property?
-
-I have a different question
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
@@ -1874,11 +1866,9 @@ Copy link
 
 How do I report counterfeit goods on Instagram?
 
-What is a counterfeit good?
+What are counterfeit goods on Instagram?
 
-How do I use the Brand Rights Protection tool?
-
-What is trademark infringement?
+How do I report counterfeit goods on Threads?
 
 I have a different question
 
@@ -2127,11 +2117,11 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 
 Copy link
 
-What are my next steps?
+What happens after Instagram content is removed?
 
 How do I appeal Instagram content removal?
 
-What is intellectual property infringement?
+What is Instagram intellectual property infringement?
 
 How do I contact the rights owner?
 
@@ -2329,16 +2319,6 @@ Can I report an infringement of someone else's intellectual property on Instagra
 =============================================================================================
 
 Copy link
-
-How do I report Instagram infringement?
-
-How do I report Threads infringement?
-
-What is Instagram intellectual property?
-
-What is Threads intellectual property?
-
-I have a different question
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 

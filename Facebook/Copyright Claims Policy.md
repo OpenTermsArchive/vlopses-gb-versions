@@ -2261,6 +2261,8 @@ How do I appeal a Facebook video removal?
 
 What are Facebook copyright rules?
 
+How do I check my Facebook notifications?
+
 I have a different question
 
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
@@ -2562,16 +2564,6 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 =================================================================================
 
 Copy link
-
-How do I contact Meta DMCA agent?
-
-How do I send a DMCA report?
-
-What is Meta's DMCA email?
-
-What is Meta's DMCA address?
-
-I have a different question
 
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 

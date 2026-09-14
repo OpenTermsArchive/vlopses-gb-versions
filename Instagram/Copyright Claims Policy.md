@@ -2127,11 +2127,11 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 
 Copy link
 
-What happens after Instagram content is removed?
+What are my next steps?
 
 How do I appeal Instagram content removal?
 
-What is Instagram intellectual property infringement?
+What is intellectual property infringement?
 
 How do I contact the rights owner?
 

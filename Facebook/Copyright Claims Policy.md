@@ -521,14 +521,6 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What are trademark rights limits?
-
-What is nominative fair use?
-
-What is a trademark infringement?
-
-I have a different question
-
 Not all uses of a trademark without permission from the rights owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it's likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, that use is generally not considered infringing.
 
 Simply referring to a trademark for the purpose of discussing the product or service offered probably won't be an infringing use of the trademark, as long as that reference doesn't use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
@@ -2261,7 +2253,7 @@ How do I appeal a Facebook video removal?
 
 What are Facebook copyright rules?
 
-How do I check my Facebook notifications?
+How do I find my Facebook account email?
 
 I have a different question
 
@@ -2494,13 +2486,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report copyright infringement?
 
-What is Facebook copyright infringement?
+What happens when I report copyright?
 
-How do I contact Facebook agent?
-
-How do I message content owner?
+How do I contact Meta's agent?
 
 I have a different question
 
@@ -2564,6 +2554,16 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 =================================================================================
 
 Copy link
+
+How do I contact Meta DMCA agent?
+
+How do I send a DMCA report?
+
+What is Meta's DMCA email?
+
+What is Meta's DMCA address?
+
+I have a different question
 
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 

@@ -997,9 +997,7 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-What is a DMCA designated agent?
-
-What happens after I report?
+How do I contact DMCA agent?
 
 I have a different question
 
@@ -1135,6 +1133,16 @@ Can I report an infringement of someone else's intellectual property on Instagra
 =============================================================================================
 
 Copy link
+
+How do I report Instagram infringement?
+
+How do I report Threads infringement?
+
+What is Instagram intellectual property?
+
+What is Threads intellectual property?
+
+I have a different question
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
@@ -1866,9 +1874,11 @@ Copy link
 
 How do I report counterfeit goods on Instagram?
 
-What are counterfeit goods on Instagram?
+What is a counterfeit good?
 
-How do I report counterfeit goods on Threads?
+How do I use the Brand Rights Protection tool?
+
+What is trademark infringement?
 
 I have a different question
 
@@ -2319,6 +2329,16 @@ Can I report an infringement of someone else's intellectual property on Instagra
 =============================================================================================
 
 Copy link
+
+How do I report Instagram infringement?
+
+How do I report Threads infringement?
+
+What is Instagram intellectual property?
+
+What is Threads intellectual property?
+
+I have a different question
 
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 

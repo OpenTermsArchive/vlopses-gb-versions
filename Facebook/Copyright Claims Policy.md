@@ -2259,7 +2259,9 @@ What happens if Facebook removes my video?
 
 How do I appeal a Facebook video removal?
 
-Why was my Facebook video removed?
+What are Facebook copyright rules?
+
+How do I check my Facebook email?
 
 I have a different question
 

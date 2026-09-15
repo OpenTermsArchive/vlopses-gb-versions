@@ -997,7 +997,9 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-How do I contact DMCA agent?
+What is a DMCA designated agent?
+
+What happens after I report?
 
 I have a different question
 
@@ -1874,11 +1876,9 @@ Copy link
 
 How do I report counterfeit goods on Instagram?
 
-What is a counterfeit good?
+What are counterfeit goods on Instagram?
 
-How do I use the Brand Rights Protection tool?
-
-What is trademark infringement?
+How do I report counterfeit goods on Threads?
 
 I have a different question
 

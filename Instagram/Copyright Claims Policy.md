@@ -1195,11 +1195,11 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-What is Instagram's DMCA agent?
-
-How do I contact Instagram's DMCA agent?
+How do I contact Instagram DMCA agent?
 
 How do I send a DMCA report?
+
+What is Instagram's DMCA agent?
 
 What is a complete copyright claim?
 
@@ -1879,6 +1879,8 @@ How do I report counterfeit goods on Instagram?
 What are counterfeit goods on Instagram?
 
 How do I report counterfeit goods on Threads?
+
+What is trademark infringement?
 
 I have a different question
 

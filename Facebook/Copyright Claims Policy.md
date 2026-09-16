@@ -548,9 +548,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -564,13 +564,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect
-
-* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?
 
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect
+
+* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -2000,13 +2000,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-What is Facebook copyright law?
+What is Facebook copyright?
 
 How do I avoid Facebook copyright?
 
-What is fair use on Facebook?
+What is Facebook fair use?
 
-What is public domain content?
+How do I get content permission?
 
 I have a different question
 

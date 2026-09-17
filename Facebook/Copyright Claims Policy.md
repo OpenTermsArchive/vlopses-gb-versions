@@ -2135,11 +2135,11 @@ Related articles
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
-
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 Related articles
 
@@ -2151,15 +2151,15 @@ Related articles
 
 * * *](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[How long does copyright protection last?
-
-* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
-
 [How do you know if you own the copyright in a work
 
 * * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[Where can I learn more about copyright?
+
+* * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

@@ -862,9 +862,9 @@ To change your personalised advertised listing preferences, you can click here.
 Additional privacy options
 --------------------------
 
-Click here to make access, deletion or other specific requests relating to your personal information.
+Click here, Open in new tab. to make access, deletion or other specific requests relating to your personal information.
 
-Want to delete your account? To start the process tap here.
+Want to delete your account? To start the process tap here, Open in new tab..
 
 - - -
 

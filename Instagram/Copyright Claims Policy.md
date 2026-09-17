@@ -248,9 +248,9 @@ Related articles
 
 [What rights do I have as a copyright owner?](https://help.instagram.com/1992178671014348/?helpref=related_articles)
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
 [How do I know if I own the copyright in a work?](https://help.instagram.com/782489295246269/?helpref=related_articles)
+
+[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 Related articles
 
@@ -266,11 +266,11 @@ Related articles
 
 * * *](https://help.instagram.com/1992178671014348/?helpref=related_articles)
 
-[The difference between copyright and trademark
+[How do I know if I own the copyright in a work?
 
-* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
+* * *](https://help.instagram.com/782489295246269/?helpref=related_articles)
 
-[How do I know if I own the copyright in a work?](https://help.instagram.com/782489295246269/?helpref=related_articles)
+[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -372,11 +372,11 @@ Related articles
 
 [The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
-[How long does copyright protection last?](https://help.instagram.com/1896184403962569/?helpref=related_articles)
-
 [What are fair use and other exceptions to copyright?](https://help.instagram.com/116455299019699/?helpref=related_articles)
 
-[Learn more about copyright on Instagram and Threads](https://help.instagram.com/650723219466129/?helpref=related_articles)
+[How long does copyright protection last?](https://help.instagram.com/1896184403962569/?helpref=related_articles)
+
+[What is copyright and what does it protect?](https://help.instagram.com/745146219025379/?helpref=related_articles)
 
 Related articles
 
@@ -388,15 +388,15 @@ Related articles
 
 * * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
-[How long does copyright protection last?
-
-* * *](https://help.instagram.com/1896184403962569/?helpref=related_articles)
-
 [What are fair use and other exceptions to copyright?
 
 * * *](https://help.instagram.com/116455299019699/?helpref=related_articles)
 
-[Learn more about copyright on Instagram and Threads](https://help.instagram.com/650723219466129/?helpref=related_articles)
+[How long does copyright protection last?
+
+* * *](https://help.instagram.com/1896184403962569/?helpref=related_articles)
+
+[What is copyright and what does it protect?](https://help.instagram.com/745146219025379/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -687,7 +687,7 @@ Related articles
 
 [How long does copyright protection last?](https://help.instagram.com/1896184403962569/?helpref=related_articles)
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+[Copyright](https://help.instagram.com/126382350847838/?helpref=related_articles)
 
 Related articles
 
@@ -707,7 +707,7 @@ Related articles
 
 * * *](https://help.instagram.com/1896184403962569/?helpref=related_articles)
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+[Copyright](https://help.instagram.com/126382350847838/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -754,9 +754,9 @@ Related articles
 
 [Report copyright infringement on Instagram or Threads](https://help.instagram.com/277982542336146/?helpref=related_articles)
 
-[How to report potential copyright violations on Instagram or Threads](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
 [What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
+
+[How to report potential copyright violations on Instagram or Threads](https://help.instagram.com/144663955711336/?helpref=related_articles)
 
 [How to make sure that content you post to Instagram or Threads doesn't violate copyright law](https://help.instagram.com/354736791367645/?helpref=related_articles)
 
@@ -768,13 +768,13 @@ Related articles
 
 * * *](https://help.instagram.com/277982542336146/?helpref=related_articles)
 
-[How to report potential copyright violations on Instagram or Threads
-
-* * *](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
 [What happens when you submit a copyright report to Instagram or Threads
 
 * * *](https://help.instagram.com/746718085394495/?helpref=related_articles)
+
+[How to report potential copyright violations on Instagram or Threads
+
+* * *](https://help.instagram.com/144663955711336/?helpref=related_articles)
 
 [How to make sure that content you post to Instagram or Threads doesn't violate copyright law
 
@@ -997,9 +997,7 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-What is a DMCA designated agent?
-
-What happens after I report?
+How do I contact DMCA agent?
 
 I have a different question
 
@@ -1195,11 +1193,11 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-How do I contact Instagram DMCA agent?
+What is Instagram's DMCA agent?
+
+How do I contact Instagram's DMCA agent?
 
 How do I send a DMCA report?
-
-What is Instagram's DMCA agent?
 
 What is a complete copyright claim?
 
@@ -1225,9 +1223,9 @@ Related articles
 
 [Report copyright infringement on Instagram or Threads](https://help.instagram.com/277982542336146/?helpref=related_articles)
 
-[How dispute settlement bodies work in the EU for Instagram and Threads](https://help.instagram.com/1399805013976109/?helpref=related_articles)
-
 [About alvará judicial for Instagram and Threads profiles in Brazil](https://help.instagram.com/1294050306248239/?helpref=related_articles)
+
+[How dispute settlement bodies work in the EU for Instagram and Threads](https://help.instagram.com/1399805013976109/?helpref=related_articles)
 
 [Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
 
@@ -1241,13 +1239,13 @@ Related articles
 
 * * *](https://help.instagram.com/277982542336146/?helpref=related_articles)
 
-[How dispute settlement bodies work in the EU for Instagram and Threads
-
-* * *](https://help.instagram.com/1399805013976109/?helpref=related_articles)
-
 [About alvará judicial for Instagram and Threads profiles in Brazil
 
 * * *](https://help.instagram.com/1294050306248239/?helpref=related_articles)
+
+[How dispute settlement bodies work in the EU for Instagram and Threads
+
+* * *](https://help.instagram.com/1399805013976109/?helpref=related_articles)
 
 [Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
 
@@ -1459,7 +1457,7 @@ Related articles
 
 [How to report potential copyright violations on Instagram or Threads](https://help.instagram.com/144663955711336/?helpref=related_articles)
 
-[What to consider before submitting an intellectual property infringement report to Instagram or Threads](https://help.instagram.com/1624041234305603/?helpref=related_articles)
+[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
 
 Related articles
 
@@ -1479,7 +1477,7 @@ Related articles
 
 * * *](https://help.instagram.com/144663955711336/?helpref=related_articles)
 
-[What to consider before submitting an intellectual property infringement report to Instagram or Threads](https://help.instagram.com/1624041234305603/?helpref=related_articles)
+[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1577,9 +1575,9 @@ Please note that Instagram and Threads can't adjudicate disputes between third p
 Related articles
 ----------------
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
 [Trademark](https://help.instagram.com/222826637847963/?helpref=related_articles)
+
+[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 [Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
 
@@ -1589,13 +1587,13 @@ Related articles
 
 Related articles
 
-[The difference between copyright and trademark
-
-* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
 [Trademark
 
 * * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
+
+[The difference between copyright and trademark
+
+* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 [Are there any limits to trademark rights?
 
@@ -1646,11 +1644,11 @@ Related articles
 
 [Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
 [More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
 [Trademark](https://help.instagram.com/222826637847963/?helpref=related_articles)
+
+[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 [How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
@@ -1660,10 +1658,6 @@ Related articles
 
 * * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
 
-[The difference between copyright and trademark
-
-* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
 [More about trademarks and what they protect
 
 * * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
@@ -1671,6 +1665,10 @@ Related articles
 [Trademark
 
 * * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
+
+[The difference between copyright and trademark
+
+* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 [How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
@@ -1836,9 +1834,9 @@ Related articles
 
 [More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
+
+[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 Related articles
 
@@ -1854,11 +1852,11 @@ Related articles
 
 * * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[The difference between copyright and trademark
+[Does a trademark need to be registered to be protected?
 
-* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
+* * *](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
+[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1876,9 +1874,9 @@ Copy link
 
 How do I report counterfeit goods on Instagram?
 
-What are counterfeit goods on Instagram?
+What is a counterfeit good?
 
-How do I report counterfeit goods on Threads?
+How do I use the Brand Rights Protection tool?
 
 What is trademark infringement?
 
@@ -1897,9 +1895,9 @@ Related articles
 
 [Information about objections and how you can object on Meta Products](https://help.instagram.com/2060335334241802/?helpref=related_articles)
 
-[Opioid or substance misuse](https://help.instagram.com/560234841062056/?helpref=related_articles)
-
 [More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
+
+[Opioid or substance misuse](https://help.instagram.com/560234841062056/?helpref=related_articles)
 
 Related articles
 
@@ -1915,11 +1913,11 @@ Related articles
 
 * * *](https://help.instagram.com/2060335334241802/?helpref=related_articles)
 
-[Opioid or substance misuse
+[More about trademarks and what they protect
 
-* * *](https://help.instagram.com/560234841062056/?helpref=related_articles)
+* * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
+[Opioid or substance misuse](https://help.instagram.com/560234841062056/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2724,7 +2722,7 @@ Related articles
 
 [How long does copyright protection last?](https://help.instagram.com/1896184403962569/?helpref=related_articles)
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+[Copyright](https://help.instagram.com/126382350847838/?helpref=related_articles)
 
 Related articles
 
@@ -2744,7 +2742,7 @@ Related articles
 
 * * *](https://help.instagram.com/1896184403962569/?helpref=related_articles)
 
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+[Copyright](https://help.instagram.com/126382350847838/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

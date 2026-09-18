@@ -288,26 +288,38 @@ We prohibit using Snapchat for illegal activity, including the following: 
     
 *   Weapons - Snap prohibits promoting the attempted purchase, sale, or manufacturing of weapons, ammunition or explosives, including fireworks. We also prohibit the depiction of reckless or irresponsible use of weapons. 
     
-*   Drugs and pharmaceuticals – Snap prohibits promoting, facilitating, or participating in criminal activity, and the buying, selling, exchanging, or facilitating sales of illegal or regulated drugs, including prescription drugs and drug paraphernalia. Snap also prohibits depictions of illegal drugs (such as heroin, cocaine, methamphetamine, or fentanyl) or prescription drugs that are commonly abused (such as opioids, barbiturates, and amphetamines). 
+*   Drugs and pharmaceuticals – Snap prohibits buying, selling, exchanging or facilitating sales of illegal or regulated drugs. This includes regulated drugs such as marijuana, psilocybin, prescription drugs, non-FDA-approved substances like injectable peptides, substances used outside a permissible medical context and drug paraphernalia. It also includes illegal drugs, such as heroin, cocaine, methamphetamine or fentanyl, or prescription drugs that are commonly abused (such as opioids, barbiturates and amphetamines). For illegal or commonly abused prescription drugs, Snap also prohibits depiction or depicted use of such drugs. 
     
 
 Snap also prohibits the promotion of certain goods or activities that are often regulated, including the following: 
 
 *   Offering financial loans or other financial products or services. 
     
-*   Facilitating online gambling activities, including sharing apps, sites, or services that directly facilitate or provide direct access to gambling or gambling-adjacent apps, sites, or services that collect financial information or facilitate and/or monetise access to real-money sportsbooks or betting data.  
+*   Facilitating online gambling activities. This includes sharing apps, sites or services that directly facilitate or provide direct access to gambling or gambling-adjacent apps, sites or services that collect financial information or facilitate and/or monetise access to real-money sportsbooks or betting data.  
     
 *   Selling alcoholic beverages, tobacco, or vape products.   
     
-*   Promoting CBD or THC businesses. 
+*   Promoting CBD businesses.
+    
+*   Promoting or selling supplements that guarantee a medical outcome (such as a cure or treatment for illness or injury).
+    
+*   Promoting or selling regulated substances used for cosmetic procedures, such as botulinum toxin ('botox'), dermal fillers or similar injectables.
+    
+*   Selling or promoting weight loss products, including non-prescribed medicine containing GLP1s or semaglutide.
+    
+*   Soliciting or offering drivers for hire. 
     
 *   The sale or acquisition of endangered animal species, as defined by [CITES](https://checklist.cites.org/#/en).
     
+*   Using Snapchat to circumvent prison regulations, including filming inside prisons or documenting illicit activity (for example, drug use) inside prisons. This prohibition does not include documenting human rights abuses.
+    
+
+When it comes to minors, Snap prohibits depicted use of all drugs and tobacco products (including vapes) by minors.
 
 Businesses that wish to advertise regulated goods or activities must be approved as a business account and comply with our [advertising policies](https://www.snap.com/ad-policies?lang=en-GB#introduction). Please consult [this resource](https://forbusiness.snapchat.com/?lang=en-US) for guidance regarding appropriate commerce and advertising activities on Snapchat.
 
   
-Users must generally comply with their local laws while using Snapchat. However, we recognise that some laws may be specific to the user's jurisdiction and not broadly or globally applicable. In addition, some laws may be inconsistent with Snap's [commitment to respecting human rights](https://values.snap.com/privacy/transparency/community-guidelines/human-rights). When we receive requests to enforce against content or accounts that we determine do not violate our Community Guidelines, but allegedly violate local laws, we review those reports with that commitment to respecting human rights in mind. In some cases, we may reduce visibility of the account or content in question in a particular jurisdiction where content is locally prohibited, even if we do not remove the content. Please review our [Moderation explainer](https://values.snap.com/privacy/transparency/community-guidelines/moderation) for more information about review and enforcement of such reports.
+Note: Users must generally comply with their local laws while using Snapchat. However, we recognise that some laws may be specific to the user's jurisdiction and not broadly or globally applicable. In addition, some laws may be inconsistent with Snap's [commitment to respecting human rights](https://values.snap.com/privacy/transparency/community-guidelines/human-rights). When we receive requests to enforce against content or accounts that we determine do not violate our Community Guidelines, but allegedly violate local laws, we review those reports with that commitment to respecting human rights in mind. In some cases, we may reduce visibility of the account or content in question in a particular jurisdiction where content is locally prohibited, even if we do not remove the content. Please review our [Moderation explainer](https://values.snap.com/privacy/transparency/community-guidelines/moderation) for more information about review and enforcement of such reports.
 
 ### 
 

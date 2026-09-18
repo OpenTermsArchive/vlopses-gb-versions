@@ -122,51 +122,13 @@ You frequently publish inauthentic content that misleads people (even if the sub
 
 - - -
 
-**PLEASE NOTE: WE HAVE UPDATED THESE SNAP MONETISATION TERMS. THE PREVIOUS VERSION IS AVAILABLE** [**HERE**](https://www.snap.com/monetization-terms)**. THESE UPDATED SNAP MONETISATION TERMS WILL BECOME EFFECTIVE AS OF THE DATE BELOW.**
-
 Snap Monetisation Terms
 
 
 ---------------------------
 
-Effective Date: 1 November 2025
+Effective Date: 1 February 2025
 
-**Introduction**
+**ARBITRATION NOTICE: IF YOU LIVE IN THE UNITED STATES OR IF YOUR PRINCIPAL PLACE OF BUSINESS IS IN THE UNITED STATES YOU ARE BOUND BY THE** [**ARBITRATION**](https://www.snap.com/terms#arbitration) **PROVISION SET FORTH IN THE** [**SNAP INC. TERMS OF SERVICE**](https://www.snap.com/terms)**: EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THAT ARBITRATION CLAUSE, YOU AND SNAP INC. AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION AS SET FORTH IN THE** [**SNAP INC. TERMS OF SERVICE**](https://www.snap.com/terms)**, AND YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION. YOU HAVE THE RIGHT TO OPT OUT OF ARBITRATION AS EXPLAINED IN THAT** [**ARBITRATION**](https://www.snap.com/terms#arbitration-row) **PROVISION.**   
 
-Welcome! We are excited that you are interested in Snap’s Monetisation Programme (“Programme”), which allows eligible users who are accepted to the Programme to receive monetary incentives for performing certain services covered by these Monetisation Terms, which we define as “Qualifying Activity” and describe further below. We’ve drafted these Monetisation Terms so that you’ll know the rules that apply to and govern your participation in the Programme. These Monetisation Terms form a legally binding contract between you and the Snap entity listed in the Snap Creator Payment Terms (“Snap”), so please read them carefully. Only users who accept and comply with these Monetisation Terms will be eligible to participate in the Programme.
-
-  
-These Terms incorporate by reference the Snap Creator Payment Terms and [Snap Terms of Service](https://www.snap.com/terms), and any other applicable guidelines and policies. To the extent these Terms conflict with any other terms, these Terms will control in connection with your participation in the Programme
-
-Where we have provided summaries in these Monetisation Terms, we have done so for your convenience only. You should read these Monetisation Terms in full to understand your legal rights and obligations.  
-
-**1\. Qualifying Activity**
-
-The Programme is open by invitation only. Minimum Eligibility for Payment will be as set forth in the Creator Payment Terms. If you meet the Minimum Eligibility requirements and are invited to the Programme, then Snap may reward you by paying you for performing Qualifying Activity, as that term is defined in the Creator Payment Terms. 
-
-Qualifying Activity may include:
-
-*   Posting Public Content in which we distribute, or distribute as, advertisements; or
-    
-*   Engaging in any other activity that we designate as Qualifying Activity, subject to your acceptance of any additional terms that we may require (which shall be incorporated into these Monetisation Terms).
-    
-
-Qualifying Activity will be determined by Snap in its discretion. The Programme is part of Snap's "Services" as defined in the [Snap Terms of Service](https://www.snap.com/terms). Any user, account, or content that violates the Creator Payment Terms or these Monetisation Terms will not be eligible for monetisation. 
-
-_In Summary: We may reward you by paying you for engaging in certain activities. Your activities, account and the_ content _you post must always comply with our terms, policies and guidelines. We may check your account and the content you post to determine whether they comply. We have no obligation to distribute the content you post to Snapchat and you may delete such content at any time._
-
-**2\. Advertising**
-
-As stated in the [Snap Terms of Service](https://www.snap.com/terms), the Services may contain advertisements. In connection with your participation in the Programme, you agree that you are engaging us, our affiliates and our third-party partners, to distribute advertising in connection with the Public Content that you post in our sole discretion. You agree to facilitate the distribution of such advertisements by agreeing to and abiding by the Creator Payment Terms and continuing to provide Snap with access to any Public Content you submit as part of the Programme subject to the Creator Payment Terms. We will determine all aspects of the advertisements distributed on the Services, if any, including the type, format, and frequency of the advertisements distributed in connection with any Public Content you submit as part of the applicable Programme(s) in our sole discretion. We also reserve the right, in our discretion, to not show advertisements on, in or alongside any of the Public Content that you post for any reason. If you reside outside of the United States, you (and any collaborator, contributor or administrator who posts from your account) must be physically located outside of the United States and within an Eligible Region when performing any services and facilitating the distribution of advertisements in connection with your Qualifying Activity.
-
-_In Summary: You are asking us to distribute advertising in the content you post to Snapchat in connection with any Programme you participate in. We decide which advertising is or is not distributed in any content. If you live outside the United States, your physical location matters when performing the Qualifying Activity._  
-
-**3\. Miscellaneous**
-
-We may need to update these Monetisation Terms from time to time. If those changes to these Monetisation Terms are material, we will provide you with reasonable advance notice (unless changes are required sooner, for example, as a result of a change in legal requirements or where we are launching new Services or features). If you continue to participate in the Programme once the changes come into effect, we will take that as your acceptance. If at any time you do not agree to any changes to these Monetisation Terms, you must stop participating in the Programme by disabling the relevant setting in My Profile. These Monetisation Terms do not create or confer any third-party beneficiary rights. Nothing in these Monetisation Terms will be construed to imply a joint-venture, principal-agent or employment relationship between you and Snap or Snap’s affiliates. If we do not enforce a provision in these Monetisation Terms, it will not be considered a waiver. We reserve all rights not expressly granted to you. These Monetisation Terms were written in English and to the extent any translated version of these Monetisation Terms conflicts with the English version, the English version will control. If any provision of these Monetisation Terms is found unenforceable, then that provision will be removed from these Monetisation Terms and will not affect the validity and enforceability of any remaining provisions. 
-
-_In Summary: You are responsible for all activity that occurs on your account. You should review these Monetisation Terms because we may update them. These Monetisation Terms do not create any type of employment relationship between us. The English version of these Monetisation Terms will take precedence and certain provisions will remain in effect, even after the Monetisation Terms expire or terminate._  
-
-**11.  Contact Us**
-
-If you have any questions about these Monetisation Terms, just [contact us](https://support.snapchat.com/en-US?lang=en-GB).
+**IF YOU ARE USING THE SERVICES ON BEHALF OF A BUSINESS AND YOUR PRINCIPAL PLACE OF BUSINESS IS OUTSIDE OF THE UNITED STATES, THEN YOUR BUSINESS WILL BE BOUND BY THE** [**ARBITRATION**](https://www.snap.com/terms#arbitration-row) **PROVISION THAT APPEARS IN THE** [**SNAP GROUP LIMITED TERMS OF SERVICE**](https://www.snap.com/terms#terms-row)**.**

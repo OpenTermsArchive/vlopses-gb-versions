@@ -2261,7 +2261,7 @@ How do I appeal a Facebook video removal?
 
 What are Facebook copyright rules?
 
-How do I check my Facebook notifications?
+How do I find my Facebook account email?
 
 I have a different question
 

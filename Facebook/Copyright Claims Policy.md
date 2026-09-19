@@ -418,9 +418,9 @@ Related articles
 
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
-
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+[Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
 Related articles
 
@@ -436,11 +436,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Reporting Trademark Infringements
+[Trademark
 
-* * *](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1891,9 +1891,9 @@ Related articles
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
-
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
@@ -1905,13 +1905,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[What is copyright and what does it protect?
-
-* * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
-
 [How long does copyright protection last?
 
 * * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
+[What is copyright and what does it protect?
+
+* * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [What are fair use and other exceptions to copyright?
 
@@ -2261,7 +2261,7 @@ How do I appeal a Facebook video removal?
 
 What are Facebook copyright rules?
 
-How do I find my Facebook account email?
+How do I check my Facebook email?
 
 I have a different question
 
@@ -2671,9 +2671,9 @@ Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
-
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+
+[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 Related articles
 
@@ -2689,11 +2689,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Report an advertisement for intellectual property infringement on Facebook
+[What is copyright and what does it protect?
 
-* * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+* * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 Other ways to get help
 ----------------------

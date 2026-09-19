@@ -2261,7 +2261,7 @@ How do I appeal a Facebook video removal?
 
 What are Facebook copyright rules?
 
-How do I check my Facebook email?
+How do I check my Facebook notifications?
 
 I have a different question
 
@@ -2815,9 +2815,9 @@ Related articles
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
-
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+
+[What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 Related articles
 
@@ -2833,11 +2833,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[What information do I need to include in a trademark report to Meta?
+[Report an advertisement for intellectual property infringement on Facebook
 
-* * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
+* * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+[What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2856,13 +2856,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What are Facebook intellectual property tools?
+What is Facebook Rights Manager?
 
-How does Facebook Rights Manager work?
+What is Facebook content protection?
 
-How does Facebook content protection work?
+How do I apply for Facebook tools?
 
-How do I report Facebook copyright infringement?
+How do I report copyright infringement?
 
 I have a different question
 
@@ -2885,10 +2885,10 @@ Actions that you can take with our copyright management tools
 
 When your content is detected on a Page, profile or Instagram account, you can choose to take the enforcement actions available to you based on your demonstrated needs. Actions include:
 
-*   **Allow or track**: Allow matching content to remain posted and visible on Facebook and/or Instagram, and have visibility into how it performs over time.
+*   **Allow**: Allow matching content to remain posted and visible on Facebook and/or Instagram, and have visibility into how it performs over time.
 *   **Hide**: Prevent the matching content from being visible to anyone other than the Page, profile or Instagram account that posted it.
-*   **Monetise**: You may be able to claim money earned from a video that is eligible for monetisation on Meta platforms. Note: At this time, this feature is not available to all creators using content protection and/or Rights Manager.
-*   **Apply credit or ownership links**: You may be able to insert a banner below selected Facebook matches linking it to your own content, Page or profile.
+*   **Claim earnings**: You may be able to claim money earned from a video that is eligible for monetisation on Meta platforms. Note: At this time, this feature is not available to all creators using content protection and/or Rights Manager.
+*   **Apply credit links**: You may be able to insert a banner below selected Facebook matches linking it to your own content, Page or profile.
 *   **Report and request takedown**: You can choose to send a copyright report to Facebook, which may result in the reported content being removed.
 
 If you want scaled copyright management, you can apply for access to our tools [here](https://www.facebook.com/rights_manager/apply). Our team will assess your application and, if you are eligible, will grant access to protection features specific to your needs.

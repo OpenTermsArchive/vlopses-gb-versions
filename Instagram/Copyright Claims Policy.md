@@ -87,16 +87,6 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
-How do I report Instagram copyright?
-
-How do I protect my Instagram work?
-
-How do Threads copyrights work?
-
-What is Instagram copyright infringement?
-
-I have a different question
-
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [US. Copyright Office](https://www.copyright.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram and Threads can't provide you with legal advice, so you may want to speak to a legal professional if you have more questions about copyright.
@@ -1007,7 +997,9 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-How do I contact DMCA agent?
+What is a DMCA designated agent?
+
+What happens after I report?
 
 I have a different question
 
@@ -1884,11 +1876,9 @@ Copy link
 
 How do I report counterfeit goods on Instagram?
 
-What is a counterfeit good?
+What are counterfeit goods on Instagram?
 
 How do I report counterfeit goods on Threads?
-
-What is trademark infringement?
 
 I have a different question
 
@@ -2137,11 +2127,11 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 
 Copy link
 
-What happens if Instagram content is removed?
+What are my next steps?
 
 How do I appeal Instagram content removal?
 
-What is Instagram intellectual property infringement?
+What is intellectual property infringement?
 
 How do I contact the rights owner?
 

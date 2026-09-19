@@ -87,6 +87,16 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
+How do I report Instagram copyright?
+
+How do I protect my Instagram work?
+
+How do Threads copyrights work?
+
+What is Instagram copyright infringement?
+
+I have a different question
+
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [US. Copyright Office](https://www.copyright.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram and Threads can't provide you with legal advice, so you may want to speak to a legal professional if you have more questions about copyright.
@@ -374,9 +384,9 @@ Related articles
 
 [What are fair use and other exceptions to copyright?](https://help.instagram.com/116455299019699/?helpref=related_articles)
 
-[How long does copyright protection last?](https://help.instagram.com/1896184403962569/?helpref=related_articles)
-
 [What is copyright and what does it protect?](https://help.instagram.com/745146219025379/?helpref=related_articles)
+
+[How long does copyright protection last?](https://help.instagram.com/1896184403962569/?helpref=related_articles)
 
 Related articles
 
@@ -392,11 +402,11 @@ Related articles
 
 * * *](https://help.instagram.com/116455299019699/?helpref=related_articles)
 
-[How long does copyright protection last?
+[What is copyright and what does it protect?
 
-* * *](https://help.instagram.com/1896184403962569/?helpref=related_articles)
+* * *](https://help.instagram.com/745146219025379/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://help.instagram.com/745146219025379/?helpref=related_articles)
+[How long does copyright protection last?](https://help.instagram.com/1896184403962569/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -590,9 +600,9 @@ Related articles
 
 [How to make sure that the content you post to Instagram or Threads don't violate trademark law](https://help.instagram.com/1500571290191298/?helpref=related_articles)
 
-[Learn more about copyright on Instagram and Threads](https://help.instagram.com/650723219466129/?helpref=related_articles)
-
 [What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
+
+[Learn more about copyright on Instagram and Threads](https://help.instagram.com/650723219466129/?helpref=related_articles)
 
 [Can I still violate another person's copyright on Instagram or Threads if I didn't intend to infringe?](https://help.instagram.com/113605816019642/?helpref=related_articles)
 
@@ -604,13 +614,13 @@ Related articles
 
 * * *](https://help.instagram.com/1500571290191298/?helpref=related_articles)
 
-[Learn more about copyright on Instagram and Threads
-
-* * *](https://help.instagram.com/650723219466129/?helpref=related_articles)
-
 [What happens when you submit a copyright report to Instagram or Threads
 
 * * *](https://help.instagram.com/746718085394495/?helpref=related_articles)
+
+[Learn more about copyright on Instagram and Threads
+
+* * *](https://help.instagram.com/650723219466129/?helpref=related_articles)
 
 [Can I still violate another person's copyright on Instagram or Threads if I didn't intend to infringe?
 
@@ -754,9 +764,9 @@ Related articles
 
 [Report copyright infringement on Instagram or Threads](https://help.instagram.com/277982542336146/?helpref=related_articles)
 
-[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
 [How to report potential copyright violations on Instagram or Threads](https://help.instagram.com/144663955711336/?helpref=related_articles)
+
+[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
 
 [How to make sure that content you post to Instagram or Threads doesn't violate copyright law](https://help.instagram.com/354736791367645/?helpref=related_articles)
 
@@ -768,13 +778,13 @@ Related articles
 
 * * *](https://help.instagram.com/277982542336146/?helpref=related_articles)
 
-[What happens when you submit a copyright report to Instagram or Threads
-
-* * *](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
 [How to report potential copyright violations on Instagram or Threads
 
 * * *](https://help.instagram.com/144663955711336/?helpref=related_articles)
+
+[What happens when you submit a copyright report to Instagram or Threads
+
+* * *](https://help.instagram.com/746718085394495/?helpref=related_articles)
 
 [How to make sure that content you post to Instagram or Threads doesn't violate copyright law
 
@@ -997,9 +1007,7 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-What is a DMCA designated agent?
-
-What happens after I report?
+How do I contact DMCA agent?
 
 I have a different question
 
@@ -1878,7 +1886,7 @@ How do I report counterfeit goods on Instagram?
 
 What is a counterfeit good?
 
-How do I use the Brand Rights Protection tool?
+How do I report counterfeit goods on Threads?
 
 What is trademark infringement?
 
@@ -2129,11 +2137,11 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 
 Copy link
 
-What are my next steps?
+What happens if Instagram content is removed?
 
 How do I appeal Instagram content removal?
 
-What is intellectual property infringement?
+What is Instagram intellectual property infringement?
 
 How do I contact the rights owner?
 
@@ -2153,11 +2161,11 @@ Related articles
 
 [What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://help.instagram.com/1445818549016877/?helpref=related_articles)
 
-[Report content on Threads](https://help.instagram.com/6602413966453273/?helpref=related_articles)
-
 [What to do if Instagram didn't remove content that you reported](https://help.instagram.com/861685284411197/?helpref=related_articles)
 
 [What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights](https://help.instagram.com/1586774981367195/?helpref=related_articles)
+
+[Report content on Threads](https://help.instagram.com/6602413966453273/?helpref=related_articles)
 
 [Retract an intellectual property report that you've submitted to Instagram or Threads](https://help.instagram.com/275268756304020/?helpref=related_articles)
 
@@ -2167,10 +2175,6 @@ Related articles
 
 * * *](https://help.instagram.com/1445818549016877/?helpref=related_articles)
 
-[Report content on Threads
-
-* * *](https://help.instagram.com/6602413966453273/?helpref=related_articles)
-
 [What to do if Instagram didn't remove content that you reported
 
 * * *](https://help.instagram.com/861685284411197/?helpref=related_articles)
@@ -2178,6 +2182,10 @@ Related articles
 [What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights
 
 * * *](https://help.instagram.com/1586774981367195/?helpref=related_articles)
+
+[Report content on Threads
+
+* * *](https://help.instagram.com/6602413966453273/?helpref=related_articles)
 
 [Retract an intellectual property report that you've submitted to Instagram or Threads](https://help.instagram.com/275268756304020/?helpref=related_articles)
 

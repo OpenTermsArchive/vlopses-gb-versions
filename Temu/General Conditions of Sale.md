@@ -2,7 +2,7 @@
 
 Support
 
-![](https://aimg.kwcdn.com/upload_aimg/openingemail/UK/ccab4f03-b846-4111-b9e3-cf865c583559.png.slim.png?imageView2/2/w/48/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg/openingemail/UK/ccab4f03-b846-4111-b9e3-cf865c583559.png.slim.png?imageMogr2/thumbnail/48x9999\>/quality/70/format/avif)
 
 English
 
@@ -100,27 +100,27 @@ Start a Selling Account
 
 [Download the Temu App](https://www.temu.com/uk/app.html)
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/deb081e4-e46b-4b2d-bc1d-6a0e1800c73c.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/deb081e4-e46b-4b2d-bc1d-6a0e1800c73c.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Price-drop alerts
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/c19eefdc-4dfd-4106-8074-ed8521cacb6e.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/c19eefdc-4dfd-4106-8074-ed8521cacb6e.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Track orders any time
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/98996646-47c5-4020-ab1f-8e6b2ee39358.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/98996646-47c5-4020-ab1f-8e6b2ee39358.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Faster & more secure checkout
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/ab4a5d92-4b54-45f6-b18a-fbb16529d2b3.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/ab4a5d92-4b54-45f6-b18a-fbb16529d2b3.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Low stock items alerts
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/728e2277-96f9-4787-bd89-d87e3b6bc2f2.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/728e2277-96f9-4787-bd89-d87e3b6bc2f2.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Exclusive offers
 
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/2077debf-6cf5-463a-84ab-969eee3593a1.png.slim.png?imageView2/2/w/30/q/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/2077debf-6cf5-463a-84ab-969eee3593a1.png.slim.png?imageMogr2/thumbnail/30x9999\>/quality/70/format/avif)
 
 Coupons & offers alerts
 

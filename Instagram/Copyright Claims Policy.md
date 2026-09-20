@@ -1876,9 +1876,11 @@ Copy link
 
 How do I report counterfeit goods on Instagram?
 
-What are counterfeit goods on Instagram?
+What is a counterfeit good?
 
-How do I report counterfeit goods on Threads?
+How do I use the Brand Rights Protection tool?
+
+What is trademark infringement?
 
 I have a different question
 
@@ -2127,13 +2129,11 @@ Content that I posted on Instagram or Threads was removed because it was reporte
 
 Copy link
 
-What are my next steps?
+What happens if Instagram content is removed?
 
 How do I appeal Instagram content removal?
 
-What is intellectual property infringement?
-
-How do I contact the rights owner?
+What is Instagram intellectual property infringement?
 
 I have a different question
 

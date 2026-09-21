@@ -2147,7 +2147,7 @@ Violations of this policy are taken very seriously and are considered egregious.
 
 Below are some examples of what to avoid in your offers.
 
-**On this page**
+#### On this page
 
 *   [Unacceptable business practices](#unacceptable_business_practices)
 *   [Misleading or unrealistic offers](#misleading_offers)
@@ -2175,7 +2175,7 @@ Scamming users by hiding or misrepresenting info about your business or product 
 
 **Examples (non-exhaustive)**:
 
-*   Charging customers for products that are typically available for free
+*   Charging customers for products that are typically available free of charge
 *   Impersonating brands or businesses by referencing or modifying the brand content in the listings, URL or destinations, or misrepresenting yourself as the brand or business in customer interactions
 *   Enticing customers to part with money or information through a fictitious business that lacks the qualifications or capacity to provide the listed product
 *   Claiming to be a certified reseller of goods when not actually certified, using a brand name to drive traffic to a different product on the site
@@ -2184,7 +2184,7 @@ Scamming users by hiding or misrepresenting info about your business or product 
 
 Offer destinations that use 'phishing' techniques to gather user information
 
-**Examples (non-exhaustive)**:
+**Examples (non-exhaustive):**
 
 *   Sites that trick users into revealing their personal information by mimicking a trusted retailer
 
@@ -2203,13 +2203,13 @@ Using false claims or claims that entice the user with an improbable result (eve
 
 Falsely implying affiliation with, or endorsement by, another individual, organisation, product or service
 
-**Examples**:
+**Examples:**
 
 *   Misleading use or mimicry of official government sites, stamps, seals or agency names
 
 Listings promoting harmful health claims, or content that relates to a current, major health crisis and contradicts authoritative scientific consensus
 
-**Examples (non-exhaustive)**:
+**Examples (non-exhaustive):**
 
 *   Anti-vaccine advocacy
 *   Denial of the existence of medical conditions such as AIDS or COVID-19
@@ -2217,7 +2217,7 @@ Listings promoting harmful health claims, or content that relates to a current, 
 
 Making claims that are proven false and could significantly undermine participation or trust in an electoral or democratic process
 
-**Examples (non-exhaustive)**:
+**Examples (non-exhaustive):**
 
 *   Information about public voting procedures
 *   Political candidate eligibility based on age or birthplace
@@ -2233,20 +2233,20 @@ The following isn't allowed:
 
 Failure to disclose the payment model and full expense that a customer will bear before and after purchase clearly and conspicuously
 
-**Examples (non-exhaustive)**:
+**Examples (non-exhaustive):**
 
 *   Pricing of products (total price, currency) may depend on additional conditions that have an impact on the total cost for the user (such as auction pricing, membership fees, contract, payment schemes or an additional purchase requirement), creating additional undisclosed payment obligations during payment processing
 
 Failure to disclose all related conditions before and after purchase clearly and conspicuously
 
-**Examples (non-exhaustive)**:
+**Examples (non-exhaustive):**
 
 *   Missing merchant Terms and Conditions or delivery information
 *   Return and refund policy that is unclear, missing or not easily discoverable.
 
 Omitting material information when promoting content as benefiting a charitable or political organisation
 
-**Examples (non-exhaustive)**:
+**Examples (non-exhaustive):**
 
 *   Failing to display a charity or tax exemption number for charitable donations
 *   Failing to disclose whether political donations are tax-exempt or not
@@ -2278,7 +2278,7 @@ We take violations of this policy very seriously and consider them egregious. An
 In determining whether a market participant or destination is violating this policy, we may:
 
 *   Review information from multiple sources, including your product, website, accounts and third-party sources.
-*   If we find violations of this policy, we'll suspend your account upon detection and without prior warning, and you won't be allowed to participate in listing content with us again. We may also restrict your Merchant Center account's product limit.
+*   If we find violations of this policy, we'll suspend your account upon detection and without prior warning, and you won't be allowed to participate in listing content with us again. We may also restrict your Merchant Centre account's product limit.
 
 If you believe that there has been an error and that you haven't violated our policy:
 
@@ -2300,12 +2300,12 @@ Best practices (non-exhaustive)
 
 Review this non-exhaustive list of best practices to help ensure that your listings comply with this policy.
 
-*   **Deliver what customers paid for**: Provide the products or services that customers purchased, meeting agreed-upon specifications.
-*   **Describe your business on your website**: Make sure that your website has updated contact information and a clear explanation of what your company does, like on an 'About us' page.
-*   **Use your own branding**: Use your own name, logo, images and colours on your website and in your ads.
+*   **Deliver what customers paid for:** Provide the products or services that customers purchased, meeting agreed-upon specifications.
+*   **Describe your business on your website:** Ensure that your website has updated contact information and a clear explanation of what your company does, like on an 'About us' page.
+*   **Use your own branding:** Use your own name, logo, images and colours on your website and in your ads.
 *   **Avoid using another brand's identity in a misleading way**: Avoid using another brand's name, logo, images and colours in ways that can trick people. Don't misspell another brand's name in your ad text, like 'G00gle'. When referencing another brand, follow Google's policy on [trademarks](https://support.google.com/merchants/answer/12078092).
 *   **Be clear about your partnerships**: If you're an official or authorised partner of another brand, ask them to mention you on their website in addition to making your relationship clear on your own website and ads. If you reference another brand, but you're not an official or authorised partner, consider a disclaimer on your website and in your listings.
-*   **Be qualified to do the work that you advertise**: Have all the necessary certifications to provide your products and services. If you list any certifications on your website, make sure that they're up to date.
+*   **Be qualified to do the work that you advertise:** Have all the necessary certifications to provide your products and services. If you list any certifications on your website, ensure that they're up to date.
 
 * * *
 
@@ -2315,7 +2315,7 @@ Tips for submitting your appeal
 *   **Follow best practices**: Implement the best practices that you've been provided with, if you haven't already.
 *   **Explain your situation**: If you're an official partner of another brand, describe your partnership and share any information that shows how you're connected.
 *   **Share proof**: This can include contracts, written agreements, a link to a credible news article that mentions the connection, and any public statements (like a social media post) from the brand or organisation confirming the partnership.
-*   **Complete verification**: If asked, complete all [tasks required for advertiser verification](https://support.google.com/adspolicy/answer/15577076).
+*   **Complete verification:** If asked, complete all [tasks required for advertiser verification](https://support.google.com/adspolicy/answer/15577076).
 
 * * *
 

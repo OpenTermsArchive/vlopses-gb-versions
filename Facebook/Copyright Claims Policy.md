@@ -2257,9 +2257,11 @@ Copy link
 
 What is Facebook copyright content?
 
-How do I appeal Facebook video removal?
+What happens to removed videos?
 
-What happens to removed Facebook videos?
+How do I check my email settings?
+
+How do I check my notification settings?
 
 I have a different question
 
@@ -2492,13 +2494,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report copyright infringement?
 
-What is Facebook copyright infringement?
+What happens when I report copyright?
 
-How do I contact Facebook agent?
-
-How do I message content owner?
+How do I contact Meta's agent?
 
 I have a different question
 

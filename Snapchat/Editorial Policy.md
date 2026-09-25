@@ -3,28 +3,7 @@ Content Guidelines for Recommendation Eligibility
 
 -----------------------------------------------------
 
-Released: May 13, 2024
-
-1.  [Introduction](https://www.snap.com/content-recommendation-guidelines#introduction)
-    
-2.  [Quality](https://www.snap.com/content-recommendation-guidelines#creative-quality)
-    
-3.  [Public Interest Content](https://www.snap.com/content-recommendation-guidelines#public-interest-content)
-    
-4.  [Sexual Content](https://www.snap.com/content-recommendation-guidelines#sexual-content)
-    
-5.  [Harassment & Bullying](https://www.snap.com/content-recommendation-guidelines#harassment-and-bullying)
-    
-6.  [Disturbing or Violent Content](https://www.snap.com/content-recommendation-guidelines#disturbing-or-violent-content)
-    
-7.  [False or Deceptive Information](https://www.snap.com/content-recommendation-guidelines#false-or-deceptive-informaiton)
-    
-8.  [Illegal or Regulated Activities](https://www.snap.com/content-recommendation-guidelines#illegal-or-regulated-activities)
-    
-9.  [Hateful Content, Terrorism and Violent Extremism](https://www.snap.com/content-recommendation-guidelines#hateful-content)
-    
-10.  [Commercial Content](https://www.snap.com/content-recommendation-guidelines#commercial-content)
-     
+Released: 13 May 2024
 
 1\. Introduction
 
@@ -132,10 +111,10 @@ Political Content is eligible for recommendation **only from trusted, pre-approv
 *   **Advocacy or issue content** concerning issues or organisations that are the subject of debate on a local, national or global level, or of public importance.
     
 
-4. Sexual Content
+4\. Sexual Content
 
 
----------------------
+----------------------
 
 **Not Eligible for Recommendation:** 
 
@@ -172,10 +151,10 @@ The following is eligible for recommendation, but we may choose to limit its vis
 *   Content featuring individuals who are primarily known for their work in **adult entertainment.**
     
 
-5. Harassment & Bullying
+5\. Harassment & Bullying
 
 
-----------------------------
+-----------------------------
 
 **Not Eligible for Recommendation:**
 
@@ -205,10 +184,10 @@ Any harassment or bullying that is [prohibited in our Community Guidelines](http
 *   **Insensitivity regarding tragic events or topics** (for example, mocking survivors of intimate partner violence)
     
 
-6. Disturbing or Violent Content
+6\. Disturbing or Violent Content
 
 
-------------------------------------
+-------------------------------------
 
 **Not Eligible for Recommendation:**
 
@@ -340,10 +319,10 @@ The following is eligible for recommendation, but we may choose to limit its vis
 *   **Fictional references to illegal or regulated activities** (for example, jokes, skits, scenes from movies or video games)
     
 
-9\. Hateful Content, Terrorism, and Violent Extremism
+9\. Hateful Content, Terrorism and Violent Extremism
 
 
----------------------------------------------------------
+--------------------------------------------------------
 
 **Not Eligible for Recommendation:**
 

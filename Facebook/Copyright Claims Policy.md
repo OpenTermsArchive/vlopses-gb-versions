@@ -1732,9 +1732,9 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
+
+What is an original work?
 
 What is not protected by copyright?
 
@@ -2494,11 +2494,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright infringement?
+How do I report Facebook copyright?
 
-How do I contact a designated agent?
+What is Facebook copyright infringement?
 
-What happens after I report copyright?
+How do I contact Facebook agent?
+
+How do I message content owner?
 
 I have a different question
 

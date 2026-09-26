@@ -2640,9 +2640,9 @@ Copy link
 
 What information do I include?
 
-How do I report copyright?
+How do I report copyright infringement?
 
-What is a copyright report?
+What happens to my contact info?
 
 I have a different question
 

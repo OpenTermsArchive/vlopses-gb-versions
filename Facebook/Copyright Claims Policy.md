@@ -1090,7 +1090,7 @@ What is copyright infringement?
 
 What is trademark infringement?
 
-What are the legal consequences?
+What is fair use?
 
 I have a different question
 
@@ -1383,11 +1383,9 @@ Copy link
 
 How do I report a third-party app?
 
-What is intellectual property infringement?
-
 How do I contact an app developer?
 
-What are Facebook's Terms of Service?
+What are Facebook Terms of Service?
 
 I have a different question
 
@@ -1445,11 +1443,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-How do I withdraw an IP report?
+How do I withdraw a Facebook IP report?
 
-How do I cancel an IP report?
+How do I cancel a Facebook copyright report?
 
-What happens after I withdraw?
+What happens after I withdraw a report?
 
 I have a different question
 
@@ -2856,13 +2854,11 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What is Facebook Rights Manager?
+What are Facebook copyright tools?
 
-What is Facebook content protection?
+What is Rights Manager?
 
-How do I apply for Facebook tools?
-
-How do I report copyright infringement?
+What is content protection?
 
 I have a different question
 

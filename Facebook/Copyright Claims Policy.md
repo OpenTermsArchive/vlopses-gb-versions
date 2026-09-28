@@ -1090,7 +1090,7 @@ What is copyright infringement?
 
 What is trademark infringement?
 
-What is fair use?
+What are the legal consequences?
 
 I have a different question
 
@@ -1231,11 +1231,13 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after a trademark report?
+What happens after I submit?
+
+What is my report number?
 
 What information is shared?
 
-How do I respond to Meta?
+How do I respond to a message?
 
 I have a different question
 
@@ -2638,9 +2640,9 @@ Copy link
 
 What information do I include?
 
-How do I report copyright?
+How do I report copyright infringement?
 
-What is a copyright report?
+What happens to my contact info?
 
 I have a different question
 
@@ -2854,11 +2856,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What are Facebook copyright tools?
+What is Facebook Rights Manager?
 
-What is Rights Manager?
+What is Facebook content protection?
 
-What is content protection?
+How do I apply for Facebook tools?
+
+How do I report copyright infringement?
 
 I have a different question
 

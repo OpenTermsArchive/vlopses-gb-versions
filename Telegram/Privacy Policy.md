@@ -106,7 +106,7 @@ The only cookies we use are those to operate and provide our Services on the web
 
 ##### [](#3-7-age-estimation)3.7. Age Estimation
 
-To comply with regional legal requirements (such as the Online Safety Act 2021 in the UK), we may offer optional age estimation features. These features are only available in regions where local law requires age verification and are used exclusively to check whether you are eligible to access certain content. The data utilized for these features is never used for any other purpose.
+To comply with regional legal requirements (such as the Online Safety Act 2023 in the UK), we may offer optional age estimation features. These features are only available in regions where local law requires age verification and are used exclusively to check whether you are eligible to access certain content. The data utilized for these features is never used for any other purpose.
 
 To estimate your age, we ask you to undergo a brief facial scan. This process runs _entirely on your device_. Facial images and biometric data are not uploaded to or stored on our servers, are not accessible to Telegram and are deleted after the age estimation is completed.
 

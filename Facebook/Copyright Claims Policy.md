@@ -18,9 +18,9 @@ What is Facebook copyright?
 
 What is Facebook trademark?
 
-How do I report copyright violation?
+How do I report copyright violations?
 
-How do I report trademark violation?
+How do I report trademark violations?
 
 I have a different question
 
@@ -1084,16 +1084,6 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is intellectual property?
-
-What is copyright infringement?
-
-What is trademark infringement?
-
-What is fair use?
-
-I have a different question
-
 Before you submit a report, please consider whether the content you want to report may be a permissible use of your [copyright](https://www.facebook.com/help/337995452911154?helpref=faq_content) or [trademark](https://www.facebook.com/help/719682678205946?helpref=faq_content). If you're not sure whether the content you're reporting infringes your intellectual property rights (e.g. because it may be a fair use), you may want to seek legal guidance.
 
 Please note that submitting a report of intellectual property infringement is a serious matter with potential legal consequences. Intentionally submitting misleading or otherwise fraudulent reports of copyright or trademark infringement may lead to Facebook taking action, including termination of your account.
@@ -1132,13 +1122,6 @@ Related articles
 * * *](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1231,14 +1214,6 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after a trademark report?
-
-What information is shared?
-
-How do I respond to Meta?
-
-I have a different question
-
 If you submitted a [trademark report](https://www.facebook.com/help/191999230901156?helpref=faq_content) to us through our online form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -1285,13 +1260,6 @@ Related articles
 * * *](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 

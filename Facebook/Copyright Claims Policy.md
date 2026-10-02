@@ -269,13 +269,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-What is a registered trademark?
+What is a US trademark?
 
 How do I register a trademark?
 
 What are common law trademark rights?
 
-What is the USPTO?
+What is a registered trademark?
 
 I have a different question
 
@@ -894,9 +894,9 @@ Copy link
 
 How do I report trademark infringement?
 
-What happens after I report trademark infringement?
+What is Facebook trademark infringement?
 
-Who can report trademark infringement?
+How do I contact the poster?
 
 I have a different question
 
@@ -1509,6 +1509,14 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
+What information is sent?
+
+What is a trademark report?
+
+What is a report number?
+
+I have a different question
+
 When we receive [trademark reports](https://www.facebook.com/help/191999230901156?helpref=faq_content) and remove the reported content, we typically provide the person who posted the content with the following information:
 
 *   Report number
@@ -1553,6 +1561,13 @@ Related articles
 * * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

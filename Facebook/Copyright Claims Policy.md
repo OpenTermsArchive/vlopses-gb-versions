@@ -269,13 +269,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-What is a US trademark?
+What is a registered trademark?
 
 How do I register a trademark?
 
 What are common law trademark rights?
 
-What is a registered trademark?
+What is the USPTO?
 
 I have a different question
 
@@ -335,14 +335,6 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark registration?
-
-What is a business registration?
-
-How do I register a trademark?
-
-I have a different question
-
 In some states in the US and in some countries outside the US, a company might be able to register with a government office, or obtain a permit or licence to do business in that country or state. These registrations, such as ones issued by a state's Secretary of State, generally aren't the same as a trademark registration and may not create trademark rights for the company.
 
 In the US, a [trademark](https://www.facebook.com/help/1378807958858854?helpref=faq_content) can be registered with the United States Patent and Trademark Office (USPTO). In the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -379,13 +371,6 @@ Related articles
 * * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -894,9 +879,9 @@ Copy link
 
 How do I report trademark infringement?
 
-What is Facebook trademark infringement?
+What happens after I report trademark infringement?
 
-How do I contact the poster?
+Who can report trademark infringement?
 
 I have a different question
 
@@ -1231,14 +1216,6 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after a trademark report?
-
-What information is shared?
-
-How do I respond to Meta?
-
-I have a different question
-
 If you submitted a [trademark report](https://www.facebook.com/help/191999230901156?helpref=faq_content) to us through our online form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -1285,13 +1262,6 @@ Related articles
 * * *](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 

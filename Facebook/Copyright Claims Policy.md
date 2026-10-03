@@ -1022,9 +1022,9 @@ Copy link
 
 How do I report a Facebook username?
 
-What is a trademark infringement?
+What is Facebook trademark infringement?
 
-How do I contact a user directly?
+How do I contact the username owner?
 
 I have a different question
 
@@ -1150,11 +1150,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-How do I submit a trademark report?
+What information for trademark report?
 
-What to include in a trademark report?
+How do I find infringing content?
 
-How do I find a Facebook URL?
+What is a trademark infringement?
 
 I have a different question
 
@@ -1579,6 +1579,14 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
+How do I report intellectual property?
+
+What is Brand Rights Protection?
+
+How do I apply for Brand Rights Protection?
+
+I have a different question
+
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across many of our platforms. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 Related articles
@@ -1619,6 +1627,13 @@ Related articles
 * * *](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

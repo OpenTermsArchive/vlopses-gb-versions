@@ -532,7 +532,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -567,7 +567,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -1452,7 +1452,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -1487,7 +1487,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -1601,7 +1601,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -1636,7 +1636,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -1745,7 +1745,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -1780,7 +1780,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -1902,7 +1902,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -1937,7 +1937,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -2082,7 +2082,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -2117,7 +2117,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -2354,7 +2354,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -2389,7 +2389,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -2622,7 +2622,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -2657,7 +2657,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -2894,7 +2894,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -2929,7 +2929,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -3190,7 +3190,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -3225,7 +3225,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -3361,7 +3361,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -3396,7 +3396,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -3606,7 +3606,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -3641,7 +3641,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -3755,7 +3755,7 @@ For most violations, we'll send you a warning email detailing the policy violati
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.
@@ -3790,7 +3790,7 @@ Your account has an issue and is operating with reserved functionality; therefor
                     *   Review any informational prompts that appear.
                     *   Select 'Request review' to submit the appeal.
             *   **Option 2:** Product details page
-                *   From the product detail page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
+                *   From the product details page, selecting 'Review and fix' will display the appeal options: 'I disagree with the issue' and/or 'I disagree with the issue for all products'.
         *   Third-party platforms
             *   If you use a third-party platform to list your products, consult that platform for available review options.
             *   If a review or appeal is successful, the issue will disappear from Merchant Center.

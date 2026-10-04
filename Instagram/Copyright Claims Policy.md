@@ -997,7 +997,9 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-How do I contact DMCA agent?
+What is a DMCA designated agent?
+
+What happens after I report?
 
 I have a different question
 

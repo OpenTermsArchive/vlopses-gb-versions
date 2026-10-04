@@ -595,9 +595,9 @@ What is copyright?
 
 What is trademark?
 
-What is intellectual property?
+What does copyright protect?
 
-What is the difference between copyright and trademark?
+What does trademark protect?
 
 I have a different question
 
@@ -2349,6 +2349,16 @@ Facebook Lite App Help
 
 More
 
+What happens to removed content?
+
+How do I appeal content removal?
+
+What is intellectual property infringement?
+
+How do I contact the rights owner?
+
+I have a different question
+
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification from Meta that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
@@ -2396,6 +2406,13 @@ Related articles
 * * *](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 [Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2477,13 +2494,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report copyright infringement?
 
-What is Facebook copyright infringement?
+How do I contact a designated agent?
 
-How do I contact Facebook agent?
-
-How do I message content owner?
+What happens after I report copyright?
 
 I have a different question
 

@@ -5059,7 +5059,7 @@ Restricted targeting in personalised advertising
 
 [Fix disapproved Google Ads: A guide to Personalized advertising compliance](https://www.youtube.com/watch?v=WDpQ1AR9CHA)
 
-To see subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the Settings icon at the top right-hand corner of the video player, select 'Captions' and then specify your language.
+To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the **Settings** icon in the top-right corner of the video player, select **Captions** and then specify your language.
 
 * * *
 
@@ -5317,7 +5317,7 @@ Restricted targeting in personalised advertising
 
 [Fix disapproved Google Ads: A guide to Personalized advertising compliance](https://www.youtube.com/watch?v=WDpQ1AR9CHA)
 
-To see subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the Settings icon at the top right-hand corner of the video player, select 'Captions' and then specify your language.
+To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the **Settings** icon in the top-right corner of the video player, select **Captions** and then specify your language.
 
 * * *
 
@@ -5516,7 +5516,7 @@ Google provides translated versions of our Help Centre, although they are not me
 
 [About Google Ads policy account suspensions](https://www.youtube.com/watch?v=S2FOyZ5Vzs8)
 
-To see subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the Settings icon at the top right-hand corner of the video player, select 'Captions' and then specify your language.
+To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the **Settings** icon in the top-right corner of the video player, select **Captions** and then specify your language.
 
 * * *
 

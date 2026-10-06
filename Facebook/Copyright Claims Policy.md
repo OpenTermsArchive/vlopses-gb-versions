@@ -269,6 +269,16 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
+What is a registered trademark?
+
+How do I register a trademark?
+
+What are common law trademark rights?
+
+What is the USPTO?
+
+I have a different question
+
 In the US, a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, amongst other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Many other countries outside the US have adopted similar systems, including the ability for trademark owners to register their trademarks. For example, in the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -307,6 +317,13 @@ Related articles
 * * *](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -709,13 +726,11 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-What is intellectual property infringement?
+What is intellectual property?
 
 How do I appeal content removal?
 
 What is a trademark report?
-
-How do I contact the rights owner?
 
 I have a different question
 
@@ -1133,11 +1148,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What information for trademark report?
+How do I submit a trademark report?
 
-How do I find infringing content?
+What to include in a trademark report?
 
-What is a trademark infringement?
+How do I find a Facebook URL?
 
 I have a different question
 
@@ -1562,6 +1577,14 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
+How do I report intellectual property?
+
+What is Brand Rights Protection?
+
+How do I apply for Brand Rights Protection?
+
+I have a different question
+
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across many of our platforms. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 Related articles
@@ -1602,6 +1625,13 @@ Related articles
 * * *](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1700,9 +1730,9 @@ What is copyright and what does it protect?
 
 Copy link
 
-What does copyright protect?
+What is copyright?
 
-What is an original work?
+What does copyright protect?
 
 What is not protected by copyright?
 
@@ -2462,13 +2492,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report copyright infringement?
 
-What is Facebook copyright infringement?
+How do I contact a designated agent?
 
-How do I contact Facebook agent?
-
-How do I message content owner?
+What happens after I report copyright?
 
 I have a different question
 
@@ -2608,9 +2636,9 @@ Copy link
 
 What information do I include?
 
-How do I report copyright?
+How do I report copyright infringement?
 
-What is a copyright report?
+What happens to my contact info?
 
 I have a different question
 
@@ -2680,11 +2708,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What information is shared?
+What info is provided?
 
 What is a copyright report?
 
-How do I appeal content removal?
+How do I appeal a removal?
 
 I have a different question
 

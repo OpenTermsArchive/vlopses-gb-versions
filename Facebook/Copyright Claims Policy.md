@@ -726,11 +726,13 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-What is intellectual property?
+What is intellectual property infringement?
 
 How do I appeal content removal?
 
 What is a trademark report?
+
+How do I contact the rights owner?
 
 I have a different question
 
@@ -1148,11 +1150,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-How do I submit a trademark report?
+What information for trademark report?
 
-What to include in a trademark report?
+How do I find infringing content?
 
-How do I find a Facebook URL?
+What is a trademark infringement?
 
 I have a different question
 
@@ -1730,9 +1732,9 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
+
+What is an original work?
 
 What is not protected by copyright?
 
@@ -2561,16 +2563,6 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-How do I contact Meta DMCA agent?
-
-How do I send a DMCA report?
-
-What is Meta's DMCA email?
-
-What is Meta's DMCA address?
-
-I have a different question
-
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 
 If you wish to contact out designated agent via other (and slower) methods, you can contact:
@@ -2636,9 +2628,9 @@ Copy link
 
 What information do I include?
 
-How do I report copyright infringement?
+How do I report copyright?
 
-What happens to my contact info?
+What is a copyright report?
 
 I have a different question
 
@@ -2708,11 +2700,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What info is provided?
+What information is shared?
 
 What is a copyright report?
 
-How do I appeal a removal?
+How do I appeal content removal?
 
 I have a different question
 

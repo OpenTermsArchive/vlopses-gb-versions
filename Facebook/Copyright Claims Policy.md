@@ -194,14 +194,6 @@ What is trademark infringement?
 
 Copy link
 
-What is trademark infringement?
-
-What is likelihood of confusion?
-
-What is trademark dilution?
-
-I have a different question
-
 Generally, trademark infringement occurs when all three of the following requirements are met:
 
 1.  A company or person uses a trademark owner's trademark (or similar trademark) without permission
@@ -251,13 +243,6 @@ Related articles
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2494,11 +2479,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright infringement?
+How do I report Facebook copyright?
 
-How do I contact a designated agent?
+What is Facebook copyright infringement?
 
-What happens after I report copyright?
+How do I contact Facebook agent?
+
+How do I message content owner?
 
 I have a different question
 
@@ -2562,6 +2549,16 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 =================================================================================
 
 Copy link
+
+How do I contact Meta DMCA agent?
+
+How do I send a DMCA report?
+
+What is Meta's DMCA email?
+
+What is Meta's DMCA address?
+
+I have a different question
 
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 

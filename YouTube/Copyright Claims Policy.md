@@ -275,6 +275,12 @@ What the claimant can do
 *   **Submit a copyright removal request:** If the claimant believes that their claim is still valid, they can submit a [copyright removal request](https://support.google.com/youtube/answer/2807622). If the copyright removal request is [valid](https://support.google.com/youtube/answer/2807622#after), your video will be removed from YouTube and your channel will get a [copyright strike](https://support.google.com/youtube/answer/2814000). Learn more about options for [resolving a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
 *   **Let the claim expire:** If the claimant doesn't respond within 30 days, the claim on your video will expire and be released from your video.
 
+Learn more about the dispute process in this video's chapter 'Dispute process for copyright claims':
+
+[Content ID claims and dispute process: manage and action claims in Studio](https://www.youtube.com/watch?v=ybmRMEJG6LY)
+
+Subscribe to the [YouTube Creators channel](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ) for the latest news, updates and tips.
+
 Frequently asked questions (FAQ)
 --------------------------------
 

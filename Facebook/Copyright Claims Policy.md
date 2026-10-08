@@ -726,13 +726,11 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-What is intellectual property infringement?
+What is intellectual property?
 
 How do I appeal content removal?
 
 What is a trademark report?
-
-How do I contact the rights owner?
 
 I have a different question
 
@@ -797,13 +795,11 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
-What is Facebook's repeat infringer policy?
+What is Facebook's Repeat infringer policy?
 
-What happens if I repeatedly infringe?
+What happens to my Facebook account?
 
-What are intellectual property rights?
-
-How can I appeal a disabled account?
+What happens to my Facebook Page?
 
 I have a different question
 
@@ -1936,11 +1932,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is copyright protection?
-
-What is the public domain?
+What is public domain?
 
 How long does copyright last?
+
+What is the Berne Convention?
 
 I have a different question
 
@@ -2494,11 +2490,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright infringement?
+How do I report Facebook copyright?
 
-How do I contact a designated agent?
+What is Facebook copyright infringement?
 
-What happens after I report copyright?
+How do I contact Facebook agent?
+
+How do I message content owner?
 
 I have a different question
 

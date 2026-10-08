@@ -726,11 +726,13 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-What is intellectual property?
+What is intellectual property infringement?
 
 How do I appeal content removal?
 
 What is a trademark report?
+
+How do I contact the rights owner?
 
 I have a different question
 
@@ -795,11 +797,13 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
-What is Facebook's Repeat infringer policy?
+What is Facebook's repeat infringer policy?
 
-What happens to my Facebook account?
+What happens if I repeatedly infringe?
 
-What happens to my Facebook Page?
+What are intellectual property rights?
+
+How can I appeal a disabled account?
 
 I have a different question
 
@@ -1932,11 +1936,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
+What is copyright protection?
+
+What is the public domain?
 
 How long does copyright last?
-
-What is the Berne Convention?
 
 I have a different question
 
@@ -1996,16 +2000,6 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-What is Facebook copyright law?
-
-How do I avoid Facebook copyright?
-
-What is fair use on Facebook?
-
-What is public domain content?
-
-I have a different question
-
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
 *   Bought or downloaded the content (for example, a song from iTunes)
@@ -2062,13 +2056,6 @@ Related articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2708,14 +2695,6 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What information is shared?
-
-What is a copyright report?
-
-How do I appeal content removal?
-
-I have a different question
-
 When we receive a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) through our online form and remove the reported content, we regularly provide the person who posted the content with the following information:
 
 *   Report number
@@ -2760,13 +2739,6 @@ Related articles
 * * *](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 

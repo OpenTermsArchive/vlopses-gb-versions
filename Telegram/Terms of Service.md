@@ -18,6 +18,8 @@ If you access certain optional features and services on the Telegram platform, y
 
 Telegram additionally prohibits data scraping as part of its [Content Licensing and AI Scraping Terms](https://telegram.org/tos/content-licensing), which apply to all users, businesses, and third-party services accessing the platform.
 
+To learn more about how Telegram keeps its platform and its users safe, please see the [Telegram Safety Overview](https://telegram.org/safety) and the [FAQ](https://telegram.org/faq).
+
 * * *
 
 ### [](#terms-of-service-for-telegram-stars)Terms of Service for Telegram Stars

@@ -657,11 +657,13 @@ How can I make sure that the content I post to Facebook doesn't violate trademar
 
 Copy link
 
-What is Facebook trademark infringement?
+What is trademark infringement?
 
-How do I avoid Facebook trademark issues?
+How do I avoid trademark issues?
 
-What happens if I violate trademark law?
+What happens if I violate trademark?
+
+How do I get legal advice?
 
 I have a different question
 
@@ -1598,9 +1600,9 @@ Related articles
 
 [How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-[Using your Facebook information with other products](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
-
 [How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+
+[Using your Facebook information with other products](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
 
 Related articles
 
@@ -1620,11 +1622,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-[Using your Facebook information with other products
+[How can I make sure that the content I post to Facebook doesn't violate copyright law?
 
-* * *](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
+* * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+[Using your Facebook information with other products](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1730,14 +1732,6 @@ What is copyright and what does it protect?
 
 Copy link
 
-What does copyright protect?
-
-What is an original work?
-
-What is not protected by copyright?
-
-I have a different question
-
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment that you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -1784,13 +1778,6 @@ Related articles
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1870,6 +1857,14 @@ What rights do I have as a copyright owner?
 
 Copy link
 
+What rights do I have?
+
+What is copyright infringement?
+
+How do I grant permission?
+
+I have a different question
+
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -1908,6 +1903,13 @@ Related articles
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2336,7 +2338,9 @@ What happens to removed content?
 
 How do I appeal content removal?
 
-What is a copyright report?
+What is intellectual property infringement?
+
+How do I contact the rights owner?
 
 I have a different question
 
@@ -2837,11 +2841,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What are Facebook copyright tools?
+What is Facebook Rights Manager?
 
-What is Rights Manager?
+What is Facebook content protection?
 
-What is content protection?
+How do I apply for Facebook tools?
+
+How do I report copyright infringement?
 
 I have a different question
 

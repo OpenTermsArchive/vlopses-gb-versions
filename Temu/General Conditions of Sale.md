@@ -153,8 +153,8 @@ We accept
 Temu | Shipping Info
 ====================
 
-We provide FREE STANDARD SHIPPING/CLICK & COLLECT on almost all orders.
------------------------------------------------------------------------
+FREE STANDARD SHIPPING/CLICK & COLLECT applies to almost all orders.
+--------------------------------------------------------------------
 
 Shipping Method
 
@@ -180,7 +180,7 @@ FREE on almost all orders
 
 6 - 8 business days
 
-Temu reserves the right to adjust thresholds in specific events or circumstances. The applicable thresholds are detailed before you submit your order.
+Thresholds may be adjusted in specific events or circumstances. The applicable thresholds are detailed before you submit your order.
 
 Shipping options
 ----------------

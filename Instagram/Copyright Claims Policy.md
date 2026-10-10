@@ -1134,11 +1134,13 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-What is intellectual property?
+How do I report Instagram infringement?
 
-How do I report an infringement?
+How do I report Threads infringement?
 
-What is a copyright infringement?
+What is Instagram intellectual property?
+
+What is Threads intellectual property?
 
 I have a different question
 
@@ -1191,6 +1193,16 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
+What is Instagram's DMCA agent?
+
+How do I contact Instagram's DMCA agent?
+
+How do I send a DMCA report?
+
+What is a complete copyright claim?
+
+I have a different question
+
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to fill in our [online form](https://help.instagram.com/contact/372592039493026).
 
 If you wish to reach our designated agent through other (and slower) methods, you can contact:
@@ -1236,6 +1248,13 @@ Related articles
 * * *](https://help.instagram.com/1399805013976109/?helpref=related_articles)
 
 [Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2309,11 +2328,13 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-What is intellectual property?
+How do I report Instagram infringement?
 
-How do I report an infringement?
+How do I report Threads infringement?
 
-What is a copyright infringement?
+What is Instagram intellectual property?
+
+What is Threads intellectual property?
 
 I have a different question
 

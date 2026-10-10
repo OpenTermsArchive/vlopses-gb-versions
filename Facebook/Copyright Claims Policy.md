@@ -109,13 +109,6 @@ Facebook removed content as a result of my trademark report. What information is
 
 What tools does Facebook provide to help me enforce my intellectual property rights in advertisements and sale posts?
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -149,11 +142,11 @@ Related articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -163,17 +156,17 @@ Related articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
+[Trademark
 
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [Are there any limits to trademark rights?
 
 * * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[Trademark
+[What's the difference between copyright and trademark?
 
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+* * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -269,13 +262,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-What is a US trademark?
+What is a registered trademark?
 
 How do I register a trademark?
 
 What are common law trademark rights?
 
-What is a registered trademark?
+What is the USPTO?
 
 I have a different question
 
@@ -726,11 +719,13 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-What is intellectual property?
+What is intellectual property infringement?
 
 How do I appeal content removal?
 
 What is a trademark report?
+
+How do I contact the rights owner?
 
 I have a different question
 
@@ -1088,7 +1083,7 @@ What is copyright infringement?
 
 What is trademark infringement?
 
-What are the legal consequences?
+What is fair use?
 
 I have a different question
 
@@ -1443,11 +1438,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-How do I withdraw a Facebook IP report?
+How do I withdraw an IP report?
 
-How do I cancel a Facebook copyright report?
+How do I cancel an IP report?
 
-What happens after I withdraw a report?
+What happens after I withdraw?
 
 I have a different question
 
@@ -1934,11 +1929,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
+What is copyright protection?
+
+What is the public domain?
 
 How long does copyright last?
-
-What is the Berne Convention?
 
 I have a different question
 
@@ -2178,11 +2173,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted work?
+What is Facebook copyright policy?
 
-What is fair use?
+What is fair use on Facebook?
 
-What does copyright protect?
+How do I report copyright infringement?
 
 I have a different question
 
@@ -2638,9 +2633,9 @@ Copy link
 
 What information do I include?
 
-How do I report copyright infringement?
+How do I report copyright?
 
-What happens to my contact info?
+What is a copyright report?
 
 I have a different question
 
@@ -2854,11 +2849,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What are Facebook copyright tools?
+What is Facebook Rights Manager?
 
-What is Rights Manager?
+What is Facebook content protection?
 
-What is content protection?
+How do I apply for Facebook tools?
+
+How do I report copyright infringement?
 
 I have a different question
 

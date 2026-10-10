@@ -726,13 +726,11 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-What is intellectual property infringement?
+What is intellectual property?
 
 How do I appeal content removal?
 
 What is a trademark report?
-
-How do I contact the rights owner?
 
 I have a different question
 
@@ -1090,7 +1088,7 @@ What is copyright infringement?
 
 What is trademark infringement?
 
-What is fair use?
+What are the legal consequences?
 
 I have a different question
 
@@ -1445,11 +1443,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-How do I withdraw an IP report?
+How do I withdraw a Facebook IP report?
 
-How do I cancel an IP report?
+How do I cancel a Facebook copyright report?
 
-What happens after I withdraw?
+What happens after I withdraw a report?
 
 I have a different question
 
@@ -1732,6 +1730,14 @@ What is copyright and what does it protect?
 
 Copy link
 
+What does copyright protect?
+
+What is an original work?
+
+What is not protected by copyright?
+
+I have a different question
+
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment that you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -1778,6 +1784,13 @@ Related articles
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1921,11 +1934,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is copyright protection?
-
-What is the public domain?
+What is public domain?
 
 How long does copyright last?
+
+What is the Berne Convention?
 
 I have a different question
 
@@ -2165,11 +2178,11 @@ Copy link
 
 What is copyright infringement?
 
-What is Facebook copyright policy?
+Can I use copyrighted work?
 
-What is fair use on Facebook?
+What is fair use?
 
-How do I report copyright infringement?
+What does copyright protect?
 
 I have a different question
 
@@ -2625,9 +2638,9 @@ Copy link
 
 What information do I include?
 
-How do I report copyright?
+How do I report copyright infringement?
 
-What is a copyright report?
+What happens to my contact info?
 
 I have a different question
 
@@ -2841,13 +2854,11 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What is Facebook Rights Manager?
+What are Facebook copyright tools?
 
-What is Facebook content protection?
+What is Rights Manager?
 
-How do I apply for Facebook tools?
-
-How do I report copyright infringement?
+What is content protection?
 
 I have a different question
 

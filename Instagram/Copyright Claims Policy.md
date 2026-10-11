@@ -997,7 +997,9 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-How do I contact DMCA agent?
+What is a DMCA designated agent?
+
+What happens after I report?
 
 I have a different question
 
@@ -1686,14 +1688,6 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-What is a registered trademark?
-
-What are common law trademark rights?
-
-How do I register a trademark?
-
-I have a different question
-
 It depends. In the US, a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, amongst other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Outside the US, many other countries have adopted similar systems, including the ability for trademark owners to register their trademarks. Both in the US and in other countries, depending on the relevant laws, a trademark owner may still have certain rights without a registration. Typically, a trademark owner's rights without a registration (often known as common law rights) may be weaker than rights that are subject to a registration. Also, it's important to bear in mind that registering a company with a government office or getting a permit to do business in a specific country or state (for example, a business registration) usually doesn't itself create a trademark right.
@@ -1730,13 +1724,6 @@ Related articles
 * * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
 [What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 

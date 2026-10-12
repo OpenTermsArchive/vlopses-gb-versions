@@ -632,14 +632,6 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
-
-What are copyright exceptions?
-
-What are fair use factors?
-
-I have a different question
-
 Laws across the globe recognise that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the "fair use" doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else's copyrighted work within the limits set by the law.
@@ -708,13 +700,6 @@ Related articles
 * * *](https://help.instagram.com/1896184403962569/?helpref=related_articles)
 
 [Copyright](https://help.instagram.com/126382350847838/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1688,6 +1673,14 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
+What is a registered trademark?
+
+What are common law trademark rights?
+
+How do I register a trademark?
+
+I have a different question
+
 It depends. In the US, a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, amongst other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Outside the US, many other countries have adopted similar systems, including the ability for trademark owners to register their trademarks. Both in the US and in other countries, depending on the relevant laws, a trademark owner may still have certain rights without a registration. Typically, a trademark owner's rights without a registration (often known as common law rights) may be weaker than rights that are subject to a registration. Also, it's important to bear in mind that registering a company with a government office or getting a permit to do business in a specific country or state (for example, a business registration) usually doesn't itself create a trademark right.
@@ -1724,6 +1717,13 @@ Related articles
 * * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
 [What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2652,14 +2652,6 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
-
-What are copyright exceptions?
-
-What are fair use factors?
-
-I have a different question
-
 Laws across the globe recognise that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the "fair use" doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else's copyrighted work within the limits set by the law.
@@ -2728,13 +2720,6 @@ Related articles
 * * *](https://help.instagram.com/1896184403962569/?helpref=related_articles)
 
 [Copyright](https://help.instagram.com/126382350847838/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -3025,13 +3010,11 @@ Resolve issues, make changes and get support in real time
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
 
-What is an Instagram copyright appeal?
-
-How do I submit an Instagram appeal?
+How do I appeal Instagram content?
 
 What is a DMCA counter-notification?
 
-How do I submit a DMCA counter-notification?
+What happens after I appeal?
 
 I have a different question
 

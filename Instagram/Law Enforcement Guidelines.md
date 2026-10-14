@@ -9,7 +9,7 @@ What Instagram user information is available?
 
 How do I submit an emergency request?
 
-How do I submit a request?
+What are Instagram international legal requirements?
 
 I have a different question
 

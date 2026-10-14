@@ -126,6 +126,14 @@ What are trademarks and what they protect
 
 Copy link
 
+What are trademarks?
+
+What do trademarks protect?
+
+How do trademarks work?
+
+I have a different question
+
 A trademark is a word, slogan, symbol or design (e.g. a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it's used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether shopping in stores or online, watching commercials on TV and so on.
 
 Generally, trademark law seeks to prevent consumers from being confused about who provides, endorses or is affiliated with a particular product or service. To prevent this situation, a trademark owner may be able to stop others from using their trademark (or a similar trademark) without permission if that use may cause confusion.
@@ -168,6 +176,13 @@ Related articles
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -943,16 +958,6 @@ Can I report an infringement of someone else's intellectual property on Facebook
 
 Copy link
 
-How do I report intellectual property?
-
-What is intellectual property?
-
-What is a copyright infringement?
-
-What is a trademark infringement?
-
-I have a different question
-
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Facebook infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
 Related articles
@@ -1288,16 +1293,6 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-How do I report an ad?
-
-What is Brand Rights Protection?
-
-How do I report copyright infringement?
-
-How do I report trademark infringement?
-
-I have a different question
-
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 If you don't have access to Brand Rights Protection, and you believe that content on Facebook is infringing your intellectual property rights, you can report it to us through one of the following forms:
@@ -1348,13 +1343,6 @@ Related articles
 * * *](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2069,13 +2057,11 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
+What is fair use of copyrighted material?
 
 What are copyright exceptions?
 
-How does fair use apply?
-
-What is copyright infringement?
+How do I know if my use is fair?
 
 I have a different question
 
@@ -2477,13 +2463,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report copyright?
 
-What is Facebook copyright infringement?
+What is copyright infringement?
 
 How do I contact Facebook agent?
-
-How do I message content owner?
 
 I have a different question
 

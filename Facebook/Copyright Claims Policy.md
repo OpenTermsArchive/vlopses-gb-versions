@@ -126,7 +126,7 @@ What are trademarks and what they protect
 
 Copy link
 
-What are trademarks?
+What is a trademark?
 
 What do trademarks protect?
 
@@ -958,6 +958,16 @@ Can I report an infringement of someone else's intellectual property on Facebook
 
 Copy link
 
+How do I report intellectual property?
+
+What is intellectual property?
+
+What is a copyright infringement?
+
+What is a trademark infringement?
+
+I have a different question
+
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Facebook infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
 Related articles
@@ -1293,6 +1303,16 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
+How do I report an ad?
+
+What is Brand Rights Protection?
+
+How do I report copyright infringement?
+
+How do I report trademark infringement?
+
+I have a different question
+
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 If you don't have access to Brand Rights Protection, and you believe that content on Facebook is infringing your intellectual property rights, you can report it to us through one of the following forms:
@@ -1343,6 +1363,13 @@ Related articles
 * * *](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1618,7 +1645,9 @@ How do I report copyright infringement?
 
 How do I protect my copyrighted work?
 
-What is copyright on Facebook?
+What is Facebook copyright policy?
+
+What are intellectual property tools?
 
 I have a different question
 

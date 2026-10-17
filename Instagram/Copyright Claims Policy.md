@@ -87,14 +87,6 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
-How do I report Instagram copyright?
-
-How do I protect my Instagram content?
-
-How does Instagram address copyright?
-
-I have a different question
-
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [US. Copyright Office](https://www.copyright.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram and Threads can't provide you with legal advice, so you may want to speak to a legal professional if you have more questions about copyright.
@@ -561,9 +553,9 @@ What is Instagram copyright law?
 
 How do I avoid Instagram copyright?
 
-What violates Instagram copyright?
+How does Threads copyright work?
 
-How do I make sure my Instagram content doesn't violate copyright law?
+What is fair use on Instagram?
 
 I have a different question
 
@@ -1007,9 +999,9 @@ How do I report Instagram copyright?
 
 How do I use Brand Rights Protection?
 
-What is a DMCA designated agent?
+How do I contact DMCA agent?
 
-What happens after I report?
+Who can report copyright infringement?
 
 I have a different question
 
@@ -1823,6 +1815,14 @@ How long does trademark protection last?
 
 Copy link
 
+What is trademark protection?
+
+How do I renew trademark registration?
+
+What happens if I stop using a trademark?
+
+I have a different question
+
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights. Please also note that for trademarks that are registered with the United States Patent and Trademark Office (USPTO), issued registrations must be renewed periodically. The laws in other jurisdictions may vary.
 
 Related articles
@@ -1857,6 +1857,13 @@ Related articles
 * * *](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
 [The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

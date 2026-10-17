@@ -593,6 +593,16 @@ What's the difference between copyright and trademark?
 
 Copy link
 
+What is copyright?
+
+What is trademark?
+
+What does copyright protect?
+
+What does trademark protect?
+
+I have a different question
+
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright](https://www.facebook.com/help/116772962146447?helpref=faq_content) is meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works such as photos, videos, films and music. It's also important to note that, in the US, the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn't apply to trademarks.
@@ -631,6 +641,13 @@ Related articles
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1490,6 +1507,14 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
+What information is sent?
+
+What is a trademark report?
+
+How do I appeal removed content?
+
+I have a different question
+
 When we receive [trademark reports](https://www.facebook.com/help/191999230901156?helpref=faq_content) and remove the reported content, we typically provide the person who posted the content with the following information:
 
 *   Report number
@@ -1534,6 +1559,13 @@ Related articles
 * * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1770,14 +1802,6 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-What is copyright ownership?
-
-What is an original work?
-
-What if I appear in a photo?
-
-I have a different question
-
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you are likely to own the copyright in that painting. Similarly, if you take a photo, you are likely to own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
@@ -1820,13 +1844,6 @@ Related articles
 * * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2052,11 +2069,13 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use of copyrighted material?
+What is fair use copyright?
 
 What are copyright exceptions?
 
-How do I know if my use is fair?
+How does fair use apply?
+
+What is copyright infringement?
 
 I have a different question
 
@@ -2458,11 +2477,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright infringement?
+How do I report copyright?
 
-How do I contact a designated agent?
+What is copyright infringement?
 
-What happens after I report copyright?
+How do I contact Facebook agent?
 
 I have a different question
 

@@ -593,16 +593,6 @@ What's the difference between copyright and trademark?
 
 Copy link
 
-What is copyright?
-
-What is trademark?
-
-What does copyright protect?
-
-What does trademark protect?
-
-I have a different question
-
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright](https://www.facebook.com/help/116772962146447?helpref=faq_content) is meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works such as photos, videos, films and music. It's also important to note that, in the US, the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn't apply to trademarks.
@@ -641,13 +631,6 @@ Related articles
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1303,6 +1286,16 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
+How do I report an ad?
+
+What is Brand Rights Protection?
+
+How do I report copyright infringement?
+
+How do I report trademark infringement?
+
+I have a different question
+
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 If you don't have access to Brand Rights Protection, and you believe that content on Facebook is infringing your intellectual property rights, you can report it to us through one of the following forms:
@@ -1353,6 +1346,13 @@ Related articles
 * * *](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1490,14 +1490,6 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What information is sent?
-
-What is a trademark report?
-
-How do I appeal removed content?
-
-I have a different question
-
 When we receive [trademark reports](https://www.facebook.com/help/191999230901156?helpref=faq_content) and remove the reported content, we typically provide the person who posted the content with the following information:
 
 *   Report number
@@ -1542,13 +1534,6 @@ Related articles
 * * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2473,11 +2458,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright?
+How do I report copyright infringement?
 
-What is copyright infringement?
+How do I contact a designated agent?
 
-How do I contact Facebook agent?
+What happens after I report copyright?
 
 I have a different question
 

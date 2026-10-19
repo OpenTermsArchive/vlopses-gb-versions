@@ -1507,6 +1507,14 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
+What information is sent?
+
+What is a trademark report?
+
+How do I appeal removed content?
+
+I have a different question
+
 When we receive [trademark reports](https://www.facebook.com/help/191999230901156?helpref=faq_content) and remove the reported content, we typically provide the person who posted the content with the following information:
 
 *   Report number
@@ -1551,6 +1559,13 @@ Related articles
 * * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1717,6 +1732,14 @@ What is copyright and what does it protect?
 
 Copy link
 
+What does copyright protect?
+
+What is an original work?
+
+What is not protected by copyright?
+
+I have a different question
+
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment that you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -1763,6 +1786,13 @@ Related articles
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2675,6 +2705,14 @@ Facebook removed content as a result of my copyright report. What information is
 ============================================================================================================================
 
 Copy link
+
+What information is shared?
+
+What is a copyright report?
+
+How do I appeal content removal?
+
+I have a different question
 
 When we receive a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) through our online form and remove the reported content, we regularly provide the person who posted the content with the following information:
 

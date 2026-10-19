@@ -3,13 +3,13 @@ Intellectual property
 
 Copy link
 
-What is Instagram copyright?
-
 How do I report Instagram copyright?
 
-What is Instagram trademark?
-
 How do I report Instagram trademark?
+
+What is Instagram copyright?
+
+What is Instagram trademark?
 
 I have a different question
 
@@ -149,6 +149,14 @@ Resolve issues, make changes and get support in real time
 
 Trademark
 =========
+
+What do trademarks protect?
+
+How do I report trademark infringement?
+
+How do I avoid Instagram trademark infringement?
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling in this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
@@ -1138,11 +1146,11 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-What is Instagram intellectual property?
+What is intellectual property infringement?
 
-How do I report Instagram content?
+How do I report Instagram infringement?
 
-How do I report Threads content?
+How do I report Threads infringement?
 
 I have a different question
 
@@ -1422,14 +1430,6 @@ What happens when you submit a copyright report to Instagram or Threads
 
 Copy link
 
-What happens after I submit a copyright report?
-
-How do I respond to a request for more information?
-
-What information is shared with the person who posted?
-
-I have a different question
-
 If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team asking for more information about your report, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -1476,13 +1476,6 @@ Related articles
 * * *](https://help.instagram.com/144663955711336/?helpref=related_articles)
 
 [Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1577,11 +1570,11 @@ Related articles
 
 [The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
+[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+
 [Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
 [How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
 
 Related articles
 
@@ -1593,15 +1586,15 @@ Related articles
 
 * * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
+[Are there any limits to trademark rights?
+
+* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
+
 [Does a trademark need to be registered to be protected?
 
 * * *](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
-[How long does trademark protection last?
-
-* * *](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2324,11 +2317,11 @@ Can I report an infringement of someone else's intellectual property on Instagra
 
 Copy link
 
-What is Instagram intellectual property?
+What is intellectual property infringement?
 
-How do I report Instagram content?
+How do I report Instagram infringement?
 
-How do I report Threads content?
+How do I report Threads infringement?
 
 I have a different question
 

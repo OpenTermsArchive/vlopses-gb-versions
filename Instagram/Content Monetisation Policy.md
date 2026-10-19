@@ -239,7 +239,7 @@ How do Instagram monetisation policies work?
 
 How do I monetise on Instagram?
 
-What are Instagram Content Monetisation Policies?
+How do Instagram Content Monetisation Policies work?
 
 How do I get paid on Instagram?
 

@@ -511,9 +511,9 @@ Related articles
 
 [More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
 [What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Related articles
 
@@ -529,11 +529,11 @@ Related articles
 
 * * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?
+[What is trademark infringement?
 
-* * *](https://help.instagram.com/346906112398235/?helpref=related_articles)
+* * *](https://help.instagram.com/1904208239817294/?helpref=related_articles)
 
-[What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1491,6 +1491,16 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Copy link
 
+How do I withdraw an Instagram report?
+
+How do I cancel a Threads report?
+
+What happens after I withdraw a report?
+
+How do I withdraw a copyright report?
+
+I have a different question
+
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do that is to complete the retraction form provided to you in the email with reference to your report. Alternatively, you can submit [this form](https://help.instagram.com/contact/3373960976225657).
@@ -1567,11 +1577,11 @@ Related articles
 
 [The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
+[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+
 [Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
 [How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
 
 Related articles
 
@@ -1583,15 +1593,15 @@ Related articles
 
 * * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
 
+[Are there any limits to trademark rights?
+
+* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
+
 [Does a trademark need to be registered to be protected?
 
 * * *](https://help.instagram.com/902013803270727/?helpref=related_articles)
 
-[How long does trademark protection last?
-
-* * *](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2011,9 +2021,9 @@ Related articles
 
 [More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
 [What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Related articles
 
@@ -2029,11 +2039,11 @@ Related articles
 
 * * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?
+[What is trademark infringement?
 
-* * *](https://help.instagram.com/346906112398235/?helpref=related_articles)
+* * *](https://help.instagram.com/1904208239817294/?helpref=related_articles)
 
-[What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2814,6 +2824,16 @@ What happens when you submit a trademark report to Instagram or Threads
 
 Copy link
 
+What happens after I report a trademark?
+
+How do I respond to Instagram about a report?
+
+What information does Instagram share?
+
+How do I contact Instagram about a report?
+
+I have a different question
+
 If you [submitted a trademark report](https://help.instagram.com/1921828231475726?helpref=faq_content) to us through our online form or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive an email from our team, you should respond directly to that email. Once our team has received your response, they can continue to look into your report.
@@ -2861,12 +2881,29 @@ Related articles
 
 [Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Retract an intellectual property report that you've submitted to Instagram or Threads
 =====================================================================================
 
 Copy link
+
+How do I withdraw an Instagram report?
+
+How do I cancel a Threads report?
+
+What happens after I withdraw a report?
+
+How do I withdraw a copyright report?
+
+I have a different question
 
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 

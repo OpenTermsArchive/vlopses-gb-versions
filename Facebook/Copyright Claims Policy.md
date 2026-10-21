@@ -343,6 +343,8 @@ What is a business registration?
 
 What is the USPTO?
 
+What is the EUIPO?
+
 I have a different question
 
 In some states in the US and in some countries outside the US, a company might be able to register with a government office, or obtain a permit or licence to do business in that country or state. These registrations, such as ones issued by a state's Secretary of State, generally aren't the same as a trademark registration and may not create trademark rights for the company.
@@ -461,11 +463,11 @@ What is a counterfeit?
 
 Copy link
 
-What is a counterfeit good?
-
 How do I report counterfeit goods?
 
-What is trademark infringement?
+What is a trademark infringement?
+
+What happens if I sell counterfeit goods?
 
 I have a different question
 
@@ -592,16 +594,6 @@ What's the difference between copyright and trademark?
 ======================================================
 
 Copy link
-
-What is copyright?
-
-What is trademark?
-
-What does copyright protect?
-
-What does trademark protect?
-
-I have a different question
 
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -795,11 +787,11 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
-What happens if I repeatedly infringe?
+What happens if I infringe IP?
 
-What is intellectual property?
+What is Facebook intellectual property?
 
-What happens to my Facebook account?
+What happens to my Facebook Page?
 
 What are Facebook feature limits?
 
@@ -890,11 +882,11 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
-How do I report trademark infringement?
+How do I report Facebook trademark infringement?
 
 What happens after I report trademark infringement?
 
-What are the legal consequences?
+How do I contact the infringing party?
 
 I have a different question
 
@@ -1511,7 +1503,7 @@ What information is sent?
 
 What is a trademark report?
 
-How do I appeal removed content?
+How do I appeal a removal?
 
 I have a different question
 
@@ -1643,11 +1635,9 @@ Copyright
 
 How do I report copyright infringement?
 
+What is Facebook copyright?
+
 How do I protect my copyrighted work?
-
-What is Facebook copyright policy?
-
-What are intellectual property tools?
 
 I have a different question
 
@@ -1736,7 +1726,7 @@ What does copyright protect?
 
 What is an original work?
 
-What is not protected by copyright?
+What is copyright infringement?
 
 I have a different question
 
@@ -2182,11 +2172,9 @@ Copy link
 
 What is copyright infringement?
 
-What is Facebook copyright policy?
-
 What is fair use on Facebook?
 
-How do I report copyright infringement?
+How do I avoid copyright infringement?
 
 I have a different question
 
@@ -2498,7 +2486,7 @@ How do I report copyright?
 
 What is copyright infringement?
 
-How do I contact Facebook agent?
+How do I contact designated agent?
 
 I have a different question
 
@@ -2636,11 +2624,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What information do I include?
-
-How do I report copyright?
+What info to include?
 
 What is a copyright report?
+
+How to report copyright infringement?
 
 I have a different question
 
@@ -2780,11 +2768,13 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens after a copyright report?
+What happens after I report?
 
 What information is shared?
 
 How do I respond to Meta?
+
+What is a copyright report?
 
 I have a different question
 

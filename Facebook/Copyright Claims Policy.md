@@ -126,7 +126,7 @@ What are trademarks and what they protect
 
 Copy link
 
-What is a trademark?
+What are trademarks?
 
 What do trademarks protect?
 
@@ -1150,11 +1150,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What information do I include?
+What to include in a trademark report?
 
-What is a trademark report?
+How do I find a URL on Facebook?
 
-How do I find a URL?
+What is a trademark infringement?
 
 I have a different question
 
@@ -1233,9 +1233,9 @@ Copy link
 
 What happens after I report?
 
-What information is shared?
+What is a trademark report number?
 
-How do I respond to Meta?
+What information is shared?
 
 I have a different question
 
@@ -1940,9 +1940,9 @@ Copy link
 
 What is copyright protection?
 
-What is the public domain?
-
 How long does copyright last?
+
+What is the public domain?
 
 I have a different question
 
@@ -2086,11 +2086,13 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use of copyrighted material?
+What is fair use?
 
 What are copyright exceptions?
 
-How do I know if my use is fair?
+How does fair use apply to my content?
+
+What happens if I infringe copyright?
 
 I have a different question
 
@@ -2422,6 +2424,16 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
+What is a DMCA counter-notification?
+
+How do I file a DMCA counter-notification?
+
+What happens after I file a counter-notification?
+
+How long does a DMCA counter-notification take?
+
+I have a different question
+
 Meta complies with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating US copyrights.
 
 If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the message that we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
@@ -2464,6 +2476,13 @@ Related articles
 * * *](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
 [How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2544,11 +2563,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-How do I contact Meta DMCA?
+What is a DMCA designated agent?
 
-How do I report copyright infringement?
+How do I contact DMCA agent?
 
-What is Meta's DMCA agent address?
+How do I submit a copyright claim?
+
+What is a copyright claim?
 
 I have a different question
 

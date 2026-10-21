@@ -3,15 +3,13 @@ Information for law enforcement
 
 Copy link
 
-What are Instagram operational guidelines?
+कानून लागू करने वाली संस्था के लिए जानकारी
 
-What Instagram user information is available?
+उपयोगकर्ता की जानकारी का अनुरोध कैसे करें?
 
-How do I submit an emergency request?
+आपातकालीन अनुरोध कैसे करें?
 
-What are Instagram international legal requirements?
-
-I have a different question
+मेरे पास एक अलग सवाल है
 
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 

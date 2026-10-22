@@ -3,13 +3,15 @@ Information for law enforcement
 
 Copy link
 
-कानून लागू करने वाली संस्था के लिए जानकारी
+What are Instagram account records?
 
-उपयोगकर्ता की जानकारी का अनुरोध कैसे करें?
+How do I request Instagram user information?
 
-आपातकालीन अनुरोध कैसे करें?
+What is an Instagram emergency request?
 
-मेरे पास एक अलग सवाल है
+How do I submit an Instagram request?
+
+I have a different question
 
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 

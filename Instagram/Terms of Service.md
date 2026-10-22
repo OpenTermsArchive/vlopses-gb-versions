@@ -3,13 +3,11 @@ Terms of Use
 
 Copy link
 
-What is the Instagram Service?
+What are Instagram Terms of Use?
+
+How does Instagram use my data?
 
 How is Instagram funded?
-
-What is the Instagram Privacy Policy?
-
-What are Instagram's Terms of Use?
 
 I have a different question
 

@@ -756,6 +756,35 @@ Legal
 *   Language
     
     English (UK)
+    
+
+English (UK)
+
+Cookies
+-------
+
+### Cookies help us:
+
+*   Power this website and monitor its performance.
+    
+*   Remember your preferences and improve your experience.
+    
+*   Understand how you use this website.
+    
+*   Deliver relevant ads and measure their effectiveness.
+    
+
+To continue, select one of the following options:
+
+**Cookie Menu** for an a la carte cookie experience.
+
+**Accept All** for all cookies and the most enhanced experience.
+
+**Essential Only** for the most basic experience.
+
+Interested in the details? Read our [Cookie Policy](https://www.snap.com/cookie-policy?lang=en-GB)
+
+Essential OnlyAccept AllCookie Menu
 
 - - -
 

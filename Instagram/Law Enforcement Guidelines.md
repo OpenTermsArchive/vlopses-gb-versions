@@ -3,16 +3,6 @@ Information for law enforcement
 
 Copy link
 
-What are Instagram operational guidelines?
-
-What Instagram user information is available?
-
-How do I submit an emergency request?
-
-What are Instagram international legal requirements?
-
-I have a different question
-
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
 Requests for user information
@@ -141,10 +131,3 @@ Related articles
 * * *](https://help.instagram.com/272603474673152/?helpref=related_articles)
 
 [Privacy settings and information](https://help.instagram.com/196883487377501/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time

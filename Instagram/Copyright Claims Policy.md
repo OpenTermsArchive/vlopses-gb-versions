@@ -351,16 +351,6 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What are copyright owner rights?
-
-What is copyright infringement?
-
-How do I grant copyright permission?
-
-What is fair use?
-
-I have a different question
-
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -553,9 +543,9 @@ What is Instagram copyright law?
 
 How do I avoid Instagram copyright?
 
-How does Threads copyright work?
+What violates Instagram copyright?
 
-What is fair use on Instagram?
+How do I make sure my Instagram content doesn't violate copyright law?
 
 I have a different question
 
@@ -725,13 +715,13 @@ Can I still violate another person's copyright on Instagram or Threads if I didn
 
 Copy link
 
-What is copyright infringement?
+What is Instagram copyright infringement?
 
-Can I use copyrighted content?
-
-What is fair use?
+What is Instagram fair use?
 
 What happens if I infringe copyright?
+
+How do I report Instagram copyright?
 
 I have a different question
 
@@ -798,14 +788,6 @@ What to do if content that you posted on Instagram or Threads is removed because
 
 Copy link
 
-What happens after Instagram content is removed?
-
-How do I appeal Instagram copyright removal?
-
-How do I use music on Instagram?
-
-I have a different question
-
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe that the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
 If your content was removed because of a copyright report, you can submit an appeal. Learn more about [our appeals process](https://www.facebook.com/help/instagram/1417735471763678?locale=en_US&helpref=faq_content) or [how to use music in your videos on Instagram or Threads.](https://www.facebook.com/help/instagram/629037417957828?helpref=faq_content)
@@ -842,13 +824,6 @@ Related articles
 * * *](https://help.instagram.com/275268756304020/?helpref=related_articles)
 
 [How to make sure that content you post to Instagram or Threads doesn't violate copyright law](https://help.instagram.com/354736791367645/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1422,6 +1397,14 @@ What happens when you submit a copyright report to Instagram or Threads
 
 Copy link
 
+What happens after I submit a copyright report?
+
+How do I respond to a request for more information?
+
+What information is shared with the person who posted?
+
+I have a different question
+
 If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team asking for more information about your report, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -1468,6 +1451,13 @@ Related articles
 * * *](https://help.instagram.com/144663955711336/?helpref=related_articles)
 
 [Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2241,16 +2231,6 @@ How to report trademark infringement on Instagram or Threads
 ============================================================
 
 Copy link
-
-How do I report Instagram trademark infringement?
-
-How do I report Threads trademark infringement?
-
-How do I use Brand Rights Protection?
-
-What happens after I report trademark infringement?
-
-I have a different question
 
 Instagram and Threads can't adjudicate disputes between third parties, and so we wouldn't be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 

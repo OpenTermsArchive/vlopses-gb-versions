@@ -1732,9 +1732,9 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
+
+What is an original work?
 
 What is not protected by copyright?
 
@@ -1804,14 +1804,6 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-What is copyright ownership?
-
-What is an original work?
-
-What if I appear in a photo?
-
-I have a different question
-
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you are likely to own the copyright in that painting. Similarly, if you take a photo, you are likely to own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
@@ -1855,13 +1847,6 @@ Related articles
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1871,16 +1856,6 @@ What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
-
-What rights do I have?
-
-What is copyright infringement?
-
-How do I grant permission?
-
-How do I prevent others from using my work?
-
-I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
@@ -1920,13 +1895,6 @@ Related articles
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2002,6 +1970,16 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+What is Facebook copyright law?
+
+How do I avoid Facebook copyright?
+
+What is Facebook fair use?
+
+What is Facebook public domain?
+
+I have a different question
+
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
 *   Bought or downloaded the content (for example, a song from iTunes)
@@ -2058,6 +2036,13 @@ Related articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

@@ -13,6 +13,10 @@ What are Instagram's Terms of Use?
 
 I have a different question
 
+We're updating our Terms of Use. These updates come into effect on 20 January 2027. By using our products or services after 20 January 2027, you agree to the updated Terms of Use.  
+  
+[Read new terms](https://help.instagram.com/2159268501666222?helpref=faq_content)
+
 Welcome to Instagram!  
   
 These Terms of Use (or "Terms") govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply and provide information about the Instagram Service (the "Service"), outlined below. The Meta Terms of Service do not apply to this Service.  

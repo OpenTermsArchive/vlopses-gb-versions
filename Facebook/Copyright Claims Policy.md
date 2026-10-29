@@ -523,6 +523,14 @@ Are there any limits to trademark rights?
 
 Copy link
 
+What are trademark rights limits?
+
+What is nominative fair use?
+
+What is a geographic trademark limit?
+
+I have a different question
+
 Not all uses of a trademark without permission from the rights owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it's likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, that use is generally not considered infringing.
 
 Simply referring to a trademark for the purpose of discussing the product or service offered probably won't be an infringing use of the trademark, as long as that reference doesn't use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
@@ -542,9 +550,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -558,15 +566,22 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect
-
-* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?
 
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
+[What are trademarks and what they protect
+
+* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1430,11 +1445,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-How do I withdraw an intellectual property report?
+How do I withdraw an IP report?
 
-How do I cancel a copyright report?
+How do I withdraw a copyright report?
 
-How do I cancel an IP report on Facebook?
+What happens after I withdraw a report?
 
 I have a different question
 
@@ -1931,6 +1946,8 @@ What is the public domain?
 
 How long does copyright last?
 
+What is the Berne Convention?
+
 I have a different question
 
 Copyright protection doesn't last forever. Eventually, a work loses copyright protection and becomes part of the "public domain". Once a work is in the public domain, it's freely available for anyone to use.
@@ -2073,11 +2090,11 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use of copyrighted material?
+What is fair use?
 
 What are copyright exceptions?
 
-How do I know if my use is fair?
+How does fair use apply?
 
 I have a different question
 
@@ -2479,9 +2496,9 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright?
+How do I report Facebook copyright?
 
-What is copyright infringement?
+What is Facebook copyright infringement?
 
 How do I contact Facebook agent?
 

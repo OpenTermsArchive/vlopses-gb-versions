@@ -75,9 +75,9 @@ How do we use your information?
 
 Highlights
 
-We use [information that we collect](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe) to provide a personalised experience to you, including ads (if we show you ads), along with the other purposes that we explain in detail below.
+We use [information that we collect](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe) to provide a personalised experience to you, including ads, along with the other purposes that we explain in detail below.
 
-For some of these purposes, we use information [across Meta Company Products](https://privacycenter.instagram.com/policy/?annotations[0]=2.ex.5-UsingInformationAcrossOur) from the accounts that you choose to add to your Accounts Centre and [across your devices](https://privacycenter.instagram.com/policy/?annotations[0]=2.ex.1-WhyWeUseInformation). The information that we use for these purposes is automatically processed by our systems. But in some cases, we also use [manual review](https://privacycenter.instagram.com/policy/?annotations[0]=2.ex.2-ManualReviewExamplesOf) to access and review your information.
+For some of these purposes, we use information [across our Products](https://privacycenter.instagram.com/policy/?annotations[0]=2.ex.5-UsingInformationAcrossOur) and [across your devices](https://privacycenter.instagram.com/policy/?annotations[0]=2.ex.1-WhyWeUseInformation). The information that we use for these purposes is automatically processed by our systems. But in some cases, we also use [manual review](https://privacycenter.instagram.com/policy/?annotations[0]=2.ex.2-ManualReviewExamplesOf) to access and review your information.
 
 To use less information that's connected to individual users, in some cases we de-identify or aggregate information or anonymise it so that it no longer identifies you. We use this information in the same ways we use your information as described in this section.
 
@@ -88,11 +88,13 @@ To provide, personalise and improve our Products
 We use information that we have to provide and improve our [Products](https://privacycenter.instagram.com/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). This includes:
 
 *   Seeing if our Products are working correctly, such as troubleshooting and fixing it when it's not working
-*   Personalising features, content and [recommendations](https://www.facebook.com/help/1257205004624246), such as your [Facebook Feed](https://www.facebook.com/help/1155510281178725/), [Instagram Feed](https://help.instagram.com/1986234648360433/), Meta AI, Stories and ads (if we show you ads). We use [information with special protections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation) that you choose to provide for these purposes, but not to show you ads.
+*   Personalising features, content and [recommendations](https://www.facebook.com/help/1257205004624246), such as your [Facebook Feed](https://www.facebook.com/help/1155510281178725/), [Instagram Feed](https://help.instagram.com/1986234648360433/), Meta AI, Stories and ads.
+
+We use [information with special protections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation) that you choose to provide for these purposes, but not to show you ads.
 
 Read more about how we use information to provide, personalise and improve our Products:
 
-[How we show ads (if we show you ads)](https://privacycenter.instagram.com/policy/?subpage=2.subpage.2-HowWeShowAds)
+[How we show ads and other sponsored or commercial content](https://privacycenter.instagram.com/policy/?subpage=2.subpage.2-HowWeShowAds)
 
 * * *
 
@@ -129,6 +131,10 @@ To research and innovate for social good
 We use information we have, information from researchers and datasets from publicly available sources, professional groups and charitable groups to conduct and support research.
 
 [Learn more](https://privacycenter.instagram.com/policy/?subpage=2.subpage.14-ResearchingAndInnovatingFor)
+
+More in the Privacy Policy
+
+[Why and how we process your information](https://privacycenter.instagram.com/policy/?section_id=19-WhyAndHowWe)
 
 How is your information shared on Meta Products or with integrated partners?
 
@@ -186,7 +192,7 @@ Here's more detail about who we share information with:
 
 Partners
 
-[Advertisers and Audience Network publishers (if we show you ads)](https://privacycenter.instagram.com/policy/?subpage=4.subpage.2-AdvertisersAndAudienceNetwork)
+[Advertisers and Audience Network publishers](https://privacycenter.instagram.com/policy/?subpage=4.subpage.2-AdvertisersAndAudienceNetwork)
 
 * * *
 
@@ -243,7 +249,8 @@ Why we share across the Meta Companies
 Meta Products share information with other Meta Companies:
 
 *   To promote safety, security and integrity and comply with applicable laws
-*   To develop, provide optional features and integrations
+*   To personalise offers, ads and other sponsored or commercial content
+*   To develop, provide and personalise features and integrations
 *   To understand how people use and interact with Meta Company Products
 
 [See some examples](https://privacycenter.instagram.com/policy/?annotations[0]=5.ex.2-WhyWeShareAcross) of why we share.
@@ -276,7 +283,7 @@ View and manage your information
 
 * * *
 
-[Your activity off Meta technologies](https://www.facebook.com/off_facebook_activity/)
+[Your information and permissions](https://accountscenter.facebook.com/info_and_permissions)
 
 * * *
 
@@ -299,44 +306,6 @@ Port, download or delete your information
 [Delete your information or account](https://privacycenter.instagram.com/policy/?annotations[0]=6.ex.2-DeleteYourInformationOr)
 
 You can learn more about how privacy works on [Facebook](https://privacycenter.instagram.com/) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp), and in the [Facebook Help Centre](https://www.facebook.com/help/). If you have any questions about this policy, you can [contact us](https://help.meta.com/support/privacy/) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority ("DPA") directly.
-
-What is our legal basis for processing your information, and what are your rights?
-
-### 
-
-Highlights
-
-Under applicable data protection law, companies must have a legal basis to process personal data. When we talk about "processing personal data", we mean the ways we collect, use and share your information, as we described in the other sections of this Policy above.
-
-[What is our legal basis?](https://privacycenter.instagram.com/policy/?subpage=7.subpage.1-WhatIsOurLegal)
-
-You have the following rights under relevant data protection laws:
-
-[Access and correct information](https://privacycenter.instagram.com/policy/?subpage=7.subpage.3-AccessAndCorrectInformation)
-
-* * *
-
-[Withdraw consent](https://privacycenter.instagram.com/policy/?subpage=7.subpage.5-WithdrawConsentWhereWe)
-
-* * *
-
-[Port your information](https://privacycenter.instagram.com/policy/?subpage=7.subpage.7-PortYourInformationIn)
-
-* * *
-
-[Download your information](https://privacycenter.instagram.com/policy/?link_dialog=DOWNLOAD_YOUR_INFORMATION)
-
-* * *
-
-[Erase information](https://privacycenter.instagram.com/policy/?subpage=7.subpage.9-EraseYourInformationYou)
-
-* * *
-
-[Object](https://privacycenter.instagram.com/policy/?subpage=7.subpage.11-ObjectYouHaveThe)
-
-* * *
-
-[Make a complaint](https://privacycenter.instagram.com/policy/?subpage=7.subpage.13-MakeAComplaintYou)
 
 How long do we keep your information for?
 
@@ -389,9 +358,9 @@ We'll notify you before we make material changes to this Policy. You'll have the
 
 How to contact Meta with questions
 
-You can learn more about how privacy works on [Facebook](https://www.facebook.com/help) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp), and in the [Facebook Help Centre](https://www.facebook.com/help/). If you have any questions about this Policy, or have any questions, complaints or requests regarding your information, you can contact us as described below.
+You can learn more about how privacy works on [Facebook](https://www.facebook.com/help/238318146535333) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp), and in the [Facebook Help Centre](https://www.facebook.com/help/). If you have any questions about this policy or have any questions, complaints or requests regarding your information, you can contact us as described below.
 
-The data controller responsible for your information is Meta Platforms, Inc., which you can [contact online](https://help.meta.com/support/privacy/), or by writing to:
+You can contact us [online](https://help.meta.com/support/privacy) or by post at:
 
 Meta Platforms, Inc.
 
@@ -401,47 +370,25 @@ FAO: Privacy Operations
 
 Menlo Park, CA 94025, US
 
-Contact the [Data Protection Officer](https://help.meta.com/support/privacy/) for Meta Platforms, Inc.
+Why and how we process your information
 
-You also have the right to lodge a complaint with the Information Commissioner's Office.
+The categories of information we use, and why and how information is processed, are set out below:
 
-Legal basis information
-
-Consent
-
-We process information as described below when you have given us your consent to do so, which we may ask through in-product experiences, to enable particular features or to enable device-based settings. The categories of information that we use, and why and how they are processed are set out below:
-
-Processing information with special protections
+Personalising Meta Products
 
 * * *
 
 Why and how we process your information:
 
-Processing information with special protections that you provide so that we can share it with those you choose, to provide, personalise and improve our Products and to undertake analytics. We'll collect, store, publish and apply automated, or sometimes manual, processing for these purposes.
+Our systems automatically process information that we've collected and stored associated with you and others to assess and understand your interests and preferences and provide you with personalised experiences on and across the Meta Company Products in accordance with our terms. This is how we:
 
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Any information with special protections that you choose to provide, such as your religious views, your sexual orientation, political views, health, racial or ethnic origin, philosophical beliefs or trade union membership, or as part of surveys that you choose to participate in, and where you have given your explicit consent
-
-Personalising ads
-
-* * *
-
-Why and how we process your information:
-
-If we show you ads, depending on your [settings](https://accountscenter.facebook.com/ads/), we will use your information across the account(s) in your Accounts Centre to show you ads, including using cookies, to personalise your ads on and off the Meta Company Products, including apps using Meta Audience Network, and measure how those ads perform.
-
-If we show you ads, our ads system automatically processes information that we've collected and stored associated with you. In accordance with your ad preferences, our ads system uses this information to understand your interests and preferences and personalise your ads on and off the Meta Company Products. [Learn more](https://www.facebook.com/help/468797095528474) about your ad preferences.
+*   Personalise features and content (such as your [Facebook Feed](https://www.facebook.com/help/166738576721085?ref=dp), [Instagram Feed](https://help.instagram.com/1986234648360433), our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and Stories);
+*   Personalise the ads that people see, and
+*   Make suggestions for you (such as people that you may know, groups or events that you may be interested in or topics that you may want to follow) on and off our Products.
 
 Our ads system prioritises what ad to show you based on what audience advertisers want to reach. Then, we match the ad to people who might be interested. [Learn more](https://privacycenter.instagram.com/policy/?annotations[0]=11.ex.1-HowOurAdsSystemWorks) about how our ads system works.
 
 [Learn more](https://www.facebook.com/ads/about) about how we choose the ads that you see.
-
-You can change your choice at any time in your ad preferences.
 
 * * *
 
@@ -451,8 +398,9 @@ Information categories that we use (see "[What information do we collect?](https
 
 *   Content that you create, such as posts, comments or audio
 *   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Metadata about content
-*   Types of content, including ads, that you view or interact with, and how you interact with it
+*   [Metadata](https://privacycenter.instagram.com/policy/?annotations[0]=Definition-Metadata) about content and messages, subject to applicable law
+*   Interactions with our features that are part of AI at Meta and related metadata. For example, information such as content and messages that you or others exchange with these features
+*   Types of content that you view or interact with, and how you interact with them
 *   Apps and features that you use and what actions you take in them
 *   Purchases or other transactions that you make
 *   Hashtags that you use
@@ -462,17 +410,19 @@ Information categories that we use (see "[What information do we collect?](https
 
 [App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
 
-*   Device characteristics and device software
+*   [Device](https://privacycenter.instagram.com/policy/?annotations[0]=Definition-Device) characteristics and device software
 *   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users
+*   Identifiers that tell your device apart from other users'
 *   Device signals
 *   Information that you've shared through your device settings (e.g. GPS location)
-*   Information about the network that you connect your device to
 *   Location-related information
-*   Reports about our Products' performance on your device
+*   Information about the network that you connect your device to
+*   Reports about our products' performance on your device
 *   Information from cookies and similar technologies
 
-For WhatsApp users, [learn more](https://www.whatsapp.com/legal/accounts-centre-supplemental-privacy-policy-uk) about what information is shared with Meta
+[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+For WhatsApp users, [learn more](https://faq.whatsapp.com/1303762270462331) about what information is shared with Meta.
 
 Associating your accounts
 
@@ -480,152 +430,19 @@ Associating your accounts
 
 Why and how we process your information:
 
-If you add a WhatsApp account to an Accounts Centre with other accounts on Meta Company Products:
-
-To associate your accounts on Meta Company Products with your WhatsApp account in the same Accounts Centre and share your information with WhatsApp.
+If you add a WhatsApp account to an Accounts Centre with other accounts on Meta Company Products: to associate your accounts on Meta Company Products with your WhatsApp account in the same Accounts Centre and share your information with WhatsApp.
 
 * * *
 
 Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
 
-Note: The list below is about information from Meta. For information that WhatsApp shares with Meta, see the [WhatsApp in Accounts Centre Supplemental Privacy Policy](https://www.whatsapp.com/legal/accounts-centre-supplemental-privacy-policy-uk).
+Note: The list below is about information from Meta. For information that WhatsApp shares with Meta, see the [WhatsApp Help Centre article](https://faq.whatsapp.com/1303762270462331).
 
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Content that you create, such as posts, comments or audio
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Metadata about content
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   Purchases or other transactions that you make
-*   Hashtags that you use
-*   The time, frequency and duration of your activities on our Products
+[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation)
 
 [Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
 
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network that you connect your device to and your connection, including your IP address
-*   Reports about our Products' performance on your device
-*   Information from cookies and similar technologies
-
-Using information from third parties for personalising ads
-
-* * *
-
-Why and how we process your information:
-
-For users over the age of majority, using information from third parties to tailor the ads that you see: If we show you ads with your consent, we'll use information that partners provide us about activity off the Meta Company Products and that we have associated with you to personalise ads that we show you on our Products, and on websites, apps and devices that use our advertising services. We receive this information whether or not you're logged in or have an account on our Products – see the [Cookies Policy](https://www.facebook.com/policies/cookies/) for more information.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Sharing information with third parties at your request when you use some of our Products
-
-* * *
-
-Why and how we process your information:
-
-The type of third party and categories of information shared depend on the circumstances of what you ask us to share. For example, when you direct us, we share your email address or other information that you might choose to share with an advertiser so that they can contact you with additional information about a promoted product.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Content you create, such as your contact, profile or other information, such as posts or comments
-
-Receiving information from device settings
-
-* * *
-
-Why and how we process your information:
-
-Collecting information that you allow us to receive through the device-based settings you enable (such as access to your GPS location, camera or photos), which we use to provide the features or services described when you enable the setting.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Information from device settings
-
-Verifying your identity
-
-* * *
-
-Why and how we process your information:
-
-Verifying your identity or account, or helping to protect against suspicious activity, including impersonation and identity misuse, using face analysis, which may include facial recognition technology if you select it.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Your account information, account photos or
-*   your photo or video selfie if you choose to provide it
-
-When we process information that you provide to us based on your consent, you have the right to withdraw your consent at any time without affecting the lawfulness of processing based on consent before its withdrawal. You also have the right to port that information that you provide to us based on your consent. To exercise your rights, visit your device-based settings, and visit the Facebook settings and Instagram settings and our Help Centres.
-
-Performance of a contract
-
-For all people who have the legal capacity to enter into an enforceable contract (for example, by being the age of majority or above in their country of residence), we process information as necessary to conclude and perform our contracts with you (the [Meta Terms](https://www.facebook.com/legal/terms/update) and [Instagram Terms](https://help.instagram.com/581066165581870), the [Supplemental Meta Platforms Technologies Terms of Service](https://www.oculus.com/legal/terms-of-service/), the [Supplemental Portal Terms of Service](https://portal.facebook.com/gb/legal/terms-of-service/), the [Meta AI Terms of Service](https://www.facebook.com/legal/uk-ai-terms) and the [Supplemental Meta View Terms of Service](https://www.facebook.com/help/ray-ban-stories/1247963662288636), together, the "terms"). The purposes for which we process information for our contracts, the categories of information that we use and how information is processed are set out below:
-
-Personalising Meta Products other than ads
-
-* * *
-
-Why and how we process your information:
-
-Our systems automatically process information that we've collected and stored associated with you and others to assess and understand your interests and preferences, and to provide you with personalised experiences across the Meta Products in accordance with our terms. This is how we:
-
-*   Personalise features and content (such as your [Facebook Feed](https://www.facebook.com/help/166738576721085?ref=dp), [Instagram Feed](https://help.instagram.com/1986234648360433) and Stories);
-*   Make suggestions for you (such as people that you may know, groups or events that you may be interested in or topics that you may want to follow) on and off our Products.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Content that you create, such as posts, comments or audio
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Messages you send and receive, including their content and metadata, for optional features you choose to use, and subject to [applicable law](https://www.facebook.com/help/499392929200216).
-*   Metadata about content
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   Purchases or other transactions that you make
-*   Hashtags that you use
-*   The time, frequency and duration of your activities on our Products
-
-[Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings (e.g. GPS location)
-*   Location-related information
-*   Information about the network that you connect your device to
-*   Reports about our Products' performance on your device
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) (excluding using Partner data to tailor ads to you)
+[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice)
 
 Providing and improving Meta Products
 
@@ -640,17 +457,18 @@ The provision of the Meta Products includes collecting, storing and, where relev
 *   Facilitate the sharing of content and status
 *   Provide and curate features
 *   Provide messaging services, the ability to make voice and video calls and connect with others
-*   Provide our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) that do things such as create and understand content (such as text, audio, images and videos, including by understanding and recognising your use of content in the features) and perform actions
+*   Provide advertising products
+*   Provide our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) that do things such as create and understand content (e.g. text, audio, images and videos) and perform actions
 *   Undertake analytics
 *   Facilitate your purchases and payments on Meta Pay or other Meta checkout experiences
 *   See if our Products are working correctly, such as troubleshooting and fixing it when it's not working
 
-We also use the information we have to develop, research and test improvements to our Products. We use information we collect to:
+We also use information to develop, research and test improvements to Meta Products. We use information that we have to:
 
 *   Develop and improve products and features
 *   Build and test out new products and features to see if they work
 *   Get feedback on our ideas for products or features
-*   Conduct surveys and other research on what we can do better for Meta Products and brands.
+*   Conduct surveys and other research about what you like about our Products and brands and on what we can do better for Meta Products and brands
 
 * * *
 
@@ -659,15 +477,15 @@ Information categories that we use (see "[What information do we collect?](https
 [Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
 
 *   Content that you create, such as posts, comments or audio
-*   Your public information (including your name, username and profile picture)
+*   Your public profile information (including your name, username and profile picture)
 *   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Messages that you send and receive, including their content, subject to [applicable law](https://www.facebook.com/help/499392929200216)
-*   Metadata about content and messages
+*   Messages that you send and receive, including their content, subject to applicable law
+*   Metadata about content and messages, subject to applicable law
 *   Interactions with our features that are part of AI at Meta and related metadata. For example, information such as content and messages that you or others exchange with these features
 *   Types of content that you view or interact with, and how you interact with them
 *   Apps and features that you use and what actions you take in them
 *   Purchases or other transactions that you make, including truncated credit card information
-*   Hashtags you use
+*   Hashtags that you use
 *   The time, frequency and duration of your activities on our Products
 *   Your photo or video selfie if you provide it when you contact us for account support
 
@@ -681,28 +499,49 @@ Information categories that we use (see "[What information do we collect?](https
 *   Device signals
 *   Information that you've shared through your device settings
 *   Location-related information
-*   Information about the network that you connect your device to, including your IP address
+*   Information about the network you connect your device to, including your [IP address](https://privacycenter.instagram.com/policy/?annotations[0]=Definition-IPAddress)
 *   Information from cookies and similar technologies
 
 [Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
 
-Promoting safety, integrity and security on and across Meta Products
+Developing and improving AI at Meta
 
 * * *
 
 Why and how we process your information:
 
-The Meta Products are designed to help ensure the safety, integrity and security of those services and those people who enjoy them. We process the information that we have associated with you and apply automated processing techniques and, in some instances, conduct manual (human) review to:
+Develop and improve [AI at Meta](https://www.facebook.com/privacy/genai) for Meta Products and for third parties.
+
+* * *
+
+Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
+
+[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
+
+*   [Public content](https://privacycenter.instagram.com/policy/?subpage=3.subpage.3-PublicContentWhatContent) that you or others create or share, such as posts, comments or audio on Meta Products
+*   Interactions with our features that are part of AI at Meta and related metadata. For example, information such as content and messages that you or others exchange with these features.
+
+[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+
+Promoting safety, integrity and security on and across the Meta Products
+
+* * *
+
+Why and how we process your information:
+
+The Meta Products are designed to research and help ensure the safety, integrity and security of those services and those people who enjoy them, on and off Meta Products. We process the information that we have associated with you and apply automated processing techniques and, in some instances, conduct manual (human) review to:
 
 *   Verify accounts and activity
 *   Find and address violations of our terms or policies. In some cases, the decisions that we make about violations are reviewed by the [Oversight Board](https://www.oversightboard.com/)
 *   Investigate suspicious activity
 *   Detect, prevent and combat harmful or unlawful behaviour, such as to review and, in some cases, remove content reported to us
-*   Detect and prevent spam and other bad experiences
+*   Identify and combat disparities and racial bias against historically marginalised communities
+*   Protect the lives, physical or mental health, well-being or integrity of our users or others
+*   Detect and prevent spam, other security matters and other bad experiences
 *   Detect and stop threats to our personnel and property
-*   Maintain the integrity of our Products.
+*   Maintain the integrity of our Products
 
-For more information on safety, integrity and security generally on Meta Products, visit the Facebook Security Help Centre and Instagram security tips.
+For more information on safety, integrity and security generally on Meta Products, visit the [Facebook Security Help Centre](https://www.facebook.com/help/379220725465972) and [Instagram security tips](https://help.instagram.com/369001149843369).
 
 * * *
 
@@ -712,8 +551,8 @@ Information categories that we use (see "[What information do we collect?](https
 
 *   Content that you create, such as posts, comments or audio
 *   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Messages that you send and receive, including their content, subject to [applicable law](https://www.facebook.com/help/499392929200216)
-*   Metadata about content and messages
+*   Messages that you send and receive, including their content, subject to applicable law
+*   Metadata about content and messages, subject to applicable law
 *   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
 *   Types of content that you view or interact with, and how you interact with them
 *   Apps and features that you use and what actions you take in them
@@ -768,7 +607,7 @@ Information categories that we use (see "[What information do we collect?](https
 *   Information that you've shared through your device settings
 *   Location-related information
 *   Information about the network that you connect your device to, including your IP address
-*   Information from cookies and similar technologies
+*   Information from cookies and similar technologies.
 
 Transferring, storing or processing your information globally
 
@@ -776,10 +615,12 @@ Transferring, storing or processing your information globally
 
 Why and how we process your information:
 
-We share information that we collect globally, both internally across our offices and data centres and externally with our partners, third parties and service providers. As Meta is global, with users, partners and employees around the world, transfers are necessary to:
+Transferring, storing or processing your information across borders, including from and to the United States and other countries: We share information that we collect globally, both internally across our offices and data centres and externally with our [partners](https://privacycenter.instagram.com/policy/?annotations[0]=Definition-Partner), [third parties](https://privacycenter.instagram.com/policy/?annotations[0]=Definition-ThirdParty) and [service providers](https://privacycenter.instagram.com/policy/?annotations[0]=Definition-ServiceProvider). Because Meta is global, with users, partners, vendors and employees around the world, transfers are necessary:
 
-*   Operate and provide the services described in the terms that apply to the Meta Product(s) that you are using. This includes allowing you to share information and connect with your family and friends around the globe; and
-*   So, we can fix, analyse and improve our Products.
+*   To operate and provide the services described in the terms that apply to the Meta Product(s) you are using. This includes allowing you to share information and connect with your family and friends around the globe; and
+*   To fix, analyse and improve our Products.
+
+For more information, see the ["How do we transfer information?"](https://privacycenter.instagram.com/policy/?section_id=9-HowDoWeTransfer) section of the Meta Privacy Policy.
 
 * * *
 
@@ -789,60 +630,8 @@ Information categories that we use (see "[What information do we collect?](https
 
 *   Content that you create, such as posts, comments or audio
 *   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Metadata about content and messages
+*   Metadata about content and messages, subject to applicable law
 *   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   Purchases or other transactions that you make, including truncated credit card information
-*   Hashtags you use
-*   The time, frequency and duration of your activities on our Products
-
-[Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network that you connect your device to, including your IP address
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-We'll use the information that we have to provide these services; if you choose not to provide certain information (other than limited account information, which is necessary to create a [Facebook account](https://www.facebook.com/help/188157731232424) or an [Instagram account](https://help.instagram.com/155940534568753)), your experience using the Meta Products may be affected. For example, you may see less relevant recommendations on the Products, or your use of the Products may be restricted.
-
-When we process information that you provide to us as necessary for concluding or performing our contracts with you, you have the right to port it. To exercise your rights, visit the Facebook settings and Instagram settings, or learn more in our Help Centre.
-
-Compliance with a legal obligation
-
-The categories of information that we use, why we process your information based on compliance with a legal obligation and how it's processed are set out below:
-
-Processing information when required by law
-
-* * *
-
-Why and how we process your information:
-
-Where we are under an obligation to disclose information such as, for example, if we receive a valid legal request for certain information (such as a search warrant), we will access, preserve and/or share your information with regulators, law enforcement or others.
-
-The way in which the information will be processed depends on the specific circumstances, see [How do we respond to legal requests, prevent harm and promote safety and integrity?](https://privacycenter.instagram.com/policy/?section_id=10-HowDoWeRespond) for more details. [Information for law enforcement authorities](https://www.meta.com/safety/communities/law/guidelines/) provides information on the operational guidelines that law enforcement needs to follow.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-The categories of information depend on the specific circumstances of each mandatory request or obligation. Only the information necessary to comply with the relevant legal obligation will be processed. For example, for civil matters, this will typically include limited information (such as contact details and login information). However, depending on the circumstances, it could include the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Content that you create, such as posts, comments or audio
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Messages that you send and receive, including their content, subject to [applicable law](https://www.facebook.com/help/499392929200216)
-*   Metadata about content and messages, subject to [applicable law](https://www.facebook.com/help/499392929200216)
-*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information that you or others exchange with these features
 *   Types of content that you view or interact with, and how you interact with them
 *   Apps and features that you use and what actions you take in them
 *   Purchases or other transactions that you make, including truncated credit card information
@@ -865,38 +654,13 @@ The categories of information depend on the specific circumstances of each manda
 
 [Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
 
-Legitimate interests
-
-We rely on our legitimate interests or the legitimate interests of a third party, where they are not outweighed by your interests or fundamental rights and freedoms ("legitimate interests"). The categories of information that we use, the legitimate interests relied on and why and how it's processed are set out below:
-
-Personalising Meta Products
-
-* * *
-
-For registered users of the Meta Products under the age of 18 who have a limited ability to enter into an enforceable contract only, where we may be unable to process your information on the grounds of contractual necessity.
+Processing information with special protections
 
 * * *
 
 Why and how we process your information:
 
-Our systems automatically process information we have collected and stored associated with you and others to assess and understand your interests and your preferences and provide you with personalised experiences on and across the Meta Company Products in accordance with our terms. This is how we:
-
-*   Personalise features and content (such as your [News Feed](https://www.facebook.com/help/166738576721085), [Instagram feed](https://help.instagram.com/1986234648360433) and Stories),
-*   Personalise the ads that people see, and
-*   Make suggestions for you (such as people that you may know, groups or events that you may be interested in or topics that you may want to follow) on and off our Products.
-
-Our ads system prioritises what ad to show you based on what audience advertisers want to reach. Then, we match the ad to people who might be interested. [Learn more](https://privacycenter.instagram.com/policy/?annotations[0]=11.ex.1-HowOurAdsSystemWorks) about how our ads system works.
-
-[Learn more](https://www.facebook.com/ads/about) about how we choose the ads that you see.
-
-* * *
-
-Legitimate interests relied on:
-
-*   To create, provide, support and maintain innovative products and features that enable people under the age of majority to express themselves, communicate, discover and engage with information and communities relevant to their interests, build community and utilise tools and features that promote their well-being.
-*   To share meaningful updates with our users under the age of majority about our Products and promoting our Products.
-*   To provide, personalise and improve the Meta Products in a consistent manner while ensuring that additional safeguards for those under the age of consent.
-*   The legitimate interest of our users in being able to access the Meta Products and those Products being personalised to each user.
+Processing information subject to special protections under applicable laws that you provide so that we can share it with those you choose, to provide, personalise and improve our Products and to undertake analytics. We'll collect, store, publish and apply automated, or sometimes manual (human), processing for these purposes.
 
 * * *
 
@@ -904,69 +668,15 @@ Information categories that we use (see "[What information do we collect?](https
 
 [Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
 
-*   Content that you create, such as posts, comments or audio
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Messages you send and receive, including their content and metadata, for optional features you choose to use, and subject to [applicable law](https://www.facebook.com/help/499392929200216).
-*   Metadata about content
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   Purchases or other transactions that you make
-*   Hashtags that you use
-*   The time, frequency and duration of your activities on our Products
+*   Any information with special protections that you choose to provide, such as your religious views, your sexual orientation, political views, health, racial or ethnic origin, philosophical beliefs or trade union membership, or as part of surveys that you choose to participate in, or where you have given your explicit consent
 
-[Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings (e.g. GPS location)
-*   Location-related information
-*   Information about the network that you connect your device to
-*   Reports about our Products' performance on your device
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors) (other than using partner data to tailor ads to you)
-
-Providing and improving Meta Products
-
-* * *
-
-For registered users of the Meta Products under the age of 18 who have a limited ability to enter into an enforceable contract only, where we may be unable to process your information on the grounds of contractual necessity.
+Using information from third parties for personalising ads
 
 * * *
 
 Why and how we process your information:
 
-The provision of the Meta Products includes collecting, storing and, where relevant, sharing, profiling, reviewing and curating, automated processing, and in some instances, manual (human) reviewing, to:
-
-*   Create and maintain your account and profile
-*   Connect your Meta Products account, including your public profile information, to an integrated partner to sign in or share your information
-*   Facilitate the sharing of content and status
-*   Provide and curate features
-*   Provide messaging services, the ability to make voice and video calls and connect with others
-*   Provide advertising products
-*   Provide and curate [AI at Meta](https://www.facebook.com/privacy/genai) in our Products, enabling the creation of content such as text, audio, images and videos, including by understanding and recognising your use of content in the features
-*   Undertake analytics
-*   See if our Products are working correctly, such as troubleshooting and fixing it when it's not working
-
-We also use information that we have to develop, research and test improvements to Meta Products. We use information that we collect to:
-
-*   Develop and improve products and features
-*   Build and test out new products and features to see if they work
-*   Get feedback on our ideas for products or features
-*   Conduct surveys and other research on what we can do better for Meta Products and brands.
-
-* * *
-
-Legitimate interests relied on:
-
-*   To create, provide, support and maintain innovative products and features that enable people under the age of majority to express themselves, communicate, discover and engage with information and communities relevant to their interests, build community and utilise tools and features that promote their well-being.
-*   To enable people under the age of majority to use and connect to the Meta Products in an easy and intuitive manner.
-*   To provide, personalise and improve the Meta Products in a consistent manner while ensuring that additional safeguards for those under the age of consent.
-*   The legitimate interest of our users in being able to access the Meta Products and those Products being personalised to each user.
+Receiving and using information from third parties to tailor the ads you see: we'll use information that advertisers, businesses and other partners provide us with about activity off the Meta Company Products that we have associated with you to personalise ads that we show you on our Products, and on websites, apps and devices that use our advertising services. We receive this information whether or not you're logged in or have an account on our Products – see the [Cookies Policy](https://www.facebook.com/policies/cookies/) for more information.
 
 * * *
 
@@ -974,61 +684,20 @@ Information categories that we use (see "[What information do we collect?](https
 
 [Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
 
-*   Content that you create, such as posts, comments or audio
-*   Your public profile information (including your name, username and profile picture)
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Messages that you send and receive, including their content, subject to [applicable law](https://www.facebook.com/help/499392929200216)
-*   Metadata about content and messages
-*   Interactions with our features that are part of AI at Meta and related metadata. For example, information such as content and messages that you or others exchange with these features
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   Purchases or other transactions that you make, including truncated credit card information
-*   Hashtags that you use
-*   The time, frequency and duration of your activities on our Products
-
-[Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network that you connect your device to, including your IP address
-*   Information from cookies and similar technologies
+*   Information and content you provide, such as your name or email address
 
 [Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
 
-Promoting safety, integrity and security on and across the Meta Products
-
-* * *
-
-For registered users of the Meta Products under the age of 18 who have a limited ability to enter into an enforceable contract only, where we may be unable to process your information on the grounds of contractual necessity.
+Sharing information with third parties at your request
 
 * * *
 
 Why and how we process your information:
 
-The Meta Products are designed to help ensure the safety, integrity and security of those services and those people who enjoy them. We process the information that we have associated with you and apply automated processing techniques and, in some instances, conduct manual (human) review to:
+The type of third party and categories of information shared depend on the circumstances of what you ask us to share. For example:
 
-*   Verify accounts, identity and activity,
-*   Find and address violations of our terms or policies. In some cases, the decisions that we make about violations are reviewed by the Oversight Board,
-*   Investigate suspicious activity,
-*   Detect, prevent and combat harmful or unlawful behaviour, such as to review and, in some cases, remove content reported to us,
-*   Detect and prevent spam and other bad experiences,
-*   Detect and stop threats to our personnel and property, and
-*   Maintain the integrity of our Products.
-
-For more information on safety, integrity and security generally on the Meta Products, visit the Facebook Security Help Centre and Instagram security tips.
-
-* * *
-
-Legitimate interests relied on:
-
-*   To secure our platform and network, to verify accounts and activity, to combat harmful conduct, to detect, prevent and address spam and other bad experiences, to keep the Meta Products free of harmful or inappropriate content, to investigate suspicious activity or breaches of our terms or policies and to protect the safety of people under the age of majority, including to prevent exploitation or other harm to which such individuals may be particularly vulnerable.
-*   In the interests of our users and the public at large, to prevent bad experiences and promote safety, integrity and security.
+*   We share your email address (or other contact information) or other information you might choose when you direct us to share it with an advertiser so they can contact you with additional information about a promoted product, and
+*   If you choose to integrate other apps, games or websites with Meta Products and log in, we'll share your information with the app, game or website to log you in.
 
 * * *
 
@@ -1036,81 +705,10 @@ Information categories that we use (see "[What information do we collect?](https
 
 [Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
 
-*   Content that you create, such as posts, comments or audio
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Messages that you send and receive, including their content, subject to [applicable law](https://www.facebook.com/help/499392929200216)
-*   Metadata about content and messages
-*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   Purchases or other transactions that you make, including truncated credit card information
-*   Hashtags that you use
-*   The time, frequency and duration of your activities on our Products
-*   Your photo or video selfie if you provide it when you contact us for account support
+*   Information such as your contact or profile information
+*   Content you create, such as posts or comments
 
-[Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network that you connect your device to, including your IP address
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Communicating with you
-
-* * *
-
-For registered users of the Meta Products under the age of 18 who have a limited ability to enter into an enforceable contract only, where we may be unable to process your information on the grounds of contractual necessity.
-
-* * *
-
-Why and how we process your information:
-
-We use the information that you've given us (e.g. contact information you've entered on your profile) to send you a communication, such as an email or in-product notice, for example:
-
-*   we'll contact you via email or in-product notifications in relation to the Meta Products, product-related issues, research or to let you know about our terms and policies.
-
-We also use contact information such as your email address to respond to you when you contact us.
-
-* * *
-
-Legitimate interests relied on:
-
-*   To share meaningful updates with our users under the age of majority about our Products and promoting our Products.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Contact information on your profile and your communications with us
-*   Content that you create, such as posts, comments or audio
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network that you connect your device to, including your IP address
-*   Information from cookies and similar technologies
-
-Providing measurement, analytics and other business services to businesses and other partners
-
-* * *
-
-For all registered users of the Meta Products, including those under the age of 18
+Providing measurement, analytics and business services
 
 * * *
 
@@ -1118,15 +716,8 @@ Why and how we process your information:
 
 Our systems automatically, as well as with some manual (human) processing, process information that we've collected and stored about you and others. We use this information to:
 
-*   Provide insights and measurement reports to businesses and other partners to help them measure the effectiveness and distribution of their, or their client's content and services, to understand the kinds of people who are seeing their content and how their content is performing on and off the Meta Products, and
-*   Provide aggregated user analytics and insights reports that help users, businesses and other partners better understand things such as the audiences with whom they may want to connect, as well as the types of people who use their products and services and how people interact with their content, websites, apps, products and services, including to connect to Meta Products, and the performance of their connection and networks and users' experience with them.
-
-* * *
-
-Legitimate interests relied on:
-
-*   In our interest to provide accurate and reliable reporting to our businesses and other partners, to ensure accurate pricing and statistics on performance and to demonstrate the value that our partners realise using Meta Company Products, and to provide suitable payment and billing options to our other partners; and
-*   In the interests of developers and other partners to help them understand their customers and improve their businesses, validate our pricing models and evaluate the effectiveness of their products, services, online content on and off the Meta Company Products.
+*   Provide insights and measurement reports to businesses, advertisers and other partners to help them measure the effectiveness and distribution of their or their clients' ads, content and services, to understand the kinds of people who are seeing their content and ads, and how their content and ads are performing on and off Meta Products, and
+*   Provide aggregated user analytics and insights reports that help users, businesses, advertisers and other partners better understand the audiences with whom they may want to connect, as well as the types of people who use their services and how people interact with their content, websites, apps and services.
 
 * * *
 
@@ -1153,89 +744,18 @@ Information categories that we use (see "[What information do we collect?](https
 *   Device signals
 *   Information that you've shared through your device settings
 *   Location-related information
-*   Information about the network that you connect your device to and your connection, including your IP address
-*   Reports about our Products' performance on your device
+*   Information about the network that you connect your device to, including your IP address
 *   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Providing measurement, analytics and other business services if we show you ads
-
-* * *
-
-For all registered users of the Meta Products, including those under the age of 18
-
-* * *
-
-Why and how we process your information:
-
-If we show you ads:
-
-Providing measurement, analytics and other business services to businesses, advertisers and other partners:
-
-Our systems automatically, as well as with some manual (human) processing, process information that we've collected and stored about you and others. We use this information to:
-
-*   Provide insights and measurement reports to businesses, advertisers and other partners to help them measure the effectiveness and distribution of their, or their client's ads, content and services, to understand the kinds of people who are seeing their content and ads, and how their content and ads are performing on and off the Meta Company Products, and
-*   Provide aggregated user analytics and insights reports that help businesses, advertisers and other partners better understand things, such as the audiences with whom they may want to connect, as well as the types of people who use their products and services and how people interact with their websites, apps, products and services, including to connect to Meta Products, and the performance of their connection and networks and users' experience with them.
-
-* * *
-
-Legitimate interests relied on:
-
-*   In our interest to provide accurate and reliable reporting to our businesses, advertisers and other partners, to ensure accurate pricing and statistics on performance, and to demonstrate the value that our partners realise using Meta Company Products, and to provide suitable payment and billing options to our advertisers and other partners; and
-*   In the interests of advertisers, developers and other partners to help them understand their customers and improve their businesses, validate our pricing models and evaluate the effectiveness of their products, services, online content and advertising on and off the Meta Company Products.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Content that you create, such as posts, comments or audio
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   Purchases or other transactions that you make
-*   Hashtags that you use
-*   The time, frequency and duration of your activities on our Products
-
-[Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network that you connect your device to and your connection, including your IP address
-*   Reports about our Products' performance on your device
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-For WhatsApp users, [learn more](https://www.whatsapp.com/legal/accounts-centre-supplemental-privacy-policy-uk) about what information is shared with Meta
 
 Providing a seamless experience
 
 * * *
 
-For all registered users of the Meta Products, including those under the age of 18
-
-* * *
-
 Why and how we process your information:
 
-Communicating, engaging and sharing across the Meta Company Products:
+Sharing of information across the Meta Companies:
 
-*   To provide a seamless, consistent, richer and innovative experience across the Meta Company Products and to enable cross-app interactions, sharing, viewing and engaging with content, including posts and videos.
-
-* * *
-
-Legitimate interests relied on:
-
-In our interest to provide seamless, consistent, richer, innovative communication, engagement and sharing experiences across Meta Company Products.
+*   To provide a seamless, consistent and richer, innovative experience across the Meta Company Products to enable cross app interactions, sharing, viewing and engaging with content, including posts and videos.
 
 * * *
 
@@ -1245,7 +765,7 @@ Information categories that we use (see "[What information do we collect?](https
 
 *   Content that you create, such as posts, comments or audio
 *   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Metadata about content
+*   Metadata about content and messages, subject to applicable law
 *   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
 *   Types of content that you view or interact with, and how you interact with them
 *   Apps and features that you use and what actions you take in them
@@ -1263,32 +783,19 @@ Information categories that we use (see "[What information do we collect?](https
 *   Device signals
 *   Information that you've shared through your device settings
 *   Location-related information
-*   Information about the network that you connect your device to and your connection, including your IP address
-*   Reports about our Products' performance on your device
+*   Information about the network that you connect your device to, including your IP address
 *   Information from cookies and similar technologies
 
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-For WhatsApp users, [learn more](https://www.whatsapp.com/legal/accounts-centre-supplemental-privacy-policy-uk) about what information is shared with Meta
+For WhatsApp users, [learn more](https://faq.whatsapp.com/1303762270462331) about what information is shared with Meta.
 
 Business intelligence and analytics
-
-* * *
-
-For all registered users of the Meta Products, including those under the age of 18
 
 * * *
 
 Why and how we process your information:
 
 *   To understand, in aggregate, your usage of and across our Products, to accurately count people and businesses; and
-*   Validate metrics directly related to these, in order to inform and improve product direction and development and to adhere to (shareholder/earning) reporting obligations.
-
-* * *
-
-Legitimate interests relied on:
-
-In our interest to measure the use of our Products and services, and count the people who interact with our Products and services in order to inform and improve product direction and development and to enable provision of accurate and reliable reporting.
+*   To validate metrics directly related to these, in order to inform and improve product direction and development and to adhere to (shareholder/earning) reporting obligations.
 
 * * *
 
@@ -1298,7 +805,7 @@ Information categories that we use (see "[What information do we collect?](https
 
 *   Content that you create, such as posts, comments or audio
 *   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Metadata about content and messages
+*   Metadata about content and messages, subject to applicable law
 *   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
 *   Types of content that you view or interact with, and how you interact with them
 *   Apps and features that you use and what actions you take in them
@@ -1314,31 +821,22 @@ Information categories that we use (see "[What information do we collect?](https
 *   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
 *   Identifiers that tell your device apart from other users'
 *   Device signals
-*   Location-related information
 *   Information that you've shared through your device settings
+*   Location-related information
 *   Information about the network that you connect your device to, including your IP address
 *   Information from cookies and similar technologies
 
 [Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
 
-Providing marketing communications
-
-* * *
-
-For all registered users of the Meta Products, including those under the age of 18
+Personalising ads on Meta Audience Network
 
 * * *
 
 Why and how we process your information:
 
-*   Depending on your settings, we'll share marketing communications with you.
-*   We'll collect and store your information and use it to send marketing communications to you, such as an email.
+Identifying you as a Meta Product user and personalising the ads that we show you through [Meta Audience Network](https://www.facebook.com/help/119468292028768/?helpref=search) when you visit other apps:
 
-* * *
-
-Legitimate interests relied on:
-
-In our interest to promote Meta Company Products and send our direct marketing.
+*   When we show you ads through Meta Audience Network when you visit other apps, our systems automatically process the information that we've collected and stored about you and others to identify you as a Meta Product user and tailor the ads that you see.
 
 * * *
 
@@ -1346,17 +844,51 @@ Information categories that we use (see "[What information do we collect?](https
 
 [Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
 
-*   Information and content that you provide, including your contact information, such as an email address
+*   Information you provide
+*   Content that you create, such as posts, comments or audio
+*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
+*   Metadata about content and messages, subject to applicable law
+*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
+*   Types of content that you view or interact with, and how you interact with them
+*   Apps and features that you use and what actions you take in them
+*   Purchases or other transactions that you make
+*   Hashtags that you use
+*   The time, frequency and duration of your activities on our Products
+
+[Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
+
+[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
+
+*   Device characteristics and device software
+*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
+*   Identifiers that tell your device apart from other users'
+*   Device signals
+*   Information that you've shared through your device settings
+*   Information about the network that you connect your device to, including your IP address
+*   Information from cookies and similar technologies
+
+Providing marketing communications
+
+* * *
+
+Why and how we process your information:
+
+*   Depending on your settings, and subject to applicable law, we'll share marketing communications with you.
+*   We'll collect and store your information and use it to send marketing communications to you, such as an email, subject to applicable laws.
+
+* * *
+
+Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
+
+[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
+
+*   Information and content you provide, including your contact information such as email address
 
 [App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
 
 *   Device identifiers
 
-Undertaking research and innovating for social good
-
-* * *
-
-For all registered users of the Meta Products, including those under the age of 18
+Undertaking research and innovation for social good
 
 * * *
 
@@ -1364,16 +896,10 @@ Why and how we process your information:
 
 *   We carry out surveys and use information (including from researchers that we collaborate with) to conduct and support research and innovation on topics of general social welfare, technological advancement, public interest, health and well-being.
 *   For example, we analyse information that we have about migration patterns during crises. This helps relief organisations get aid to the right places.
-*   We collect, store, combine, analyse and apply automatic processing techniques – such as aggregation of information as well as manual (human) review – and share information, as necessary, to research and innovate for social good in this way.
+*   We collect, store, combine, analyse and apply automatic processing techniques such as aggregation of information as well as manual (human) review, and share information, as necessary to research and innovate for social good in this way.
 *   We support research in areas such as artificial intelligence and machine learning.
 
 [Learn more](https://research.fb.com/) about our research programmes.
-
-* * *
-
-Legitimate interests relied on:
-
-In our interest and those of the general public to further the state-of-the-art or academic understanding on important social issues that affect our society and world in a positive way.
 
 * * *
 
@@ -1383,7 +909,7 @@ Information categories that we use (see "[What information do we collect?](https
 
 *   Content that you create, such as posts, comments or audio
 *   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Metadata about content and messages
+*   Metadata about content and messages, subject to applicable law
 *   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
 *   Types of content that you view or interact with, and how you interact with them
 *   Apps and features that you use and what actions you take in them
@@ -1400,8 +926,8 @@ Information categories that we use (see "[What information do we collect?](https
 *   Identifiers that tell your device apart from other users'
 *   Device signals
 *   Information that you've shared through your device settings
-*   Information about the network that you connect your device to, including your IP address
 *   Location-related information
+*   Information about the network that you connect your device to, including your IP address
 *   Information from cookies and similar technologies
 
 [Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
@@ -1410,21 +936,9 @@ Anonymising your information
 
 * * *
 
-For all registered users of the Meta Products, including those under the age of 18
-
-* * *
-
 Why and how we process your information:
 
-In some cases, we anonymise information that we have about you, such as your activity on and off our Products, and use the resulting information, for example, to provide and improve our Meta Products, including ads.
-
-* * *
-
-Legitimate interests relied on:
-
-*   In our interest to fund our provision of the Meta Products, provide relevant advertising to users, and improve ad delivery and Meta Products;
-*   In the interests of advertisers to help them reach relevant audiences who may be interested in their information, products or services;
-*   In the interests of users that Meta practise data minimisation and privacy by design in respect of their information
+In some cases, we anonymise information we have associated with you, such as your activity on and off our Products, and use the resulting information, for example, to provide and improve our Meta Products, including ads.
 
 * * *
 
@@ -1434,7 +948,7 @@ Information categories that we use (see "[What information do we collect?](https
 
 *   Content that you create, such as posts, comments or audio
 *   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Metadata about content
+*   Metadata about content and messages, subject to applicable law
 *   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
 *   Types of content that you view or interact with, and how you interact with them
 *   Apps and features that you use and what actions you take in them
@@ -1443,358 +957,6 @@ Information categories that we use (see "[What information do we collect?](https
 *   The time, frequency and duration of your activities on our Products
 
 [Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network that you connect your device to and your connection, including your IP address
-*   Reports about our Products' performance on your device
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Sharing information with others including law enforcement and responding to legal requests
-
-* * *
-
-For all registered users of the Meta Products, including those under the age of 18
-
-* * *
-
-Why and how we process your information:
-
-See [How do we respond to legal requests, prevent harm and promote safety and security?](https://www.facebook.com/about/privacy/update#legal-requests-prevent-harm) for information on when we share information with law enforcement and others.
-
-The categories of information that we access, preserve, use and share depend on the specific circumstances. For example, responses to legal requests where not compelled by law, will typically include limited information (such as contact details and login information).
-
-However, the information we process will depend on the purposes, which could include the following:
-
-*   In response to [legal requests](https://privacycenter.instagram.com/policy/?annotations[0]=10.ex.2-HowWePromoteSafety) from third parties, such as civil litigants, law enforcement and other government authorities.
-*   To comply with applicable law or legitimate legal purposes.
-*   To promote the safety, security and integrity of Meta, Meta Products, Products, users, employees, property and the public.
-
-[Learn more](https://privacycenter.instagram.com/policy/?subpage=2.subpage.8-PromotingSafetySecurityAnd) about how we promote safety, security and integrity.
-
-* * *
-
-Legitimate interests relied on:
-
-In our interest and the interest of the general public to prevent and address fraud, unauthorised use of the Meta Company Products, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, Meta personnel and property or Meta Products), our users or others, including as part of investigations or regulatory enquiries; or to prevent death or imminent bodily harm.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Content that you create, such as posts, comments or audio
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Metadata about content
-*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   Purchases or other transactions that you make
-*   Hashtags that you use
-*   Your photo or video selfie if you provide it when you contact us for account support
-
-[Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings
-*   Information about the network that you connect your device to, including your IP address
-*   Location-related information
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Promoting safety, integrity and security
-
-* * *
-
-For all registered users of the Meta Products, including those under the age of 18
-
-* * *
-
-Why and how we process your information:
-
-Promote safety, integrity and security in limited circumstances outside of the performance of our contracts with you:
-
-*   Our Meta Products are delivered to ensure the safety, integrity and security of those services and those people who enjoy them.
-*   We apply automated processing, as well as manual (human) review to verify accounts and activity, combat harmful conduct, detect and prevent spam and other security matters, as well as bad experiences of other types, to maintain the integrity of our Products and to promote safety, integrity and security on and off Meta Products.
-*   For example, we use information that we have to investigate suspicious activity or breaches of our terms or policies, or to detect when someone needs help.
-
-To learn more, visit the [Facebook Security Help Centre](https://www.facebook.com/help/379220725465972?ref=dp) and [Instagram security tips](https://help.instagram.com/369001149843369).
-
-* * *
-
-Legitimate interests relied on:
-
-*   In our interest to secure our platform and network, to verify accounts and activity, to combat harmful conduct, to detect, prevent and address spam and other bad experiences, to keep the Meta Company Products free of harmful or inappropriate content, and to investigate and take action in respect of suspicious activity or breaches of our terms or policies; and
-*   In the interests of our users and the public at large, to prevent bad experiences and promote safety, integrity and security.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Content that you create, such as posts, comments or audio
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Metadata about content
-*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   Purchases or other transactions that you make, including truncated credit card information
-*   Hashtags that you use
-*   The time, frequency and duration of your activities on our Products
-*   Your photo or video selfie if you provide it when you contact us for account support
-
-[Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network that you connect your device to, including your IP address
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Sharing information with third parties at your request
-
-* * *
-
-For all registered users of the Meta Products, including those under the age of 18
-
-* * *
-
-Why and how we process your information:
-
-You may choose to share your contact information, profile information and other data with our partners: The types of partners with whom information is shared depends on the features of our service that you use and the manner in which you choose to use them. For example, you may choose to share your email address, date of birth, friends list, home town or other information with a partner if you choose to connect your Facebook account to their app.
-
-* * *
-
-Legitimate interests relied on:
-
-*   To deliver quality experiences to users who use our partners' apps, in our best interest and in the interest of our users.
-*   To facilitate and improve users' experiences in their apps, in the interests of our partners who want to facilitate and improve consumers' experiences in their apps.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Information that you provide (for example, your email address, date of birth, friends list and home town).](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation)
-
-Developing and improving AI at Meta
-
-* * *
-
-For all registered users of the Meta Products, including those under the age of 18
-
-* * *
-
-Why and how we process your information:
-
-Develop and improve [AI at Meta](https://www.facebook.com/privacy/genai) for Meta Products and for third parties.
-
-* * *
-
-Legitimate interests relied on:
-
-*   In our interest, and in the interests of users and third parties, to create, provide, support, improve and maintain artificial intelligence technology that enables people, businesses and others to express themselves, communicate, and discover and engage with information that they're interested in.
-*   In our interest, and in the interests of third parties and the public at large, to offer artificial intelligence technology to third parties, including developers and researchers.
-*   In our interest, and in the interests of users and third parties, to develop and improve artificial intelligence technology while ensuring appropriate safeguards, such as improving model responses for safety and accuracy.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Interactions with our features that are part of AI at Meta and related metadata. For example, information such as content and messages that you or others exchange with these features
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Developing and improving AI at Meta
-
-* * *
-
-For registered users of the Meta Products aged 18 years or older
-
-* * *
-
-Why and how we process your information:
-
-Develop and improve [AI at Meta](https://www.facebook.com/privacy/genai) for Meta Products and for third parties.
-
-* * *
-
-Legitimate interests relied on:
-
-*   In our interest, and in the interests of users and third parties, to create, provide, support, improve and maintain artificial intelligence technology that enables people, businesses and others to express themselves, communicate, and discover and engage with information that they're interested in.
-*   In our interest, and in the interests of third parties and the public at large, to offer artificial intelligence technology to third parties, including developers and researchers.
-*   In our interest, and in the interests of users and third parties, to develop and improve artificial intelligence technology while ensuring appropriate safeguards, such as improving model responses for safety and accuracy.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   [Public content](https://privacycenter.instagram.com/policy/?subpage=3.subpage.3-PublicContentWhatContent) that you or others create or share, such as posts, comments or audio on Meta Products
-*   Interactions with our features that are part of AI at Meta and related metadata. For example, information such as content and messages that you or others exchange with these features
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Using information from third parties for personalising ads
-
-* * *
-
-For registered users of the Meta Products aged 18 years or older
-
-* * *
-
-Why and how we process your information:
-
-Receiving and using information from a specific business to tailor the ads that you see:
-
-*   We'll use information from a specific business that has shared a list of individuals or devices with us, if we've matched your profile to information on that list, to tailor ads that we show you on Meta Company Products, including through Meta Audience Network.
-
-* * *
-
-Legitimate interests relied on:
-
-*   In our interest to fund our provision of the Meta Products and provide quality personalised advertising to users who visit the websites, apps and devices that use our advertising services; and
-*   In the interests of advertisers who wish to reach people who may be interested in their information, products or services.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Information and content that you provide, such as your name or email address
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Promoting safety, integrity and security
-
-* * *
-
-If we cannot associate you or your device with a registered user of the Meta Products
-
-* * *
-
-Why and how we process your information:
-
-*   Our Meta Products are delivered in a manner to ensure the safety, integrity and security of those services and those people who enjoy them.
-*   We collect and store the information we have for this purpose and apply automated processing and manual (i.e. human) review to verify accounts and activity, combat harmful conduct, detect and prevent spam and other security matters, as well as bad experiences of other types, to maintain the integrity of our Products and to research and promote safety, integrity and security on and off Meta Products.
-*   For example, we use information that we have to investigate suspicious activity or breaches of our terms or policies, or to detect when someone needs help.
-
-To learn more, visit the [Facebook Security Help Centre](https://www.facebook.com/help/379220725465972?ref=dp) and [Instagram security tips](https://help.instagram.com/369001149843369).
-
-* * *
-
-Legitimate interests relied on:
-
-*   In our interest to secure our platform and network, to verify accounts and activity, to combat harmful conduct, to detect, prevent and address spam and other bad experiences, to keep the Meta Company Products free of harmful or inappropriate content, and to investigate and take action in respect of suspicious activity or breaches of our terms or policies; and
-*   In the interests of our users generally and the public at large, to prevent bad experiences and promote safety, integrity and security.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   The time, frequency and duration of your activities on our Products
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network that you connect your device to, including your IP address
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Providing marketing communications
-
-* * *
-
-If we cannot associate you or your device with a registered user of the Meta Products
-
-* * *
-
-Why and how we process your information:
-
-We'll collect and store your information and use it to send marketing communications to you, such as an email address.
-
-* * *
-
-Legitimate interests relied on:
-
-In our interest to promote Meta Company Products and send our direct marketing.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Information and content you provide, including your contact information, such as your email address
-
-Undertaking research and innovation for social good
-
-* * *
-
-If we cannot associate you or your device with a registered user of the Meta Products
-
-* * *
-
-Why and how we process your information:
-
-*   We carry out surveys and use information (including from research partners we collaborate with) to conduct and support research and innovation on topics of general social welfare, technological advancement, public interest, health and well-being.
-*   We collect, store, combine, analyse and apply automatic processing techniques – such as aggregation of information as well as manual (human) review – as necessary, to research and innovate for social good in this way.
-*   We support research in areas such as artificial intelligence and machine learning.
-
-[Learn more](https://research.fb.com/) about our research programmes.
-
-* * *
-
-Legitimate interests relied on:
-
-In our interest and in the interests of the general public to further the state-of-the-art or academic understanding on important social issues that affect our society and world in a positive way.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   The time, frequency and duration of your activities on our Products
 
 [App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
 
@@ -1813,166 +975,35 @@ Sharing information with others including law enforcement and responding to lega
 
 * * *
 
-If we cannot associate you or your device with a registered user of the Meta Products
-
-* * *
-
 Why and how we process your information:
 
-See "[How do we respond to legal requests, prevent harm and promote safety and security?](https://privacycenter.instagram.com/policy/?section_id=10-HowDoWeRespond)" for details on when we share information with law enforcement and others.
+See the ["How do we respond to legal requests, prevent harm and promote safety and integrity?"](https://privacycenter.instagram.com/policy/?section_id=10-HowDoWeRespond) section of the Meta Privacy Policy for more information on when we share information with law enforcement and others.
 
-The categories of information that we access, preserve, use and share depend on the specific circumstances. For example, responses to legal requests where not compelled by law, will typically include limited information (such as contact details and login information).
+The categories of information that we access, preserve, use and share depend on the specific circumstances. For example, responses to legal requests where not compelled by law will typically include limited information (such as contact details and login information).
 
 However, the information we process will depend on the purposes, which could include the following:
 
-*   In response to [legal requests](https://privacycenter.instagram.com/policy/?annotations[0]=10.ex.2-HowWePromoteSafety) from third parties, such as civil litigants, law enforcement and other government authorities.
-*   To comply with applicable law or legitimate legal purposes.
-*   To promote the safety, security and integrity of Meta, Meta Products, Products, users, employees, property and the public.
+*   In response to legal requests from third parties such as civil litigants, law enforcement and other government authorities
+*   To comply with applicable law or legitimate legal purposes
+*   To promote the safety, security and integrity of Meta Companies, Meta Products, users, employees, property and the public
 
 [Learn more](https://privacycenter.instagram.com/policy/?subpage=2.subpage.8-PromotingSafetySecurityAnd) about how we promote safety, security and integrity.
 
 * * *
 
-Legitimate interests relied on:
-
-In our interest and the interest of the general public to prevent and address fraud, unauthorised use of the Meta Company Products, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, Meta personnel and property or Meta Products), our users or others, including as part of investigations or regulatory enquiries; or to prevent death or imminent bodily harm.
-
-* * *
-
 Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
 
 [Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
 
+*   Content that you create, such as posts, comments or audio
+*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
+*   Metadata about content and messages, subject to applicable law
 *   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
 *   Types of content that you view or interact with, and how you interact with them
 *   Apps and features that you use and what actions you take in them
-*   The time, frequency and duration of your activities on our Products
-*   Your photo or video selfie if you provide it when you contact us for account support
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network that you connect your device to, including your IP address
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Providing and improving Meta Products
-
-* * *
-
-If we cannot associate you or your device with a registered user of the Meta Products
-
-* * *
-
-Why and how we process your information:
-
-We use information that we collect to:
-
-*   Provide products and curate features
-*   See if our Products are working correctly, such as troubleshooting and fixing it when it's not working
-*   Try out new products and features to see if they work
-*   Get feedback on our ideas for products or features
-*   Conduct surveys and other research on what we can do better for Meta Products and brands
-
-* * *
-
-Legitimate interests relied on:
-
-To provide and improve the Meta Company Products in a consistent manner, to correct technical glitches and to optimise functionality.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Types of content that you view or interact with, and how you interact with them
-*   Apps and features that you use and what actions you take in them
-*   The time, frequency and duration of your activities on our Products
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from other users'
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network that you connect your device to, including your IP address
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-Providing, developing and improving AI at Meta
-
-* * *
-
-If we cannot associate you or your device with a registered user of the Meta Products
-
-* * *
-
-Why and how we process your information:
-
-To provide, develop and improve [AI at Meta](https://www.facebook.com/privacy/genai) for Meta Products and for third parties outside of the performance of our contract with you.
-
-* * *
-
-Legitimate interests relied on:
-
-*   In our interests, and in the interests of users and third parties to create, provide, support, improve and maintain artificial intelligence technology that enables people, businesses and others to express themselves, communicate, and discover and engage with information that they're interested in.
-*   In our interests, and in the interests of third parties and the public at large, to offer artificial intelligence technology to third parties, including developers and researchers.
-*   In our interests, and in the interests of users and third parties, to develop and improve artificial intelligence technology while ensuring appropriate safeguards, such as improving model responses for safety and accuracy.
-
-* * *
-
-Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Activity and information provided by a registered user](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   [Public content](https://privacycenter.instagram.com/policy/?subpage=3.subpage.3-PublicContentWhatContent) that you or others create or share, such as posts, comments or audio on Meta Products
-*   Interactions with our features that are part of AI at Meta and related metadata. For example, information such as content and messages that you or others exchange with these features
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-When we process your information as necessary to pursue our legitimate interests or those of a third party, you have the right to object to, and seek restriction of, such processing; to exercise your right, visit the [Facebook settings](https://www.facebook.com/help/contact/1994830130782319) and the [Help Centre](https://www.facebook.com/help/2069235856423257) and [Instagram settings](https://help.instagram.com/contact/117037592428568).
-
-We will consider several factors when assessing an objection, including: our users' reasonable expectations; the benefits and risks to you, us, other users or third parties; and other available means to achieve the same purpose that may be less invasive and do not require disproportionate effort. Unless we find that we have compelling legitimate grounds for this processing that are not outweighed by your interests or fundamental rights and freedoms or the processing is needed for legal reasons, your objection will be upheld and we will cease processing your information. To learn more about the circumstances in which an objection may be successful, please visit the [Help Centre](https://www.facebook.com/help/2069235856423257).
-
-If you are under the age of majority in your country and there is no enforceable contract in place, we will take particular account of the fact that you are below the age of majority when conducting our assessment of our legitimate interests and the balancing of your interests and rights. We provide specific protections for people below the age of majority to ensure that they are aware of the risks, consequences, safeguards and rights associated with the processing of their information.
-
-Tasks carried out in the public interest
-
-The purposes for which we anticipate processing your information as a task in the public interest, the processing we undertake and the information we use is set out below:
-
-Undertaking research for social good
-
-* * *
-
-Why and how we process your information:
-
-We collect, store, combine, analyse and apply automatic processing techniques such as aggregation to information, as well as manual (human) review as necessary to undertake research and other tasks in the public interest, such as sharing relevant research data with third parties such as international organisations and academics both in and outside the UK. The public interest is required to be laid down in UK law or other applicable law to which we are subject.
-
-* * *
-
-Information categories that we use (see "[What Information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
-
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Content that you create, such as posts, comments or audio
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Metadata about content
-*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features such as content and messages
-*   Types of content that you view or interact with, and how you interact with it
-*   Apps and features you use, and what actions you take in them
 *   Purchases or other transactions that you make
 *   Hashtags that you use
-*   The time, frequency and duration of your activities on our Products
+*   Your photo or video selfie if you provide it when you contact us for account support
 
 [Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
 
@@ -1980,85 +1011,42 @@ Information categories that we use (see "[What Information do we collect?](https
 
 *   Device characteristics and device software
 *   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from those of other users
+*   Identifiers that tell your device apart from other users'
 *   Device signals
 *   Information that you've shared through your device settings
 *   Location-related information
-*   Information about the network you connect your device to, including your IP address
+*   Information about the network that you connect your device to, including your IP address
 *   Information from cookies and similar technologies
 
 [Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
 
-Promoting safety, integrity and security
+Processing information when required by law
 
 * * *
 
 Why and how we process your information:
 
-In limited fact-specific circumstances, we will access, preserve and share your information with regulators, law enforcement or others where necessary to perform a task in the public interest. For example, we might share information with others for the purposes of combatting unlawful or harmful behaviour where it is in the public interest to do so and where the public interest is laid down in UK law or other applicable law to which we are subject.
+Where we are under an obligation to disclose information such as, for example, if we receive a valid legal request for certain information such as a search warrant, we will access, preserve and/or share your information with regulators, law enforcement or others.
+
+The way in which the information will be processed depends on the specific circumstances. See the ["How do we respond to legal requests, prevent harm and promote safety and integrity?"](https://privacycenter.instagram.com/policy/?section_id=10-HowDoWeRespond) section of the Meta Privacy Policy for more. "[Information for Law Enforcement Authorities](https://www.meta.com/safety/communities/law/guidelines)" provides information on the operational guidelines that law enforcement needs to follow.
 
 * * *
 
-Information categories that we use (see "[What Information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
+Information categories that we use (see "[What information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more details on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
 
-[Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
-
-*   Content that you create, such as posts, comments or audio
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
-*   Metadata about content
-*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features such as content and messages
-*   Types of content that you view or interact with, and how you interact with it
-*   Apps and features you use, and what actions you take in them
-*   Purchases or other transactions that you make, including truncated credit card information
-*   Hashtags that you use
-*   The time, frequency and duration of your activities on our Products
-
-[Friends, followers and other connections](https://privacycenter.instagram.com/policy/?subpage=1.subpage.2-FriendsFollowersAndOther)
-
-[App, browser and device information](https://privacycenter.instagram.com/policy/?subpage=1.subpage.3-AppBrowserAndDevice):
-
-*   Device characteristics and device software
-*   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from those of other users
-*   Device signals
-*   Information that you've shared through your device settings
-*   Location-related information
-*   Information about the network you connect your device to, including your IP address
-*   Information from cookies and similar technologies
-
-[Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-When we process your information as necessary for a task carried out in the public interest, you have the right to object to, and seek restriction of, our processing. To exercise your rights, visit the [Facebook settings](https://www.facebook.com/help/contact/1994830130782319) and the [Help Centre](https://www.facebook.com/help/2069235856423257) and Instagram settings. In assessing an objection, we will consider several factors, including: our users' reasonable user expectations; the benefits and risks to you, us, other users or third parties; and other available means to achieve the same purpose that may be less invasive and do not require disproportionate effort.
-
-Your objection will be upheld, and we will cease processing your information, unless we find that we have compelling legitimate grounds for this processing that are not outweighed by your interests or fundamental rights and freedoms or the processing is needed for legal reasons. To learn more about the circumstances in which an objection may be successful, please visit the [Help Centre](https://www.facebook.com/help/2069235856423257).
-
-Protection of your vital interests or that of another person
-
-The categories of information we use, why we process your information to protect your vital interests or those of another person and how it's processed are set out below
-
-Protecting vital interests
-
-* * *
-
-Why and how we process your information:
-
-Protecting the vital interests of you and/or those of another person: We apply automated processing techniques, conduct manual (human) review and share information, including with law enforcement and others, in circumstances where someone's vital interests require protection, such as in the case of emergencies. These vital interests include protection of your life, physical or mental health, well-being or integrity or that of others, and detecting, removing and reporting illegal content. In protecting such vital interests, we aim to combat harmful conduct and promote safety, integrity and security, including, for example, when we are investigating reports of harmful conduct or taking appropriate action, such as sharing information with relevant authorities, when someone needs help.
-
-* * *
-
-Information categories that we use (see "[What Information do we collect?](https://privacycenter.instagram.com/policy/?section_id=1-WhatInformationDoWe)" for more detail on each information category). The actual information that we use depends on your factual circumstances, but could include any of the following:
+The categories of information depend on the specific circumstances of each mandatory request or obligation. Only the information necessary to comply with the relevant legal obligation will be shared or otherwise processed. For example, for civil matters, this will typically include limited information (such as contact details and login information). However, depending on the circumstances, it could include the following:
 
 [Your activity and information that you provide](https://privacycenter.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation):
 
 *   Content that you create, such as posts, comments or audio
 *   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features
 *   Messages that you send and receive, including their content, subject to applicable law
-*   Metadata about content and messages, subject to [applicable law](https://www.facebook.com/help/499392929200216)
-*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features such as content and messages
-*   Types of content that you view or interact with, and how you interact with it
-*   Apps and features you use, and what actions you take in them
+*   Metadata about content and messages, subject to applicable law
+*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai) and related metadata. For example, information such as content and messages that you or others exchange with these features
+*   Types of content that you view or interact with, and how you interact with them
+*   Apps and features that you use and what actions you take in them
 *   Purchases or other transactions that you make, including truncated credit card information
-*   Hashtags that you use
+*   Hashtags you use
 *   The time, frequency and duration of your activities on our Products
 *   Your photo or video selfie if you provide it when you contact us for account support
 
@@ -2068,25 +1056,11 @@ Information categories that we use (see "[What Information do we collect?](https
 
 *   Device characteristics and device software
 *   What you're doing on your device, such as whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
-*   Identifiers that tell your device apart from those of other users
+*   Identifiers that tell your device apart from other users'
 *   Device signals
 *   Information that you've shared through your device settings
 *   Location-related information
-*   Information about the network you connect your device to, including your IP address
+*   Information about the network that you connect your device to, including your IP address
 *   Information from cookies and similar technologies
 
 [Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
-
-        
-
-Accept cookies from Instagram on this browser?
-
-We use cookies to help personalize and improve content and services, serve relevant ads and provide a safer experience. You can review your cookie controls at any time. Learn more about cookie uses and controls in our [Cookie Policy](https://help.instagram.com/1896641480634370/).
-
-Accept all
-
-Manage Data Settings
-
-Accept all
-
-Manage Data Settings

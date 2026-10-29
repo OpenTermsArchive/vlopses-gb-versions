@@ -597,9 +597,9 @@ What is copyright?
 
 What is trademark?
 
-What does copyright protect?
+How does copyright protect content?
 
-What does trademark protect?
+How does trademark protect brands?
 
 I have a different question
 
@@ -1024,9 +1024,7 @@ How do I report a Facebook username?
 
 What is Facebook trademark infringement?
 
-How do I contact a Facebook user?
-
-What are Facebook username rules?
+How do I contact the username owner?
 
 I have a different question
 
@@ -1946,8 +1944,6 @@ What is the public domain?
 
 How long does copyright last?
 
-What is the Berne Convention?
-
 I have a different question
 
 Copyright protection doesn't last forever. Eventually, a work loses copyright protection and becomes part of the "public domain". Once a work is in the public domain, it's freely available for anyone to use.
@@ -2090,11 +2086,13 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
+What is fair use copyright?
 
 What are copyright exceptions?
 
 How does fair use apply?
+
+What is copyright infringement?
 
 I have a different question
 
@@ -2496,9 +2494,9 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report copyright?
 
-What is Facebook copyright infringement?
+What is copyright infringement?
 
 How do I contact Facebook agent?
 
@@ -2567,9 +2565,11 @@ Copy link
 
 How do I contact Meta DMCA?
 
-How do I report copyright infringement?
+How do I send a DMCA claim?
 
 What is Meta's DMCA agent address?
+
+How do I submit a complete copyright claim?
 
 I have a different question
 
@@ -2636,11 +2636,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What information do I include?
+What information do I need?
 
-How do I report copyright?
+How do I submit a copyright report?
 
-What is a copyright report?
+What happens after I report?
+
+What is copyright infringement?
 
 I have a different question
 

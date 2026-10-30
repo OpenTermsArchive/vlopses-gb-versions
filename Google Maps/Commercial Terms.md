@@ -1,4 +1,5 @@
-#### Google Maps Platform EEA Terms of Service
+Google Maps Platform EEA Terms of Service
+-----------------------------------------
 
 These EEA Google Maps Platform Terms of Service, including the AUP and other URL Terms (together, the "Agreement") are entered into by Google (as defined at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity)) and the entity or person agreeing to these terms ("Customer") and will govern Customer’s access to and use of the Services. If Customer’s billing account address is in the European Economic Area, these Google Maps Platform EEA Terms of Service ("EEA TOS") will govern Customer’s access to and use of the Services. However, to the extent that a Customer’s Project’s integration existing prior to 8 July, 2025 remains in an unmodified state, such Project’s integration will continue to be governed by the terms of the Google Maps Platform Terms of Service, as described at [https://cloud.google.com/maps-platform/terms](https://cloud.google.com/maps-platform/terms)), and not this Agreement.
 
@@ -6,7 +7,8 @@ This Agreement is effective when Customer clicks to accept the Agreement, or ent
 
 If you are accessing the Services as a customer of an unaffiliated Google Maps reseller, these terms will apply to you in relation to your use of the Services (subject to the "Reseller Orders" section of this Agreement). However, if you fall under one of the exempt categories described at [https://cloud.google.com/terms/direct-tos-exemptions](https://cloud.google.com/terms/direct-tos-exemptions) for the applicable Services, these terms do not apply to you, unless you and Google agree otherwise in writing. If you become exempt from these terms after the Effective Date, this will not affect any liability arising between the parties prior to the date that you become exempt.
 
-#### 1\. Accessing the Services.
+1\. Accessing the Services.
+---------------------------
 
 1.1 _Admin Console_. Customer will have access to the Admin Console, through which Customer may manage its use of the Services. Customer must use the Admin Console in accordance with the Admin Console Documentation.
 
@@ -20,7 +22,8 @@ If you are accessing the Services as a customer of an unaffiliated Google Maps r
 
 1.3.3 _Discontinuation of Services_. Google will notify Customer at least 12 months before discontinuing any Service (or associated material functionality) without providing a materially similar replacement. Further, Google will notify Customer at least 12 months before modifying any Customer-facing Google APIs in a backwards-incompatible manner. Nothing in this Section 1.3.3 limits Google’s ability to make changes required to comply with applicable law, address a material security risk, or avoid a substantial economic or material technical burden. This Section 1.3.3 does not apply to pre-general availability Services, offerings or functionality.
 
-#### 2\. Payment Terms.
+2\. Payment Terms.
+------------------
 
 2.1 _Free Quota_. Certain Services are provided to Customer without charge up to the Fee Threshold, as applicable.
 
@@ -38,7 +41,8 @@ If you are accessing the Services as a customer of an unaffiliated Google Maps r
 
 2.6 _No Purchase Order Number Required_. Customer is obligated to pay all applicable Fees without any requirement for Google to provide a purchase order number on Google’s invoice (or otherwise).
 
-#### 3\. License.
+3\. License.
+------------
 
 3.1 _License Grant_. During the Term, Google grants to Customer a non-exclusive, non-sublicensable, and non-transferable, license to use the Services in Customer Application(s), subject to Section 3.2 (License Requirements) and Section 3.3 (License Restrictions).
 
@@ -78,7 +82,8 @@ If you are accessing the Services as a customer of an unaffiliated Google Maps r
 
 (d) _No Modifying Search Results Integrity._ Customer will not modify any of the Google Maps Core Services’ search results.
 
-#### 4\. Privacy and Data Protection Obligations.
+4\. Privacy and Data Protection Obligations.
+--------------------------------------------
 
 4.1 _End User Privacy_. Customer’s use of the Services in the Customer Application will comply with applicable privacy laws, including laws regarding Services that store and access Cookies on End Users’ devices. Customer will comply with the then-current Consent Policy at [https://www.google.com/about/company/user-consent-policy.html](https://www.google.com/about/company/user-consent-policy.html), if applicable.
 
@@ -94,7 +99,8 @@ If you are accessing the Services as a customer of an unaffiliated Google Maps r
 
 4.5 _Data Protection Terms_. Google and Customer agree to the then-current Google Controller-Controller Data Protection Terms at [https://business.safety.google/controllerterms/](https://business.safety.google/controllerterms/), as may be updated by Google from time to time.
 
-#### 5\. Suspension.
+5\. Suspension.
+---------------
 
 5.1 _AUP Violations._ If Google becomes aware that Customer’s or any End User’s use of the Services violates the AUP, Google will notify Customer and request Customer correct the violation. If Customer fails to correct the violation within 24 hours, or if Google is otherwise required by applicable law to take action, then Google may Suspend all or part of Customer’s use of the Services until the violation is corrected.
 
@@ -102,7 +108,8 @@ If you are accessing the Services as a customer of an unaffiliated Google Maps r
 
 5.3 _For Alleged Third-Party Intellectual Property Rights Infringement._ If the Customer Application is alleged to infringe a third party’s Intellectual Property Rights, Google may suspend all use of the Google Maps Services in the Customer Application on 30 days’ written notice until such allegation is fully resolved. This Section 5.3 (For Alleged Third-Party Intellectual Property Rights Infringement) does not reduce Customer’s obligations under Section 14 (Indemnification).
 
-#### 6\. Intellectual Property Rights; Third Party Legal Notices;Copyright Policy; Feedback; Benchmarking.
+6\. Intellectual Property Rights; Third Party Legal Notices;Copyright Policy; Feedback; Benchmarking.
+-----------------------------------------------------------------------------------------------------
 
 6.1 _Intellectual Property Rights._ Except as expressly stated in the Agreement, the Agreement does not grant either party any rights, implied or otherwise, to the other’s content or any of the other’s intellectual property. As between the parties, Customer retains all Intellectual Property Rights in the Customer Application, and Google retains all Intellectual Property Rights in the Google Maps Core Services.
 
@@ -114,13 +121,15 @@ If you are accessing the Services as a customer of an unaffiliated Google Maps r
 
 6.5 _Benchmarking_. If Customer publicly discloses (whether directly or through a third party) the results of any comparative or compatibility testing, benchmarking, or evaluation of the Services (each, a "Test"): (a) the disclosure must include all information necessary for Google or a third party to replicate the Test; and (b) Google may conduct and publicly disclose the results of Tests against publicly available products or services provided by Customer.
 
-#### 7\. Technical Support Services.
+7\. Technical Support Services.
+-------------------------------
 
 7.1 _By Google._ Subject to the payment of applicable support Fees, Google will provide Maps Technical Support Services to Customer during the Term in accordance with the Maps Technical Support Services Guidelines_._ 
 
 7.2 _By Customer._ Customer is responsible for technical support of its Customer Applications and Projects_._
 
-#### 8\. Confidentiality.
+8\. Confidentiality.
+--------------------
 
 8.1 _Confidentiality Obligations._ The recipient will only use the disclosing party’s Confidential Information to exercise the recipient’s rights and fulfill its obligations under the Agreement, and will use reasonable care to protect against the disclosure of the disclosing party’s Confidential Information. The recipient may disclose Confidential Information only to its employees, Affiliates, agents, or professional advisors ("Delegates") who need to know it and who have agreed in writing (or in the case of professional advisors are otherwise bound) to keep it confidential. The recipient will ensure that its Delegates use the received Confidential Information only to exercise rights and fulfill obligations under this Agreement_._
 
@@ -128,7 +137,8 @@ If you are accessing the Services as a customer of an unaffiliated Google Maps r
 
 8.3 _Disclosure Requests._ As between the parties, Customer is responsible for responding to all third party requests concerning its use and Customer End Users’ use of the Services.
 
-#### 9\. Term and Termination.
+9\. Term and Termination.
+-------------------------
 
 9.1 _Agreement Term._ The term of this Agreement (the "Term") starts on the Effective Date and continues until the Agreement is terminated as stated in this Section 9_._ 
 
@@ -142,19 +152,23 @@ If you are accessing the Services as a customer of an unaffiliated Google Maps r
 
 9.6 _Effects of Termination._ If this Agreement terminates: (a) all rights and access to the Services will terminate; (b) all Fees owed by Customer to Google are immediately due upon receipt of the final electronic bill or as stated in the final invoice; and (c) Customer will delete the Software and any content from the Services by the termination effective date_._
 
-#### 10\. Publicity.
+10\. Publicity.
+---------------
 
 Customer may state publicly that it is a Google customer and display Google Brand Features in accordance with the Trademark Guidelines. Google may use Customer’s name or Brand Features in online or offline promotional materials of the Services. Each party may use the other party’s Brand Features only as permitted in the Agreement. Any use of a party’s Brand Features will inure to the benefit of the party holding Intellectual Property Rights to those Brand Features. A party may revoke the other party’s right to use its Brand Features under this Section with written notice to the other party and a reasonable period to stop the use_._
 
-#### 11\. Representations and Warranties.
+11\. Representations and Warranties.
+------------------------------------
 
 Each party represents and warrants that: (a) it has full power and authority to enter into the Agreement; and (b) it will comply with Export Control Laws and Anti-Bribery Laws applicable to its provision, receipt, or use, of the Services, as applicable_._
 
-#### 12\. Disclaimer.
+12\. Disclaimer.
+----------------
 
 _EXCEPT AS EXPRESSLY PROVIDED FOR IN THE AGREEMENT, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, GOOGLE: (A) DOES NOT MAKE ANY WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE, NONINFRINGEMENT, OR ERROR-FREE OR UNINTERRUPTED USE OF THE SERVICES OR SOFTWARE; (B) MAKES NO REPRESENTATION ABOUT CONTENT OR INFORMATION ACCESSIBLE THROUGH THE SERVICES; AND (C) SUBJECT TO APPLICABLE LAW, WILL ONLY BE REQUIRED TO PROVIDE THE REMEDIES EXPRESSLY STATED IN THE SLA FOR FAILURE TO PROVIDE THE SERVICES. GOOGLE MAPS CORE SERVICES ARE PROVIDED FOR PLANNING PURPOSES ONLY. INFORMATION FROM THE GOOGLE MAPS CORE SERVICES MAY DIFFER FROM ACTUAL CONDITIONS, AND MAY NOT BE SUITABLE FOR THE CUSTOMER APPLICATION. CUSTOMER MUST EXERCISE INDEPENDENT JUDGMENT WHEN USING THE SERVICES TO ENSURE THAT (i) GOOGLE MAPS ARE SUITABLE FOR THE CUSTOMER APPLICATION; AND (ii) THE CUSTOMER APPLICATION IS SAFE FOR END USERS AND OTHER THIRD PARTIES._
 
-#### 13\. Indemnification.
+13\. Indemnification.
+---------------------
 
 13.1 _Customer Indemnification Obligations_. Unless prohibited by applicable law, Customer will defend Google and its Affiliates and indemnify them against Indemnified Liabilities in any Third-Party Legal Proceeding to the extent arising from (a) any Customer Indemnified Materials or (b) Customer’s or an End User’s use of the Services in violation of the AUP or in violation of the Agreement_._
 
@@ -176,7 +190,8 @@ _EXCEPT AS EXPRESSLY PROVIDED FOR IN THE AGREEMENT, TO THE FULLEST EXTENT PERMIT
 
 13.6 _Sole Rights and Obligations._ Without affecting either party’s termination rights and to the extent permitted by applicable law, this Section 13 states the parties’ sole and exclusive remedy under the Agreement for any Allegations of Intellectual Property Rights infringement covered by this Section 13 (Indemnification)_._
 
-#### 14\. Liability.
+14\. Liability.
+---------------
 
 14.1 _Limited Liabilities_
 
@@ -194,11 +209,13 @@ _EXCEPT AS EXPRESSLY PROVIDED FOR IN THE AGREEMENT, TO THE FULLEST EXTENT PERMIT
 
 14.2.4 Customer’s use of the Services in breach of any use or license restrictions in the Agreement.
 
-#### 15\. Advertising
+15\. Advertising
+----------------
 
 In its sole discretion, Customer may configure the Service to either display or not display advertisements served by Google**_._**
 
-#### 16\. Miscellaneous.
+16\. Miscellaneous.
+-------------------
 
 16.1 _Notices._ Under this Agreement, notices to Customer must be sent to the Notification Email Address and notices to Google must be sent to legal-notices@google.com. Notice will be treated as received when the email is sent. Customer is responsible for keeping its Notification Email Address current throughout the Term.
 
@@ -232,7 +249,8 @@ In its sole discretion, Customer may configure the Service to either display or 
 
 16.16 _Conflicting Languages._ If this Agreement is translated into any other language, and there is a discrepancy between the English text and the translated text, the English text will govern.
 
-#### 17\. Reseller Orders.
+17\. Reseller Orders.
+---------------------
 
 This Section applies if Customer orders the Services from a Reseller under a Reseller Agreement (including the Reseller Order Form).
 
@@ -246,7 +264,8 @@ This Section applies if Customer orders the Services from a Reseller under a Res
 
 17.5 _Mobility Services Terms_. If Customer purchases the then current Google Maps Mobility services described at [https://developers.google.com/maps/documentation/mobility/services/terms](https://developers.google.com/maps/documentation/mobility/services/terms) (including Google Maps Content) from a Reseller (a) the Mobility Services Terms that Reseller must provide to Customer are incorporated by reference into this Agreement, and (b) such services will be deemed to be "Services" in respect of the purchase and use of such services (as such term may be amended by the Mobility Services Terms).
 
-#### 18\. Definitions.
+18\. Definitions.
+-----------------
 
 _"Account"_ means Customer’s Google Maps Platform Account.
 

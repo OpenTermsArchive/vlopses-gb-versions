@@ -3,13 +3,13 @@ Intellectual property
 
 Copy link
 
-What is Instagram copyright?
-
 How do I report Instagram copyright?
 
-What is Instagram trademark?
-
 How do I report Instagram trademark?
+
+What is Instagram copyright?
+
+What is Instagram trademark?
 
 I have a different question
 
@@ -215,6 +215,14 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright protection?
+
+What does copyright protect?
+
+What is not protected by copyright?
+
+I have a different question
+
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -263,6 +271,13 @@ Related articles
 * * *](https://help.instagram.com/782489295246269/?helpref=related_articles)
 
 [The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -473,6 +488,14 @@ The difference between copyright and trademark
 
 Copy link
 
+What is copyright?
+
+What is trademark?
+
+What is intellectual property?
+
+I have a different question
+
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works such as photos, videos, films and music. It's also important to note that, in the US, the Digital Millennium Copyright Act (DMCA) only applies to copyrights and doesn't apply to trademarks.
@@ -611,13 +634,11 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
+What is fair use of content?
 
 What are copyright exceptions?
 
-How does fair use apply?
-
-What are the factors of fair use?
+What are fair use factors?
 
 I have a different question
 
@@ -1977,6 +1998,14 @@ The difference between copyright and trademark
 
 Copy link
 
+What is copyright?
+
+What is trademark?
+
+What is intellectual property?
+
+I have a different question
+
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works such as photos, videos, films and music. It's also important to note that, in the US, the Digital Millennium Copyright Act (DMCA) only applies to copyrights and doesn't apply to trademarks.
@@ -2232,7 +2261,7 @@ How do I report Instagram trademark infringement?
 
 How do I report Threads trademark infringement?
 
-How do I use Brand Rights Protection?
+What is the Brand Rights Protection tool?
 
 What happens after I report trademark infringement?
 
@@ -2626,13 +2655,11 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
+What is fair use of content?
 
 What are copyright exceptions?
 
-How does fair use apply?
-
-What are the factors of fair use?
+What are fair use factors?
 
 I have a different question
 

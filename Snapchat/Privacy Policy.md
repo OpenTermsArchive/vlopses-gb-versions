@@ -779,6 +779,110 @@ But, object detection isn’t the same as identifying your face. While Lenses ca
 Many of our Lenses rely on generative AI to create fun experiences and transform your image and experience into something special.
 
 *   [How to Use Lenses](https://help.snapchat.com/hc/articles/7012348332052?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
+Snap Kit
+
+Snap Kit is a set of developer tools that let you easily share Snaps, Stories and Bitmojis with your favourite apps or from apps and websites to your Snapchat account! When you choose to connect to an app or website, you can review the information that is shared through Snap Kit. You can also remove an app or website’s access at any time right in Snapchat settings.
+
+If you haven’t opened a connected app or website in 90 days, we’ll remove its access, but you may need to contact the developer if you have questions about any data that has already been shared.
+
+### 
+
+Spectacles
+
+[Spectacles](https://www.spectacles.com/spectacles-24?lang=en-GB) are see-through AR glasses powered by Snap OS, that open up a new world, and let you experience immersive Lenses with friends and family, use Gen AI, extend your Snapchat and other phone experiences into three dimensions, and more. With Lens Studio 5.0 you can easily build and iterate on Lenses, including Gen AI Suite.
+
+When you’re out and about in the world wearing your Spectacles – whether you’re on an adventure or just going about your day, you can capture images and recordings with your Spectacles and LEDs will light up to let your friends know. Images or videos captured with Spectacles are stored locally on the device; there is no cloud storage. You can easily import a captured image or recording to the photo library on your device using the Spectacles App. 
+
+Access to the camera and microphone on your Spectacles device is needed for it to operate. The camera uses information about face, hands and your surroundings so you can interact with AR content, while the microphone uses information about your voice to make features like recorded videos or voice commands work. You can remove the Spectacles App’s access to the camera and microphone on your Spectacles device by stopping use of your Spectacles device or deleting your account. 
+
+Spectacles are equipped with built-in GPS and GNSS to capture location-based information. When you first set up and pair your new Spectacles to the Spectacles App, you’ll be asked whether you’d like to enable location data. You can disable location data at any time by following the steps described [here](https://support.spectacles.com/hc/en-us/articles/27749155303572-Location-Permissions?lang=en-GB).
+
+My AI in Spectacles and other Lenses use generative AI, which you can read more about [here](https://support.spectacles.com/hc/en-us/sections/30449192795668-AI-on-Spectacles?lang=en-GB).
+
+*   [Learn About Spectacles](https://www.spectacles.com/spectacles-24?lang=en-GB) 
+    
+*   [AI on Spectacles](https://support.spectacles.com/hc/en-us/sections/30449192795668-AI-on-Spectacles?lang=en-GB) 
+    
+*   [Spectacles Supplemental Privacy Policy](https://values.snap.com/privacy/privacy-policy/spectacles-supplemental-privacy-policy?lang=en-US) 
+    
+*   [Privacy and Security – Spectacles Support](https://support.spectacles.com/hc/en-us/sections/27749121990420-Privacy-and-Security?lang=en-GB).
+    
+
+### 
+
+Your Snapchat account
+
+You can view and edit most of your key account information and privacy settings right inside of Snapchat. But if you’re curious about something that’s not in our apps, you can visit [accounts.snapchat.com](http://accounts.snapchat.com/?lang=en-GB), click ‘My Data,’ and then click ‘Submit Request.’ We'll prepare a copy of your account information and let you know when it's ready for you to download. If you ever want to leave Snapchat for good, you can delete your account on [accounts.snapchat.com](http://accounts.snapchat.com/?lang=en-GB) too.
+
+*   [How to Change Your Privacy Settings](https://help.snapchat.com/hc/articles/7012343074580?utm_source=web&utm_medium=snap&utm_campaign=priv_prod&lang=en-GB)
+    
+
+### 
+
+Scan
+
+You can use your phone to scan Snapcodes and QR codes through our Scan functionality. When you initiate a scan, you will see a link pop up directing you to the intended destination of the code.
+
+*   [How to Use Scan](https://help.snapchat.com/hc/articles/7012376161556?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
+Snap Map
+
+Snap Map is the most personalised Map, and lets you see where you and your friends are and have been, what’s going on around you, save and find your favourite restaurants and bars, and even see what’s happening across the world.
+
+You won’t appear on your friends’ Snap Map until you are bidirectional friends, open the Map for the first time, provide device location permission, and choose to share your location with your friends. If you don't open the app for 24 hours, you won't be visible to friends on the Map until you open Snapchat again, unless you've chosen to share your live location with them indefinitely. You can always update the people you're sharing your location with in Snap Map settings, or go into 'Ghost Mode' to hide your location from everyone besides those you're sharing your live location with. If you want to stop sharing your live location, there’s a separate setting for that. We may also remind you if you leave location sharing enabled for a while.
+
+Snaps that have been [submitted](https://help.snapchat.com/hc/articles/7012271195796?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB) to Snap Map or that appear in Spotlight with a place tag can show up on the Map – but not every Snap will appear there. Most of the Snaps on the Map are selected through an automated process. Keep in mind: Snaps that are submitted to Snap Map or place-tagged in Spotlight are Public Content, and your Snap may appear off Snapchat if it has been shared off of Snapchat. Also, Snap Map submissions may be stored for a while and may be visible on Snapchat for long periods of time – sometimes for years. If you’d like to remove a Snap you’ve submitted to Snap Map or place-tagged in Spotlight, you can do so by going to your profile. You can also select to submit to Snap Map without associating the Snap to your name, and other profile details.
+
+When it looks like something interesting is happening, a Story thumbnail might appear on the Map. Stories for Places can also appear when you zoom into the Map. For the most part, these are created automatically – while Stories for the biggest events may receive a more hands-on approach.
+
+Please be mindful of the Snaps that you submit to Snap Map and other public areas of Snapchat, because they may give away your location. For example, if you submit a Snap of the Eiffel Tower to Snap Map, the content of your Snap is going to give away that you were close to the Eiffel Tower in Paris.
+
+Places on Snap Map make it easy to interact with local businesses. Just tap a place on the map to view the place’s listing, or tap Search at the top of the map screen to find a place. Places provide a personalised Map experience.
+
+If you come across anything that violates our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines), please [reach out to us and report it](https://help.snapchat.com/hc/articles/7012399221652?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)!
+
+*   [About Snap Map](https://help.snapchat.com/hc/articles/7012293122452?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [Finding Friends on Snap Map](https://help.snapchat.com/hc/articles/7012276359700?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB) 
+    
+*   [How Do I Share My Live Location With Friends?](https://help.snapchat.com/hc/articles/7012295450900?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [How Do I Turn On Ghost Mode?](https://help.snapchat.com/hc/articles/7012322854932?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
+Location
+
+Sharing of your precise location with Snapchat, such as GPS data, is disabled by default. If you opt-in to location sharing, we’re able to offer you a number of products and services that enhance your experience. For example, some Geofilters and Lenses only work based on where you're at or what's going on around you. If you enable location sharing, we’ll be able to show your location on the Map to the friends you choose, and show you what’s nearby that may interest you. With location sharing on, you can even ask for nearby place recommendations while chatting with My AI. Location information also helps us figure out what you'd like to see - so people in France see content from French publishers, French ads, and so on.
+
+We store GPS locations for a while to help improve the map and other features, and to accurately display places of greater relevance to you. For example, we may store some of the locations you visit the most, so we can show you more relevant Search content or update your Bitmoji’s activity on the Map. We may also store location information of the Snaps you save in Memories or submit to Stories, Spotlight or Snap Map to personalise your experience.
+
+On the [new Spectacles](https://www.spectacles.com/new-spectacles/?lang=en-GB), some features may need location data to work properly. We may use data from a few sources to derive a more accurate representation of your location. For example, if the last location of your sunglasses is not available, we may rely on Snapchat’s use of your device’s GPS to offer location-based features.
+
+You can still use Snapchat and Spectacles if you disable location permissions in your device’s settings, but many of these features won’t work correctly (or at all!) without it. Sometimes, we can still infer an approximate location like a country or city, based on an IP address - but it's not perfect.
+
+*   [Learn About iOS Location Permissions](https://help.snapchat.com/hc/articles/7012349781652?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [Learn About Android Location Permissions](https://help.snapchat.com/hc/articles/7012335163924?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [Learn About Location on the New Spectacles](https://support.spectacles.com/hc/articles/360060227752?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
+Cameos
+
+Cameos lets you be the star in your own short, looping videos. To enable Cameos, we ask you to take a selfie to put you into fun scenes. We don’t use facial recognition software. Instead, Cameos segments the shape of your face and hair to place you into the scenes and ensure the Cameos are optimised.
+
+You control your selfie and can change and delete it and restrict others from using your selfie in two-person Cameos in your Snapchat settings.
 
 - - -
 
@@ -849,6 +953,40 @@ The last category is legal. This usually is the most boring category, but it’s
 - - -
 
 **PLEASE NOTE: WE'VE UPDATED THESE PERSONAL DATA TERMS, EFFECTIVE JUNE 30, 2025. YOU CAN VIEW THE PRIOR PERSONAL DATA TERMS, WHICH APPLY TO ALL USERS UNTIL JUNE 30, 2025,** [**HERE**](https://www.snap.com/terms/personal-data/prior-12-09-2024?lang=en-GB)
+
+Personal Data Terms
+
+
+-----------------------
+
+Effective: 30 June 2025
+
+ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms/business-services#governing-law-and-disputes) PROVISION SET FORTH IN THE [BUSINESS SERVICES TERMS](https://www.snap.com/terms/business-services). IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+
+**Introduction**
+
+These Personal Data terms form a legally binding contract between you and Snap, govern the provision or receipt (as applicable) of personal data via the Business Services and are incorporated into the [Business Services Terms](https://www.snap.com/terms/business-services). Some terms used in these Personal Data Terms are defined in the [Business Services Terms](https://www.snap.com/terms/business-services).
+
+**1\. Representations and Warranties**
+
+If you provide or make available any personal data to Snap or its affiliates, including by enabling Snap to receive personal data through Snap tools like pixels, JavaScript SDKs, APIs or cookies, within content you approve or make available via the Business Services, or by providing personal data to a third party for the purposes of using the Business Services, then in addition to the representations and warranties in the [Business Services Terms](https://www.snap.com/terms/business-services), you represent and warrant that: (a) you will comply with Applicable Law, applicable self-regulatory standards and guidelines and any applicable mobile developer or app store terms, guidelines or policies (collectively, "Rules") when using the Business Services; (b) the personal data will not contain any information collected from an online service directed to children or about individuals that are under the age of 13 (or, if greater than the age of 13, the minimum age at which the processing of personal data of a data subject is lawful under Applicable Law) or any sensitive information or special category data, as defined in the Rules, including any information that is based on, or includes: (i) an alleged or actual commission of a crime; (ii) health information, including any health information further detailed in our [Business Help Centre](https://businesshelp.snapchat.com/?language=en_GB); or (iii) information about user's financial status, racial or ethnic origin, religious beliefs or preferences, sex life or sexual preferences or trade union membership; (c) the personal data will not contain, include, be based on or otherwise reveal (directly or indirectly) any “protected health information” or “consumer health data” (as defined in the Rules); (d) you have secured, and will maintain, all necessary rights, licences and consents required to provide or make available the personal data and for the personal data to be used in accordance with the [Business Services Terms](https://www.snap.com/terms/business-services), including from all data subjects whose data is included in personal data; (d) you will provide sufficient notice to each data subject in compliance with the Rules that the data subject's information collected by you or your agents may be shared with and used by third parties for the purposes specified under the [Business Services Terms](https://www.snap.com/terms/business-services), including, at a minimum a clear and prominent notice about how and where users can opt out of the use of personal data for ad targeting and, where applicable: (i) for websites, a clear and prominent notice on each webpage where you utilise the Business Services stating that third parties, including Snap and its affiliates, may use cookies, web beacons and other technologies to collect or receive information from your websites, apps and elsewhere on the internet, and may use that information to provide measurement services, advertising targeting and other advertising services; and (ii) for apps, a clear and prominent link inside your apps' settings or your privacy policy, and from within any store or website where your apps are distributed, that explains that third parties, including Snap and its affiliates, may collect or receive information from your apps and other apps, and may use that information to provide measurement services, ad targeting and other advertising services; (e) in jurisdictions that require informed consent for storing and accessing cookies or other information of a Data Subject (including the European Union), you must ensure, in a verifiable manner, that each data subject provides you with the necessary consent before you use the Business Services to send personal data in connection with that data subject; and (f) you will promptly notify Snap of any actual or threatened complaint relating to personal data, and you will reasonably cooperate with Snap, at your expense, in responding or defending against any such complaint. Snap may request further information in connection with your compliance with this Section.
+
+**2\. Supplemental Terms and Policies**
+
+*   If Snap processes personal data on your behalf, then you agree to the [Data Processing Agreement](https://www.snap.com/terms/data-processing-agreement), [Data Transfer Agreement](https://www.snap.com/terms/data-transfer-agreement) and [EEA controller-processor Standard Contractual Clauses](https://www.snap.com/terms/standard-contractual-clauses).
+    
+*   If you provide personal data via the Business Services of consumers which are subject to the US state privacy laws further described in the [US Privacy Terms](https://www.snap.com/terms/us-privacy), then you agree to the [US Privacy Terms](https://www.snap.com/terms/us-privacy).
+    
+*   If you provide personal data via the Business Services of Turkish data subjects and you are using the Business Services either in your personal capacity and you live in Turkey, or on behalf of an entity which has its principal place of business in Turkey, then the [Turkish Privacy Terms](https://www.snap.com/terms/turkish-privacy) apply.
+    
+*   If you provide personal data via the Business Services of Saudi Arabian data subjects and you are using the Business Services either in your personal capacity and you live in the Kingdom of Saudi Arabia, or on behalf of an entity which has its principal place of business in the Kingdom of Saudi Arabia, then the [Saudi Privacy Terms](https://www.snap.com/terms/saudi-privacy) apply.
+    
+*   If Event Data you provide under the [Snap Conversion Terms](https://www.snap.com/terms/snap-conversion) includes a limited data use signal that Snap honours, then the [Limited Data Use Terms](https://www.snap.com/terms/ldu) apply.
+    
+*   If you and Snap are independent controllers of personal data provided via the Business services, then you agree to the [Data Sharing Agreement](https://www.snap.com/terms/data-sharing-agreement), [Data Transfer Agreement](https://www.snap.com/terms/data-transfer-agreement) and [EEA controller-controller Standard Contractual Clauses](https://www.snap.com/terms/eea-c-c-scc).
+    
+
+__In summary: You provide a number of assurances about the data you transfer to Snap, including that you have complied with all applicable laws in relation to the data; the data wasn't collected from an online service aimed at anyone under 13; the data will not include sensitive information; you obtained any necessary rights, licences and consents to cover Snap's use of the data; you will include appropriate notices to data subjects; you will obtain and record data subject consent where required; and you will notify Snap of any complaints and assist Snap with dealing with such complaints at your cost. Please note that other supplemental terms and policies may apply, as set out above.__
 
 - - -
 

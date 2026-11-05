@@ -461,6 +461,14 @@ What is a counterfeit?
 
 Copy link
 
+What is a counterfeit good?
+
+How do I report counterfeit goods?
+
+What is trademark infringement?
+
+I have a different question
+
 A counterfeit good is a knock-off or replica version of another company's product. It usually copies the trademark (name or logo) and/or distinctive features of that other company's product to imitate a genuine product. The manufacture, promotion or sale of counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognised as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe that content on Facebook is selling or promoting counterfeit goods, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
@@ -497,6 +505,13 @@ Related articles
 * * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -535,9 +550,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -551,13 +566,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
-
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?
+
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -2071,16 +2086,6 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use copyright?
-
-What are copyright exceptions?
-
-How does fair use apply?
-
-What is copyright infringement?
-
-I have a different question
-
 Laws across the globe recognise that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the "fair use" doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else's copyrighted work within the limits set by the law.
@@ -2147,13 +2152,6 @@ Related articles
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2479,6 +2477,14 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
+How do I report copyright?
+
+What is copyright infringement?
+
+How do I contact Facebook agent?
+
+I have a different question
+
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
 *   You can report copyright infringement to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -2522,6 +2528,13 @@ Related articles
 * * *](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 [Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

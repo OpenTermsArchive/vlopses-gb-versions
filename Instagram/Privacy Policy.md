@@ -362,13 +362,7 @@ You can learn more about how privacy works on [Facebook](https://www.facebook.co
 
 You can contact us [online](https://help.meta.com/support/privacy) or by post at:
 
-Meta Platforms, Inc.
-
-FAO: Privacy Operations
-
-1 Meta Way
-
-Menlo Park, CA 94025, US
+Meta Platforms, Inc. FAO: Privacy Operations 1 Meta Way Menlo Park, CA 94025, US
 
 Why and how we process your information
 

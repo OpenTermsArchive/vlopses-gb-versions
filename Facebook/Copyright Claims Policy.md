@@ -1041,7 +1041,7 @@ Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
+[How to create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
@@ -1057,7 +1057,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Create a username for your Facebook Page
+[How to create a username for your Facebook Page
 
 * * *](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
 

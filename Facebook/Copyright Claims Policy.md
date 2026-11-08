@@ -337,14 +337,6 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark registration?
-
-What is a business registration?
-
-What is the USPTO?
-
-I have a different question
-
 In some states in the US and in some countries outside the US, a company might be able to register with a government office, or obtain a permit or licence to do business in that country or state. These registrations, such as ones issued by a state's Secretary of State, generally aren't the same as a trademark registration and may not create trademark rights for the company.
 
 In the US, a [trademark](https://www.facebook.com/help/1378807958858854?helpref=faq_content) can be registered with the United States Patent and Trademark Office (USPTO). In the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -381,13 +373,6 @@ Related articles
 * * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -523,6 +508,14 @@ Are there any limits to trademark rights?
 
 Copy link
 
+What are trademark rights limits?
+
+What is nominative fair use?
+
+What is a geographic trademark limit?
+
+I have a different question
+
 Not all uses of a trademark without permission from the rights owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it's likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, that use is generally not considered infringing.
 
 Simply referring to a trademark for the purpose of discussing the product or service offered probably won't be an infringing use of the trademark, as long as that reference doesn't use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
@@ -542,9 +535,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -558,15 +551,22 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect
-
-* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?
 
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
+[What are trademarks and what they protect
+
+* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

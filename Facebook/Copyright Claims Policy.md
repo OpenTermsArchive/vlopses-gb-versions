@@ -337,6 +337,14 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
+What is a trademark registration?
+
+What is a business registration?
+
+What is the USPTO?
+
+I have a different question
+
 In some states in the US and in some countries outside the US, a company might be able to register with a government office, or obtain a permit or licence to do business in that country or state. These registrations, such as ones issued by a state's Secretary of State, generally aren't the same as a trademark registration and may not create trademark rights for the company.
 
 In the US, a [trademark](https://www.facebook.com/help/1378807958858854?helpref=faq_content) can be registered with the United States Patent and Trademark Office (USPTO). In the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -373,6 +381,13 @@ Related articles
 * * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

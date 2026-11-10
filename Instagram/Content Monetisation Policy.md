@@ -235,6 +235,16 @@ Instagram Partner Monetisation Policies
 
 Copy link
 
+How do Instagram monetisation policies work?
+
+How do I monetise on Instagram?
+
+How do Instagram Content Monetisation Policies work?
+
+How do I get paid on Instagram?
+
+I have a different question
+
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetisation Policies. This is still the best place to learn about the rules for using Instagram's monetisation tools.
 
 In order for creators and publishers to use monetisation or promotional tools on Instagram from Meta (including Shopping from Creators), they must comply with a set of rules called Instagram Partner Monetisation Policies. These rules apply to accounts, behaviours and payments. There is a separate set of policies, called [Instagram Content Monetisation Policies](https://help.instagram.com/2635536099905516?helpref=faq_content), that apply specifically to monetised content.

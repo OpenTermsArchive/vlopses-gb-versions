@@ -958,16 +958,6 @@ Can I report an infringement of someone else's intellectual property on Facebook
 
 Copy link
 
-How do I report intellectual property?
-
-What is intellectual property?
-
-What is a copyright infringement?
-
-What is a trademark infringement?
-
-I have a different question
-
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Facebook infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
 Related articles
@@ -1002,13 +992,6 @@ Related articles
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [Can I report a Facebook username for infringing my trademark?](https://www.facebook.com/help/1250304721728220/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2180,16 +2163,6 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is copyright infringement?
-
-What is Facebook copyright policy?
-
-What is fair use on Facebook?
-
-How do I report copyright infringement?
-
-I have a different question
-
 It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn't use someone else's copyrighted work if you don't have permission. Posting content that facilitates copyright infringement through unauthorised devices or services is also not allowed on Facebook.
 
 Bear in mind that your use of someone else’s content may infringe their copyright or facilitate copyright infringement, even if you:
@@ -2239,13 +2212,6 @@ Related articles
 * * *](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
 
 [What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 

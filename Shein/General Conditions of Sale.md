@@ -12,6 +12,8 @@ This means that, if you want to return any ordered products:
 
 Please note that Infinite Towers Services Ltd ("SHEIN") will process any returns on behalf of the relevant seller (please see our [information on the allocation of obligations](https://www.shein.co.uk/information-and-obligations-of-the-seller-a-3174.html)).
 
+Your return is also subject to the Fair Use Policy. (See our [SHEIN Fair Use Returns Policy](https://www.shein.co.uk/shein-fair-use-policy-for-returns-a-3642.html).)
+
 Table of Contents
 
 [**1\. How Long Do I Have to Make a Return?**](javascript:;)
@@ -96,7 +98,7 @@ NOTE:
 
 | Return Method | Return Documentation | Printer Required | Return Fees |
 | --- | --- | --- | --- |
-| EVRI<br><br>Store drop-off | Return Label | Yes | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.<br><br>  <br><br>For the second and subsequent refunds from the same order, a **£2.50** shipping fee will be deducted from your refund for each return. |
+| EVRI<br><br>Store drop-off | Return Label | Yes | Returns are free for your first return of one or more eligible items from any order within the voluntary return period, but are subject to our Fair Use Policy (see our [SHEIN Fair Use Returns Policy](https://www.shein.co.uk/shein-fair-use-policy-for-returns-a-3642.html)).<br><br>  <br><br>For the second and any subsequent returns from the same order, a shipping fee of **2.50 GBP** will be deducted from your refund. |
 | QR Code | No  |
 | Royalmail<br><br>Store drop-off | Return Label | Yes |
 | QR Code | No  |

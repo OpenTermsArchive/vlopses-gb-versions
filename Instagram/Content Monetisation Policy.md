@@ -193,9 +193,9 @@ Related articles
 
 [Set audience restrictions for branded content on Instagram](https://help.instagram.com/521368460486230/?helpref=related_articles)
 
-[Create a branded content campaign for a brand on Instagram's creator marketplace](https://help.instagram.com/744025857252464/?helpref=related_articles)
-
 [Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
+
+[Create a branded content campaign for a brand on Instagram's creator marketplace](https://help.instagram.com/744025857252464/?helpref=related_articles)
 
 Related articles
 
@@ -215,11 +215,11 @@ Related articles
 
 * * *](https://help.instagram.com/521368460486230/?helpref=related_articles)
 
-[Create a branded content campaign for a brand on Instagram's creator marketplace
+[Get started with branded content on Instagram
 
-* * *](https://help.instagram.com/744025857252464/?helpref=related_articles)
+* * *](https://help.instagram.com/1123581461537025/?helpref=related_articles)
 
-[Get started with branded content on Instagram](https://help.instagram.com/1123581461537025/?helpref=related_articles)
+[Create a branded content campaign for a brand on Instagram's creator marketplace](https://help.instagram.com/744025857252464/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -234,16 +234,6 @@ Instagram Partner Monetisation Policies
 =======================================
 
 Copy link
-
-How do Instagram monetisation policies work?
-
-How do I monetise on Instagram?
-
-How do Instagram Content Monetisation Policies work?
-
-How do I get paid on Instagram?
-
-I have a different question
 
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetisation Policies. This is still the best place to learn about the rules for using Instagram's monetisation tools.
 

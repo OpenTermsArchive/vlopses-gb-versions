@@ -288,75 +288,6 @@ EEA and UK Privacy Notice
 
 This notice provides additional information for users in the European Economic Area (EEA) and the United Kingdom (UK). Users in the EEA and UK have certain privacy rights as specified under EU and UK law, including the General Data Protection Regulations (GDPR) and UK Data Protection Act 2018. [Our Privacy Principles](https://values.snap.com/privacy/privacy-principles) and the privacy controls we offer to all users are in line with these laws – this notice makes sure we cover the EEA and UK-specific requirements. For example, all users can request a copy of their data, request deletion and control their privacy settings in the app. For the full picture, check out our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
 
-### 
-
-Data Controller
-
-If you’re a user in the EEA or UK, you should know that Snap Inc. is the controller of your personal information.
-
-### 
-
-Rights of Access, Deletion, Correction, and Portability
-
-You can exercise your rights of access, deletion, correction, and portability as described in the [Control Over Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) section of the Privacy Policy. You also have the right to request restriction of processing of your personal information and the right to lodge a complaint with a supervisory authority, as set out below. You may also have the right to request human review, express your view, and contest decisions made solely by automated processing that significantly affect you.
-
-### 
-
-Bases for Using Your Information
-
-Your country only allows us to use your personal information when certain conditions apply. These conditions are called “legal bases” and, at Snap, we typically rely on one of four:
-
-*   **Contract**. One reason we might use your information is because you’ve entered into an agreement with us. For instance, when you buy an On-Demand Geofilter and accept our Custom Creative Tools Terms, we need to use some of your information to collect payment and make sure we show your Geofilter to the right people at the right place and time.
-    
-*   **Legitimate interest.** Another reason we might use your information is because we have – or a third party has – a legitimate interest in doing so. For instance, we need to use your information to provide and improve our services, including protecting your account, delivering your Snaps, providing customer support and helping you find friends and content we think you’ll like. Because most of our services are free, we also use some information about you to try and show you ads you’ll find interesting. An important point to understand about legitimate interest is that our interests don’t outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data doesn’t significantly impact your privacy or would be expected by you, or there is a compelling reason to do so. We explain our legitimate business reasons for using your information in more detail [here](https://values.snap.com/privacy/your-information).
-    
-*   **Consent**. In some cases we’ll ask for consent to use your information for specific purposes. If we do, we’ll make sure you can revoke your consent in our services or through your device permissions. You have the right to withdraw your consent at any time. This will not affect the lawfulness of processing based on consent before its withdrawal. Even if we’re not relying on consent to use your information, we may ask you for permission to access data like contacts and location.
-    
-*   **Legal obligation.** We may be required to use your personal information to comply with the law, like when we respond to valid legal process or need to take action to protect our users. Our policy is to notify Snapchatters when we receive legal process seeking their account information, with some exceptions. Learn more [here](https://values.snap.com/privacy/transparency).
-    
-
-### 
-
-Your right to object
-
-You have the right to object to our use of your information. You have the right to object to processing of your personal information based on legitimate interests, including profiling related to such processing, and to object at any time to processing for direct marketing purposes. With many types of data, we’ve provided you with the ability to simply delete it if you don’t want us processing it anymore. For other types of data, we’ve given you the ability to stop the use of your data by disabling the feature altogether. You can do these things in the app. If there are other types of information you don’t agree with us processing, you can [contact us](https://help.snapchat.com/?lang=en-GB). [Learn more](https://help.snapchat.com/hc/articles/22534988598676-Learn-About-Snap-s-Data-Processing-and-How-to-Object?lang=en-GB) about how Snap processes personal data and how to object.
-
-### 
-
-International Data Transfers
-
-We may collect your personal information from, transfer it to and store and process it in the United States and other countries outside of where you live. You can find more information on the categories of third parties we share information with [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB).
-
-Whenever we share information with a third party outside of where you live we make sure an adequate transfer mechanism is in place (such as [Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) or the [EU-U.S. /UK/Swiss Data Privacy Framework)](https://www.dataprivacyframework.gov/s/). You can request a copy of the relevant safeguards by contacting us.
-
-### 
-
-EU-U.S. /UK/Swiss Data Privacy Framework
-
-Snap Inc. complies with the EU-U.S. Data Privacy Framework, Swiss-U.S. Data Privacy Frameworks, and the UK Extension to the EU-U.S. DPF as set forth by the U.S. Department of Commerce (collectively, the “DPF”) when handling your personal information as described in our [Privacy Policy](https://values.snap.com/privacy/privacy-policy) received from third parties in the EEA, Switzerland, and the UK, respectively. Please visit the [DPF website](https://www.dataprivacyframework.gov/s/) to learn more about the DPF program and to view our certification in the [DPF list.](https://www.dataprivacyframework.gov/s/participant-search)
-
-In accordance with the DPF principles, Snap remains liable for failures to comply with the DPF when we share your personal information with third parties working on our behalf under the Onward Transfer Principle (except for failures that are not our responsibility).
-
-[If you have complaints or questions about how we are complying with the DPF’s principles when handling your personal information, please submit your inquiries as explained below.](https://values.snap.com/privacy/privacy-policy) Our compliance with the DPF’s principles is also subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, you have the right to invoke binding arbitration to resolve complaints that are not resolved by other means, as described in [Annex I](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2) of the [DPF Framework](https://www.dataprivacyframework.gov/s/framework-text).
-
-  
-
-### 
-
-Complaints or Questions?
-
-We want you to know that you can submit any inquiries to our [privacy support team](https://help.snapchat.com/?lang=en-GB) or Data Protection Officer at dpo \[at\] snap \[dot\] com. You also have the right to file a complaint with your [supervisory authority](https://edpb.europa.eu/about-edpb/board/members_en) in the EEA, the [Federal Data Protection and Information Commissioner](https://www.edoeb.admin.ch/) in Switzerland, and in the UK you can file a complaint with the [Information Commissioner’s Office](https://ico.org.uk/) (or the [Gibraltar Regulatory Authority](https://www.gra.gi/data-protection) where applicable).
-
-### 
-
-Representative
-
-Snap Inc. has appointed Snap B.V. as its EEA representative. You can contact the representative [here](https://help.snapchat.com/hc/requests/new?start=5749439348080640&lang=en-GB) or at:
-
-Snap B.V.  
-Keizersgracht 165, 1016 DP  
-Amsterdam, The Netherlands
-
 - - -
 
 ### 
@@ -370,6 +301,68 @@ Effective: March 31, 2024
 As a privacy-centric visual communication platform for free expression, Snap is not in the business of or interested in learning the details about your health. However, certain U.S. states have enacted laws that broadly define “consumer health data” to include data that would typically not be considered health data. We’ve created this notice as a supplement to Snap’s [Privacy Policy](https://values.snap.com/privacy/privacy-policy) to address those laws, and this Policy only applies to you if you live in a state with one of these laws (like Washington state, for example). We collect some of this broadly defined consumer health data and we’ll refer to it as “CHD” in this Policy. If you are looking for specific product privacy information — for example, about Chats and Snaps — take a look at our [Privacy by Product](https://values.snap.com/privacy/privacy-by-product) page. 
 
 We provide you control over your information, see the [Control of Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) Section of our Privacy Policy to learn more.
+
+### 
+
+CHD We Collect
+
+_Some of the information that we collect could be considered CHD, like photographs and location. However, we don’t use that information to make inferences about your specific health status._
+
+As described in the [Information We Collect](https://values.snap.com/privacy/privacy-policy) section of the Privacy Policy, we collect personal information directly from you, from your interactions with our Services, and from third parties. The data we collect depends on how you interact with us, the Services you use, and the choices you make. Because CHD is defined in these laws very broadly, many of the categories of data we collect are or could be considered CHD. For example:
+
+*   Photographs, videos, and audio may be considered CHD;
+    
+*   Precise location information, including where it could reveal your attempt to acquire health services or supplies — like if your location on Snap Map shows that you’re at a hospital; and
+    
+*   Information that could identify your attempt to seek health care services or information, like your search history, interaction with our Services and other webpages, certain conversations with My AI, or how you configure your Bitmoji.
+    
+
+### 
+
+How We Use CHD
+
+_We use the information we collect to provide you with Services, and where required, we’ll collect your consent to use information for other purposes._
+
+Since CHD is defined so broadly, we do collect and use CHD for the purposes described in the [How We Use Information](https://values.snap.com/privacy/privacy-policy#how-we-use-information) section of the Privacy Policy. Primarily, we collect and use CHD to operate, deliver, and maintain our Services. This may include personalization, ensuring the secure and reliable operation of the Services, troubleshooting, and other essential business operations that support the provision of the Services (such as analyzing our performance and meeting our legal obligations).
+
+We may use CHD for other purposes for which we give you choices and/or obtain your consent as required by law. See the How to Exercise Your Rights section below for more details on the controls and choices you may have.
+
+### 
+
+How We Share CHD
+
+_We generally share information when you ask us to do so or as necessary to provide the Services. We also, in rare cases, share information for other reasons. This section provides details about who we share information with and the reasons why._
+
+We may share each of the categories of CHD described above for the purposes described in the [How We Share Information](https://values.snap.com/privacy/privacy-policy#how-we-share-information) section of our Privacy Policy. For example, we share your content with third parties when you tell us to do so, such as when you post a Snap to your Story or Spotlight. And we may disclose data when we believe that doing so is necessary to comply with applicable law or respond to valid legal process.
+
+**Recipients and Reasons for Sharing**
+
+As necessary for the purposes described above, we share CHD with the following categories of third parties:
+
+*   **Service providers.** Vendors or agents (“processors”) working on our behalf may access CHD for the purposes described above. We maintain a list of categories of service providers [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB) (although not all of those service providers necessarily process data that could be considered CHD).
+    
+*   **Parties to a corporate transaction.** If we were to sell or negotiate to sell our business to a buyer or possible buyer, we may transfer your personal information, which may include CHD, to a successor or affiliate as part of that transaction.
+    
+*   **With our affiliates.** We may share personal information, which may include CHD, with entities within the [Snap Inc. family of companies](https://help.snapchat.com/hc/articles/7047492876308?lang=en-GB) where necessary to provide our Services.
+    
+*   **Third-Party Apps.** Sometimes we provide features that allow you to connect with third-party apps. If you decide to connect your Snapchat account with a third-party app, we will share any additional information you direct us to.
+    
+*   **Other third parties, like legal, safety, and security partners.** In certain circumstances, it may be necessary to provide CHD to other third parties, for example, to secure our Service, comply with the law or to protect our rights or those of other users. We will also disclose CHD to law enforcement or other government agencies only when we believe doing so is necessary to comply with applicable law or respond to valid legal process.
+    
+*   **Snapchat.** You may use our Services to share certain information with any Snapchat user (whether to all users of the app or selected recipients), such as your pictures, content, or geolocation data, which may be considered CHD.
+    
+
+### 
+
+Your Rights
+
+_Depending on where you live, you may have additional rights._
+
+Depending on the state in which you reside, you may have certain rights with respect to CHD. You can request to exercise such rights using the various tools and mechanisms described in the [Your Rights](https://values.snap.com/privacy/privacy-policy/us-state-privacy-notice#rights) section of the [U.S. State Privacy Notice](https://values.snap.com/privacy/privacy-policy/us-state-privacy-notice). For example, depending on the specific Services you use, you can access and make choices about your data through the self-service tools we offer. You can also obtain a copy of your data, including any CHD, by using [Download My Data](https://help.snapchat.com/hc/articles/7012305371156?lang=en-GB).
+
+If we obtain your consent for a particular processing purpose, you may withdraw your consent at any time. You may also opt out of location sharing at any time though the settings on your mobile device. 
+
+If your request to exercise a right is denied, you may appeal that decision by [contacting us](https://help.snapchat.com/hc/requests/new?lang=en-GB). If your appeal is unsuccessful and you are a Washington State resident, you can raise a concern or lodge a complaint with the [Washington Attorney General](https://www.atg.wa.gov/file-complaint).
 
 - - -
 

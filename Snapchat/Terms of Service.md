@@ -930,6 +930,73 @@ Snap welcomes comments, questions, concerns or suggestions. Please send feedback
 
 _In summary: You can contact us and, we always love to hear from our users. But if you volunteer feedback or suggestions, just know that we can use your ideas without compensating you_.
 
+**14\. Country-specific terms**
+
+If you live in any of the countries listed below when you purchase a Paid Feature, the additional terms listed for that country apply to you. 
+
+United Kingdom, European Union and Norway:
+
+_Cancellation Rights_
+
+**Please note that the way you cancel and your cancellation rights may be different to those set out in this section if you have purchased your Paid Feature through a third-party Purchase Provider (e.g. an app store). In which case, your purchase will be subjected to their terms and conditions of purchase, so please read the cancellation instructions provided to you by your Purchase Provider carefully to ensure you understand how and when you may cancel.**
+
+If you are a consumer resident in the United Kingdom, the European Union or Norway, for most Paid Features you have a legal right to change your mind and cancel the contract for your purchase within 14 days from the date of your purchase (the "Cancellation Period"). For example, if you make a purchase on the 1st day of the month, the Cancellation Period ends at the end of the 15th day of the month. Please note that this legal right to cancel does not apply to all Paid Features. More details on the limitations and exclusions that apply can be found later on in this section.
+
+To exercise your right to cancel, you must inform us of your decision by a clear statement, such as by email, post or through our online support page (see Section 14 for our contact details). You may use the cancellation form available below, but the easiest way to cancel is to follow the cancellation instructions provided in Snapchat.
+
+You do not have the right to change your mind and cancel the contract if: (i) you consented for us to start providing digital content during the Cancellation Period, and we do start providing the digital content during this period; or (ii) you requested for us to start providing digital services during the Cancellation Period and the digital services are fully completed during this period. 
+
+Your legal right to cancel applies to Paid Features as follows:
+
+*   Paid Subscription: Snapchat+ and other Paid Subscriptions are digital services. You can cancel a Paid Subscription during the Cancellation Period. If you do so, you will receive a partial refund of the price you have paid for the subscription, which will be prorated based on how many days of use you have enjoyed during the relevant subscription period. For example, if you cancel seven days into a monthly subscription, we would refund you the monthly subscription fee you have paid less a sum equivalent to seven days' usage. If you live in the UK: (i) if you have an initial free trial or discounted period, a new Cancellation Period will apply when the subscription converts into a full-price Paid Subscription; and (ii) if you have an annual Paid Subscription, a new Cancellation Period will apply to any automatic annual renewals. In each case, the new Cancellation Period would begin on the day the full price subscription or renewal starts and would end 14 days later (e.g. if the start date is January 1, the end date is January 15).
+    
+*   Snapstreak Restores and similar digital services: A Snapstreak Restore is a service. It cannot be cancelled because the service (the reinstatement of your Snapstreak) is completed immediately following purchase. The same applies to other digital services that are fully completed immediately after purchase.
+    
+*   Digital content: Digital content purchases cannot be cancelled. When you purchase digital content, you are consenting for us to start providing the digital content immediately.
+    
+
+If you are entitled to a refund, we will pay the refund to you within 14 days of receiving notice of your cancellation using the same means of payment as you used for the initial transaction. 
+
+_Cancellation Form_
+
+To Snap Group Limited,
+
+Address: Snap Group Limited 50 Cowcross Street, Floor 2, London, EC1M 6AL, United Kingdom or Contact us: [here](https://help.snapchat.com/hc/requests/new?lang=en-GB).
+
+I/We \[\*\] hereby give notice that I/We \[\*\] cancel my/our \[\*\] contract of sale of the following goods \[\*\]/for the supply of the following service \[\*\],
+
+Ordered on \[\*\]/received on \[\*\],
+
+Name of consumer(s),
+
+Address of consumer(s),
+
+Signature of consumer(s) (only if this form is notified on paper),
+
+Date
+
+\[\*\] Delete as appropriate
+
+Belgium (in addition to those set out under "United Kingdom, European Union and Norway" above):
+
+Where the Snap Paid Features Terms refer to Snap's right to immediately suspend, discontinue or terminate your access to a Paid Feature, without prior notice or liability to you, this will constitute a unilateral termination of our agreement with you without prior intervention of a court or tribunal.
+
+France (in addition to those set out under "United Kingdom, European Union and Norway" above):
+
+Pursuant to the Code de la Consommation, you are entitled to consumer mediation to resolve disputes between us. You may choose any of the mediators listed at [http://www.economie.gouv.fr/mediation-conso/saisir-mediateur](http://www.economie.gouv.fr/mediation-conso/saisir-mediateur) under "Commerce électronique - Vente à distance". Their contact details are available at the individual mediator websites listed there.
+
+Germany (in addition to those set out under "United Kingdom, European Union and Norway" above):
+
+Nothing in these Paid Features Terms will affect your legal rights and remedies provided to you under mandatory German law, in particular the German law provisions on digital products and digital services pursuant to Sections 327 pp. German Civil Code (BGB) and the provision on general terms and conditions pursuant to Section 305 pp. German Civil Code (BGB) (each as amended or superseded from time to time). 
+
+The Netherlands (in addition to those set out under "United Kingdom, European Union and Norway" above):
+
+Nothing in these Snap Paid Features Terms will affect the legal rights and remedies that you have and/or are available to you under mandatory Dutch law, including, without limitation, provisions regarding digital content and digital services pursuant to articles 7:50aa - 50 ap DCC and general terms and conditions pursuant to articles 6:231-247 DCC.
+
+United Kingdom (in addition to those set out under "United Kingdom, European Union and Norway" above):
+
+Nothing in this section or these Snap Paid Features Terms affects your legal rights in relation to any Paid Features that do not meet the requirements of the contract or breach UK consumer laws such as the Consumer Rights Act 2015. This would be the case, for example, where they are defective or misdescribed. We are under a legal duty to provide Paid Features that conform with the contract. If you believe there is something wrong with any Paid Features you have purchased, please contact us using the contact details in Section 13. For detailed information about your consumer rights, please visit the Citizens Advice website at www.adviceguide.org.uk or call 0808 223 1133.
+
 Company
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
@@ -1103,49 +1170,6 @@ PUBLIC CONTENT DISPLAY TERMS
 
 --------------------------------
 
-In these Public Content Display Terms, “Snap”, “we” and “us” means either Snap Inc. (if you live in the United States or if you are using the Services on behalf of a business located in the United States) or Snap Group Limited (if you live or are using the Services on behalf of a business located elsewhere). By embedding Snap’s audiovisual player or other product(s) that we make available to you (the “**Embed**”), you agree to these Public Content Display Terms, which incorporate by reference our [Terms of Service](https://www.snap.com/terms), [Privacy Policy](https://www.snap.com/privacy/privacy-policy), [Community Guidelines](https://www.snap.com/community-guidelines) and [Advertising Policies](https://www.snap.com/ad-policies) (collectively, and together with these Public Content Display Terms, the “**Terms**”). The Embed is one of our Services, as that term is defined in our Terms of Service and used throughout the Terms. Please read the Terms carefully. We may update or change the Terms at any time without notice, so please also read them regularly. By continuing to use the Service, you accept any updates to the Terms. To the extent these Public Content Display Terms conflict with other terms governing the Service, these Public Content Display Terms will apply.
-
-**TERMS OF SERVICE REMINDER AND ARBITRATION NOTICE**: AS A REMINDER TO OUR USERS THAT LIVE IN THE UNITED STATES AND BUSINESSES LOCATED IN THE UNITED STATES, OUR TERMS OF SERVICE – WHICH INCLUDE THE FOLLOWING SECTIONS: INDEMNITY; DISCLAIMERS; LIMITATION OF LIABILITY; AND ARBITRATION, CLASS-ACTION AND JURY WAIVER – APPLY TO AND ARE INCORPORATED INTO THESE PUBLIC CONTENT DISPLAY TERMS. THIS MEANS THAT, AMONG OTHER THINGS, EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN OUR TERMS OF SERVICE, YOU AND SNAP AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU AND SNAP WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
-
-1\. Licence
-
-Snap grants you a personal, worldwide, non-exclusive, royalty-free, non-transferable, non-sublicensable, revocable licence to (a) use the Embed on a website or mobile application in order to distribute Public Content (which is defined in our Terms of Service) and (b) display the Snapchat name and logo, solely to attribute the Snapchat application as the source of the Embed.
-
-All rights not expressly granted to you in this section are reserved by Snap. Nothing in these Terms grants you an implied licence of any kind.
-
-2\. General Terms
-
-By using the Embed, you will be able to display Public Content outside the Snapchat application. Whilst we provide this feature so that members of our community (including you) can share Public Content to a broader audience, you must comply with the following while using it:
-
-*   Always use the Embed and display Public Content in compliance with any branding or attribution requirements that we provide, including the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines).
-    
-*   As a reminder, your use of the Embed is still a use of Snapchat and must comply with our [Community Guidelines](https://www.snap.com/community-guidelines).
-    
-*   The licence we’ve granted you in these Public Content Display Terms does not include a licence to the third-party intellectual property or other proprietary rights that may be included in Public Content. You agree to obtain all necessary rights, permissions and licences before you use and distribute the Public Content on a website or mobile application using the Embed.
-    
-*   Always comply with any requirements or restrictions imposed on the use of Public Content by us or any other owner of the Public Content.
-    
-*   Promptly remove any Public Content and the related Embed that we – or the owner of the Public Content, if that isn’t us – ask you to remove.
-    
-*   Don’t use Public Content in any advertisement or advertising product without the explicit permission from the owner of the Public Content.
-    
-*   Don’t use the Embed or Public Content to imply sponsorship by, endorsement from or a false association with Snap, any of its users or third-party content providers.
-    
-*   Don’t collect data related to the Embed or Public Content or the Snapchat application in a manner which violates the Terms.
-    
-*   Always use the Embed and display Public Content in compliance with all applicable laws, rules and regulations.
-    
-*   Don’t use the Embed or Public Content on a website or mobile application with terms that conflict with the Terms.
-    
-*   Don’t use the Embed or Public Content in a way that indicates it is from a social platform or medium other than the Snapchat application.
-    
-*   Don’t use the Embed or Public Content to replicate or compete with the Snapchat application.
-    
-
-3\. Content appropriateness
-
-In addition to the disclaimers included in any of our other Terms, by displaying Public Content on a website or mobile application, you understand that Public Content is created by our users and may not be appropriate for all audiences or ages. As such, you agree that Snap is not liable for any claims based on or arising from Public Content.
-
 Company
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
@@ -1190,160 +1214,6 @@ Legal
 If you live in the United States, you are agreeing to the [Community Geofilter Terms and Conditions](https://www.snap.com/terms/create-geofilter#terms-and-conditions) with Snap Inc.
 
 If you live outside the United States, you are agreeing to the [Community Geofilter Terms and Conditions](https://www.snap.com/terms/create-geofilter#terms-and-conditions-limited) with Snap Group Limited.
-
-Snap Inc. Community Geofilter Terms and Conditions
-
-
-------------------------------------------------------
-
-Effective: 10 January 2017
-
-PLEASE NOTE:  THESE TERMS INCLUDE AN [ARBITRATION CLAUSE](https://www.snap.com/terms/create-geofilter#arbitration-clause) A LITTLE LATER ON. EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THAT ARBITRATION CLAUSE, YOU AND SNAP INC. AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
-
-Introduction
-
-Please read these Community Geofilter Terms and Conditions (“Terms”) carefully. If you live in the United States, these Terms govern your submission of an image file (the “Asset”) to Snap Inc. for use as a Community Geofilter (a “Geofilter”). These Terms form a legally binding contract between you and Snap Inc. By submitting the Asset, you’re agreeing to be bound by these Terms. If you don’t agree with these Terms, then don’t submit an Asset.
-
-These Terms incorporate by reference our [Terms of Service](https://www.snap.com/terms), [Community Guidelines](https://support.snapchat.com/a/guidelines?lang=en-GB), [Privacy Policy](https://www.snapchat.com/privacy?lang=en-GB), and [Submission Guidelines](https://support.snapchat.com/a/geofilter-guidelines?lang=en-GB), so please read each of them carefully. Among other things, this means that your submission of an Asset is subject to the disclaimers and limitations of liability in the [Terms of Service](https://www.snap.com/terms), and that the information we collect from you during your submission is subject to our [Privacy Policy](https://www.snapchat.com/privacy?lang=en-GB). To the extent these Terms conflict with the [Terms of Service](https://www.snap.com/terms), [Community Guidelines](https://support.snapchat.com/a/guidelines?lang=en-GB), [Privacy Policy](https://www.snapchat.com/privacy?lang=en-GB), or [Submission Guidelines](https://support.snapchat.com/a/geofilter-guidelines?lang=en-GB), these Terms will govern.
-
-You affirm that you are at least 18 years old (or the age of majority where you live) and are competent and authorised to agree to and abide by these Terms. If you want to submit an Asset and are under the age of majority, you must have your parents’ express permission.
-
-When you submit an Asset, you’re asking Snap Inc. to let users of the Snapchat application put the Asset on their Snaps in a particular place (a “Geofence”). The Asset must comply with our [Community Guidelines](https://support.snapchat.com/a/guidelines?lang=en-GB) and follow our [Submission Guidelines](https://support.snapchat.com/a/geofilter-guidelines?lang=en-GB).
-
-You acknowledge and agree that Snap Inc. has the unrestricted right to determine, in its sole discretion, whether an Asset will be made available as a Geofilter, and if so, when. We may adjust the Geofence at our sole discretion.
-
-1\. Your Licence to Us
-
-You grant to Snap Inc. and our affiliates an exclusive, perpetual, unrestricted, unconditional, unlimited, transferable, sublicensable, irrevocable, royalty-free, worldwide license to archive, copy, cache, encode, store, reproduce, record, sell, sublicense, distribute, transmit, broadcast, synchronize, adapt, edit, modify, publicly display, publicly perform, publish, republish, promote, exhibit, create derivative works based upon, and otherwise use the Asset in connection with the Services (as defined in the [Terms of Service](https://www.snap.com/terms)) and the advertising, marketing, and promotion thereof, in all formats, on or through any means or media now known or hereafter developed, and with any technology or devices now known or hereafter developed. This licence includes the right for Snap Inc. and its affiliates to make the Asset available to Snapchat users, for sharing among Snapchat users and for saving to their devices.
-
-You acknowledge and agree that Snapchat users may be able to save, share, and view Snaps that incorporate the Geofilter during and beyond the Geofilter’s run time. You acknowledge that Snapchat users may use the Asset for purposes or in ways other than you anticipated. You agree that such uses constitute user-generated content for which Snap Inc. bears no responsibility. You agree that Snap Inc. is not liable for any claims or losses based on or arising from any user-generated content, including but not limited to user content that makes use of the Asset, whether within the Services or beyond.
-
-You agree that neither Snap Inc. nor its affiliates are under any obligation to pay you or any third party any consideration or compensation for the Asset or any use of the Asset. To the extent permissible by law, you irrevocably waive—or agree not to assert against Snap Inc. and its affiliates to the extent a waiver is not permitted—any moral rights or equivalent rights you may have in the Asset throughout the world. You agree that Snap Inc. may at its discretion resize, set the transparency of and make other alterations to the Asset.
-
-If Snap Inc. does make the Asset available on the Services, you acknowledge and agree that Snap Inc. has the right (but no obligation) to publicly attribute the Asset to you, including by posting your name, city, state and country, as submitted by you or as tied to your Snapchat account.
-
-2\. Communications from us
-
-When you submit an Asset, we’ll email a submission confirmation to the email address tied to your Snapchat account. That submission confirmation does not mean we’ve approved your submission. We reserve the right to accept or decline your submission for any reason and at any time, including after the Geofilter has started to run. We may require additional verification or information before accepting any submission.
-
-We may send you other emails about your submission or the Geofilter, including about status, changes, updates, or cancellations to the Geofilter. We may also send you emails about your experience with the Geofilter, or other communications regarding your submission. By submitting an Asset you consent to receive from Snap Inc. and our affiliates the email communications described in these Terms.
-
-You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
-
-3\. Delivery of the Geofilter
-
-If the Geofilter is made available on the Services, we will try to deliver it to Snapchat users who are located within the Geofence. We do not guarantee perfect delivery, and we do not guarantee that any Snapchat users will choose to use the Geofilter. Some Snapchat users within the Geofence may not see the Geofilter, and some outside the Geofence may see the Geofilter. Accuracy of delivery depends in part on the strength of a Snapchat user’s GPS or Wi-Fi signal. Snapchat users with Location Services or Filters disabled will not see Geofilters.
-
-We may, in our sole discretion, choose to share information with you about use of the Geofilter. Unless we grant you express permission in writing, you may not use that information for commercial purposes.
-
-4\. Promotions
-
-If you use the Geofilter or any part of the Services as part of a sweepstakes, contest, offer, or other promotion (each, a “Promotion”), you are solely responsible for complying with all laws that apply to your Promotion wherever it is offered, as well as with our [Promotions Rules](https://support.snapchat.com/a/promotions-rules?lang=en-GB). Unless we expressly agree otherwise in writing, Snap Inc. will not be a sponsor or an administrator of your Promotion.
-
-5\. Your representations and warranties
-
-You represent and warrant that (a) the Asset is original to you and does not include any third party’s name, logo, trademark, service mark, image, or likeness, and you have all rights to license the asset to Snap Inc. and our affiliates; (b) the Asset does not violate these Terms, our [Community Guidelines](https://support.snapchat.com/a/guidelines?lang=en-GB), or our [Submission Guidelines](https://support.snapchat.com/a/geofilter-guidelines?lang=en-GB); (c) the Asset does not, and its use in connection with the Services will not, violate, misappropriate, or infringe any patent, copyright, trademark, privacy, or publicity rights, or any other rights of any person or entity; (d) you have not assigned, licensed, or otherwise encumbered the Asset to any other person or entity; (e) the Asset complies with laws and is suitable for audiences ages 13 and up; (f) the Asset does not, and will not, defame, bully, cause injury or harm to, or inflict emotional distress on, any third party; and (g) any and all information you have provided to Snap Inc. in connection with the Asset and your submission is accurate and correct. In the event Snap Inc. approves and uses the Asset, such approval will not diminish or waive your representations and warranties contained in these Terms.
-
-You further represent and warrant (a) that you are not included on any of the restricted party lists maintained by the U.S. Government, including the Specially Designated Nationals List and Foreign Sanctions Evaders List administered by the U.S. Department of Treasury’s Office of Foreign Asset Control (“OFAC”) and the Denied Parties List, Unverified List, and Entity List maintained by the U.S. Department of Commerce’s Bureau of Industry and Security; and (b) that you are not resident or located in any country with which trade is prohibited by OFAC or other applicable sanctions.
-
-6\. Your indemnification to us
-
-You agree, to the extent permitted by law, to indemnify, defend, and hold harmless Snap Inc., our affiliates, directors, officers, stockholders, employees, licensors, and agents from and against any and all complaints, charges, claims, damages, losses, costs, liabilities, and expenses (including attorneys’ fees) due to, arising out of, or relating in any way to (a) our use of the Asset in connection with the Services; (b) your use of the Services and your activities in connection with the Services; (c) your violation or alleged violation of any laws in connection with your use of the Services or your activities in connection with the Services; (d) any claim that the Asset infringes, violates, or misappropriates any copyright, trademark, trade secret, design right, trade dress, patent, publicity, privacy, or other right of any person or entity; (e) any fraud or misrepresentation by you; or (f) any violation or alleged violation of these Terms by you, including any actual or alleged breach of your representations, warranties, and obligations.
-
-7\. Your work as an independent contractor
-
-You acknowledge that all work you perform in relation to the Asset will be done as an independent contractor. Nothing in these Terms will be construed to imply a joint venture, principal-agent or employment relationship between you and Snap Inc.
-
-8\. Governing law and disputes between you and Snap Inc.
-
-These Terms are governed by the Choice of Law provision of our [Terms of Service](https://www.snap.com/terms).
-
-ARBITRATION NOTIFICATION: YOU AND SNAP INC. AGREE THAT CLAIMS AND DISPUTES (WHETHER CONTRACT, TORT OR OTHERWISE), INCLUDING STATUTORY CLAIMS AND DISPUTES, ARISING OUT OF OR RELATING TO THESE TERMS OR THE SERVICES, WILL BE RESOLVED BY BINDING ARBITRATION ON AN INDIVIDUAL BASIS AND YOU AGREE TO WAIVE ANY RIGHT TO BRING OR OTHERWISE PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
-
-For additional details about this arbitration agreement, please refer to the [Arbitration Clause](https://www.snap.com/terms#arbitration) in our [Terms of Service](https://www.snap.com/terms), which REQUIRES YOU AND SNAP INC. TO AGREE TO RESOLVE ALL DISPUTES BETWEEN US THROUGH BINDING INDIVIDUAL ARBITRATION, and which will apply to any submission.
-
-9\. Changes to these Terms
-
-From time to time, we may revise these Terms. You can determine when these Terms were last revised by referring to the “Effective” date at the top. Any changes to these Terms will become effective when we post the updated Terms on our website, and will apply to any Assets you submit after that. By submitting an Asset after these Terms have been updated you will be deemed to have agreed to the updated Terms. If at any time you don’t agree to any portion of these Terms, don’t submit an Asset.
-
-10\. Final Terms
-
-These Terms do not create or confer any third-party beneficiary rights. If we do not enforce a provision in these Terms, it will not be considered a waiver. We reserve all rights not expressly granted to you. If any provision of these Terms is for any reason deemed invalid, unlawful, void or unenforceable by a court or arbitrator of competent jurisdiction, that provision will be deemed severable from these Terms, and the invalidity of the provision will not affect the validity or enforceability of the remainder of these Terms (which will remain in full force and effect). To the extent permitted by law, you waive any applicable statutory or common-law right that may permit a contract to be construed against its drafter. Snap Inc. may assign its rights and obligations under these Terms, in whole or in part, to any party at any time without any notice. These Terms may not be assigned by you, and you may not delegate your duties under them, without the prior written consent of Snap Inc.
-
-Snap Group Limited Community Geofilter Terms and Conditions
-
-
----------------------------------------------------------------
-
-Effective: 10 January 2017
-
-Introduction
-
-Please read these Community Geofilter Terms and Conditions (“Terms”) carefully. If you live outside the United States, these Terms govern your submission of an image file (the “Asset”) to Snap Group Limited for use as a Community Geofilter (a “Geofilter”). These Terms form a legally binding contract between you and Snap Group Limited; by submitting the Asset, you’re agreeing to be bound by these Terms. If you don’t agree with these Terms, then don’t submit an Asset.
-
-These Terms incorporate by reference our [Terms of Service](https://www.snap.com/terms), [Community Guidelines](https://support.snapchat.com/a/guidelines?lang=en-GB), [Privacy Policy](https://www.snapchat.com/privacy?lang=en-GB), and [Submission Guidelines](https://support.snapchat.com/a/geofilter-guidelines?lang=en-GB), so please read each of them carefully. Among other things, this means that your submission of an Asset is subject to the disclaimers and limitations of liability in the [Terms of Service](https://www.snap.com/terms), and that the information we collect from you during your submission is subject to our [Privacy Policy](https://www.snapchat.com/privacy?lang=en-GB). To the extent these Terms conflict with the [Terms of Service](https://www.snap.com/terms), [Community Guidelines](https://support.snapchat.com/a/guidelines?lang=en-GB), [Privacy Policy](https://www.snapchat.com/privacy?lang=en-GB), or [Submission Guidelines](https://support.snapchat.com/a/geofilter-guidelines?lang=en-GB), these Terms will govern.
-
-You affirm that you are at least 18 years old (or the age of majority where you live) and are competent and authorised to agree to and abide by these Terms. If you want to submit an Asset and are under the age of majority, you must have your parents’ express permission.
-
-When you submit an Asset, you’re asking Snap Group Limited to let users of the Snapchat application put the Asset on their Snaps in a particular place (a “Geofence”). The Asset must comply with our [Community Guidelines](https://support.snapchat.com/a/guidelines?lang=en-GB) and follow our [Submission Guidelines](https://support.snapchat.com/a/geofilter-guidelines?lang=en-GB).
-
-You acknowledge and agree that Snap Group Limited has the unrestricted right to determine, in its sole discretion, whether an Asset will be made available as a Geofilter, and if so, when. We may adjust the Geofence at our sole discretion.
-
-1\. Your Licence to Us
-
-You grant to Snap Group Limited, Snap Inc., and their affiliates an exclusive, unrestricted, unconditional, unlimited, transferable, sublicensable, irrevocable, royalty-free, worldwide licence to communicate to the public, archive, copy, cache, encode, store, reproduce, record, sell, sublicense, distribute, transmit, broadcast, synchronize, adapt, edit, modify, publicly display, publicly perform, publish, republish, promote, exhibit, create derivative works based upon, and otherwise use the Asset in connection with the Services (as defined in the [Terms of Service](https://www.snap.com/terms)) and the advertising, marketing, and promotion thereof, in all formats, on or through any means or media now known or hereafter developed, and with any technology or devices now known or hereafter developed. This licence includes the right for Snap Group Limited, Snap Inc. and their affiliates to make the Asset available to Snapchat users, for sharing among Snapchat users and for saving to their devices.
-
-You acknowledge and agree that Snapchat users may be able to save, share, and view Snaps that incorporate the Geofilter during and beyond the Geofilter’s run time. You acknowledge that Snapchat users may use the Asset for purposes or in ways other than you anticipated. You agree that such uses constitute user-generated content for which neither Snap Group Limited nor Snap Inc. bears any responsibility. You agree that neither Snap Group Limited nor Snap Inc. is liable for any claims or losses based on or arising from any user-generated content, including but not limited to user content that makes use of the Asset, whether within the Services or beyond.
-
-You agree that neither Snap Group Limited, Snap Inc., nor their affiliates are under any obligation to pay you or any third party any consideration or compensation for the Asset or any use of the Asset. To the extent permissible by law, you irrevocably waive—or agree not to assert against Snap Group Limited, Snap Inc., and its affiliates to the extent a waiver is not permitted—any moral rights or equivalent rights you may have in the Asset throughout the world. You agree that Snap Group Limited may at its discretion resize, set the transparency of and make other alterations to the Asset.
-
-If Snap Group Limited does make the Asset available on the Services, you acknowledge and agree that Snap Group Limited has the right (but no obligation) to publicly attribute the Asset to you, including by posting your name, city, state and country, as submitted by you or as tied to your Snapchat account.
-
-2\. Communications from us
-
-When you submit an Asset, we’ll email a submission confirmation to the email address tied to your Snapchat account. That submission confirmation does not mean we’ve approved your submission. We reserve the right to accept or decline your submission for any reason and at any time, including after the Geofilter has started to run. We may require additional verification or information before accepting any submission.
-
-We may send you other emails about your submission or the Geofilter, including about status, changes, updates, or cancellations to the Geofilter. We may also send you emails about your experience with the Geofilter, or other communications regarding your submission. By submitting an Asset you consent to receive from Snap Group Limited, Snap Inc. and our affiliates the email communications described in these Terms.
-
-You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
-
-3\. Delivery of the Geofilter
-
-If the Geofilter is made available on the Services, we will try to deliver it to Snapchat users who are located within the Geofence. We do not guarantee perfect delivery, and we do not guarantee that any Snapchat users will choose to use the Geofilter. Some Snapchat users within the Geofence may not see the Geofilter, and some outside the Geofence may see the Geofilter. Accuracy of delivery depends in part on the strength of a Snapchat user’s GPS or Wi-Fi signal. Snapchat users with Location Services or Filters disabled will not see Geofilters.
-
-We may, in our sole discretion, choose to share information with you about the use of the Geofilter you submitted. Unless we grant you express permission in writing, you may not use that information for commercial purposes.
-
-4\. Promotions
-
-If you use the Geofilter or any part of the Services as part of a sweepstakes, contest, offer, or other promotion (each, a “Promotion”), you are solely responsible for complying with all laws that apply to your Promotion wherever it is offered, as well as with our [Promotions Rules](https://support.snapchat.com/a/promotions-rules?lang=en-GB). Unless we expressly agree otherwise in writing, Snap Group Limited will not be a sponsor or an administrator of your Promotion.
-
-  
-
-5\. Your representations and warranties
-
-You represent and warrant that (a) the Asset is original to you and does not include any third party’s name, logo, trademark, service mark, image, or likeness, and you have all rights to license the asset to Snap Group Limited, Snap Inc., and their affiliates; (b) the Asset does not violate these Terms, our [Community Guidelines](https://support.snapchat.com/a/guidelines?lang=en-GB) or our [Submission Guidelines](https://support.snapchat.com/a/geofilter-guidelines?lang=en-GB); (c) the Asset does not, and its use in connection with the Services will not, violate, misappropriate or infringe any patent, copyright, trademark, privacy, or publicity rights, or any other rights of any person or entity; (d) you have not assigned, licensed, or otherwise encumbered the Asset to any other person or entity; (e) the Asset complies with laws and is suitable for audiences ages 13 and up; (f) the Asset does not, and will not, defame, bully, cause injury or harm to, or inflict emotional distress on, any third party; and (g) any and all information you have provided to Snap Group Limited in connection with the Asset and your submission is accurate and correct. In the event Snap Group Limited approves and uses the Asset, such approval will not diminish or waive your representations and warranties contained in these Terms.
-
-You further represent and warrant (a) that you are not included on any of the restricted party lists maintained by the U.S. Government, including the Specially Designated Nationals List and Foreign Sanctions Evaders List administered by the U.S. Department of Treasury’s Office of Foreign Asset Control (“OFAC”) and the Denied Parties List, Unverified List, and Entity List maintained by the U.S. Department of Commerce’s Bureau of Industry and Security; and (b) that you are not resident or located in any country with which trade is prohibited by OFAC or other applicable sanctions.
-
-6\. Your indemnification to us
-
-You agree, to the extent permitted by law, to indemnify, defend, and hold harmless Snap Group Limited, Snap Inc., and our affiliates, directors, officers, stockholders, employees, licensors, and agents from and against any and all complaints, charges, claims, damages, losses, costs, liabilities, and expenses (including attorneys’ fees) due to, arising out of, or relating in any way to (a) our use of the Asset in connection with the Services; (b) your use of the Services and your activities in connection with the Services; (c) your violation or alleged violation of any laws in connection with your use of the Services or your activities in connection with the Services; (d) any claim that the Asset infringes, violates, or misappropriates any copyright, trademark, trade secret, design right, trade dress, patent, publicity, privacy, or other right of any person or entity; (e) any fraud or misrepresentation by you; or (f) any violation or alleged violation of these Terms by you, including any actual or alleged breach of your representations, warranties, and obligations.
-
-7\. Your work as an independent contractor
-
-You acknowledge that all work you perform in relation to the Asset will be done as an independent contractor. Nothing in these Terms will be construed to imply a joint venture, principal-agent or employment relationship between you and Snap Group Limited.
-
-8\. Governing Law and Disputes Between You and Snap Group Limited
-
-These Terms are governed by the Choice of Law provision of our [Terms of Service](https://www.snap.com/terms) and by the Dispute Resolution provision of our [Terms of Service](https://www.snap.com/terms).
-
-9\. Changes to these Terms
-
-From time to time, we may revise these Terms. You can determine when these Terms were last revised by referring to the “Effective” date at the top. Any changes to these Terms will become effective when we post the updated Terms on our website, and will apply to any Assets you submit after that. By submitting an Asset after these Terms have been updated you will be deemed to have agreed to the updated Terms. If at any time you don’t agree to any portion of these Terms, don’t submit an Asset.
-
-10\. Final Terms
-
-These Terms do not create or confer any third-party beneficiary rights. If we do not enforce a provision in these Terms, it will not be considered a waiver. We reserve all rights not expressly granted to you. If any provision of these Terms is for any reason deemed invalid, unlawful, void or unenforceable by a court or arbitrator of competent jurisdiction, that provision will be deemed severable from these Terms, and the invalidity of the provision will not affect the validity or enforceability of the remainder of these Terms (which will remain in full force and effect). To the extent permitted by law, you waive any applicable statutory or common-law right that may permit a contract to be construed against its drafter. Snap Group Limited may assign its rights and obligations under these Terms, in whole or in part, to any party at any time without any notice. These Terms may not be assigned by you, and you may not delegate your duties under them, without the prior written consent of Snap Group Limited.
 
 Company
 

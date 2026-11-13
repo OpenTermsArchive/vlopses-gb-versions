@@ -2071,8 +2071,6 @@ Information categories that we use (see "[What Information do we collect?](https
 
 [Information from partners, vendors and third parties](https://privacycenter.instagram.com/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
 
-        
-
 Accept cookies from Instagram on this browser?
 
 We use cookies to help personalize and improve content and services, serve relevant ads and provide a safer experience. You can review your cookie controls at any time. Learn more about cookie uses and controls in our [Cookie Policy](https://help.instagram.com/1896641480634370/).

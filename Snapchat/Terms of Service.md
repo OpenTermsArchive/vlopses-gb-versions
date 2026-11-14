@@ -718,44 +718,44 @@ If you live in the Asia-Pacific region or if your principal place of business is
 
 Otherwise, the company responsible for the Services outside the United States and the Asia-Pacific region is Snap Group Limited and is located in the United Kingdom at 50 Cowcross Street, Level 2, London, EC1M 6AL, United Kingdom. Registered company number: 09763672. VAT ID: GB 237218316.
 
-Company
+Şirket
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Kariyer](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Haberler](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Gizlilik ve Güvenlik](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-Community
+Topluluk
 
-*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Snapchat Destek](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Spectacles Destek](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Topluluk İlkeleri](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-Advertising
+Reklam
 
-*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Snapchat Reklamları](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Reklam Politikası](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Politik Reklamlar Kütüphanesi](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Marka Kuralları](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Promosyon Kuralları](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-Legal
+Yasal
 
-*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Law enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Cookie Settings](https://www.snap.com/cookie-settings)
-*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Diğer Şartlar ve Politikalar](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Yasaların Uygulanması](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Çerez Politikası](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Çerez Ayarları](https://www.snap.com/cookie-settings)
+*   [Hak İhlali Bildir](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
 *   [](https://www.snap.com/)
 *   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 *   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Gizlilik Politikası](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Kullanım Şartları](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
 
-*   Language
+*   Dil
     
-    English (UK)
+    Türkçe
 
 - - -
 
@@ -774,7 +774,7 @@ We have provided summary sections at the end of most clauses. These summaries ha
 
 **1\. Introduction**
 
-a. Please read these Paid Features Terms ("Paid Features Terms") carefully. These Paid Features Terms form a legally binding contract between you and the entity listed below, and govern your purchase and use of any paid digital content or digital services on the Services such as Snapchat+, Snapstreak Restore, Additional Lens Submissions, and Lenses for use on SPECS (“SPECS Lenses”) (collectively, “Paid Features”). For SPECS Lenses, references to "Snap," "we," "us," and "our," and to the Snap entity that provides the Paid Features, mean Specs LLC. For all other Paid Features, the Snap entity that will provide the Paid Features to you corresponds to where you live as follows:
+a. Please read these Paid Features Terms (“Paid Features Terms”) carefully. These Paid Features Terms form a legally binding contract between you and the entity listed below, and govern your purchase and use of any paid digital content or digital services on the Services such as Snapchat+, Snapstreak Restore, Additional Lens Submissions, and Lenses for use on SPECS (“SPECS Lenses”) (collectively, “Paid Features”). For SPECS Lenses, references to “Snap,” “we,” “us,” and “our,” and to the Snap entity that provides the Paid Features, mean Specs LLC. For all other Paid Features, the Snap entity that will provide the Paid Features to you corresponds to where you live as follows:
 
 *   If you live in the United States, the Paid Features are provided by Snap Inc.
     
@@ -785,7 +785,7 @@ a. Please read these Paid Features Terms ("Paid Features Terms") carefully. Thes
 
 b. Your billing statement may reflect that your purchase of, and payment for, a Paid Feature is processed and received by an affiliate of the Snap entity set out above. However, the Services (including the Paid Features) are still provided and fulfilled by the Snap entity corresponding to where you live. You should address any related questions or issues relating to the Services, the Paid Features or these Paid Features Terms to that Snap entity identified above instead. 
 
-c. These Paid Features Terms incorporate by reference the [Snap Terms of Service](https://www.snap.com/terms), [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US) and any other applicable terms, guidelines and policies. To the extent these Paid Features Terms conflict with any of the other terms, these Paid Features Terms will govern. Paid Features are part of Snap's "Services" as defined in the [Snap Terms of Service](https://www.snap.com/terms). 
+c. These Paid Features Terms incorporate by reference the [Snap Terms of Service](https://www.snap.com/terms), [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US) and any other applicable terms, guidelines and policies. To the extent these Paid Features Terms conflict with any of the other terms, these Paid Features Terms will govern. Paid Features are part of Snap's “Services” as defined in the [Snap Terms of Service](https://www.snap.com/terms). 
 
 d. A valid debit/credit card is required to make a purchase. Paid Features have no monetary value and do not constitute property of any type.
 
@@ -797,7 +797,7 @@ _In summary: These terms are a contract between you and Snap (or Specs LLC, for 
 
 a. To purchase a Paid Feature, you must be a registered user and logged in to Snapchat or your SPECS account. You accept responsibility for all purchases of Paid Features and use of any Paid Features that occur under your Snapchat or SPECS account, including payment for any unauthorised amounts billed to your payment method by a third party.
 
-b. We may make Paid Features available for purchase directly from us or via an app-store provider or another third-party purchasing platform ("Purchase Provider"). The price of the Paid Feature will be displayed to you at the point of sale and you will always see the final purchase price before you click to submit your order. If you use a Purchase Provider to purchase Paid Features, you will be redirected to the Purchase Provider's payment service to enter your payment details and complete your purchase. If you have any issues with completing your order or making your payment through a Purchase Provider, please contact your Purchase Provider directly.
+b. We may make Paid Features available for purchase directly from us or via an app-store provider or another third-party purchasing platform (“Purchase Provider”). The price of the Paid Feature will be displayed to you at the point of sale and you will always see the final purchase price before you click to submit your order. If you use a Purchase Provider to purchase Paid Features, you will be redirected to the Purchase Provider's payment service to enter your payment details and complete your purchase. If you have any issues with completing your order or making your payment through a Purchase Provider, please contact your Purchase Provider directly.
 
 c. When you submit your order to purchase a Paid Feature, we or the relevant Purchase Provider will provide an electronic notification confirming the transaction, at which point, these Paid Features Terms will come into force between you and Snap. Paid Features will not be made available to you until payment has been received in full, and failure to pay for the full purchase price will result in cancellation, termination or suspension of your access to a Paid Feature. Snap reserves the right to refuse or cancel orders at any time and for any reason. You agree that, if we cancel your purchase, your sole and exclusive remedy is either that we or the relevant Purchase Provider: (i) will issue a credit to the payment method used for that Paid Feature purchase; or (ii) won't charge you for the purchase. 
 
@@ -811,11 +811,11 @@ _In summary: To purchase a Paid Feature, you need a Snapchat or SPECS account. Y
 
 **3\. Snapchat+ and other Paid Subscriptions**
 
-a. This section applies to your purchase and use of any Paid Feature which is delivered to you as a subscription service ("Paid Subscription"). Paid Subscriptions may provide access to certain features, functionality or other benefits to further enhance your experience on our Services (for example, Snapchat+). 
+a. This section applies to your purchase and use of any Paid Feature which is delivered to you as a subscription service (“Paid Subscription”). Paid Subscriptions may provide access to certain features, functionality or other benefits to further enhance your experience on our Services (for example, Snapchat+). 
 
-b. Unless stated otherwise, Paid Subscriptions may be available on a monthly or an annual basis as set out on the order page. Monthly subscriptions start on the date of purchase and continue on a rolling monthly basis until cancelled in accordance with these Paid Features Terms. Annual subscriptions start on the date of purchase and continue for an initial fixed period of one year, renewing for additional periods of one year unless cancelled in accordance with these Paid Features Terms. Payments for each monthly or annual subscription period are payable at the start of the subscription period.
+b. Unless stated otherwise, Paid Subscriptions may be available on a monthly or an annual basis as set out on the order page. Monthly Subscriptions start on the date of purchase and continue on a rolling monthly basis until cancelled in accordance with these Paid Features Terms. Annual Subscriptions start on the date of purchase and continue for an initial fixed period of one year, renewing for additional periods of one year unless cancelled in accordance with these Paid Features Terms. Payments for each monthly or annual subscription period are payable at the start of the subscription period.
 
-c. Unless cancelled or terminated in accordance with these Paid Features Terms, you agree that your Paid Subscriptions will automatically renew for subsequent periods of the same length as the initial period of the subscription plan you selected at the point of purchase. You expressly authorise us or your Payment Provider to charge your selected initial payment method (e.g., credit card) automatically at the start of each renewal billing period at the then-current rates until your Paid Subscription is cancelled or terminated in accordance with these Paid Features Terms. The price at renewal will be the then-current price of the subscription, which will be notified to you prior to renewal. If your original payment method is declined when a renewal payment is requested, your Paid Subscription will be cancelled at the end of the then-current billing period. 
+c. Unless cancelled or terminated in accordance with these Paid Features Terms, you agree that your Paid Subscriptions will automatically renew for subsequent periods of the same length as the initial period of the subscription plan you selected at the point of purchase. You expressly authorise us or your Payment Provider to charge your selected initial payment method (e.g. credit card) automatically at the start of each renewal billing period at the then-current rates until your Paid Subscription is cancelled or terminated in accordance with these Paid Features Terms. The price at renewal will be the then-current price of the subscription, which will be notified to you prior to renewal. If your original payment method is declined when a renewal payment is requested, your Paid Subscription will be cancelled at the end of the then-current billing period. 
 
 d. **To avoid your Paid Subscription automatically renewing and incurring future subscription charges, you must cancel your Paid Subscription at any time before the date on which your subscription renews through your subscription settings in Snapchat or your SPECS account or through the cancellation process offered by the Purchase Provider you used to purchase the Paid Subscription.**
 
@@ -843,7 +843,7 @@ We may make digital content available for purchase through the Services. We will
 
 **6\. Promotions**
 
-a. We or our partners may occasionally offer access to Paid Features to you on a promotional basis (for example, without charge or at a discounted rate for a limited period of time) subject to you meeting certain eligibility requirements as determined by Snap or our partners ("Promotional Offer"). We may also make Promotional Offers available to you on the occurrence of certain events or by asking you to take certain actions. You agree that:
+a. We or our partners may occasionally offer access to Paid Features to you on a promotional basis (for example, without charge or at a discounted rate for a limited period of time) subject to you meeting certain eligibility requirements as determined by Snap or our partners (“Promotional Offer”). We may also make Promotional Offers available to you on the occurrence of certain events or by asking you to take certain actions. You agree that:
 
 *   any other limitations or conditions associated with a Promotional Offer will be determined by Snap or our partners in our sole discretion and made available to you either when activating or redeeming the Promotional Offer or in other communications from Snap or our partners describing the Promotional Offer;
     
@@ -942,9 +942,9 @@ United Kingdom, European Union and Norway:
 
 _Cancellation Rights_
 
-**Please note that the way you cancel and your cancellation rights may be different to those set out in this section if you have purchased your Paid Feature through a third-party Purchase Provider (e.g. an app store). In which case, your purchase will be subjected to their terms and conditions of purchase, so please read the cancellation instructions provided to you by your Purchase Provider carefully to ensure you understand how and when you may cancel.**
+**Please note that the way you cancel and your cancellation rights may be different to those set out in this section if you have purchased your Paid Feature through a third-party Purchase Provider (e.g. an app store). In which case, your purchase will be subject to their terms and conditions of purchase, so please read the cancellation instructions provided to you by your Purchase Provider carefully to ensure you understand how and when you may cancel.**
 
-If you are a consumer resident in the United Kingdom, the European Union or Norway, for most Paid Features you have a legal right to change your mind and cancel the contract for your purchase within 14 days from the date of your purchase (the "Cancellation Period"). For example, if you make a purchase on the 1st day of the month, the Cancellation Period ends at the end of the 15th day of the month. Please note that this legal right to cancel does not apply to all Paid Features. More details on the limitations and exclusions that apply can be found later on in this section.
+If you are a consumer resident in the United Kingdom, the European Union or Norway, for most Paid Features you have a legal right to change your mind and cancel the contract for your purchase within 14 days from the date of your purchase (the “Cancellation Period”). For example, if you make a purchase on the 1st day of the month, the Cancellation Period ends at the end of the 15th day of the month. Please note that this legal right to cancel does not apply to all Paid Features. More details on the limitations and exclusions that apply can be found later on in this section.
 
 To exercise your right to cancel, you must inform us of your decision by a clear statement, such as by email, post or through our online support page (see Section 14 for our contact details). You may use the cancellation form available below, but the easiest way to cancel is to follow the cancellation instructions provided in Snapchat or your SPECS account.
 
@@ -952,11 +952,11 @@ You do not have the right to change your mind and cancel the contract if: (i) yo
 
 Your legal right to cancel applies to Paid Features as follows:
 
-*   Paid Subscription: Snapchat+ and other Paid Subscriptions are digital services. You can cancel a Paid Subscription during the Cancellation Period. If you do so, you will receive a partial refund of the price you have paid for the subscription, which will be prorated based on how many days of use you have enjoyed during the relevant subscription period. For example, if you cancel seven days into a monthly subscription, we would refund you the monthly subscription fee you have paid less a sum equivalent to seven days' usage. If you live in the UK: (i) if you have an initial free trial or discounted period, a new Cancellation Period will apply when the subscription converts into a full-price Paid Subscription; and (ii) if you have an annual Paid Subscription, a new Cancellation Period will apply to any automatic annual renewals. In each case, the new Cancellation Period would begin on the day the full price subscription or renewal starts and would end 14 days later (e.g. if the start date is January 1, the end date is January 15).
+*   Paid Subscriptions: Snapchat+ and other Paid Subscriptions are digital services. You can cancel a Paid Subscription during the Cancellation Period. If you do so, you will receive a partial refund of the price you have paid for the subscription, which will be prorated based on how many days of use you have enjoyed during the relevant subscription period. For example, if you cancel seven days into a monthly subscription, we would refund you the monthly subscription fee you have paid less a sum equivalent to seven days’ usage. If you live in the UK: (i) if you have an initial free trial or discounted period, a new Cancellation Period will apply when the subscription converts into a full-price Paid Subscription; and (ii) if you have an annual Paid Subscription, a new Cancellation Period will apply to any automatic annual renewals. In each case, the new Cancellation Period would begin on the day the full price subscription or renewal starts and would end 14 days later (e.g. if the start date is January 1, the end date is January 15).
     
 *   Snapstreak Restores, Additional Lens Submissions, and similar digital services: A Snapstreak Restore is a service. It cannot be cancelled because the service (the reinstatement of your Snapstreak) is completed immediately following purchase. The same applies to other digital services that are fully completed immediately after purchase.
     
-*   Digital content: Digital content purchases cannot be cancelled. When you purchase digital content, you are consenting for us to start providing the digital content immediately.
+*   Digital content: Digital content purchases cannot be cancelled. When you purchase digital content you are consenting for us to start providing the digital content immediately.
     
 
 If you are entitled to a refund, we will pay the refund to you within 14 days of receiving notice of your cancellation using the same means of payment as you used for the initial transaction. 
@@ -981,23 +981,23 @@ Date
 
 \[\*\] Delete as appropriate
 
-Belgium (in addition to those set out under "United Kingdom, European Union and Norway" above):
+Belgium (in addition to those set out under “United Kingdom, European Union and Norway” above):
 
 Where the Paid Features Terms refer to Snap's right to immediately suspend, discontinue or terminate your access to a Paid Feature, without prior notice or liability to you, this will constitute a unilateral termination of our agreement with you without prior intervention of a court or tribunal.
 
-France (in addition to those set out under "United Kingdom, European Union and Norway" above):
+France (in addition to those set out under “United Kingdom, European Union and Norway” above):
 
 Pursuant to the Code de la Consommation, you are entitled to consumer mediation to resolve disputes between us. You may choose any of the mediators listed at [https://www.economie.gouv.fr/mediation-conso/vous-etes-un-professionnel/choisir-un-mediateur-de-la-consommation/mediateurs-references](https://www.economie.gouv.fr/mediation-conso/vous-etes-un-professionnel/choisir-un-mediateur-de-la-consommation/mediateurs-references) under “Commerce électronique - Vente à distance”. Their contact details are available at the individual mediator websites listed there.
 
-Germany (in addition to those set out under "United Kingdom, European Union and Norway" above):
+Germany (in addition to those set out under “United Kingdom, European Union and Norway” above):
 
-Nothing in these Paid Features Terms will affect your legal rights and remedies provided to you under mandatory German law, in particular the German law provisions on digital products and digital services pursuant to Section 327 pp. German Civil Code (BGB) and the provision on general Terms and Conditions pursuant to Sections 305 pp. German Civil Code (BGB) (each as amended or superseded from time to time). 
+Nothing in these Paid Features Terms will affect your legal rights and remedies provided to you under mandatory German law, in particular the German law provisions on digital products and digital services pursuant to Section 327 pp. German Civil Code (BGB) and the provision on general terms and conditions pursuant to Sections 305 pp. German Civil Code (BGB) (each as amended or superseded from time to time). 
 
-The Netherlands (in addition to those set out under "United Kingdom, European Union and Norway" above):
+The Netherlands (in addition to those set out under “United Kingdom, European Union and Norway” above):
 
-Nothing in these Paid Features Terms will affect the legal rights and remedies that you have and/or are available to you under mandatory Dutch law, including, without limitation, provisions regarding digital content and digital services pursuant to articles 7:50aa – 50 ap DCC and general Terms and Conditions pursuant to articles 6:231-247 DCC.
+Nothing in these Paid Features Terms will affect the legal rights and remedies that you have and/or are available to you under mandatory Dutch law, including, without limitation, provisions regarding digital content and digital services pursuant to articles 7:50aa – 50 ap DCC and general terms and conditions pursuant to articles 6:231-247 DCC.
 
-United Kingdom (in addition to those set out under "United Kingdom, European Union and Norway" above):
+United Kingdom (in addition to those set out under “United Kingdom, European Union and Norway” above):
 
 Nothing in this section or these Paid Features Terms affects your legal rights in relation to any Paid Features that do not meet the requirements of the contract or breach UK consumer laws such as the Consumer Rights Act 2015. This would be the case, for example, where they are defective or misdescribed. We are under a legal duty to provide Paid Features that conform with the contract. If you believe there is something wrong with any Paid Features you have purchased, please contact us using the contact details in Section 13. For detailed information about your consumer rights, please visit the Citizens Advice website at www.adviceguide.org.uk or call 0808 223 1133.
 
@@ -1128,44 +1128,44 @@ For general questions: [Snapchat Support](https://help.snapchat.com/hc/requests/
 
 We always love to hear from our users. But if you volunteer feedback or suggestions, just know that we can use your ideas without compensating you.
 
-الشركة
+Company
 
-*   [شركة سناب](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [الوظائف](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [الأخبار](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [الخصوصية والسلامة](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-المجتمع
+Community
 
-*   [دعم سناب شات](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [دعم Spectacles](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [تعليمات التواصل الاجتماعي](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-الإعلانات
+Advertising
 
-*   [إعلانات سناب شات](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [سياسات الإعلان](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [مكتبة الإعلانات السياسية](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [إرشادات العلامة التجارية](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [قواعد الترويج](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-الركن القانوني
+Legal
 
-*   [شروط وسياسات أخرى](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [إنفاذ القانون](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [(سياسة ملفات تعريف الارتباط (كوكيز](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [إعدادات ملفات تعريف الارتباط](https://www.snap.com/cookie-settings)
-*   [إبلاغ عن انتهاك حقوق](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Law enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Cookie Settings](https://www.snap.com/cookie-settings)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
 *   [](https://www.snap.com/)
 *   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 *   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [سياسة الخصوصية](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [شروط الخدمة](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
 
-*   اللغة
+*   Language
     
-    العربية
+    English (UK)
 
 - - -
 
@@ -1173,49 +1173,6 @@ PUBLIC CONTENT DISPLAY TERMS
 
 
 --------------------------------
-
-In these Public Content Display Terms, “Snap”, “we” and “us” means either Snap Inc. (if you live in the United States or if you are using the Services on behalf of a business located in the United States) or Snap Group Limited (if you live or are using the Services on behalf of a business located elsewhere). By embedding Snap’s audiovisual player or other product(s) that we make available to you (the “**Embed**”), you agree to these Public Content Display Terms, which incorporate by reference our [Terms of Service](https://www.snap.com/terms), [Privacy Policy](https://www.snap.com/privacy/privacy-policy), [Community Guidelines](https://www.snap.com/community-guidelines) and [Advertising Policies](https://www.snap.com/ad-policies) (collectively, and together with these Public Content Display Terms, the “**Terms**”). The Embed is one of our Services, as that term is defined in our Terms of Service and used throughout the Terms. Please read the Terms carefully. We may update or change the Terms at any time without notice, so please also read them regularly. By continuing to use the Service, you accept any updates to the Terms. To the extent these Public Content Display Terms conflict with other terms governing the Service, these Public Content Display Terms will apply.
-
-**TERMS OF SERVICE REMINDER AND ARBITRATION NOTICE**: AS A REMINDER TO OUR USERS THAT LIVE IN THE UNITED STATES AND BUSINESSES LOCATED IN THE UNITED STATES, OUR TERMS OF SERVICE – WHICH INCLUDE THE FOLLOWING SECTIONS: INDEMNITY; DISCLAIMERS; LIMITATION OF LIABILITY; AND ARBITRATION, CLASS-ACTION AND JURY WAIVER – APPLY TO AND ARE INCORPORATED INTO THESE PUBLIC CONTENT DISPLAY TERMS. THIS MEANS THAT, AMONG OTHER THINGS, EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN OUR TERMS OF SERVICE, YOU AND SNAP AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU AND SNAP WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
-
-1\. Licence
-
-Snap grants you a personal, worldwide, non-exclusive, royalty-free, non-transferable, non-sublicensable, revocable licence to (a) use the Embed on a website or mobile application in order to distribute Public Content (which is defined in our Terms of Service) and (b) display the Snapchat name and logo, solely to attribute the Snapchat application as the source of the Embed.
-
-All rights not expressly granted to you in this section are reserved by Snap. Nothing in these Terms grants you an implied licence of any kind.
-
-2\. General Terms
-
-By using the Embed, you will be able to display Public Content outside the Snapchat application. Whilst we provide this feature so that members of our community (including you) can share Public Content to a broader audience, you must comply with the following while using it:
-
-*   Always use the Embed and display Public Content in compliance with any branding or attribution requirements that we provide, including the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines).
-    
-*   As a reminder, your use of the Embed is still a use of Snapchat and must comply with our [Community Guidelines](https://www.snap.com/community-guidelines).
-    
-*   The licence we’ve granted you in these Public Content Display Terms does not include a licence to the third-party intellectual property or other proprietary rights that may be included in Public Content. You agree to obtain all necessary rights, permissions and licences before you use and distribute the Public Content on a website or mobile application using the Embed.
-    
-*   Always comply with any requirements or restrictions imposed on the use of Public Content by us or any other owner of the Public Content.
-    
-*   Promptly remove any Public Content and the related Embed that we – or the owner of the Public Content, if that isn’t us – ask you to remove.
-    
-*   Don’t use Public Content in any advertisement or advertising product without the explicit permission from the owner of the Public Content.
-    
-*   Don’t use the Embed or Public Content to imply sponsorship by, endorsement from or a false association with Snap, any of its users or third-party content providers.
-    
-*   Don’t collect data related to the Embed or Public Content or the Snapchat application in a manner which violates the Terms.
-    
-*   Always use the Embed and display Public Content in compliance with all applicable laws, rules and regulations.
-    
-*   Don’t use the Embed or Public Content on a website or mobile application with terms that conflict with the Terms.
-    
-*   Don’t use the Embed or Public Content in a way that indicates it is from a social platform or medium other than the Snapchat application.
-    
-*   Don’t use the Embed or Public Content to replicate or compete with the Snapchat application.
-    
-
-3\. Content appropriateness
-
-In addition to the disclaimers included in any of our other Terms, by displaying Public Content on a website or mobile application, you understand that Public Content is created by our users and may not be appropriate for all audiences or ages. As such, you agree that Snap is not liable for any claims based on or arising from Public Content.
 
 Company
 

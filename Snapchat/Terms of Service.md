@@ -718,44 +718,44 @@ If you live in the Asia-Pacific region or if your principal place of business is
 
 Otherwise, the company responsible for the Services outside the United States and the Asia-Pacific region is Snap Group Limited and is located in the United Kingdom at 50 Cowcross Street, Level 2, London, EC1M 6AL, United Kingdom. Registered company number: 09763672. VAT ID: GB 237218316.
 
-Şirket
+Company
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Kariyer](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Haberler](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Gizlilik ve Güvenlik](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-Topluluk
+Community
 
-*   [Snapchat Destek](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Spectacles Destek](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Topluluk İlkeleri](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-Reklam
+Advertising
 
-*   [Snapchat Reklamları](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Reklam Politikası](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Politik Reklamlar Kütüphanesi](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Marka Kuralları](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Promosyon Kuralları](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
-Yasal
+Legal
 
-*   [Diğer Şartlar ve Politikalar](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Yasaların Uygulanması](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Çerez Politikası](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Çerez Ayarları](https://www.snap.com/cookie-settings)
-*   [Hak İhlali Bildir](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Law enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Cookie Settings](https://www.snap.com/cookie-settings)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
 *   [](https://www.snap.com/)
 *   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 *   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Gizlilik Politikası](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Kullanım Şartları](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
 
-*   Dil
+*   Language
     
-    Türkçe
+    English (UK)
 
 - - -
 
@@ -1646,7 +1646,7 @@ Advertising
 Legal
 
 *   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Law enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 *   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
 *   [Cookie Settings](https://www.snap.com/cookie-settings)
 *   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
@@ -1659,7 +1659,7 @@ Legal
 
 *   Language
     
-    English (UK)
+    English (US)
 
 - - -
 

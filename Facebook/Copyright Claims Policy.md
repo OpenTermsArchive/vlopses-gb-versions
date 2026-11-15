@@ -1303,16 +1303,6 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-How do I report an ad?
-
-What is Brand Rights Protection?
-
-How do I report copyright infringement?
-
-How do I report trademark infringement?
-
-I have a different question
-
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 If you don't have access to Brand Rights Protection, and you believe that content on Facebook is infringing your intellectual property rights, you can report it to us through one of the following forms:
@@ -1363,13 +1353,6 @@ Related articles
 * * *](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2257,6 +2240,16 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
+What happens if my video is removed?
+
+What is Facebook copyright content?
+
+How do I check my email settings?
+
+How do I check my notification settings?
+
+I have a different question
+
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
 
 If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information that you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
@@ -2295,6 +2288,13 @@ Related articles
 * * *](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
 [Ask to edit or remove a video that you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

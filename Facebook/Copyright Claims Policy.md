@@ -756,7 +756,7 @@ Related articles
 
 [What to do if Facebook didn't remove content you reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 Related articles
 
@@ -776,7 +776,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1303,6 +1303,16 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
+How do I report an ad?
+
+What is Brand Rights Protection?
+
+How do I report copyright infringement?
+
+How do I report trademark infringement?
+
+I have a different question
+
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 If you don't have access to Brand Rights Protection, and you believe that content on Facebook is infringing your intellectual property rights, you can report it to us through one of the following forms:
@@ -1353,6 +1363,13 @@ Related articles
 * * *](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1623,16 +1640,6 @@ Resolve issues, make changes and get support in real time
 
 Copyright
 =========
-
-How do I report copyright infringement?
-
-How do I protect my copyrighted work?
-
-What is Facebook copyright policy?
-
-What are intellectual property tools?
-
-I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -2368,7 +2375,7 @@ Related articles
 
 [What to do if Facebook didn't remove content you reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 Related articles
 
@@ -2388,7 +2395,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2546,16 +2553,6 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-How do I contact Meta DMCA?
-
-How do I send a DMCA claim?
-
-What is Meta's DMCA agent address?
-
-How do I submit a complete copyright claim?
-
-I have a different question
-
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 
 If you wish to contact out designated agent via other (and slower) methods, you can contact:
@@ -2601,13 +2598,6 @@ Related articles
 * * *](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
 [Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 

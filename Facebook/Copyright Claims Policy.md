@@ -1400,11 +1400,11 @@ Related articles
 
 [Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
 
+[What to do if someone is harassing you in an app on Facebook](https://www.facebook.com/help/219438578084704/?helpref=related_articles)
+
 [Report content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
 [Tools Facebook provides to protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
-
-[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 Related articles
 
@@ -1416,15 +1416,15 @@ Related articles
 
 * * *](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
 
+[What to do if someone is harassing you in an app on Facebook
+
+* * *](https://www.facebook.com/help/219438578084704/?helpref=related_articles)
+
 [Report content on Facebook
 
 * * *](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
-[Tools Facebook provides to protect your intellectual property
-
-* * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
-
-[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+[Tools Facebook provides to protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1641,6 +1641,16 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
+How do I report copyright infringement?
+
+How do I protect my copyrighted work?
+
+What is Facebook copyright policy?
+
+What are intellectual property tools?
+
+I have a different question
+
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [US. Copyright Office](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.copyright.gov%2F) or the [World Intellectual Property Organisation (WIPO)](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html). Facebook can't provide you with legal advice, so you may want to speak with a lawyer if you have more questions about copyright.
@@ -1821,9 +1831,9 @@ Related articles
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
-
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Related articles
 
@@ -1839,11 +1849,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[How long does copyright protection last?
+[Where can I learn more about copyright?
 
-* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1883,23 +1893,19 @@ Related articles
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
-
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
 Related articles
 
 [How do you know if you own the copyright in a work
 
 * * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
-
-[How long does copyright protection last?
-
-* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [What is copyright and what does it protect?
 
@@ -1909,7 +1915,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[Where can I learn more about copyright?
+
+* * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2553,6 +2563,16 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+How do I contact Meta DMCA?
+
+How do I send a DMCA claim?
+
+What is Meta's DMCA agent address?
+
+How do I submit a complete copyright claim?
+
+I have a different question
+
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 
 If you wish to contact out designated agent via other (and slower) methods, you can contact:
@@ -2598,6 +2618,13 @@ Related articles
 * * *](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
 [Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2827,16 +2854,6 @@ Tools Facebook provides to protect your intellectual property
 
 Copy link
 
-Apply for Rights Manager
-
-Report copyright infringement
-
-Claim earnings from video
-
-How does content protection work?
-
-I have a different question
-
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we provide rights holders with tools to identify and take action on content posted to Facebook that may contain their copyrighted work. We provide tailored tooling specific to a content owner's demonstrated needs.
 
 Rights Manager
@@ -2898,10 +2915,3 @@ Related articles
 * * *](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
 
 [Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time

@@ -355,7 +355,7 @@ Tax Number: 37/132/45004
 
 Robert Gentz
 
-### **Legal Contact:**  
+### **Contact:**  
 
 Phone number: 02030598139  
 Telefax: +49 (0)30 / 2759 46 93  

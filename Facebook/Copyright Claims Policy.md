@@ -14,6 +14,16 @@ Intellectual property
 
 Copy link
 
+What is Facebook copyright?
+
+What is Facebook trademark?
+
+How do I report copyright violations?
+
+How do I report trademark violations?
+
+I have a different question
+
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -31,74 +41,6 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=hc_fnav)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=hc_fnav)
-
-Popular articles
-----------------
-
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
-
-[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
-
-[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=popular_articles)
-
-[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=popular_articles)
-
-Popular articles
-
-[What is copyright and what does it protect?
-
-* * *](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
-
-[What are fair use and other exceptions to copyright?
-
-* * *](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
-
-[Repeated intellectual property infringement on Facebook
-
-* * *](https://www.facebook.com/help/350712395302528/?helpref=popular_articles)
-
-[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=popular_articles)
-
-Related topics
---------------
-
-[Notifications
-
-Change what you get notifications about on Facebook and decide how you get them.](https://www.facebook.com/help/1036755649750898/?helpref=related_topics)
-
-[Your home page
-
-Learn how Feed works, control what you see in Feed and react to posts.](https://www.facebook.com/help/753701661398957/?helpref=related_topics)
-
-[Your privacy
-
-Learn how privacy settings help you connect and share with people that you know and trust.](https://www.facebook.com/help/238318146535333/?helpref=related_topics)
-
-[Notifications](https://www.facebook.com/help/1036755649750898/?helpref=related_topics)
-
-[Your home page](https://www.facebook.com/help/753701661398957/?helpref=related_topics)
-
-[Your privacy](https://www.facebook.com/help/238318146535333/?helpref=related_topics)
-
-*   [About](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2F%3Futm_source%3Dhelp-center%26utm_medium%3Dreferral)
-
-*   [Privacy](https://www.facebook.com/privacy/explanation/)
-
-*   [Terms and policies](https://www.facebook.com/policies/)
-
-*   [Ad choices](https://www.facebook.com/help/568137493302217/)
-
-*   [Careers](https://www.facebook.com/)
-
-*   [Cookies](https://www.facebook.com/policies/cookies/)
-
-*   [Create ad](https://www.facebook.com/business/)
-
-*   [Create Page](https://www.facebook.com/pages/creation/)
-
-* * *
-
-© 2026 Meta
 
 - - -
 
@@ -853,16 +795,6 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
-What happens if I repeatedly infringe?
-
-What is intellectual property?
-
-What happens to my Facebook account?
-
-What are Facebook feature limits?
-
-I have a different question
-
 By using Facebook, you agree to our [Terms of Service](https://www.facebook.com/terms). Our terms prohibit people from taking any action on Facebook that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Learn more about [intellectual property and what it protects](https://www.facebook.com/help/399224883474207?helpref=faq_content).
@@ -930,13 +862,6 @@ Related articles
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1078,14 +1003,6 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
-How do I report a Facebook username?
-
-What is Facebook trademark infringement?
-
-How do I contact the username owner?
-
-I have a different question
-
 [Usernames](https://www.facebook.com/help/105399436216001?helpref=faq_content) are generally claimed on a first-come, first-served basis. This means that you may see a Facebook Page or profile with a username that includes your trademark.
 
 While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. A word or phrase that is used in a different context may not violate your trademark. Learn more about [trademark infringement](https://www.facebook.com/help/349534658401968?helpref=faq_content) in our Help Centre.
@@ -1124,13 +1041,6 @@ Related articles
 * * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [Your username](https://www.facebook.com/help/1740158369563165/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 

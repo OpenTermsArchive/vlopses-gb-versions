@@ -166,19 +166,19 @@ Standard Shipping
 
 FREE on almost all orders
 
-6 - 13 business days
+6 - 15 business days
 
 Express Shipping
 
 £9.00
 
-4 - 7 business days
+4 - 9 business days
 
 Click & Collect
 
 FREE on almost all orders
 
-6 - 8 business days
+6 - 10 business days
 
 Thresholds may be adjusted in specific events or circumstances. The applicable thresholds are detailed before you submit your order.
 

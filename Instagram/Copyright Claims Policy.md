@@ -288,14 +288,6 @@ How do I know if I own the copyright in a work?
 
 Copy link
 
-What is copyright ownership?
-
-Who owns copyright in a work?
-
-What if I appear in a photo?
-
-I have a different question
-
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you are likely to own the copyright for that painting. Similarly, if you take a photo, you are likely to own the copyright for that photo.
 
 There may be situations where you might think you have a copyright in a creative work, but you may not. For example,
@@ -416,14 +408,6 @@ How long does copyright protection last?
 
 Copy link
 
-What is copyright protection?
-
-How long does copyright last?
-
-What is the public domain?
-
-I have a different question
-
 Copyright protection doesn't last forever. Eventually, a work loses copyright protection and becomes part of the "public domain". Once a work is in the public domain, it's freely available for anyone to use.
 
 A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures that copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright has expired.
@@ -485,56 +469,19 @@ Go back
 
 - - -
 
-The difference between copyright and trademark
-==============================================
+Log in to Instagram
 
-Copy link
+Mobile number, username or email address
 
-The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
+Password
 
-[Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works such as photos, videos, films and music. It's also important to note that, in the US, the Digital Millennium Copyright Act (DMCA) only applies to copyrights and doesn't apply to trademarks.
+Log in
 
-[Trademark law is](https://help.instagram.com/693466877515116?helpref=faq_content) meant to prevent consumer harm because it prohibits someone other than the rights owner from using a trademark (for example, a brand's logo) in a way that may confuse consumers. Trademark law protects brand names, slogans, logos or other symbols that help consumers identify the source of goods or services.
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F739368099602634%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-Related articles
-----------------
+Log in with Facebook
 
-[What are fair use and other exceptions to copyright?](https://help.instagram.com/116455299019699/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
-
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
-Related articles
-
-[What are fair use and other exceptions to copyright?
-
-* * *](https://help.instagram.com/116455299019699/?helpref=related_articles)
-
-[Are there any limits to trademark rights?
-
-* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[More about trademarks and what they protect
-
-* * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[What is trademark infringement?
-
-* * *](https://help.instagram.com/1904208239817294/?helpref=related_articles)
-
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F739368099602634%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
@@ -628,6 +575,14 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
+What is fair use of content?
+
+What are copyright exceptions?
+
+What are fair use factors?
+
+I have a different question
+
 Laws across the globe recognise that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the "fair use" doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else's copyrighted work within the limits set by the law.
@@ -696,6 +651,13 @@ Related articles
 * * *](https://help.instagram.com/1896184403962569/?helpref=related_articles)
 
 [Copyright](https://help.instagram.com/126382350847838/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -831,6 +793,76 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
+What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights
+=============================================================================================================================
+
+Copy link
+
+What is Instagram's repeat infringer policy?
+
+What happens to my Instagram account?
+
+How do I avoid Instagram copyright infringement?
+
+I have a different question
+
+By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
+
+Repeat Infringer Policy
+-----------------------
+
+If you repeatedly post content that infringes someone else's intellectual property rights, such as copyrights or trademarks, your account may be disabled or your Page removed under Instagram's repeat infringer policy.
+
+Under this policy, your ability to post photos or videos may be limited, and you could also lose access to certain features or functionality on Instagram or Threads. The actions taken under the policy may depend on the nature of the reported content and where it was posted.
+
+If something you posted is restored due to an appeal or because a rights owner withdrew their report, we'll take that restoration into account under our repeat infringer policy.
+
+Learn more about [what you can do if you believe your account was disabled by mistake](https://help.instagram.com/366993040048856?helpref=faq_content).
+
+Get more information on how to avoid copyright infringement when posting to Instagram or Threads in the [frequently asked questions article.](https://help.instagram.com/126382350847838?helpref=faq_content)
+
+Related articles
+----------------
+
+[Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?](https://help.instagram.com/244286600038698/?helpref=related_articles)
+
+[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://help.instagram.com/1445818549016877/?helpref=related_articles)
+
+[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
+
+[How to appeal the removal of content on Instagram or Threads for copyright reasons](https://help.instagram.com/1417735471763678/?helpref=related_articles)
+
+[How to make sure that the content you post to Instagram or Threads don't violate trademark law](https://help.instagram.com/1500571290191298/?helpref=related_articles)
+
+Related articles
+
+[Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?
+
+* * *](https://help.instagram.com/244286600038698/?helpref=related_articles)
+
+[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement
+
+* * *](https://help.instagram.com/1445818549016877/?helpref=related_articles)
+
+[Report intellectual property infringement on Threads
+
+* * *](https://help.instagram.com/1055435822080964/?helpref=related_articles)
+
+[How to appeal the removal of content on Instagram or Threads for copyright reasons
+
+* * *](https://help.instagram.com/1417735471763678/?helpref=related_articles)
+
+[How to make sure that the content you post to Instagram or Threads don't violate trademark law](https://help.instagram.com/1500571290191298/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
+- - -
+
 Log in to Instagram
 
 Mobile number, username or email address
@@ -839,147 +871,27 @@ Password
 
 Log in
 
-[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F1586774981367195%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F697328657009330%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D126382350847838)
 
 Log in with Facebook
 
-[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F1586774981367195%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F697328657009330%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D126382350847838)
 
 - - -
 
-How Instagram and Threads process United States Digital Millennium Copyright Act (DMCA) counter-notifications
-=============================================================================================================
+Log in to Instagram
 
-Copy link
+Mobile number, username or email address
 
-How do Instagram DMCA counter-notifications work?
+Password
 
-What happens after a DMCA counter-notification?
+Log in
 
-How long does a DMCA counter-notification take?
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F277982542336146%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D126382350847838)
 
-What is a DMCA counter-notification?
+Log in with Facebook
 
-I have a different question
-
-Instagram and Threads comply with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating US copyrights.
-
-If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the messages we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
-
-When we receive a valid DMCA counter-notification, we forward it to the party that reported the content. The information that they receive includes your contact information, which they can use to contact you. If we provide your counter-notification to the party that reported the content, and they don't notify us that they have filed a court action seeking an order to keep the content down, we will restore or cease disabling eligible content under the DMCA. This process can take up to 14 working days. Please note that, in rare instances, we may not be able to restore content due to technical limitations. If this happens, we'll send you an update letting you know that you may repost the content at your discretion.
-
-Content that is restored based on an effective DMCA counter-notification will not be counted against you under our repeat infringer policy.
-
-Related articles
-----------------
-
-[How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) designated agent](https://help.instagram.com/589322221078523/?helpref=related_articles)
-
-[How dispute settlement bodies work in the EU for Instagram and Threads](https://help.instagram.com/1399805013976109/?helpref=related_articles)
-
-[South Korea Network (False and Manipulated Information) Act on Instagram and Threads](https://help.instagram.com/2851274171891675/?helpref=related_articles)
-
-[Learn more about copyright on Instagram and Threads](https://help.instagram.com/650723219466129/?helpref=related_articles)
-
-[Singapore Online Safety (Relief and Accountability) Act on Instagram and Threads](https://help.instagram.com/1706693466938385/?helpref=related_articles)
-
-Related articles
-
-[How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) designated agent
-
-* * *](https://help.instagram.com/589322221078523/?helpref=related_articles)
-
-[How dispute settlement bodies work in the EU for Instagram and Threads
-
-* * *](https://help.instagram.com/1399805013976109/?helpref=related_articles)
-
-[South Korea Network (False and Manipulated Information) Act on Instagram and Threads
-
-* * *](https://help.instagram.com/2851274171891675/?helpref=related_articles)
-
-[Learn more about copyright on Instagram and Threads
-
-* * *](https://help.instagram.com/650723219466129/?helpref=related_articles)
-
-[Singapore Online Safety (Relief and Accountability) Act on Instagram and Threads](https://help.instagram.com/1706693466938385/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
-- - -
-
-*   [Privacy and reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
-*   [Report content on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
-
-Report copyright infringement on Instagram or Threads
-=====================================================
-
-Copy link
-
-How do I report Instagram copyright?
-
-How do I use Brand Rights Protection?
-
-How do I contact DMCA agent?
-
-Who can report copyright infringement?
-
-I have a different question
-
-If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
-
-*   You can report copyright infringement by [filling in this form](https://www.instagram.com/help/ipreporting/report/copyright/).
-*   You can report it to us by using [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright and counterfeit.
-*   You can contact our [designated agent](https://help.instagram.com/589322221078523?helpref=faq_content) under the notice and counter-notice procedures of the United States Digital Millennium Copyright Act (DMCA). If you contact our DMCA designated agent, please make sure that you include a complete copyright claim in your report.
-
-**Note:**
-
-*   Only the copyright owner or their authorised representative may file a report of copyright infringement. If you believe that something on Instagram or Threads infringes someone else's trademark, you may want to let the rights owner know.
-*   We regularly provide the rights owner's name, your email address and the details of your report to the person who posted the content that you are reporting. In the case that you are an authorised representative submitting a report, we provide the name of the organisation or client that owns the right in question. For this reason, you may wish to provide a valid generic business or professional email address.
-
-Related articles
-----------------
-
-[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
-
-[How to report potential copyright violations on Instagram or Threads](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
-[How to report trademark infringement on Instagram or Threads](https://help.instagram.com/1921828231475726/?helpref=related_articles)
-
-[Information that you need to include in a copyright report to Instagram or Threads](https://help.instagram.com/454257084652404/?helpref=related_articles)
-
-Related articles
-
-[What happens when you submit a copyright report to Instagram or Threads
-
-* * *](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-[Report intellectual property infringement on Threads
-
-* * *](https://help.instagram.com/1055435822080964/?helpref=related_articles)
-
-[How to report potential copyright violations on Instagram or Threads
-
-* * *](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
-[How to report trademark infringement on Instagram or Threads
-
-* * *](https://help.instagram.com/1921828231475726/?helpref=related_articles)
-
-[Information that you need to include in a copyright report to Instagram or Threads](https://help.instagram.com/454257084652404/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F277982542336146%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D126382350847838)
 
 - - -
 
@@ -987,16 +899,6 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
-
-What is intellectual property infringement?
-
-How do I report copyright infringement?
-
-What are Instagram copyright rules?
-
-What are the legal consequences?
-
-I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -1058,60 +960,19 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-Can I report an infringement of someone else's intellectual property on Instagram or Threads?
-=============================================================================================
+Log in to Instagram
 
-Copy link
+Mobile number, username or email address
 
-What is Instagram intellectual property?
+Password
 
-How do I report Instagram content?
+Log in
 
-How do I report Threads content?
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F625821030869776%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-I have a different question
+Log in with Facebook
 
-Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
-
-Related articles
-----------------
-
-[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
-
-[How to report trademark infringement on Instagram or Threads](https://help.instagram.com/1921828231475726/?helpref=related_articles)
-
-[What happens when you submit a trademark report to Instagram or Threads](https://help.instagram.com/843303212369793/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[Retract an intellectual property report that you've submitted to Instagram or Threads](https://help.instagram.com/275268756304020/?helpref=related_articles)
-
-Related articles
-
-[Report intellectual property infringement on Threads
-
-* * *](https://help.instagram.com/1055435822080964/?helpref=related_articles)
-
-[How to report trademark infringement on Instagram or Threads
-
-* * *](https://help.instagram.com/1921828231475726/?helpref=related_articles)
-
-[What happens when you submit a trademark report to Instagram or Threads
-
-* * *](https://help.instagram.com/843303212369793/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads
-
-* * *](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[Retract an intellectual property report that you've submitted to Instagram or Threads](https://help.instagram.com/275268756304020/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F625821030869776%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
@@ -1131,661 +992,195 @@ Log in with Facebook
 
 - - -
 
-*   [Privacy and reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
-*   [Report content on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
+Log in to Instagram
 
-Information that you need to include in a copyright report to Instagram or Threads
-==================================================================================
+Mobile number, username or email address
 
-Copy link
+Password
 
-What information do I need to include?
+Log in
 
-How do I find content URLs?
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F454257084652404%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-What happens to my contact information?
+Log in with Facebook
 
-I have a different question
-
-The fastest and easiest way to submit a claim of copyright infringement to us is to use our [online form](https://help.instagram.com/contact/372592039493026). Whether you submit your report through our online form or another method, Instagram and Threads need the following information to be able to process your report:
-
-*   Your complete contact information (full name, postal address and phone number)\*.
-*   A description of the content on our site that you claim infringes your copyright
-*   Information reasonably sufficient to permit us to locate the material on our site. The easiest way to do this is by providing web addresses (URLs) leading directly to the allegedly infringing content. Learn [how to find a URL](https://help.instagram.com/372819389498306?helpref=faq_content).
-*   A declaration that:
-    
-    *   you have a belief, based on good faith, that use of the copyrighted content described above, in the manner you have complained of, is not authorised by the copyright owner, its agent or the law;
-    *   The information in your notice is accurate.
-    *   under penalty of perjury, you are the owner or authorised to act on behalf of the owner of an exclusive copyright that has been allegedly infringed.
-    
-*   Your electronic signature or physical signature.
-
-\*Please note that we regularly provide your name, contact information and the contents of your report to the person who posted the content you are reporting. If you are an authorised representative submitting a report, we provide the name of the organisation or client that owns the right in question. You may wish to provide a professional or business email address for this reason.
-
-Related articles
-----------------
-
-[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-[Information that you need to include in a trademark report on Instagram or Threads](https://help.instagram.com/364771763628260/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[How to report potential copyright violations on Instagram or Threads](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
-[Instagram or Threads removed content as a result of your copyright report. What information is sent to the person who posted that content](https://help.instagram.com/585021874940806/?helpref=related_articles)
-
-Related articles
-
-[What happens when you submit a copyright report to Instagram or Threads
-
-* * *](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-[Information that you need to include in a trademark report on Instagram or Threads
-
-* * *](https://help.instagram.com/364771763628260/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads
-
-* * *](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[How to report potential copyright violations on Instagram or Threads
-
-* * *](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
-[Instagram or Threads removed content as a result of your copyright report. What information is sent to the person who posted that content](https://help.instagram.com/585021874940806/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F454257084652404%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
-*   [Privacy and reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
-*   [Report content on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
+Log in to Instagram
 
-Instagram or Threads removed content as a result of your copyright report. What information is sent to the person who posted that content
-=========================================================================================================================================
+Mobile number, username or email address
 
-Copy link
+Password
 
-How do I report copyright infringement?
+Log in
 
-How do I appeal a report?
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F585021874940806%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D126382350847838)
 
-What happens after a report?
+Log in with Facebook
 
-How can I protect my content?
-
-I have a different question
-
-When we receive copyright claims through our online form and remove the reported content, we typically provide the reported user with the following information.
-
-*   Report number
-*   Rights owner's name
-*   Email address provided by the reporting party
-*   Details of the report
-*   Instructions on how to submit an appeal
-
-The person whose content was removed may contact you with the information you provide. For this reason, you may want to provide a valid generic business or professional email address. In rare cases (such as when we are contacted by fax, post or email), we are only able to provide the report number and a description of the removed content. We may provide additional information if it's requested by the person who posted the reported content.
-
-Related articles
-----------------
-
-[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-[Instagram or Threads removed content as a result of your trademark report. What information is sent to the person who posted that content](https://help.instagram.com/576171622509150/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[How to appeal the removal of content on Instagram or Threads for copyright reasons](https://help.instagram.com/1417735471763678/?helpref=related_articles)
-
-[How to report potential copyright violations on Instagram or Threads](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
-Related articles
-
-[What happens when you submit a copyright report to Instagram or Threads
-
-* * *](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-[Instagram or Threads removed content as a result of your trademark report. What information is sent to the person who posted that content
-
-* * *](https://help.instagram.com/576171622509150/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads
-
-* * *](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[How to appeal the removal of content on Instagram or Threads for copyright reasons
-
-* * *](https://help.instagram.com/1417735471763678/?helpref=related_articles)
-
-[How to report potential copyright violations on Instagram or Threads](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F585021874940806%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D126382350847838)
 
 - - -
 
-This Page isn't available
--------------------------
+Log in to Instagram
 
-The link may be broken or the page may have been removed. Check to see if the link you're trying to open is correct.
+Mobile number, username or email address
 
-[Go to Help Centre home](https://help.instagram.com/)
+Password
 
-Go back
+Log in
 
-[Back to Meta](https://www.instagram.com/)
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F366993040573305%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D126382350847838)
 
-- - -
+Log in with Facebook
 
-*   [Privacy and reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
-*   [Report content on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
-
-What happens when you submit a copyright report to Instagram or Threads
-=======================================================================
-
-Copy link
-
-What happens after I submit a copyright report?
-
-How do I respond to a request for more information?
-
-What information is shared with the person who posted?
-
-I have a different question
-
-If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
-
-Sometimes, we might respond to your report and ask for more information. If you receive a message from our team asking for more information about your report, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
-
-Please note that we regularly provide the person who posted the content with the following information about your report:
-
-*   Report number
-*   Rights owner's name
-*   Email address provided by the reporting party
-*   Details of the report
-*   Instructions on how to submit an appeal
-
-The person whose content was removed may contact you with the information you provide. For this reason, you may want to provide a valid generic business or professional email address.
-
-Related articles
-----------------
-
-[Information that you need to include in a copyright report to Instagram or Threads](https://help.instagram.com/454257084652404/?helpref=related_articles)
-
-[What happens when you submit a trademark report to Instagram or Threads](https://help.instagram.com/843303212369793/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[How to report potential copyright violations on Instagram or Threads](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
-[What to consider before submitting an intellectual property infringement report to Instagram or Threads](https://help.instagram.com/1624041234305603/?helpref=related_articles)
-
-Related articles
-
-[Information that you need to include in a copyright report to Instagram or Threads
-
-* * *](https://help.instagram.com/454257084652404/?helpref=related_articles)
-
-[What happens when you submit a trademark report to Instagram or Threads
-
-* * *](https://help.instagram.com/843303212369793/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads
-
-* * *](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[How to report potential copyright violations on Instagram or Threads
-
-* * *](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
-[What to consider before submitting an intellectual property infringement report to Instagram or Threads](https://help.instagram.com/1624041234305603/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F366993040573305%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D126382350847838)
 
 - - -
 
-Retract an intellectual property report that you've submitted to Instagram or Threads
-=====================================================================================
+Log in to Instagram
 
-Copy link
+Mobile number, username or email address
 
-How do I withdraw an Instagram report?
+Password
 
-How do I cancel a Threads report?
+Log in
 
-What happens after I withdraw a report?
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F746718085394495%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D126382350847838)
 
-How do I withdraw a copyright report?
+Log in with Facebook
 
-I have a different question
-
-If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
-
-The best way to do that is to complete the retraction form provided to you in the email with reference to your report. Alternatively, you can submit [this form](https://help.instagram.com/contact/3373960976225657).
-
-Once we receive notice that you'd like to withdraw your report, we'll restore the content if it has already been removed and send you an email confirmation. Please note that we may be unable to restore the content in certain instances, including technical limitations or if the content was removed for other reasons unrelated to your intellectual property report.
-
-Related articles
-----------------
-
-[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
-
-[What happens when you submit a trademark report to Instagram or Threads](https://help.instagram.com/843303212369793/?helpref=related_articles)
-
-[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://help.instagram.com/1445818549016877/?helpref=related_articles)
-
-[What to consider before submitting an intellectual property infringement report to Instagram or Threads](https://help.instagram.com/1624041234305603/?helpref=related_articles)
-
-[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-Related articles
-
-[Report intellectual property infringement on Threads
-
-* * *](https://help.instagram.com/1055435822080964/?helpref=related_articles)
-
-[What happens when you submit a trademark report to Instagram or Threads
-
-* * *](https://help.instagram.com/843303212369793/?helpref=related_articles)
-
-[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement
-
-* * *](https://help.instagram.com/1445818549016877/?helpref=related_articles)
-
-[What to consider before submitting an intellectual property infringement report to Instagram or Threads
-
-* * *](https://help.instagram.com/1624041234305603/?helpref=related_articles)
-
-[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F746718085394495%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D126382350847838)
 
 - - -
 
-More about trademarks and what they protect
-===========================================
+Log in to Instagram
 
-Copy link
+Mobile number, username or email address
 
-What is a trademark?
+Password
 
-What do trademarks protect?
+Log in
 
-How do I report a trademark infringement?
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F275268756304020%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-I have a different question
+Log in with Facebook
 
-A trademark is a word, slogan, symbol or design (for example, a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it's used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether out shopping, watching ads on TV and so on.
-
-Generally, trademark law seeks to protect consumers from being confused about who provides, endorses or is affiliated with a particular product or service. To prevent this situation, a trademark owner may be able to stop others from using their trademark (or a similar trademark) without permission if that use may cause confusion.
-
-Not all terms are subject to trademark protection under the law. Protection depends on a variety of factors, including how unique, generic or descriptive the trademark is and the manner that it's used. For example, the term "Banana" may be protectable as a trademark to identify an electronics company, but perhaps not to describe a banana farm. In addition, many trademark owners obtain registrations for their trademarks under relevant law, but registration may not be necessary for a trademark to be protected.
-
-Please note that Instagram and Threads can't adjudicate disputes between third parties, and so we wouldn't be in a position to act on trademark reports that require an in-depth trademark analysis. This is also the case for trademark reports that appear to involve a real-world dispute that wouldn't be resolved by any action that Instagram or Threads could take. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means. If you're sure that you want to report content on Instagram or Threads that you believe infringes your trademark, you can do so by [completing this form](https://help.instagram.com/contact/372592039493026).
-
-Related articles
-----------------
-
-[Trademark](https://help.instagram.com/222826637847963/?helpref=related_articles)
-
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
-
-[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-Related articles
-
-[Trademark
-
-* * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
-
-[The difference between copyright and trademark
-
-* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
-[Are there any limits to trademark rights?
-
-* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[Does a trademark need to be registered to be protected?
-
-* * *](https://help.instagram.com/902013803270727/?helpref=related_articles)
-
-[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F275268756304020%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
-What is trademark infringement?
-===============================
+Log in to Instagram
 
-Copy link
+Mobile number, username or email address
 
-What is trademark infringement?
+Password
 
-When does trademark infringement occur?
+Log in
 
-What is likelihood of confusion?
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F693466877515116%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-What are limits to trademark rights?
+Log in with Facebook
 
-I have a different question
-
-Generally, trademark infringement occurs when:
-
-1.  A person uses a trademark owner's trademark (or similar trademark) without permission.
-2.  that person's use is in commerce, meaning that it's done in connection with the sale or promotion of goods or services; AND
-3.  That use is likely to confuse consumers about the source, endorsement or affiliation of the person's goods or services.
-
-The touchstone of trademark infringement is often "likelihood of confusion" and there are many factors that are considered to determine if a use of a trademark is likely to cause confusion. For example, when a person's trademark is also used by someone else, but on unrelated goods or services, that use may not be infringement because it may not cause confusion. Which party used the trademark first can often be an important consideration as well. There are also many [limits to trademark rights](https://help.instagram.com/752100651636285?helpref=faq_content), such as geographic limitations, as well as the ability for someone to use your trademark to lawfully comment on or criticise your goods or services.
-
-Please note that the law in different countries relating to trademark rights and trademark infringement can vary. If you're not sure if a particular use of a trademark would be considered infringement, you may want to consult a legal advisor.
-
-Related articles
-----------------
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[Trademark](https://help.instagram.com/222826637847963/?helpref=related_articles)
-
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
-[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-Related articles
-
-[Are there any limits to trademark rights?
-
-* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[More about trademarks and what they protect
-
-* * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[Trademark
-
-* * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
-
-[The difference between copyright and trademark
-
-* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
-[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F693466877515116%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
-Does a trademark need to be registered to be protected?
-=======================================================
+Log in to Instagram
 
-Copy link
+Mobile number, username or email address
 
-It depends. In the US, a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, amongst other things. For these reasons, trademark owners often obtain USPTO registrations.
+Password
 
-Outside the US, many other countries have adopted similar systems, including the ability for trademark owners to register their trademarks. Both in the US and in other countries, depending on the relevant laws, a trademark owner may still have certain rights without a registration. Typically, a trademark owner's rights without a registration (often known as common law rights) may be weaker than rights that are subject to a registration. Also, it's important to bear in mind that registering a company with a government office or getting a permit to do business in a specific country or state (for example, a business registration) usually doesn't itself create a trademark right.
+Log in
 
-Related articles
-----------------
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F1904208239817294%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
+Log in with Facebook
 
-[What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
-
-[How long does trademark protection last?](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-[More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
-Related articles
-
-[Are there any limits to trademark rights?
-
-* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[What is trademark infringement?
-
-* * *](https://help.instagram.com/1904208239817294/?helpref=related_articles)
-
-[How long does trademark protection last?
-
-* * *](https://help.instagram.com/349865072108966/?helpref=related_articles)
-
-[More about trademarks and what they protect
-
-* * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F1904208239817294%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
-What is the difference between a trademark registration and a business registration?
-====================================================================================
+Log in to Instagram
 
-Copy link
+Mobile number, username or email address
 
-What is a trademark registration?
+Password
 
-What is a business registration?
+Log in
 
-What is the USPTO?
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F902013803270727%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-I have a different question
+Log in with Facebook
 
-In some countries or states in the US, a business might be able to register with a government office, or obtain a permit or licence to do business in that country or state. These registrations, such as ones issued by a state's Secretary of State, generally aren't the same as a trademark registration, and may not themselves create trademark rights for the business. In the US, the registration that's frequently used to establish trademark ownership is one that is issued by the United States Patent and Trademark Office (USPTO).
-
-Related articles
-----------------
-
-[What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
-
-[Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
-Related articles
-
-[What is trademark infringement?
-
-* * *](https://help.instagram.com/1904208239817294/?helpref=related_articles)
-
-[Does a trademark need to be registered to be protected?
-
-* * *](https://help.instagram.com/902013803270727/?helpref=related_articles)
-
-[Are there any limits to trademark rights?
-
-* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[More about trademarks and what they protect
-
-* * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F902013803270727%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
-This Page isn't available
--------------------------
+Log in to Instagram
 
-The link may be broken or the page may have been removed. Check to see if the link you're trying to open is correct.
+Mobile number, username or email address
 
-[Go to Help Centre home](https://help.instagram.com/)
+Password
 
-Go back
+Log in
 
-[Back to Meta](https://www.instagram.com/)
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F346906112398235%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-- - -
+Log in with Facebook
 
-How long does trademark protection last?
-========================================
-
-Copy link
-
-What is trademark protection?
-
-How do I renew trademark registration?
-
-What happens if I stop using a trademark?
-
-I have a different question
-
-Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn't used properly, they might lose their trademark rights. Please also note that for trademarks that are registered with the United States Patent and Trademark Office (USPTO), issued registrations must be renewed periodically. The laws in other jurisdictions may vary.
-
-Related articles
-----------------
-
-[What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[The difference between copyright and trademark](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
-[Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
-
-Related articles
-
-[What is trademark infringement?
-
-* * *](https://help.instagram.com/1904208239817294/?helpref=related_articles)
-
-[Are there any limits to trademark rights?
-
-* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[More about trademarks and what they protect
-
-* * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[The difference between copyright and trademark
-
-* * *](https://help.instagram.com/739368099602634/?helpref=related_articles)
-
-[Does a trademark need to be registered to be protected?](https://help.instagram.com/902013803270727/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F346906112398235%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
-What is a counterfeit?
-======================
+Log in to Instagram
 
-Copy link
+Mobile number, username or email address
 
-How do I report counterfeit goods?
+Password
 
-What is a knock-off product?
+Log in
 
-How do I report counterfeit on Instagram?
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F606967612731648%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-I have a different question
+Log in with Facebook
 
-A counterfeit good is a knock-off or replica version of another company's product. It usually copies the trademark (name or logo) and/or distinctive features of that other company's product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognised as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F606967612731648%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-If you believe that content on Instagram or Threads is selling or promoting counterfeit goods, you can report it to us [by filling in this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright and counterfeit.
+- - -
 
-Related articles
-----------------
+Log in to Instagram
 
-[Learn more about counterfeit goods](https://help.instagram.com/492762895616247/?helpref=related_articles)
+Mobile number, username or email address
 
-[Trademark](https://help.instagram.com/222826637847963/?helpref=related_articles)
+Password
 
-[Information about objections and how you can object on Meta Products](https://help.instagram.com/2060335334241802/?helpref=related_articles)
+Log in
 
-[Opioid or substance misuse](https://help.instagram.com/560234841062056/?helpref=related_articles)
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F349865072108966%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-[More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
+Log in with Facebook
 
-Related articles
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F349865072108966%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-[Learn more about counterfeit goods
+- - -
 
-* * *](https://help.instagram.com/492762895616247/?helpref=related_articles)
+Log in to Instagram
 
-[Trademark
+Mobile number, username or email address
 
-* * *](https://help.instagram.com/222826637847963/?helpref=related_articles)
+Password
 
-[Information about objections and how you can object on Meta Products
+Log in
 
-* * *](https://help.instagram.com/2060335334241802/?helpref=related_articles)
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F499796697033328%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-[Opioid or substance misuse
+Log in with Facebook
 
-* * *](https://help.instagram.com/560234841062056/?helpref=related_articles)
-
-[More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F499796697033328%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
@@ -1856,56 +1251,19 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-The difference between copyright and trademark
-==============================================
+Log in to Instagram
 
-Copy link
+Mobile number, username or email address
 
-The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
+Password
 
-[Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works such as photos, videos, films and music. It's also important to note that, in the US, the Digital Millennium Copyright Act (DMCA) only applies to copyrights and doesn't apply to trademarks.
+Log in
 
-[Trademark law is](https://help.instagram.com/693466877515116?helpref=faq_content) meant to prevent consumer harm because it prohibits someone other than the rights owner from using a trademark (for example, a brand's logo) in a way that may confuse consumers. Trademark law protects brand names, slogans, logos or other symbols that help consumers identify the source of goods or services.
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F739368099602634%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-Related articles
-----------------
+Log in with Facebook
 
-[What are fair use and other exceptions to copyright?](https://help.instagram.com/116455299019699/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[More about trademarks and what they protect](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[What is trademark infringement?](https://help.instagram.com/1904208239817294/?helpref=related_articles)
-
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
-Related articles
-
-[What are fair use and other exceptions to copyright?
-
-* * *](https://help.instagram.com/116455299019699/?helpref=related_articles)
-
-[Are there any limits to trademark rights?
-
-* * *](https://help.instagram.com/752100651636285/?helpref=related_articles)
-
-[More about trademarks and what they protect
-
-* * *](https://help.instagram.com/693466877515116/?helpref=related_articles)
-
-[What is trademark infringement?
-
-* * *](https://help.instagram.com/1904208239817294/?helpref=related_articles)
-
-[What is the difference between a trademark registration and a business registration?](https://help.instagram.com/346906112398235/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F739368099602634%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
@@ -1973,35 +1331,137 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-Log in to Instagram
+Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?
+=================================================================================================================================================
 
-Mobile number, username or email address
+Copy link
 
-Password
+What happens after Instagram content is removed?
 
-Log in
+How do I appeal Instagram content removal?
 
-[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F244286600038698%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
+What is Instagram intellectual property infringement?
 
-Log in with Facebook
+I have a different question
 
-[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F244286600038698%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
+If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe that the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
+
+Appealing the removal of content
+--------------------------------
+
+If your content was removed because of a trademark report, you can submit an appeal. Instructions will be available for you in the notification you receive from us in your Facebook account.
+
+Learn more about [our appeals process](https://www.facebook.com/help/instagram/693680257839261?helpref=faq_content).
+
+Related articles
+----------------
+
+[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://help.instagram.com/1445818549016877/?helpref=related_articles)
+
+[What to do if Instagram didn't remove content that you reported](https://help.instagram.com/861685284411197/?helpref=related_articles)
+
+[What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights](https://help.instagram.com/1586774981367195/?helpref=related_articles)
+
+[How to appeal the removal of content on Instagram or Threads for trademark reasons](https://help.instagram.com/693680257839261/?helpref=related_articles)
+
+[Retract an intellectual property report that you've submitted to Instagram or Threads](https://help.instagram.com/275268756304020/?helpref=related_articles)
+
+Related articles
+
+[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement
+
+* * *](https://help.instagram.com/1445818549016877/?helpref=related_articles)
+
+[What to do if Instagram didn't remove content that you reported
+
+* * *](https://help.instagram.com/861685284411197/?helpref=related_articles)
+
+[What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights
+
+* * *](https://help.instagram.com/1586774981367195/?helpref=related_articles)
+
+[How to appeal the removal of content on Instagram or Threads for trademark reasons
+
+* * *](https://help.instagram.com/693680257839261/?helpref=related_articles)
+
+[Retract an intellectual property report that you've submitted to Instagram or Threads](https://help.instagram.com/275268756304020/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
-Log in to Instagram
+What happens if you repeatedly post content on Instagram or Threads that violates someone else's intellectual property rights
+=============================================================================================================================
 
-Mobile number, username or email address
+Copy link
 
-Password
+What is Instagram's repeat infringer policy?
 
-Log in
+What happens to my Instagram account?
 
-[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F1586774981367195%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
+How do I avoid Instagram copyright infringement?
 
-Log in with Facebook
+I have a different question
 
-[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F1586774981367195%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
+By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
+
+Repeat Infringer Policy
+-----------------------
+
+If you repeatedly post content that infringes someone else's intellectual property rights, such as copyrights or trademarks, your account may be disabled or your Page removed under Instagram's repeat infringer policy.
+
+Under this policy, your ability to post photos or videos may be limited, and you could also lose access to certain features or functionality on Instagram or Threads. The actions taken under the policy may depend on the nature of the reported content and where it was posted.
+
+If something you posted is restored due to an appeal or because a rights owner withdrew their report, we'll take that restoration into account under our repeat infringer policy.
+
+Learn more about [what you can do if you believe your account was disabled by mistake](https://help.instagram.com/366993040048856?helpref=faq_content).
+
+Get more information on how to avoid copyright infringement when posting to Instagram or Threads in the [frequently asked questions article.](https://help.instagram.com/126382350847838?helpref=faq_content)
+
+Related articles
+----------------
+
+[Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?](https://help.instagram.com/244286600038698/?helpref=related_articles)
+
+[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://help.instagram.com/1445818549016877/?helpref=related_articles)
+
+[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
+
+[How to appeal the removal of content on Instagram or Threads for copyright reasons](https://help.instagram.com/1417735471763678/?helpref=related_articles)
+
+[How to make sure that the content you post to Instagram or Threads don't violate trademark law](https://help.instagram.com/1500571290191298/?helpref=related_articles)
+
+Related articles
+
+[Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?
+
+* * *](https://help.instagram.com/244286600038698/?helpref=related_articles)
+
+[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement
+
+* * *](https://help.instagram.com/1445818549016877/?helpref=related_articles)
+
+[Report intellectual property infringement on Threads
+
+* * *](https://help.instagram.com/1055435822080964/?helpref=related_articles)
+
+[How to appeal the removal of content on Instagram or Threads for copyright reasons
+
+* * *](https://help.instagram.com/1417735471763678/?helpref=related_articles)
+
+[How to make sure that the content you post to Instagram or Threads don't violate trademark law](https://help.instagram.com/1500571290191298/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2021,60 +1481,19 @@ Log in with Facebook
 
 - - -
 
-Can I report an infringement of someone else's intellectual property on Instagram or Threads?
-=============================================================================================
+Log in to Instagram
 
-Copy link
+Mobile number, username or email address
 
-What is Instagram intellectual property?
+Password
 
-How do I report Instagram content?
+Log in
 
-How do I report Threads content?
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F625821030869776%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-I have a different question
+Log in with Facebook
 
-Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Instagram or Threads infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
-
-Related articles
-----------------
-
-[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
-
-[How to report trademark infringement on Instagram or Threads](https://help.instagram.com/1921828231475726/?helpref=related_articles)
-
-[What happens when you submit a trademark report to Instagram or Threads](https://help.instagram.com/843303212369793/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[Retract an intellectual property report that you've submitted to Instagram or Threads](https://help.instagram.com/275268756304020/?helpref=related_articles)
-
-Related articles
-
-[Report intellectual property infringement on Threads
-
-* * *](https://help.instagram.com/1055435822080964/?helpref=related_articles)
-
-[How to report trademark infringement on Instagram or Threads
-
-* * *](https://help.instagram.com/1921828231475726/?helpref=related_articles)
-
-[What happens when you submit a trademark report to Instagram or Threads
-
-* * *](https://help.instagram.com/843303212369793/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads
-
-* * *](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[Retract an intellectual property report that you've submitted to Instagram or Threads](https://help.instagram.com/275268756304020/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F625821030869776%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
@@ -2137,76 +1556,19 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-*   [Privacy and reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
-*   [Report content on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
+Log in to Instagram
 
-Information that you need to include in a copyright report to Instagram or Threads
-==================================================================================
+Mobile number, username or email address
 
-Copy link
+Password
 
-What information do I need to include?
+Log in
 
-How do I find content URLs?
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F454257084652404%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
-What happens to my contact information?
+Log in with Facebook
 
-I have a different question
-
-The fastest and easiest way to submit a claim of copyright infringement to us is to use our [online form](https://help.instagram.com/contact/372592039493026). Whether you submit your report through our online form or another method, Instagram and Threads need the following information to be able to process your report:
-
-*   Your complete contact information (full name, postal address and phone number)\*.
-*   A description of the content on our site that you claim infringes your copyright
-*   Information reasonably sufficient to permit us to locate the material on our site. The easiest way to do this is by providing web addresses (URLs) leading directly to the allegedly infringing content. Learn [how to find a URL](https://help.instagram.com/372819389498306?helpref=faq_content).
-*   A declaration that:
-    
-    *   you have a belief, based on good faith, that use of the copyrighted content described above, in the manner you have complained of, is not authorised by the copyright owner, its agent or the law;
-    *   The information in your notice is accurate.
-    *   under penalty of perjury, you are the owner or authorised to act on behalf of the owner of an exclusive copyright that has been allegedly infringed.
-    
-*   Your electronic signature or physical signature.
-
-\*Please note that we regularly provide your name, contact information and the contents of your report to the person who posted the content you are reporting. If you are an authorised representative submitting a report, we provide the name of the organisation or client that owns the right in question. You may wish to provide a professional or business email address for this reason.
-
-Related articles
-----------------
-
-[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-[Information that you need to include in a trademark report on Instagram or Threads](https://help.instagram.com/364771763628260/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[How to report potential copyright violations on Instagram or Threads](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
-[Instagram or Threads removed content as a result of your copyright report. What information is sent to the person who posted that content](https://help.instagram.com/585021874940806/?helpref=related_articles)
-
-Related articles
-
-[What happens when you submit a copyright report to Instagram or Threads
-
-* * *](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-[Information that you need to include in a trademark report on Instagram or Threads
-
-* * *](https://help.instagram.com/364771763628260/?helpref=related_articles)
-
-[Report copyright infringement on Instagram or Threads
-
-* * *](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[How to report potential copyright violations on Instagram or Threads
-
-* * *](https://help.instagram.com/144663955711336/?helpref=related_articles)
-
-[Instagram or Threads removed content as a result of your copyright report. What information is sent to the person who posted that content](https://help.instagram.com/585021874940806/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F454257084652404%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 - - -
 
@@ -2214,16 +1576,6 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
-
-What is intellectual property infringement?
-
-How do I report copyright infringement?
-
-What are Instagram copyright rules?
-
-What are the legal consequences?
-
-I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -2357,6 +1709,14 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
+What is fair use of content?
+
+What are copyright exceptions?
+
+What are fair use factors?
+
+I have a different question
+
 Laws across the globe recognise that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the "fair use" doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else's copyrighted work within the limits set by the law.
@@ -2426,21 +1786,87 @@ Related articles
 
 [Copyright](https://help.instagram.com/126382350847838/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
-Log in to Instagram
+Information that you need to include in a trademark report on Instagram or Threads
+==================================================================================
 
-Mobile number, username or email address
+Copy link
 
-Password
+What information do I include?
 
-Log in
+How do I find content URLs?
 
-[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F364771763628260%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
+What is a trademark report?
 
-Log in with Facebook
+I have a different question
 
-[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F364771763628260%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
+The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
+
+*   Your complete contact information (full name, postal address and phone number)\*.
+*   The specific word, symbol, etc. in which you claim trademark rights.
+*   The basis for your claim of trademark rights (such as a national or community registration), including registration number, if applicable.
+*   The country or jurisdiction in which you claim trademark rights.
+*   The category of goods and/or services for which you assert rights.
+*   Information reasonably sufficient to permit us to locate the material on Instagram or Threads that you believe violates your trademark rights. The easiest way to do this is by providing web addresses (URLs) leading directly to the allegedly infringing content. Learn [how to find a URL](https://help.instagram.com/372819389498306?helpref=faq_content).
+*   A description of how you believe this content infringes your trademark.
+*   If you are not the rights holder, an explanation of your relationship to the rights holder.
+*   A declaration that:
+    
+    *   You have a good faith belief that use of the trademark described above, in the manner you have complained of, is not authorised by the trademark owner, its agent or the law.
+    *   The information in your notice is accurate.
+    *   You declare, under penalty of perjury, that you are the owner or authorised to act on behalf of the owner of a trademark that is allegedly infringed.
+    
+*   Your electronic signature or physical signature.
+
+\*Please note that we regularly provide the rights owner's name, your email address and the details of your report to the person who posted the content you are reporting. This person may contact you with the information you provide. You may wish to provide a valid generic business or professional email address for this reason.
+
+Related articles
+----------------
+
+[How to report trademark infringement on Instagram or Threads](https://help.instagram.com/1921828231475726/?helpref=related_articles)
+
+[What happens when you submit a trademark report to Instagram or Threads](https://help.instagram.com/843303212369793/?helpref=related_articles)
+
+[Information that you need to include in a copyright report to Instagram or Threads](https://help.instagram.com/454257084652404/?helpref=related_articles)
+
+[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
+
+[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
+
+Related articles
+
+[How to report trademark infringement on Instagram or Threads
+
+* * *](https://help.instagram.com/1921828231475726/?helpref=related_articles)
+
+[What happens when you submit a trademark report to Instagram or Threads
+
+* * *](https://help.instagram.com/843303212369793/?helpref=related_articles)
+
+[Information that you need to include in a copyright report to Instagram or Threads
+
+* * *](https://help.instagram.com/454257084652404/?helpref=related_articles)
+
+[What happens when you submit a copyright report to Instagram or Threads
+
+* * *](https://help.instagram.com/746718085394495/?helpref=related_articles)
+
+[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2518,69 +1944,6 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-Retract an intellectual property report that you've submitted to Instagram or Threads
-=====================================================================================
-
-Copy link
-
-How do I withdraw an Instagram report?
-
-How do I cancel a Threads report?
-
-What happens after I withdraw a report?
-
-How do I withdraw a copyright report?
-
-I have a different question
-
-If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
-
-The best way to do that is to complete the retraction form provided to you in the email with reference to your report. Alternatively, you can submit [this form](https://help.instagram.com/contact/3373960976225657).
-
-Once we receive notice that you'd like to withdraw your report, we'll restore the content if it has already been removed and send you an email confirmation. Please note that we may be unable to restore the content in certain instances, including technical limitations or if the content was removed for other reasons unrelated to your intellectual property report.
-
-Related articles
-----------------
-
-[Report intellectual property infringement on Threads](https://help.instagram.com/1055435822080964/?helpref=related_articles)
-
-[What happens when you submit a trademark report to Instagram or Threads](https://help.instagram.com/843303212369793/?helpref=related_articles)
-
-[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement](https://help.instagram.com/1445818549016877/?helpref=related_articles)
-
-[What to consider before submitting an intellectual property infringement report to Instagram or Threads](https://help.instagram.com/1624041234305603/?helpref=related_articles)
-
-[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-Related articles
-
-[Report intellectual property infringement on Threads
-
-* * *](https://help.instagram.com/1055435822080964/?helpref=related_articles)
-
-[What happens when you submit a trademark report to Instagram or Threads
-
-* * *](https://help.instagram.com/843303212369793/?helpref=related_articles)
-
-[What to do if content that you posted on Instagram or Threads is removed because it was reported for intellectual property infringement
-
-* * *](https://help.instagram.com/1445818549016877/?helpref=related_articles)
-
-[What to consider before submitting an intellectual property infringement report to Instagram or Threads
-
-* * *](https://help.instagram.com/1624041234305603/?helpref=related_articles)
-
-[What happens when you submit a copyright report to Instagram or Threads](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
-- - -
-
 Log in to Instagram
 
 Mobile number, username or email address
@@ -2589,11 +1952,83 @@ Password
 
 Log in
 
-[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F576171622509150%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
+[Forgotten password?](https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fhelp.instagram.com%2F275268756304020%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
 
 Log in with Facebook
 
-[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F576171622509150%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
+[Create new account](https://help.instagram.com/accounts/emailsignup/?next=https%3A%2F%2Fhelp.instagram.com%2F275268756304020%2F%3Fhelpref%3Duf_permalink%26parent_cms_id%3D222826637847963)
+
+- - -
+
+*   [Privacy and reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
+*   [Report content on Instagram](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
+
+Instagram or Threads removed content as a result of your trademark report. What information is sent to the person who posted that content
+=========================================================================================================================================
+
+Copy link
+
+How do I report trademark infringement on Instagram?
+
+How do I report trademark infringement on Threads?
+
+How can I appeal removed content?
+
+What happens after a trademark report?
+
+I have a different question
+
+When we receive [trademark infringement reports](https://help.instagram.com/1921828231475726?helpref=faq_content) and remove the reported content, we provide the reported user with the following information:
+
+*   Report number
+*   Rights owner's name
+*   Email address provided by the reporting party
+*   Description of the rights owner's trademark(s)
+*   Description of the removed content
+
+In rare cases (such as when we are contacted by fax, post or email), we provide the report number and a description of the removed content. Instagram and Threads may provide additional information if it's requested by the person who posted the reported content.
+
+For any content that was removed based on US trademark rights, we will include instructions for how to appeal if the affected user believes the content should not have been removed.
+
+Related articles
+----------------
+
+[Instagram or Threads removed content as a result of your copyright report. What information is sent to the person who posted that content](https://help.instagram.com/585021874940806/?helpref=related_articles)
+
+[What happens when you submit a trademark report to Instagram or Threads](https://help.instagram.com/843303212369793/?helpref=related_articles)
+
+[Information that you need to include in a trademark report on Instagram or Threads](https://help.instagram.com/364771763628260/?helpref=related_articles)
+
+[How to report trademark infringement on Instagram or Threads](https://help.instagram.com/1921828231475726/?helpref=related_articles)
+
+[Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?](https://help.instagram.com/244286600038698/?helpref=related_articles)
+
+Related articles
+
+[Instagram or Threads removed content as a result of your copyright report. What information is sent to the person who posted that content
+
+* * *](https://help.instagram.com/585021874940806/?helpref=related_articles)
+
+[What happens when you submit a trademark report to Instagram or Threads
+
+* * *](https://help.instagram.com/843303212369793/?helpref=related_articles)
+
+[Information that you need to include in a trademark report on Instagram or Threads
+
+* * *](https://help.instagram.com/364771763628260/?helpref=related_articles)
+
+[How to report trademark infringement on Instagram or Threads
+
+* * *](https://help.instagram.com/1921828231475726/?helpref=related_articles)
+
+[Content that I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?](https://help.instagram.com/244286600038698/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

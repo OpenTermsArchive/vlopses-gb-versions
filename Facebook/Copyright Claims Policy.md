@@ -109,13 +109,6 @@ Facebook removed content as a result of my trademark report. What information is
 
 What tools does Facebook provide to help me enforce my intellectual property rights in advertisements and sale posts?
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -125,6 +118,14 @@ What are trademarks and what they protect
 =========================================
 
 Copy link
+
+What is a trademark?
+
+What do trademarks protect?
+
+How do trademarks work?
+
+I have a different question
 
 A trademark is a word, slogan, symbol or design (e.g. a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it's used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether shopping in stores or online, watching commercials on TV and so on.
 
@@ -168,6 +169,13 @@ Related articles
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -711,14 +719,6 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-What is intellectual property infringement?
-
-How do I appeal content removal?
-
-What happens to removed content?
-
-I have a different question
-
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
 If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification from Facebook that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
@@ -762,13 +762,6 @@ Related articles
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
 [How to request a review of removed Facebook content](https://www.facebook.com/help/2090856331203011/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2624,6 +2617,16 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
+What information do I need?
+
+How do I submit a copyright report?
+
+What happens after I report?
+
+What is copyright infringement?
+
+I have a different question
+
 The fastest and easiest way to submit a claim of copyright infringement on Facebook to us is to [report it](https://www.facebook.com/help/325058084212425?helpref=faq_content). Whether you submit your report through our online form or another method, Facebook needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, postal address and phone number)\*.
@@ -2672,6 +2675,13 @@ Related articles
 * * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 

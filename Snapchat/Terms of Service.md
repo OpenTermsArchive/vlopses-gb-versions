@@ -1174,44 +1174,87 @@ PUBLIC CONTENT DISPLAY TERMS
 
 --------------------------------
 
-Company
+In these Public Content Display Terms, “Snap”, “we” and “us” means either Snap Inc. (if you live in the United States or if you are using the Services on behalf of a business located in the United States) or Snap Group Limited (if you live or are using the Services on behalf of a business located elsewhere). By embedding Snap’s audiovisual player or other product(s) that we make available to you (the “**Embed**”), you agree to these Public Content Display Terms, which incorporate by reference our [Terms of Service](https://www.snap.com/terms), [Privacy Policy](https://www.snap.com/privacy/privacy-policy), [Community Guidelines](https://www.snap.com/community-guidelines) and [Advertising Policies](https://www.snap.com/ad-policies) (collectively, and together with these Public Content Display Terms, the “**Terms**”). The Embed is one of our Services, as that term is defined in our Terms of Service and used throughout the Terms. Please read the Terms carefully. We may update or change the Terms at any time without notice, so please also read them regularly. By continuing to use the Service, you accept any updates to the Terms. To the extent these Public Content Display Terms conflict with other terms governing the Service, these Public Content Display Terms will apply.
 
-*   [Snap Inc.](https://www.snap.com/)
-*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+**TERMS OF SERVICE REMINDER AND ARBITRATION NOTICE**: AS A REMINDER TO OUR USERS THAT LIVE IN THE UNITED STATES AND BUSINESSES LOCATED IN THE UNITED STATES, OUR TERMS OF SERVICE – WHICH INCLUDE THE FOLLOWING SECTIONS: INDEMNITY; DISCLAIMERS; LIMITATION OF LIABILITY; AND ARBITRATION, CLASS-ACTION AND JURY WAIVER – APPLY TO AND ARE INCORPORATED INTO THESE PUBLIC CONTENT DISPLAY TERMS. THIS MEANS THAT, AMONG OTHER THINGS, EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN OUR TERMS OF SERVICE, YOU AND SNAP AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU AND SNAP WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
 
-Community
+1\. Licence
 
-*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+Snap grants you a personal, worldwide, non-exclusive, royalty-free, non-transferable, non-sublicensable, revocable licence to (a) use the Embed on a website or mobile application in order to distribute Public Content (which is defined in our Terms of Service) and (b) display the Snapchat name and logo, solely to attribute the Snapchat application as the source of the Embed.
 
-Advertising
+All rights not expressly granted to you in this section are reserved by Snap. Nothing in these Terms grants you an implied licence of any kind.
 
-*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Advertising Policies](https://www.snap.com/ad-policies)
-*   [Political Ads Library](https://www.snap.com/political-ads)
-*   [Brand Guidelines](https://www.snap.com/brand-guidelines)
-*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+2\. General Terms
 
-Legal
+By using the Embed, you will be able to display Public Content outside the Snapchat application. Whilst we provide this feature so that members of our community (including you) can share Public Content to a broader audience, you must comply with the following while using it:
 
-*   [Other Terms & Policies](https://www.snap.com/policies)
-*   [Law enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Cookie Policy](https://www.snap.com/cookie-policy)
-*   [Cookie Settings](https://www.snap.com/cookie-settings)
-*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   Always use the Embed and display Public Content in compliance with any branding or attribution requirements that we provide, including the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines).
+    
+*   As a reminder, your use of the Embed is still a use of Snapchat and must comply with our [Community Guidelines](https://www.snap.com/community-guidelines).
+    
+*   The licence we’ve granted you in these Public Content Display Terms does not include a licence to the third-party intellectual property or other proprietary rights that may be included in Public Content. You agree to obtain all necessary rights, permissions and licences before you use and distribute the Public Content on a website or mobile application using the Embed.
+    
+*   Always comply with any requirements or restrictions imposed on the use of Public Content by us or any other owner of the Public Content.
+    
+*   Promptly remove any Public Content and the related Embed that we – or the owner of the Public Content, if that isn’t us – ask you to remove.
+    
+*   Don’t use Public Content in any advertisement or advertising product without the explicit permission from the owner of the Public Content.
+    
+*   Don’t use the Embed or Public Content to imply sponsorship by, endorsement from or a false association with Snap, any of its users or third-party content providers.
+    
+*   Don’t collect data related to the Embed or Public Content or the Snapchat application in a manner which violates the Terms.
+    
+*   Always use the Embed and display Public Content in compliance with all applicable laws, rules and regulations.
+    
+*   Don’t use the Embed or Public Content on a website or mobile application with terms that conflict with the Terms.
+    
+*   Don’t use the Embed or Public Content in a way that indicates it is from a social platform or medium other than the Snapchat application.
+    
+*   Don’t use the Embed or Public Content to replicate or compete with the Snapchat application.
+    
+
+3\. Content appropriateness
+
+In addition to the disclaimers included in any of our other Terms, by displaying Public Content on a website or mobile application, you understand that Public Content is created by our users and may not be appropriate for all audiences or ages. As such, you agree that Snap is not liable for any claims based on or arising from Public Content.
+
+الشركة
+
+*   [شركة سناب](https://www.snap.com/)
+*   [الوظائف](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [الأخبار](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [الخصوصية والسلامة](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+
+المجتمع
+
+*   [دعم سناب شات](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [دعم Spectacles](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [تعليمات التواصل الاجتماعي](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+
+الإعلانات
+
+*   [إعلانات سناب شات](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [سياسات الإعلان](https://www.snap.com/ad-policies)
+*   [مكتبة الإعلانات السياسية](https://www.snap.com/political-ads)
+*   [إرشادات العلامة التجارية](https://www.snap.com/brand-guidelines)
+*   [قواعد الترويج](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+
+الركن القانوني
+
+*   [شروط وسياسات أخرى](https://www.snap.com/policies)
+*   [إنفاذ القانون](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [(سياسة ملفات تعريف الارتباط (كوكيز](https://www.snap.com/cookie-policy)
+*   [إعدادات ملفات تعريف الارتباط](https://www.snap.com/cookie-settings)
+*   [إبلاغ عن انتهاك حقوق](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 
 *   [](https://www.snap.com/)
 *   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
 *   [Other Terms & Policies](https://www.snap.com/policies)
-*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
-*   [Terms of Service](https://www.snap.com/terms)
+*   [سياسة الخصوصية](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-GB)
+*   [شروط الخدمة](https://www.snap.com/terms)
 
-*   Language
+*   اللغة
     
-    English (UK)
+    العربية
 
 - - -
 

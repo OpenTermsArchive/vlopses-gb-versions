@@ -3,6 +3,14 @@ Terms of Use
 
 Copy link
 
+What is the Instagram Service?
+
+How is Instagram funded?
+
+What are Instagram's Privacy Policy terms?
+
+I have a different question
+
 We sent a notification in error about a Terms update. There are no changes to the current Terms and they still apply.
 
 Welcome to Instagram!  

@@ -958,16 +958,6 @@ Can I report an infringement of someone else's intellectual property on Facebook
 
 Copy link
 
-How do I report intellectual property?
-
-What is intellectual property?
-
-What is a copyright infringement?
-
-What is a trademark infringement?
-
-I have a different question
-
 Only an intellectual property rights owner or their authorised representative may report a suspected infringement. If you believe that content on Facebook infringes someone else's copyright or trademark rights, you may want to let the rights owner know.
 
 Related articles
@@ -1002,13 +992,6 @@ Related articles
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [Can I report a Facebook username for infringing my trademark?](https://www.facebook.com/help/1250304721728220/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
